@@ -9,7 +9,7 @@ notification: Our main website is under construction and we will be back with
 sections:
   - hero:
       title: i Light Singapore
-      subtitle: Hero subtitleAsia’s Leading Sustainable Light Festival held in Marina Bay
+      subtitle: Asia’s Leading Sustainable Light Festival held in Marina Bay
       background: /images/iLSGHEROBANNER(F).jpg
       dropdown:
         title: "Follow Us "
