@@ -12,18 +12,12 @@ sections:
       subtitle: Hero subtitleAsia’s Leading Sustainable Light Festival held in Marina Bay
       background: /images/iLSGHEROBANNER(F).jpg
       dropdown:
-        title: Instagram
-        options: []
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+        title: "Follow Us "
+        options:
+          - title: Instagram
+            url: https://www.instagram.com/ilightsingapore/
+          - title: Facebook
+            url: https://www.facebook.com/ilightsingapore
+          - title: TikTok
+            url: https://www.tiktok.com/@ilightsingapore
 ---
