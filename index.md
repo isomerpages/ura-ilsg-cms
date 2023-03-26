@@ -19,4 +19,5 @@ sections:
             url: https://www.facebook.com/ilightsingapore
           - title: TikTok
             url: https://www.tiktok.com/@ilightsingapore
+      background: /images/KVHeroBanner1920x720.jpg
 ---
