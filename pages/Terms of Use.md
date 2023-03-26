@@ -3,8 +3,6 @@ title: Terms of Use
 permalink: /terms-of-use/
 description: Terms of Use
 ---
-
-
 1 ACCEPTANCE OF TERMS   
 1.1        These Terms of Use apply to [https://www.ilightsingapore.gov.sg/](https://www.ilightsingapore.gov.sg/).  The site is produced, owned and operated by Urban Redevelopment Authority (“URA”). These Terms of Use also apply to the various services, including all information, communications, links, software, enewsletters, products, services, other materials and any and all other services that may be added, offered or provided to you from time to time (the “Services”) through this / these site(s) (the “Site’ which shall include the Services).  
 1.2        By accessing or using the Site, you agree to be legally bound by these Terms of Use.  
