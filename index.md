@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: i Light Singapore
+description: Asia’s Leading Sustainable Light Festival held in Marina Bay
 image: /images/isomer-logo.svg
 permalink: /
 notification: Our main website is under construction and we will be back with
@@ -21,3 +21,4 @@ sections:
           - title: TikTok
             url: https://www.tiktok.com/@ilightsingapore
 ---
+
