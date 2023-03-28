@@ -6,3 +6,20 @@ links:
     collection: example-folder
   - title: Festival Map
     url: /festival-map/
+  - title: About
+    url: /About
+    sublinks:
+      - title: THE FESTIVAL
+        url: /the-festival
+      - title: THE THEME
+        url: /the-theme
+      - title: MEDIA RELEASES
+        url: /media-releases
+      - title: ABOUT ORGANISER
+        url: /about-organiser
+      - title: ACKNOWLEDGEMENTS
+        url: /acknowledgements
+      - title: Submenu Title
+        url: /permalink
+      - title: FAQS
+        url: /faqs
