@@ -1,11 +1,5 @@
 logo: /images/iLightsg_Lockup(F)-240220-04.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Installations
-    collection: example-folder
-  - title: Festival Map
-    url: /festival-map/
   - title: About
     url: /About
     sublinks:
@@ -19,7 +13,18 @@ links:
         url: /about-organiser
       - title: ACKNOWLEDGEMENTS
         url: /acknowledgements
-      - title: Submenu Title
-        url: /permalink
       - title: FAQS
         url: /faqs
+  - title: Installations
+    collection: example-folder
+  - title: Festival Map
+    url: /festival-map/
+  - title: Contact Us
+    url: /contact-us/
+  - title: PROGRAMMES
+    url: /programmes
+    sublinks:
+      - title: "Lightwave: Turning the Tide"
+        url: /lightwave-turningthetide
+      - title: Gastrobeats
+        url: /gastrobeats
