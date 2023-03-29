@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Sponsor Acknowledgement.md
       - The Festival.md
       - The Theme.md
       - Media Releases.md
