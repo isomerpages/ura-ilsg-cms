@@ -3,8 +3,6 @@ title: Sponsor Acknowledgement
 permalink: /sponsoracknowledgement/
 description: ""
 ---
-
-
 <table\>  
   <tr\>  
     <th\>Company</th\>  
