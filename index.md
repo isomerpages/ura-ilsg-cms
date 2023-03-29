@@ -20,16 +20,4 @@ sections:
           - title: TikTok
             url: https://www.tiktok.com/@ilightsingapore
       background: /images/KVHeroBanner1920x720.jpg
-  - infopic:
-      subtitle: Acknowledgments
-      description: Special thanks to our ..
-      button: Find out more
-      image: /images/iLightsg_Lockup(F)-240220-04.png
-      alt: ilightsg logo
-      url: /findoutmore
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
 ---
