@@ -16,10 +16,10 @@ description: ""
 |![](/images/isomer-logo.svg)|![](/images/iLightsg_Lockup(F)-240220-04.png)| [![](/images/iLightsg_Lockup(F)-240220-04.png)](https://www.ilightsingapore.gov.sg/) |
 
 ```
-table 
-  tr
-    Company  
-		Contact
-		Country
+table; 
+  tr;
+    Company;  
+		Contact;
+		Country;
   /tr  
 ```
