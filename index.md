@@ -22,9 +22,11 @@ sections:
       background: /images/KVHeroBanner1920x720.jpg
   - infopic:
       subtitle: Acknowledgments
-      description: Infopic description
-      button: Button Text
+      description: Special thanks to our ..
+      button: Find out more
       image: /images/iLightsg_Lockup(F)-240220-04.png
+      alt: ilightsg logo
+      url: /findoutmore
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
