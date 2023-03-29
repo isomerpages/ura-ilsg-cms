@@ -24,7 +24,6 @@ description: ""
 
 
 
-| Image 1 | |   | 
+| Image 1 |  |   | 
 | -------- | -------- | -------- |
-|![](/images/iLightsg_Lockup(F)-240220-04.png)|![](/images/iLightsg_Lockup(F)-240220-04.png)|
-![](/images/iLightsg_Lockup(F)-240220-04.png)|
+|![](/images/iLightsg_Lockup(F)-240220-04.png)|[![](/images/iLightsg_Lockup(F)-240220-04.png)](https://www.ilightsingapore.gov.sg)|![](/images/iLightsg_Lockup(F)-240220-04.png)|
