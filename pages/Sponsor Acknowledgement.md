@@ -27,5 +27,3 @@ description: ""
 | Image 1 | image 2 | image3 |
 | -------- | -------- | -------- |
 |![](/images/iLightsg_Lockup(F)-240220-04.png) [Fullerton](https://www.ilightsingapore.gov.sg/)  | ![](/images/iLightsg_Lockup(F)-240220-04.png)| ![](/images/iLightsg_Lockup(F)-240220-04.png)|
-
-![https://www.ilightsingapore.gov.sg](/images/iLightsg_Lockup(F)-240220-04.png)
