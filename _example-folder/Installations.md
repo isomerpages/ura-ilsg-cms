@@ -29,8 +29,10 @@ National Technological University School of Art, Design and Media (Singapore)<br
 <b>Location:</b> South Beach Towers (beside Akira Back)
 
 ![](/images/Installations/philippartus_impression_landscape_ilsg23%20(512%20x%20384).jpg)
-<b>Bleached</b><br>
-Berenice Chao Zong Xin, Nicky Josephine Tjandra<br>
+<b>Bleached</b>
+
+Berenice Chao Zong Xin, Nicky Josephine Tjandra
+
 National Technological University School of Art, Design and Media (Singapore)
 
 <b>Location:</b> South Beach Towers (beside Akira Back)
