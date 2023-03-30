@@ -34,3 +34,8 @@ Berenice Chao Zong Xin, Nicky Josephine Tjandra<br>
 National Technological University School of Art, Design and Media (Singapore)
 
 <b>Location:</b> South Beach Towers (beside Akira Back)
+
+
+![](/images/Installations/philippartus_impression_landscape_ilsg23%20(1000%20x2000).jpg) 1000x2000
+
+![](/images/Installations/philippartus_impression_landscape_ilsg23%20(600%20x%20401).jpg) 600 x 401
