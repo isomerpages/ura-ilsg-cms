@@ -5,6 +5,8 @@ description: ""
 ---
 [![](/images/iLightsg_Lockup(F)-240220-04.png)](https://www.ilightsingapore.gov.sg/) 
 
+![](/images/isomer-logo.svg)
+
 
 | Major Sponsor|    |     |  |
 | -------- |  -------- |  -------- | -------- |
