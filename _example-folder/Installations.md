@@ -18,3 +18,10 @@ National Technological University School of Art, Design and Media (Singapore)
 Berenice Chao Zong Xin, Nicky Josephine Tjandra<br>
 National Technological University School of Art, Design and Media (Singapore)<br>
 <b>Location:</b> South Beach Towers (beside Akira Back)
+
+
+
+
+![](/images/Installations/Glacier%20Dreams%20Key%20visual%201%20(960%20x%20540).jpg)
+
+![](/images/Installations/Aquatics.jpg)
