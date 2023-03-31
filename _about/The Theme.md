@@ -30,7 +30,6 @@ description: ""
 
 
 
-
 | Sponsors |  |  | | 
 | -------- | -------- | -------- | -------- |
 | ![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(100%20x%2030).png) | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(100%20x%20__).png) | ![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(100%20x%2030).png) | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(100%20x%20__).png)| 
