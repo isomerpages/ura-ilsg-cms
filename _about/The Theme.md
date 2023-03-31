@@ -45,6 +45,10 @@ based on width 200 px
 
 1047x652 200 x150
 
+| Major Sponsor|     |  
+| -------- |  -------- |  
+|![](/images/Testing%20Sizes/stb%20(reworked).png)|![](/images/Testing%20Sizes/stb%20(reworked).png)|
+
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | ![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(100%20x%2030).png)     | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(100%20x%20__).png)     | ![](/images/Testing%20Sizes/acklogo%20stb%20-%20ilsg%20website%20(100%20x%2075).png)
