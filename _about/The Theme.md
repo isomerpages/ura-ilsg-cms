@@ -35,9 +35,9 @@ opening to a secondary tab
 
 |Sponsors|  |   | 
 | ----- | ----- | - |
-| ![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(200%20x%2060).png) | ![](/images/Testing%20Sizes/marinabay%20-%20ilsg%20website.png) | ![](/images/Testing%20Sizes/stb%20(reworked).png) |
+|![](/images/Testing%20Sizes/pico%20200%20x%20112.png)|![](/images/Testing%20Sizes/stb%20200%20x%20112.png)|![](/images/Testing%20Sizes/pico%20200%20x%20112.png) |
 
-based on width 200 px
+based on 200 x 112 px (white box) 
 
 
 
