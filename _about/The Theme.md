@@ -46,11 +46,12 @@ based on width 200 px
 | -------- |  -------- |  
 |![](/images/Testing%20Sizes/marina%20bay%20(reworked).png)|![](/images/Testing%20Sizes/stb%20(reworked).png)|
 
-1047x652 200 x150
+1047x652 200x150
 
 | Major Sponsor|     |  
 | -------- |  -------- |  
 |![](/images/Testing%20Sizes/stb%20(reworked).png)|![](/images/Testing%20Sizes/stb%20(reworked).png)|
+200x150
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
