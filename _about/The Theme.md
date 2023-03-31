@@ -56,7 +56,7 @@ based on width 200 px
 | Column 1 | | | |
 | -------- | -------- | -------- | ----- |
 |![](/images/Testing%20Sizes/stb%20(reworked).png)| ![](/images/Testing%20Sizes/stb%20(reworked).png)|  ![](/images/Testing%20Sizes/stb%20(reworked).png) |  ![](/images/Testing%20Sizes/stb%20(reworked).png) |
-
+(200 x 4)
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
