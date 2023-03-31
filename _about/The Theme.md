@@ -90,9 +90,9 @@ based on width 200 px
 138 x 50
 
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| ![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(200%20x%2060).png)     | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(200%20x%2073).png)     | ![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(200%20x%2060).png)     |
+| Column 1 | Column 2 | Column 3 |  | 
+| -------- | -------- | -------- | - | 
+| ![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(200%20x%2060).png)     | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(200%20x%2073).png)     | ![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(200%20x%2060).png)     | ![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(200%20x%2060).png)   
 
 200 px width
 
