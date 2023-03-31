@@ -51,6 +51,7 @@ based on width 200 px
 | Major Sponsor|     |  
 | -------- |  -------- |  
 |![](/images/Testing%20Sizes/stb%20(reworked).png)|![](/images/Testing%20Sizes/stb%20(reworked).png)|
+
 200x150
 
 | Major Sponsor |   |    |     |
