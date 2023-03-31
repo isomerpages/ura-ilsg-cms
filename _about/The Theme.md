@@ -32,7 +32,8 @@ description: ""
 
 | Sponsors |  |
 | -------- | -------- | 
-|![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(200%20x%2060).png)|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(200%20x%2073).png)|
+|![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(200%20x%2060).png)|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(200%20x%2073).png)|![](/images/Testing%20Sizes/acklogo%20stb%20-%20ilsg%20website%20(100%20x%2075).png)
+
 based on width 200 px
 
 
@@ -46,7 +47,7 @@ based on width 200 px
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-| ![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(100%20x%2030).png)     | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(100%20x%20__).png)     | ![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(100%20x%2030).png)     |
+| ![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(100%20x%2030).png)     | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(100%20x%20__).png)     | ![](/images/Testing%20Sizes/acklogo%20stb%20-%20ilsg%20website%20(100%20x%2075).png)
 
 100 px width
 
