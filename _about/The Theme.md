@@ -49,3 +49,10 @@ based on 138 x 50
 | -------- |  -------- |  -------- | -------- |
 |![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(200%20x%2060).png)|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(200%20x%2073).png)|![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(200%20x%2060).png)|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(200%20x%2073).png)|
 based on width 200 px
+
+
+| Major Sponsor|     |     |  |
+| -------- |  -------- |  -------- | -------- |
+|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(250x91).png)|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(138%20x%2050).png)|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(200%20x%2073).png)|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(83%20x%2030).png)|
+
+250x91  138x50 200x70 83x30
