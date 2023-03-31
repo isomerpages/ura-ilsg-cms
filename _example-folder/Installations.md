@@ -39,3 +39,5 @@ National Technological University School of Art, Design and Media (Singapore)
 ![](/images/Installations/philippartus_impression_landscape_ilsg23%20(1000%20x2000).jpg) 1000x2000
 
 ![](/images/Installations/philippartus_impression_landscape_ilsg23%20(600%20x%20401).jpg) 600 x 401
+
+![](/images/Installations/glacier%20dreams%20key%20visual%201%20(720%20x%20405).png) 720 x 405
