@@ -89,13 +89,6 @@ based on width 200 px
 
 138 x 50
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(100%20x%20__).png) | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(100%20x%20__).png) | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(100%20x%20__).png) |
-
-100 width all
-
-
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
