@@ -5,7 +5,8 @@ description: ""
 ---
 [![](/images/iLightsg_Lockup(F)-240220-04.png)](https://www.ilightsingapore.gov.sg/) 
 
-[![](/images/iLightsg_Lockup(F)-240220-04.png)](<a href="https://www.ilightsingapore.gov.sg/">https://www.ilightsingapore.gov.sg/</a>)
+<a href="https://www.ilightsingapore.gov.sg/">![](/images/iLightsg_Lockup(F)-240220-04.png)</a>
+opening to a secondary tab
 
 ![](/images/isomer-logo.svg)
 
