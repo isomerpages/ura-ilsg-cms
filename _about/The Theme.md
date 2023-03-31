@@ -29,24 +29,23 @@ description: ""
 [![](/images/Installations/Block%20Party.jpg)](/files/SNF%20Copywriting%20-%2022%20Mar.pdf)
 
 
-| Major Sponsor|    |     |   |
-| -------- |  -------- |  -------- | ------- |
+| Major Sponsor|    |     |  |
+| -------- |  -------- |  -------- | -------- |
 |![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(100%20x%2030).png)|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(100%20x%20__).png)|![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(100%20x%2030).png) |![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(100%20x%20__).png)| 
 based on 100px width 
 
 
-| Major Sponsor|    |     |    |
-| -------- |  -------- |  -------- | ----- | 
+| Major Sponsor|    |     |  |
+| -------- |  -------- |  -------- | -------- |
 |![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(83%20x%2030).png)|![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(100%20x%2030).png)|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(83%20x%2030).png)|![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(100%20x%2030).png)|
 based on 30 px
 
-| Major Sponsor|       |         |        |
-| -------- |  -------- |  -------- | ------- | 
+| Major Sponsor|    |     |  |
+| -------- |  -------- |  -------- | -------- |
 |![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(138%20x%2050).png)|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(138%20x%2050).png)|![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(138%20x%2050).png)|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(138%20x%2050).png)|
 based on 138 x 50
 
-| Major Sponsor|    |       |       |
-| -------- |  -------- |  -------- | ------- | 
+| Major Sponsor|     |     |  |
+| -------- |  -------- |  -------- | -------- |
 |![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(200%20x%2060).png)|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(200%20x%2073).png)|![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(200%20x%2060).png)|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(200%20x%2073).png)|
 based on width 200 px
-
