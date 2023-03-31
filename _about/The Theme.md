@@ -53,9 +53,10 @@ based on width 200 px
 |![](/images/Testing%20Sizes/stb%20(reworked).png)|![](/images/Testing%20Sizes/stb%20(reworked).png)|
 200x150
 
-| Column 1 | | | |
+| Major Sponsor |   |    |     |
 | -------- | -------- | -------- | ----- |
 |![](/images/Testing%20Sizes/stb%20(reworked).png)| ![](/images/Testing%20Sizes/stb%20(reworked).png)|  ![](/images/Testing%20Sizes/stb%20(reworked).png) |  ![](/images/Testing%20Sizes/stb%20(reworked).png) |
+
 (200 x 4)
 
 | Column 1 | Column 2 | Column 3 |
