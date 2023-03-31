@@ -102,7 +102,7 @@ based on 100x20 px width
 
 
 
-| Column 1 | Column 2 | Column 3 |
+| Column 1 | |  |
 | -------- | -------- | -------- |
 | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website.png) |![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website.png)   |![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website.png) |
 
