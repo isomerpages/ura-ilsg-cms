@@ -89,6 +89,11 @@ based on width 200 px
 
 138 x 50
 
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(100%20x%20__).png) | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(100%20x%20__).png) | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(100%20x%20__).png) |
+
+100 width all
 
 
 
@@ -100,17 +105,11 @@ based on width 200 px
 
 
 
-| Column 1 | | | |
-| -------- | -------- | -------- | ----- |
-| ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(250x91).png)     | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(200%20x%2073).png)     | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(138%20x%2050).png)     | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(100%20x%20__).png) |
-
-250x91  200x70 138x50 100x20
-
 | Column 1 | Column 2 | Column 3 | Column 4 |
 | -------- | -------- | -------- | ----- |
 | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(250x91).png)     | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(200%20x%2073).png)     | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(138%20x%2050).png)     | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(100%20x%20__).png) |
 
-
+250x91  200x70 138x50 100x20
 
 
 | Column 1        | Column 2          | Column 3        | 
