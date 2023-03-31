@@ -108,7 +108,7 @@ based on 100x20 px width
 
 
 | Column 1 | |  | | | | | | |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website.png) |![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website.png)   |![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website.png) | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website.png) | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website.png) | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website.png)| ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website.png)| ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website.png)|
+| -------- | -------- | -------- | -------- | -------- | -------- | -- | -----| ----|
+| ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(100%20x%20__).png)|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(100%20x%20__).png) |![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(100%20x%20__).png) | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website.png) | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website.png) | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website.png)| ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website.png)| ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website.png)|
 
 based on original sent by sponsor
