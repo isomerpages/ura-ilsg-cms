@@ -33,7 +33,7 @@ opening to a secondary tab
 
 
 
-|Sponsors|  |   | 
+| sponsors|  |   | 
 | ----- | ----- | - |
 |![](/images/Testing%20Sizes/pico%20200%20x%20112.png)|![](/images/Testing%20Sizes/stb%20200%20x%20112.png)|![](/images/Testing%20Sizes/pico%20200%20x%20112.png) |
 
