@@ -56,7 +56,7 @@ based on width 200 px
 | -------- | -------- | -------- |
 | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(83%20x%2030).png)     | ![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(100%20x%2030).png)     | ![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(83%20x%2030).png)     |
 
-30 px width
+30 px height
 
 
 
