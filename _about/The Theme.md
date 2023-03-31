@@ -56,3 +56,10 @@ based on width 200 px
 |![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(250x91).png)|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(138%20x%2050).png)|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(200%20x%2073).png)|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(83%20x%2030).png)|
 
 250x91  138x50 200x70 83x30
+
+
+| Major Sponsor|     |  
+| -------- |  -------- |  
+|![](/images/Testing%20Sizes/marina%20bay%20(reworked).png)|![](/images/Testing%20Sizes/stb%20(reworked).png)|
+
+1047x652 200 x150
