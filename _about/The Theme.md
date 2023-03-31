@@ -33,9 +33,9 @@ opening to a secondary tab
 
 
 
-| Sponsors |  |
-| -------- | -------- | 
-|![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(200%20x%2060).png)|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(200%20x%2073).png)|![](/images/Testing%20Sizes/acklogo%20stb%20-%20ilsg%20website%20(100%20x%2075).png)
+| Sponsors |  | | 
+| -------- | -------- | - |
+|![](/images/Testing%20Sizes/acklogo%20-%20ilsg%20website%20(200%20x%2060).png)|![](/images/Testing%20Sizes/logo_rgb%20-%20ilsg%20website%20(200%20x%2073).png)|![](/images/Testing%20Sizes/acklogo%20stb%20-%20ilsg%20website%20(100%20x%2075).png)|
 
 based on width 200 px
 
