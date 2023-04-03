@@ -99,7 +99,7 @@ based on 250 x 140 px (white box)
 
 |sponsors|      |       |  |
 | ---- | ---- | - | - |
-|![](/images/Testing%20Sizes/stb%20220%20x%20123.png) ![](/images/Testing%20Sizes/mbs%20220%20x%20123.png)|![](/images/Testing%20Sizes/stb%20220%20x%20123.png)|![](/images/Testing%20Sizes/pico%20220%20x%20123.png)|
+|![](/images/Testing%20Sizes/stb%20220%20x%20123.png)| ![](/images/Testing%20Sizes/mbs%20220%20x%20123.png)|![](/images/Testing%20Sizes/stb%20220%20x%20123.png)|![](/images/Testing%20Sizes/pico%20220%20x%20123.png)|
 
 (220x4)
 
