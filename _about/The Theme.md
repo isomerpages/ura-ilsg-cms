@@ -41,7 +41,11 @@ opening to a secondary tab
 
 based on 200 x 112 px (white box) 
 
+|sponsors|      |       | 
+| ---- | ---- | - |
+|![](/images/Testing%20Sizes/stb%20250%20x%20140.png)|![](/images/Testing%20Sizes/stb%20250%20x%20140.png)|![](/images/Testing%20Sizes/stb%20250%20x%20140.png)|
 
+based on 250 x 140 px (white box) 
 
 
 | Major Sponsor|     |  
@@ -61,6 +65,12 @@ based on 200 x 112 px (white box)
 |![](/images/Testing%20Sizes/stb%20(reworked).png)| ![](/images/Testing%20Sizes/stb%20(reworked).png)|  ![](/images/Testing%20Sizes/stb%20(reworked).png) |  ![](/images/Testing%20Sizes/stb%20(reworked).png) |
 
 (200 x 4)
+
+| Major Sponsor |   |    |     |
+| -------- | -------- | -------- | ----- |
+|![](/images/Testing%20Sizes/stb%20250%20x%20140.png)| ![](/images/Testing%20Sizes/stb%20250%20x%20140.png)| ![](/images/Testing%20Sizes/stb%20250%20x%20140.png) |![](/images/Testing%20Sizes/stb%20250%20x%20140.png) |
+
+(250 x 4)
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
