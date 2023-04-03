@@ -55,7 +55,7 @@ based on 220 x 123px (white box)
 
 |sponsors|      |       | 
 | ---- | ---- | - |
-|![](/images/Testing%20Sizes/stb%20230%20x%20129.png))|![](/images/Testing%20Sizes/pico%20230%20x%20129.png)|![](/images/Testing%20Sizes/stb%20230%20x%20129.png)|
+|![](/images/Testing%20Sizes/stb%20230%20x%20129.png)|![](/images/Testing%20Sizes/pico%20230%20x%20129.png)|![](/images/Testing%20Sizes/stb%20230%20x%20129.png)|
 
 based on 230 x 129px
 
@@ -105,7 +105,7 @@ based on 250 x 140 px (white box)
 
 |sponsors|      |       |  |
 | ---- | ---- | - |  - |
-|![](/images/Testing%20Sizes/stb%20230%20x%20129.png))|![](/images/Testing%20Sizes/stb%20230%20x%20129.png)|![](/images/Testing%20Sizes/stb%20230%20x%20129.png)|![](/images/Testing%20Sizes/pico%20230%20x%20129.png)|
+|![](/images/Testing%20Sizes/stb%20230%20x%20129.png)|![](/images/Testing%20Sizes/stb%20230%20x%20129.png)|![](/images/Testing%20Sizes/stb%20230%20x%20129.png)|![](/images/Testing%20Sizes/pico%20230%20x%20129.png)|
 
 (230x4)
 
