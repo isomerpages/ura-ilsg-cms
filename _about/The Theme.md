@@ -87,7 +87,7 @@ based on 250 x 140 px (white box)
 
 | Major Sponsor |   |    |     |
 | -------- | -------- | -------- | ----- |
-|![](/images/Testing%20Sizes/stb%20(reworked).png)| ![](/images/Testing%20Sizes/stb%20(reworked).png)|  ![](/images/Testing%20Sizes/stb%20(reworked).png) |  ![](/images/Testing%20Sizes/pico%20200%20x%20112.png) |
+|![](/images/Testing%20Sizes/stb%20(reworked).png)|![](/images/Testing%20Sizes/pico%20200%20x%20112.png)| ![](/images/Testing%20Sizes/mbs%20200%20x%20112.png)|  ![](/images/Testing%20Sizes/pico%20200%20x%20112.png)|
 
 (200 x 4)
 
