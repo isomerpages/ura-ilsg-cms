@@ -68,7 +68,7 @@ based on 240 x 134px
 
 |sponsors|      |       | 
 | ---- | ---- | - |
-|![](/images/Testing%20Sizes/stb%20250%20x%20140%201.png)|![](/images/Testing%20Sizes/stb%20250%20x%20140%201.png)|![](/images/Testing%20Sizes/stb%20250%20x%20140%201.png)|
+|![](/images/Testing%20Sizes/stb%20250%20x%20140%201.png)|![](/images/Testing%20Sizes/pico%20250%20x%20140.png)|![](/images/Testing%20Sizes/stb%20250%20x%20140%201.png)|
 
 based on 250 x 140 px (white box) 
 
@@ -117,7 +117,7 @@ based on 250 x 140 px (white box)
 
 | Major Sponsor |   |    |     |
 | -------- | -------- | -------- | ----- |
-|![](/images/Testing%20Sizes/stb%20250%20x%20140%201.png)|![](/images/Testing%20Sizes/mbs%20250%20x%20140.png)|![](/images/Testing%20Sizes/stb%20250%20x%20140%201.png)|![](/images/Testing%20Sizes/stb%20250%20x%20140%201.png)|
+|![](/images/Testing%20Sizes/stb%20250%20x%20140%201.png)|![](/images/Testing%20Sizes/mbs%20250%20x%20140.png)|![](/images/Testing%20Sizes/stb%20250%20x%20140%201.png)|![](/images/Testing%20Sizes/pico%20250%20x%20140.png)|
 
 (250 x 4)
 
