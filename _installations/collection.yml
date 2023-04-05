@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  installations:
     output: true
     order:
       - Installations.md
