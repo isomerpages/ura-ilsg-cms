@@ -23,10 +23,10 @@ links:
   - title: PROGRAMMES
     url: /programmes
     sublinks:
-      - title: "Lightwave: Turning the Tide"
-        url: /lightwave-turningthetide
-      - title: Gastrobeats
-        url: /gastrobeats
+      - title: "LIGHTWAVE: TURNING THE TIDE"
+        url: /programmes/lightwave-turningthetide
+      - title: GASTROBEATS
+        url: /programmes/gastrobeats
   - title: SUSTAINABILITY
     url: /sustainability
     sublinks:
