@@ -13,4 +13,10 @@ sections:
       background: /images/KVHeroBanner1920x720.jpg
       button: Instagram
       url: https://instagram.com/ilightsingapore
+  - infopic:
+      title: Acknowledgements
+      subtitle: Acknowledgements
+      description: Acknowledgements
+      image: /images/KVHeroBanner1920x720.jpg
+      alt: Image alt text
 ---
