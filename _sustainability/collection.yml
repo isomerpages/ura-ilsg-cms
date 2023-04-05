@@ -2,4 +2,5 @@ collections:
   sustainability:
     output: true
     order:
+      - I LIGHT I PLEDGE.md
       - SUSTAINABILITY.md
