@@ -2,5 +2,6 @@ collections:
   sustainability:
     output: true
     order:
+      - SWITCH OFF, TURN UP.md
       - I LIGHT I PLEDGE PRESENTED BY ALIBABA.md
       - SUSTAINABILITY.md
