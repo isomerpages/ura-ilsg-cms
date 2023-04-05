@@ -1,6 +1,6 @@
 logo: /images/iLightsg_Lockup(F)-240220-04.png
 links:
-  - title: About
+  - title: ABOUT
     url: /about/the-festival
     sublinks:
       - title: THE FESTIVAL
@@ -15,6 +15,11 @@ links:
         url: /sponsoracknowledgement
       - title: FAQS
         url: /faqs
+  - title: INSTALLATIONS
+    url: /installations
+    sublinks:
+      - title: Glacier Dreams
+        url: /installations/glacier-dreams
   - title: PROGRAMMES
     url: /programmes
     sublinks:
@@ -26,8 +31,3 @@ links:
     url: /festival-map/
   - title: Contact Us
     url: /contact-us/
-  - title: INSTALLATIONS
-    url: /installations
-    sublinks:
-      - title: Glacier Dreams
-        url: /installations/glacier-dreams
