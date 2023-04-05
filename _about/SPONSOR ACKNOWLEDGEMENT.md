@@ -12,7 +12,7 @@ description: ""
 	<tbody>
 		<tr>
 			<td colspan="1">
-				<img src="/images/Testing%20Sizes/pico%20250%20x%20140.png" height="140px" width="250px">
+				<img height="140" width="250" src="/images/Testing%20Sizes/pico%20250%20x%20140.png">
 			</td>
 			<td></td> <td></td>
 	</tr>
