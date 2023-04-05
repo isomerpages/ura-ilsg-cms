@@ -15,8 +15,6 @@ links:
         url: /sponsoracknowledgement
       - title: FAQS
         url: /faqs
-  - title: Installations
-    collection: installations
   - title: PROGRAMMES
     url: /programmes
     sublinks:
@@ -28,3 +26,8 @@ links:
     url: /festival-map/
   - title: Contact Us
     url: /contact-us/
+  - title: INSTALLATIONS
+    url: /installations
+    sublinks:
+      - title: Glacier Dreams
+        url: /installations/glacier-dreams
