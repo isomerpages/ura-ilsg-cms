@@ -7,14 +7,14 @@ links:
         url: /about/the-festival
       - title: THE THEME
         url: /about/the-theme
-      - title: MEDIA RELEASES
-        url: /about/media-releases
       - title: ABOUT ORGANISER
         url: /about/about-organiser
+      - title: FESTIVAL DIRECTOR MESSAGE
+        url: /about/festival-director-message
       - title: ACKNOWLEDGEMENTS
         url: /sponsoracknowledgement
-      - title: FAQS
-        url: /faqs
+      - title: MEDIA RELEASES
+        url: /about/media-releases
   - title: INSTALLATIONS
     url: /installations
     sublinks:
