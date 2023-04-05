@@ -12,23 +12,4 @@ description: ""
 	<tbody>
 		<tr>
 			<td colspan="1">
-				<img height="50" width="90" src="/images/Testing%20Sizes/pico%20250%20x%20140.png">
-			</td>
-			<td></td> <td></td>
-	</tr>
-	</tbody>
-</table>
-
-
-
-
-		
-
-
-
-
-
-
-| Image 1 |  |   | 
-| -------- | -------- | -------- |
-|![](/images/iLightsg_Lockup(F)-240220-04.png)|[![](/images/iLightsg_Lockup(F)-240220-04.png)](https://www.ilightsingapore.gov.sg)|![](/images/iLightsg_Lockup(F)-240220-04.png)|
+				</td></tr></tbody></table>
