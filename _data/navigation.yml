@@ -36,8 +36,8 @@ links:
         url: /sustainability/switch-off-turn-up
   - title: FESTIVAL MAP
     url: /festival-map/
-  - title: Contact Us
-    url: /contact-us/
   - title: FAQ
     url: /faqs
     sublinks: []
+  - title: Contact Us
+    url: /contact-us/
