@@ -16,7 +16,7 @@ links:
       - title: FAQS
         url: /faqs
   - title: Installations
-    collection: example-folder
+    collection: installations
   - title: Festival Map
     url: /festival-map/
   - title: Contact Us
