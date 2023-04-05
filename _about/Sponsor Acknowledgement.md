@@ -3,21 +3,26 @@ title: Sponsor Acknowledgement
 permalink: /sponsoracknowledgement/
 description: ""
 ---
-&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;Company  
-&nbsp;&nbsp;&nbsp;&nbsp;Contact  
-&nbsp;&nbsp;&nbsp;&nbsp;Country  
-&nbsp;&nbsp;  
-&nbsp;&nbsp;  
-&nbsp; &nbsp;&nbsp;Alfreds Futterkiste  
-&nbsp;&nbsp;&nbsp;&nbsp;Maria Anders  
-&nbsp;&nbsp;&nbsp;&nbsp;Germany  
-&nbsp;&nbsp;  
-&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;Centro comercial Moctezuma  
-&nbsp;&nbsp;&nbsp;&nbsp;Francisco Chang  
-&nbsp;&nbsp;&nbsp;&nbsp;Mexico  
-&nbsp;&nbsp;  
+<table>
+	<thead>
+	<tr>
+		<th colspan="4"> Presenting Sponsor </th>
+	</tr></thead>
+	
+	<tbody>
+		<tr>
+			<td colspan="1">
+				<img src="/images/Testing%20Sizes/pico%20250%20x%20140.png" size="75%">
+			</td>
+	</tr>
+	</tbody>
+</table>
+
+
+
+
+		
+
 
 
 
