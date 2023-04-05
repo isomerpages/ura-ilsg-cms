@@ -11,5 +11,5 @@ description: ""
 	
 	<tbody>
 		<tr>
-			<td colspan="1">
+			<td colspan="1"><img style="width:250px;height:140px;&quot;" src="images/Testing%20Sizes/pico%20250%20x%20140.png">
 				</td></tr></tbody></table>
