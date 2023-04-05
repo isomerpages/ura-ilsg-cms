@@ -17,10 +17,6 @@ links:
         url: /faqs
   - title: Installations
     collection: installations
-  - title: Festival Map
-    url: /festival-map/
-  - title: Contact Us
-    url: /contact-us/
   - title: PROGRAMMES
     url: /programmes
     sublinks:
@@ -28,3 +24,7 @@ links:
         url: /lightwave-turningthetide
       - title: Gastrobeats
         url: /gastrobeats
+  - title: Festival Map
+    url: /festival-map/
+  - title: Contact Us
+    url: /contact-us/
