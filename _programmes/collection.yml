@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - LIGHT FORUM.md
       - GASTROBEATS.md
       - PROGRAMMES.md
       - "LIGHTWAVE: TURNING THE TIDE.md"
