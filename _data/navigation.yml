@@ -27,10 +27,6 @@ links:
         url: /lightwave-turningthetide
       - title: Gastrobeats
         url: /gastrobeats
-  - title: Festival Map
-    url: /festival-map/
-  - title: Contact Us
-    url: /contact-us/
   - title: SUSTAINABILITY
     url: /sustainability
     sublinks:
@@ -38,3 +34,7 @@ links:
         url: /sustainability/ilightipledge
       - title: SWITCH OFF, TURN UP
         url: /sustainability/switch-off-turn-up
+  - title: FESTIVAL MAP
+    url: /festival-map/
+  - title: Contact Us
+    url: /contact-us/
