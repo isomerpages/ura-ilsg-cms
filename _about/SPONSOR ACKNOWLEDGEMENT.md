@@ -6,7 +6,7 @@ description: ""
 <table>
 	<thead>
 	<tr>
-		<th colspan="1"> Presenting Sponsor </th>
+		<th colspan="4"> Presenting Sponsor </th>
 	</tr></thead>
 	
 	<tbody>
