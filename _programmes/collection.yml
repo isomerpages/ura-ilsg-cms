@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - GASTROBEATS.md
       - PROGRAMMES.md
       - "LIGHTWAVE: TURNING THE TIDE.md"
