@@ -38,3 +38,6 @@ links:
     url: /festival-map/
   - title: Contact Us
     url: /contact-us/
+  - title: FAQ
+    url: /faqs
+    sublinks: []
