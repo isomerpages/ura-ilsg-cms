@@ -10,14 +10,7 @@ sections:
   - hero:
       title: i Light Singapore
       subtitle: Asia’s Leading Sustainable Light Festival held in Marina Bay
-      dropdown:
-        title: "Follow Us "
-        options:
-          - title: Instagram
-            url: https://www.instagram.com/ilightsingapore/
-          - title: Facebook
-            url: https://www.facebook.com/ilightsingapore
-          - title: TikTok
-            url: https://www.tiktok.com/@ilightsingapore
       background: /images/KVHeroBanner1920x720.jpg
+      button: Instagram
+      url: https://instagram.com/ilightsingapore
 ---
