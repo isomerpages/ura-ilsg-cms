@@ -4,7 +4,7 @@ permalink: /sponsoracknowledgement/
 description: ""
 ---
 <table>
-	<style>width:100%; height:100%</style>
+ <style>width:300px; height:169px</style>
 <tbody><tr></tr></tbody><thead><tr><th colspan="4"><p style="font-size: 16px; line-height: 15px"> Presenting Sponsor</p></th>
 	</tr></thead>
 	<tbody>
