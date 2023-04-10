@@ -13,7 +13,7 @@ description: ""
 </table>
 ^self coded table without table line
 
-<table style="width:200%">
+<table style="width:100%">
 <thead><tr><th colspan="5"><p style="font-size: 16px; line-height: 20px"> Presenting Sponsor</p></th>
 	</tr></thead>
 	<tbody>
