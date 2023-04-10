@@ -33,17 +33,17 @@ description: ""
 	</tr></thead>
 	<tbody>
 		<tr>
-			<td style="width:20%"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
-			<td style="width:20%"><img align="left" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png"></td><td style="width:60%">
+			<td style="width:25%"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
+			<td style="width:25%"><img align="left" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png"></td><td style="width:50%">
 		</td></tr>
 	</tbody></table>
 
 <table>
 <tbody>
 		<tr>
-			<td style="width:20%"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
-			<td style="width:20%"><img align="left" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png"></td>
-			<td style="width:20%"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td><td style="width:40%">
+			<td style="width:25%"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
+			<td style="width:25%"><img align="left" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png"></td>
+			<td style="width:25%"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td><td style="width:25%">
 		</td></tr>
 	</tbody>
 </table>
