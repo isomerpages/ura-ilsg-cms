@@ -10,4 +10,5 @@ National Technological University School of Art, Design and Media (Singapore)<br
 <b>Location:</b> South Beach Towers (beside Akira Back)</p>
 
 
-Artist Profile Picture 
+<p style="font-size:17px; line-height:40px">Artist Profile Picture
+</p>
