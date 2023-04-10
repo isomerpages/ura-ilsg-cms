@@ -40,9 +40,9 @@ without
 				
 | Column a1| | |
 | -------- | -------- | -------- | 
-| <img style="width:250px;height:140px;" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"> |  <img style="width:250px;height:140px;" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png">  | <style>width:250px</style>  | 
+| <img style="width:250px;height:140px;" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"> |  <img style="width:250px;height:140px;" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png">  |  &nbsp; | 
 
-^ with width and height control + empty column of 250px 
+^ with width and height control + empty column 
 
 | Column a1| | |
 | -------- | -------- | -------- | 
