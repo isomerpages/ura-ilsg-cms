@@ -2,6 +2,7 @@ collections:
   installations:
     output: true
     order:
+      - JUN ONG.md
       - BLEACHED.md
       - AQUATICS.md
       - TRUMPET FLOWERS.md
