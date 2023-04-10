@@ -30,8 +30,14 @@ without
 				
 | Column a1| | |
 | -------- | -------- | -------- | 
-| <img src="/images/Testing%20Sizes/pico%20250%20x%20140.png" style="width:250px;height:140px;"> |  <img src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png" style="width:250px;height:140px;">  |      | 
+| <img src="/images/Testing%20Sizes/pico%20250%20x%20140.png" style="width:250px;height:140px;"> |  <img src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png" style="width:250px;height:140px;">  | <style>width:250px</style>  | 
 
+^ with width and height control + empty column of 250px 
+
+| Column a1| | |
+| -------- | -------- | -------- | 
+| <img src="/images/Testing%20Sizes/pico%20250%20x%20140.png" style="width:250px;height:140px;"> |  <img src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png" style="width:250px;height:140px;">  |  | 
+without empty last column
 
 | Column 1 | | | |
 | -------- | -------- | -------- | ---- |
