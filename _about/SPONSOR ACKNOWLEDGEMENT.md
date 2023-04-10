@@ -37,7 +37,7 @@ description: ""
 			<td colspan="1"><img style="width:250px;height:140px;" align="left" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png"></td>
 		</tr>
 	</tbody></table>
-	<br>
+
 <table>
 <tbody>
 		<tr>
