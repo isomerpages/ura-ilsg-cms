@@ -4,6 +4,7 @@ permalink: /installations/
 description: ""
 ---
 [![](/images/Installations/Bleached.jpg)](/installations/glacier-dreams) 
-**Bleached** Berenice Chao Zong Xin, Nicky Josephine Tjandra
+<p style="font-size:17px; line-height:40px">
+<b>Bleached</b><br> Berenice Chao Zong Xin, Nicky Josephine Tjandra<br>
 National Technological University School of Art, Design and Media (Singapore)
-**Location:** South Beach Towers (beside Akira Back)
+	<br><b>Location:</b> South Beach Towers (beside Akira Back)</p>
