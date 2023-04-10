@@ -3,12 +3,12 @@ title: SPONSOR ACKNOWLEDGEMENT
 permalink: /sponsoracknowledgement/
 description: ""
 ---
-<table style="width:50%">
+<table>
 <tbody><tr><th colspan="5"><p style="font-size: 16px; line-height: 20px">Presenting Sponsor</p></th>
 </tr></tbody><tbody>
 		<tr>
-			<td><img style="width:250px;height:140px;" align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
-		</tr>
+			<td style="width:20%"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td><td style="width:80%">
+		</td></tr>
 	</tbody>
 </table>
 ^self coded table without table line
@@ -18,11 +18,11 @@ description: ""
 	</tr></thead>
 	<tbody>
 		<tr>
-			<td style="width:20%"><img style="width:250px;" align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
-			<td style="width:20%"><img style="width:250px;" align="left" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png"></td>
-			<td style="width:20%"><img style="width:250px;;" align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
-			<td style="width:20%"><img style="width:250px;" align="left" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png"></td>
-	<td style="width:20%"><img style="width:250px" align="left" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png"></td>
+			<td style="width:20%"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
+			<td style="width:20%"><img align="left" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png"></td>
+			<td style="width:20%"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
+			<td style="width:20%"><img align="left" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png"></td>
+	<td style="width:20%"><img align="left" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png"></td>
 		</tr>
 	</tbody>
 </table>
@@ -33,21 +33,26 @@ description: ""
 	</tr></thead>
 	<tbody>
 		<tr>
-			<td style="width:10%"><img style="width:250px" align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
-			<td style="width:10%"><img style="width:250px" align="left" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png"></td>
-		</tr>
+			<td style="width:20%"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
+			<td style="width:20%"><img align="left" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png"></td><td style="width:60%">
+		</td></tr>
 	</tbody></table>
 
 <table>
 <tbody>
 		<tr>
-			<td style="width:25%"><img style="width:250px" align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
-			<td style="width:25%"><img style="width:250px" align="left" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png"></td>
-			<td style="width:25%"><img style="width:250px" align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
-		</tr>
+			<td style="width:20%"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
+			<td style="width:20%"><img align="left" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png"></td>
+			<td style="width:20%"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td><td style="width:40%">
+		</td></tr>
 	</tbody>
 </table>
 ^self coded table 
+
+
+```
+
+```
 
 | Column a1| | 
 | -------- | -------- | 
