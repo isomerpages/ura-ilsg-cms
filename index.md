@@ -17,6 +17,6 @@ sections:
       title: Acknowledgements
       subtitle: Acknowledgements
       description: Acknowledgements
-      image: /images/KVHeroBanner1920x720.jpg
+      image: /images/Installations/glacier dreams key visual 1 (720 x 405).png
       alt: Image alt text
 ---
