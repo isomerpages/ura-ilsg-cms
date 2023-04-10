@@ -20,3 +20,16 @@ National Technological University School of Art, Design and Media (Singapore)<br
 		</td></tr>
 	</tbody>
 </table>
+
+<table>
+<tbody><tr><th><p style="font-size:17px; line-height:40px">Artist Profile Picture
+	</p></th>
+</tr></tbody><tbody>
+		<tr>
+			<td colspan="1"><img style="width:200px; height:200px;" align="left" src="/images/ruffledice-dpd%20-testing.png"></td> 
+			<td colspan="1"><img style="width:200px; height:200px;" align="left" src="/images/ruffledice-dpd%20-testing.png"></td> 
+			<td colspan="1"><img style="width:200px; height:200px;" align="left" src="/images/ruffledice-dpd%20-testing.png"></td> 
+			<td align="left" style="font-size:17px; line-height:40px;">Hi, we are DP Design. 
+		</td></tr>
+	</tbody>
+</table>
