@@ -16,15 +16,11 @@ description: ""
 </table>
 				
 
-table, 
-table {
-font-size: 16px; line-height: 15px;
-}
 | Column 1| | |
 | -------- | -------- | -------- | 
 | <img style="width:250px;height:140px;" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"> |  <img style="width:250px;height:140px;" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png">  |      | 
 
 
-|<p style="font-size: 16px; line-height: 15px"> Column 1</p>  | | | |
+| Column 1 | | | |
 | -------- | -------- | -------- | ---- |
 | <img style="width:140px;height:78px;" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"> |  <img style="width:140px;height:78px;" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png">  |      | |
