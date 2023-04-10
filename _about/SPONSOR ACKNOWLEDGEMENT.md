@@ -8,7 +8,7 @@ description: ""
 	</tr></thead>
 	<tbody>
 		<tr>
-			<td colspan="1"><img src="/images/Testing%20Sizes/pico%20250%20x%20140.png" style="width:250px;height:140px;vertical-align:left;"></td>
+			<td colspan="1"><img src="/images/Testing%20Sizes/pico%20250%20x%20140.png" style="width:250px;height:140px;horizontal-align:top;"></td>
 			<td><style>width:250px</style>
 		</td></tr>
 	</tbody>
