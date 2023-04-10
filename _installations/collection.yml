@@ -2,6 +2,7 @@ collections:
   installations:
     output: true
     order:
+      - TRUMPET FLOWERS.md
       - RÉSONANCES.md
       - the things left unsaid.md
       - BLOCK PARTY.md
