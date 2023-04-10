@@ -5,7 +5,7 @@ description: ""
 ---
 <table>
 	<tbody><tr>
-			</tr></tbody><thead><tr><th colspan="4"> <p style="font-size: 16px; line-height: 12px"> Presenting Sponsor</p></th>
+			</tr></tbody><thead><tr><th colspan="4"> <p style="font-size: 16px; line-height: 12px"> Presenting Sponsor</p> Presenting Sponsor </th>
 	</tr></thead>
 	<tbody>
 		<tr>
@@ -16,11 +16,11 @@ description: ""
 </table>
 				
 
-| <h6 style="font-size: 16px; line-height: 12px"> Column 1</h6> | | |
+| <p style="font-size: 16px; line-height: 12px"> Column 1</p> | | |
 | -------- | -------- | -------- | 
 | <img style="width:140px;height:78px;" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"> |  <img style="width:140px;height:78px;" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png">  |      | 
 
 
-|<h6 style="font-size: 16px; line-height: 12px"> Column 1</h6>  | | | |
+|<p style="font-size: 16px; line-height: 12px"> Column 1</p>  | | | |
 | -------- | -------- | -------- | ---- |
 | <img style="width:140px;height:78px;" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"> |  <img style="width:140px;height:78px;" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png">  |      | |
