@@ -2,7 +2,7 @@ collections:
   installations:
     output: true
     order:
-      - INSTALLATION.md
+      - INSTALLATIONS.md
       - GLACIER DREAMS.md
       - MOOOOOOOTION.md
       - TREE MAN.md
