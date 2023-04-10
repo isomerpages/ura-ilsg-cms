@@ -13,6 +13,8 @@ description: ""
 		</tr>
 	</tbody>
 </table>
+
+with in between column spacing of 250px
 				
 <table>
 <thead><tr><th colspan="4"><p style="font-size: 16px; line-height: 20px"> Presenting Sponsor</p></th>
@@ -24,6 +26,7 @@ description: ""
 		</tr>
 	</tbody>
 </table>
+without
 				
 | Column a1| | |
 | -------- | -------- | -------- | 
