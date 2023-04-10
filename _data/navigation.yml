@@ -16,7 +16,7 @@ links:
       - title: MEDIA RELEASES
         url: /about/media-releases
   - title: INSTALLATIONS
-    url: /example-folder/folder-page/
+    url: /installations
     sublinks:
       - title: GLACIER DREAMS
         url: /installations/glacier-dreams
