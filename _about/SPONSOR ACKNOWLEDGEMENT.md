@@ -7,7 +7,7 @@ description: ""
 <tbody><tr><th colspan="5"><p style="font-size: 16px; line-height: 20px">Presenting Sponsor</p></th>
 </tr></tbody><tbody>
 		<tr>
-			<td colspan="1"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
+			<td colspan="1"><img style="width:250px;height:140px;" align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
 		</tr>
 	</tbody>
 </table>
