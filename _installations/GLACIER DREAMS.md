@@ -36,3 +36,23 @@ National Technological University School of Art, Design and Media (Singapore)<br
 			</td></tr>
 	</tbody>
 </table>
+
+
+
+<table>
+<tbody><tr><th><p style="font-size:17px; line-height:40px">Artist Profile Picture
+	</p></th>
+</tr></tbody>
+	<tbody>
+		<tr>
+			<td colspan="1"><img style="width:250px; height:250px;" align="left" src="/images/ruffledice-dpd%20-testing.png"></td> </tr></tbody>
+	<tbody><tr><td align="left" style="font-size:17px; line-height:40px;">Hi, we are DP Desi gn. 
+		</td></tr></tbody>
+		<tbody><tr><td colspan="1"><img style="width:250px; height:250px;" align="left" src="/images/plastic%20whale%201-testing.png"></td></tr></tbody>
+		<tbody><tr><td align="left" style="font-size:17px; line-height:40px;">Hi, we are DP Desi gn. 
+		</td></tr></tbody>
+			<tbody><tr><td colspan="1"><img style="width:250px; height:250px;" align="left" src="/images/ruffledice-dpd%20-testing.png"></td></tr>
+		</tbody><tbody><tr><td align="left" style="font-size:17px; line-height:40px;">Hi, we are DP Desi gn. 
+			</td></tr>
+	</tbody>
+</table>
