@@ -36,9 +36,18 @@ description: ""
 			<td colspan="1"><img style="width:250px;height:140px;" align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
 			<td colspan="1"><img style="width:250px;height:140px;" align="left" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png"></td>
 		</tr>
+	</tbody></table>
+	
+<table>
+<tbody>
+		<tr>
+			<td colspan="1"><img style="width:250px;" align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
+			<td colspan="1"><img style="width:250px;" align="left" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png"></td>
+			<td colspan="1"><img style="width:250px;;" align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
+		</tr>
 	</tbody>
 </table>
-^self coded table for 2 logos			
+^self coded table for 3 logos		
 
 | Column a1| | 
 | -------- | -------- | 
@@ -51,3 +60,11 @@ description: ""
 | <img style="width:250px;" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"> |  <img style="width:250px;" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png">  |<img style="width:250px;" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"> | <img style="width:250px;" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png">| <img style="width:250px;" src="/images/Testing%20Sizes/pico%20250%20x%20140.png">  |
 
 ^isomer table with width and height coded
+
+| Column 1 | | | 
+| -------- | -------- | -------- | 
+| <img style="width:250px;" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"> |  <img style="width:250px;" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png">  |<img style="width:250px;" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"> | 
+
+|  | | | 
+| -------- | -------- | -------- | 
+| <img style="width:250px;" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"> |  <img style="width:250px;" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png">  | &nbsp; |
