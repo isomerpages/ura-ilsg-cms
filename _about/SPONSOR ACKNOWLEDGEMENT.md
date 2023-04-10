@@ -9,7 +9,7 @@ description: ""
 	<tbody>
 		<tr>
 			<td colspan="1"><img src="/images/Testing%20Sizes/pico%20250%20x%20140.png" style="width:230px;height:120px;"></td>
-			<td></td><td colspan="1"><img src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png" style="width:230px;height:120px;"></td><td></td>
+			<td><style>width:20px</style></td><td colspan="1"><img src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png" style="width:230px;height:120px;"></td><td><style>width:20px</style></td>
 		</tr>
 	</tbody>
 </table>
