@@ -17,6 +17,6 @@ sections:
       title: Acknowledgements
       subtitle: Acknowledgements
       description: Acknowledgements
-      image: /images/Installations/glacier dreams key visual 1 (540 x 304).jpg
+      image: /images/glacier dreams key visual 1 (630 x 354).jpg
       alt: Image alt text
 ---
