@@ -28,8 +28,8 @@ National Technological University School of Art, Design and Media (Singapore)<br
 		<tr>
 			<td colspan="1"><img style="width:300px; height:300px;" align="left" src="/images/ruffledice-dpd%20-testing.png"></td> 
 			<td colspan="1"><img style="width:300px; height:300px;" align="left" src="/images/plastic%20whale%201-testing.png"></td> 
-			<td colspan="1"><img style="width:300px; height:300px;" align="left" src="/images/ruffledice-dpd%20-testing.png"></td> 
-		<td align="left" style="font-size:17px; line-height:40px;">Hi, we are DP Design. 
+			<td colspan="1"><img style="width:300px; height:300px;" align="left" src="/images/ruffledice-dpd%20-testing.png"></td></tr></tbody>
+		<tbody><tr><td align="left" style="font-size:17px; line-height:40px;">Hi, we are DP Design. 
 			</td></tr>
 	</tbody>
 </table>
