@@ -19,4 +19,8 @@ sections:
       description: Acknowledgements
       image: /images/Installations/glacier dreams key visual 1 (540 x 304).jpg
       alt: a
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
