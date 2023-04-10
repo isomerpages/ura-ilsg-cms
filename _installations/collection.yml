@@ -2,6 +2,7 @@ collections:
   installations:
     output: true
     order:
+      - BLOCK PARTY.md
       - SHOW III.md
       - LIGHT ANEMONES.md
       - SYMPHONY 1.md
