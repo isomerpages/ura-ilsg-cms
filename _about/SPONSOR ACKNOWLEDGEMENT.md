@@ -5,7 +5,7 @@ description: ""
 ---
 <table>
 	<tbody><tr>
-			</tr></tbody><thead><tr><th colspan="4"> <p style="font-size: 16px; line-height: 12px"> Presenting Sponsor</p> Presenting Sponsor </th>
+			</tr></tbody><thead><tr><th colspan="4"> <p style="font-size: 16px; line-height: 12px"> Presenting Sponsor</p></th>
 	</tr></thead>
 	<tbody>
 		<tr>
