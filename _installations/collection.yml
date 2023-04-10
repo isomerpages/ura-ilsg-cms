@@ -2,6 +2,7 @@ collections:
   installations:
     output: true
     order:
+      - BLUMIWAVE.md
       - TREE MAN.md
       - MOOOOOOOTION.md
       - Installations.md
