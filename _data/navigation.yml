@@ -1,8 +1,6 @@
 logo: /images/iLightsg_Lockup(F)-240220-04.png
 links:
   - title: About
-    url: /about
-  - title: About
     url: /about/the-festival
     sublinks:
       - title: THE FESTIVAL
@@ -28,4 +26,4 @@ links:
       - title: I LIGHT I PLEDGE
         url: /sustainability/ilightipledge
       - title: SWITCH OFF, TURN UP
-        url: /sustainability/switchoffturnup
+        url: /sustainability/switch-off-turn-up
