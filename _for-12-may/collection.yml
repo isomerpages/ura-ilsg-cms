@@ -2,4 +2,5 @@ collections:
   for-12-may:
     output: true
     order:
+      - GASTROBEATS.md
       - FESTIVAL DIRECTOR MESSAGE.md
