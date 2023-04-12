@@ -11,16 +11,10 @@ sections:
       title: i Light Singapore
       subtitle: Asia’s Leading Sustainable Light Festival held in Marina Bay
       background: /images/KVHeroBanner1920x720.jpg
-      button: Instagram
+      button: Follow us
       url: https://instagram.com/ilightsingapore
   - infopic:
       title: Acknowledgements
-      subtitle: Acknowledgements
-      description: Acknowledgements
-      image: /images/Installations/glacier dreams key visual 1 (540 x 304).jpg
+      image: /images/Old Master/acklogo.png
       alt: a
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
