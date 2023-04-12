@@ -1,7 +1,8 @@
 contact_us: /contact-us/
-show_reach: false
+show_reach: true
 social_media:
   facebook: https://www.facebook.com/ilightsingapore
   youtube: https://www.youtube.com/user/marinabaysg
   instagram: https://www.instagram.com/ilightsingapore/
   tiktok: https://www.tiktok.com/@ilightsingapore
+faq: /faq
