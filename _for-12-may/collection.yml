@@ -2,6 +2,7 @@ collections:
   for-12-may:
     output: true
     order:
+      - LIGHT WASH.md
       - LIGHT FORUM.md
       - GASTROBEATS.md
       - FESTIVAL DIRECTOR MESSAGE.md
