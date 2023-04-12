@@ -37,5 +37,3 @@ description: ""
 		</td></tr>
 	</tbody>
 </table>
-
-
