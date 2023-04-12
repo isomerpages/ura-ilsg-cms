@@ -17,7 +17,7 @@ National Technological University School of Art, Design and Media (Singapore)<br
 </tr></tbody>
 	<tbody>
 		<tr>
-			<td colspan="1"><img style="width:200px; height:200px;" align="left" src="/images/ruffledice-dpd%20-testing.png"></td><td colspan="1"><img style="width:200px; height:200px;" align="left" src="/images/ruffledice-dpd%20-testing.png"></td><td>&nbsp;</td></tr>
+			<td colspan="1"><img style="width:200px; height:200px;" align="left" src="/images/Testing%20Sizes/ruffledice-dpd%20-testing.png"></td><td colspan="1"><img style="width:200px; height:200px;" align="left" src="/images/Testing%20Sizes/ruffledice-dpd%20-testing.png"></td><td>&nbsp;</td></tr>
 		</tbody><tbody><tr><td align="left" style="font-size:17px; line-height:40px;">Hi, we are DP Design.
 		</td></tr>
 	</tbody>
@@ -29,9 +29,9 @@ National Technological University School of Art, Design and Media (Singapore)<br
 </tr></tbody>
 	<tbody>
 		<tr>
-			<td colspan="1"><img style="width:250px; height:250px;" align="left" src="/images/ruffledice-dpd%20-testing.png"></td> 
-			<td colspan="1"><img style="width:250px; height:250px;" align="left" src="/images/plastic%20whale%201-testing.png"></td> 
-			<td colspan="1"><img style="width:250px; height:250px;" align="left" src="/images/ruffledice-dpd%20-testing.png"></td></tr>
+			<td colspan="1"><img style="width:250px; height:250px;" align="left" src="/images/Testing%20Sizes/ruffledice-dpd%20-testing.png"></td> 
+			<td colspan="1"><img style="width:250px; height:250px;" align="left" src="/images/Testing%20Sizes/plastic%20whale%201-testing.png"></td> 
+			<td colspan="1"><img style="width:250px; height:250px;" align="left" src="/images/Testing%20Sizes/ruffledice-dpd%20-testing.png"></td></tr>
 		</tbody><tbody><tr><td align="left" style="font-size:17px; line-height:40px;">Hi, we are DP Desi gn. 
 			</td></tr>
 	</tbody>
@@ -45,13 +45,13 @@ National Technological University School of Art, Design and Media (Singapore)<br
 </tr></tbody>
 	<tbody>
 		<tr>
-			<td colspan="1"><img style="width:250px; height:250px;" align="left" src="/images/ruffledice-dpd%20-testing.png"></td> </tr></tbody>
+			<td colspan="1"><img style="width:250px; height:250px;" align="left" src="/images/Testing%20Sizes/ruffledice-dpd%20-testing.png"></td> </tr></tbody>
 	<tbody><tr><td align="left" style="font-size:17px; line-height:40px;">Hi, we are DP Desi gn. 
 		</td></tr></tbody>
-		<tbody><tr><td colspan="1"><img style="width:250px; height:250px;" align="left" src="/images/plastic%20whale%201-testing.png"></td></tr></tbody>
+		<tbody><tr><td colspan="1"><img style="width:250px; height:250px;" align="left" src="/images/Testing%20Sizes/plastic%20whale%201-testing.png"></td></tr></tbody>
 		<tbody><tr><td align="left" style="font-size:17px; line-height:40px;">Hi, we are DP Desi gn. 
 		</td></tr></tbody>
-			<tbody><tr><td colspan="1"><img style="width:250px; height:250px;" align="left" src="/images/ruffledice-dpd%20-testing.png"></td></tr>
+			<tbody><tr><td colspan="1"><img style="width:250px; height:250px;" align="left" src="/images/Testing%20Sizes/ruffledice-dpd%20-testing.png"></td></tr>
 		</tbody><tbody><tr><td align="left" style="font-size:17px; line-height:40px;">Hi, we are DP Desi gn. 
 			</td></tr>
 	</tbody>
