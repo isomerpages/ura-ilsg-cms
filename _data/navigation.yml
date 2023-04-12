@@ -14,10 +14,7 @@ links:
       - title: MEDIA RELEASE
         url: /media-releases/media-releases
   - title: INSTALLATIONS
-    url: /installations/installations
-    sublinks:
-      - title: GLACIER DREAMS
-        url: /installations/glacier-dreams
+    url: /installations
   - title: PROGRAMMES
     url: /programmes
   - title: SUSTAINABILITY
@@ -31,5 +28,3 @@ links:
     url: /faq
   - title: Contact Us
     url: /contact-us
-  - title: INSTALLATIONS
-    url: /installations
