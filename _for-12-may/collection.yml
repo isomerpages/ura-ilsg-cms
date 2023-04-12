@@ -2,6 +2,7 @@ collections:
   for-12-may:
     output: true
     order:
+      - TOURS.md
       - LIGHT WASH.md
       - LIGHT FORUM.md
       - GASTROBEATS.md
