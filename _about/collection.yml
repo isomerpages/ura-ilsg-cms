@@ -1,5 +1,5 @@
 collections:
-  about-17-apr:
+  about:
     output: true
     order:
       - THE FESTIVAL.md
