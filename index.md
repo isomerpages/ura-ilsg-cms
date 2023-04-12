@@ -15,7 +15,8 @@ sections:
       background: /images/17 Apr/KVHeroBanner1920x720.jpg
   - infopic:
       title: Acknowledgements
-      image: /images/Testing Sizes/pbdec (1200 x 422).png
+      image: /images/Testing Sizes/pbdec (1200 x 500).png
       alt: a
       url: /sponsoracknowledgement
+      button: More
 ---
