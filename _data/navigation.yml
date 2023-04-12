@@ -1,42 +1,4 @@
 logo: /images/iLightsg_Lockup(F)-240220-04.png
 links:
-  - title: ABOUT
-    url: /about/the-festival
-    sublinks:
-      - title: THE FESTIVAL
-        url: /about/the-festival
-      - title: THE THEME
-        url: /about/the-theme
-      - title: ABOUT ORGANISER
-        url: /about/about-organiser
-      - title: FESTIVAL DIRECTOR MESSAGE
-        url: /about/festival-director-message
-      - title: ACKNOWLEDGEMENTS
-        url: /sponsoracknowledgement
-      - title: MEDIA RELEASES
-        url: /media-releases/media-releases
-  - title: INSTALLATIONS
-    url: /installations
-    sublinks:
-      - title: GLACIER DREAMS
-        url: /installations/glacier-dreams
-  - title: PROGRAMMES
-    url: /programmes
-    sublinks:
-      - title: "LIGHTWAVE: TURNING THE TIDE"
-        url: /programmes/lightwave-turningthetide
-      - title: GASTROBEATS
-        url: /programmes/gastrobeats
-  - title: SUSTAINABILITY
-    url: /sustainability
-    sublinks:
-      - title: I LIGHT I PLEDGE
-        url: /sustainability/ilightipledge
-      - title: SWITCH OFF, TURN UP
-        url: /sustainability/switch-off-turn-up
-  - title: FESTIVAL MAP
-    url: /festival-map/
-  - title: FAQ
-    url: /faq
-  - title: Contact Us
-    url: /contact-us/
+  - title: About
+    url: /about
