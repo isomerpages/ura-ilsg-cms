@@ -1,4 +1,5 @@
 collections:
   for-12-may:
     output: true
-    order: []
+    order:
+      - FESTIVAL DIRECTOR MESSAGE.md
