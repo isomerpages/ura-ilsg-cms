@@ -63,7 +63,7 @@ National Technological University School of Art, Design and Media (Singapore)<br
 </tr></tbody>
 	<tbody>
 		<tr>
-			<td colspan="1"><img style="width:1024px; height:576px;" align="left" src="/images/Testing%20Sizes/refik%20anadol_credit%20efsun%20erkilic%20(1280%20x%20821).jpg"></td> </tr></tbody>
+			<td colspan="1"><img style="width:854px; height:480px;" align="left" src="/images/Testing%20Sizes/refik%20anadol_credit%20efsun%20erkilic%20(1280%20x%20821).jpg"></td> </tr></tbody>
 	<tbody><tr><td align="left" style="font-size:17px; line-height:40px;">Hi, we are DP Design. 
 		</td></tr></tbody>
 		<tbody><tr><td colspan="1"><img align="left" src="/images/Testing%20Sizes/xd49_profile_landscape_ilsg23%20-%20tanskul%20suwannakudt(1)%20(1280%20x%20720).png"></td></tr></tbody>
