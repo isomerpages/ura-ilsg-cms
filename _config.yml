@@ -1,4 +1,10 @@
-<script src="https://assets.dcube.cloud/scripts/wogaa.js"></script>
+html>
+    <head>
+        ...
+        <script src="https://assets.dcube.cloud/scripts/wogaa.js"></script>
+    </head>
+    ...
+</html>
 
 title: i Light Singapore
 url: https://www.ilightsingapore.gov.sg
