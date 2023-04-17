@@ -1,6 +1,6 @@
 ---
 title: THE FESTIVAL
-permalink: /about/the-festival/
+permalink: /the-festival/
 description: ""
 ---
 ![](/images/17%20Apr/About/ilsgherobanner(f).jpg)
