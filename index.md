@@ -12,7 +12,7 @@ sections:
       subtitle: Asia’s Leading Sustainable Light Festival held in Marina Bay
       background: /images/27 Apr/KVHeroBanner1920x720.jpg
       dropdown:
-        title: Hero Dropdown Title
+        title: Follow Us
         options:
           - title: Instagram
             url: https://www.instagram.com/ilightsingapore
