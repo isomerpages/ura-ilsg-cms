@@ -21,7 +21,7 @@ description: ""
 	</tr></thead>
 	<tbody>
 		<tr>
-			<td style="width:30%"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
+			<td style="width:30%"><a target="_blank" href="https://www.ilightsingapore.gov.sg"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></a></td>
 			<td style="width:70%"></td>
 		</tr>
 	</tbody>
@@ -34,7 +34,7 @@ description: ""
 	</tr></thead>
 	<tbody>
 		<tr>
-			<td style="width:30%"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
+			<td style="width:30%"><a target="_blank" href="https://www.ilightsingapore.gov.sg"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></a></td>
 			<td style="width:70%"></td>
 		</tr>
 	</tbody>
@@ -47,16 +47,16 @@ description: ""
 	</tr></thead>
 	<tbody>
 		<tr>
-			<td style="width:30%"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
-			<td style="width:30%"><img align="left" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png"></td><td style="width:30%"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td><td style="width:10%"></td>
+			<td style="width:30%"><a target="_blank" href="https://www.ilightsingapore.gov.sg"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></a></td>
+			<td style="width:30%"><a target="_blank" href="https://www.ilightsingapore.gov.sg"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></a></td><td style="width:30%"><a target="_blank" href="https://www.ilightsingapore.gov.sg"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></a></td><td style="width:10%"></td>
 		</tr>
 	</tbody></table>
 
 <table>
 <tbody>
 		<tr>
-			<td style="width:30%"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
-			<td style="width:30%"><img align="left" src="/images/Testing%20Sizes/stb%20250%20x%20140%201.png"></td>
+			<td style="width:30%"><a target="_blank" href="https://www.ilightsingapore.gov.sg"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></a></td>
+			<td style="width:30%"><a target="_blank" href="https://www.ilightsingapore.gov.sg"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></a></td>
 			<td style="width:40%">
 		</td></tr>
 	</tbody>
@@ -69,7 +69,7 @@ description: ""
 	</tr></thead>
 	<tbody>
 		<tr>
-			<td style="width:30%"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
+			<td style="width:30%"><a target="_blank" href="https://www.ilightsingapore.gov.sg"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></a></td>
 			<td style="width:70%"></td>
 		</tr>
 	</tbody>
