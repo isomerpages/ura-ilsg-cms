@@ -52,7 +52,7 @@ The <i>Be a Zero Hero</i> pledge encourages the public to adopt zero-waste habit
 <p style="font-size:17px; line-height:40px">
 <b>Q7. Does i Light Singapore collaborate with other international light festivals?</b>
 <br>
-Yes, we have been collaborating with other overseas light festivals and are happy to continue to do so. &nbsp;
+Yes, we have been collaborating with other overseas light festivals and are happy to continue to do so. <br>
 
 <br> 
 For more information on collaboration opportunities, please reach out to us at <a href="info@ilight.sg"> info@ilight.sg</a>.</p>
