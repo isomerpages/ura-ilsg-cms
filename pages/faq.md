@@ -34,9 +34,9 @@ The <i>Be a Zero Hero</i> pledge encourages the public to adopt zero-waste habit
 <br>
 Yes, we have been collaborating with other overseas light festivals and are happy to continue to do so. <br>
 <br> 
-For more information on collaboration opportunities, please reach out to us at <a href="info@ilight.sg"> info@ilight.sg</a>.<br>
+For more information on collaboration opportunities, please reach out to us at <a href="mailto:info@ilight.sg"> info@ilight.sg</a>.<br>
 <br>
 <b>Q6. Do you have a general hotline?</b>
 <br>
-For general enquiries, please call or email us at <a href="info@ilight.sg"> info@ilight.sg</a>.
+For general enquiries, please call or email us at <a href="mailto:info@ilight.sg"> info@ilight.sg</a>.
 <br></p>
