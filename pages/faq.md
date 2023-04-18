@@ -4,7 +4,7 @@ permalink: /faq/
 ---
 ### **FAQ**
 
-<p style="font-size:17px; line-height:40px">
+<p style="font-size:17px; line-height:40px; align:justified">
 <b>Q1. What is i Light Singapore all about?&nbsp;</b><br> Organised by the Urban Redevelopment Authority (URA) of Singapore, i Light Singapore was previously known as i Light Marina Bay. It started out in 2010 as one of several initiatives to inject vibrancy to the Marina Bay precinct, while reinforcing an important message on sustainability, advocating an environmentally-responsible society and way of life. The Festival has grown over the years to feature not just sustainable light art, but a full array of complementary programmes and exciting events. Returning for its ninth edition this year, the Festival will run over four weekends from 1 to 25 June 2023.
  
 <br>
@@ -18,16 +18,16 @@ General admission to the Festival is free, while charges apply for certain <a 
 <b>Q4. How do I get to i Light Singapore 2023 via public transport?</b>
 <br>
 All MRT lines (East-West Line, North-South Line, Downtown Line, Circle Line and Thomson-East Coast Line) have stops in the Marina Bay area. The nearest MRT stations are:<br>
-<br>
-*   Bayfront (DT16/CE1)&nbsp;
-*   City Hall (NS25/EW13)&nbsp;
-*   Downtown (DT17)&nbsp;
-*   Esplanade (CC3)&nbsp;
-*   Gardens by The Bay (TE22)&nbsp;
-*   Marina Bay (NS27/TE20/CE2)&nbsp;
-*   Promenade (DT15/CC4)&nbsp;
-*   Raffles Place (NS26/EW14)
-<br>
+</p><ul>
+	<li>Bayfront (DT16/CE1)</li>
+	<li>City Hall (NS25/EW13</li>
+	<li>Downtown (DT17)</li>
+	<li>Esplanade (CC3)</li>
+	<li>Gardens by The Bay (TE22)</li>
+	<li>Marina Bay (NS27/TE20/CE2)</li>
+	<li>Promenade (DT15/CC4)</li>
+	<li>Raffles Place (NS26/EW14)</li>
+</ul>
 
 <b>Q5. How is i Light Singapore a sustainable light festival?</b>
 <br>
@@ -53,4 +53,4 @@ For more information on collaboration opportunities, please reach out to us at�
 <b>Q7. Do you have a general hotline?</b>
 <br>
 For general enquiries, please call or email us at <a href="info@ilight.sg"> info@ilight.sg</a>.
-<br></p>
+<br><p></p>
