@@ -26,7 +26,7 @@ They can do so through two separate pledges:<br>
 The <i>Switch Off Turn Up (SOTU)</i> pledge invites all to Switch Off non-essential lightings and Turn Up air-conditioning temperatures during and beyond the festival period. Expanded to the public and schools for the first time this year, SOTU has been a key component of i Light Singapore’s sustainability drive. Since the Festival’s inception in 2010, the initiative has rallied many building owners, corporations and businesses around and beyond Marina Bay to reduce their energy consumption in lighting and air-conditioning, and will continue to do so this year.<br>
 <br>
 The <i>Be a Zero Hero</i> pledge encourages the public to adopt zero-waste habits such as reducing the use of single-use items and food waste. For each pledge, 100g of waste will be removed from Singapore’s waterways* by All Clear, a river cleanup solutions provider.<br>
-<br> Take the i Light i Pledge presented by Alibaba <a href="https://www.ilightsingapore.gov.sg/programmes">here</a>.<br>
+<br> Take the i Light i Pledge presented by Alibaba <a href="/programmes">here</a>.<br>
 <br>*T&amp;C apply<br>
 
 <br>
