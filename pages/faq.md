@@ -13,26 +13,30 @@ General admission to the Festival is free, while charges apply for certain <a 
 
 <br>
 <b>Q3. What are the opening hours for i Light Singapore 2023?</b>
-<br>The opening hours for the Festival are 7.30pm to 11.00pm daily, with extended hours to 12.00am on Fridays and Saturdays. Opening hours for various programmes may vary.<br></p>
+<br>The opening hours for the Festival are 7.30pm to 11.00pm daily, with extended hours to 12.00am on Fridays and Saturdays. Opening hours for various programmes may vary.<br>
 
 <br>
-<p style="font-size:17px; line-height:40px">
 <b>Q4. How is i Light Singapore a sustainable light festival?</b><br>
 
+<br>
 The light art installations at the festival are designed with energy-saving lightings, and recycled or environmentally-friendly materials. They serve as reminders to festival-goers to adopt sustainable habits in their everyday lives.<br>
-	
+
+<br>	
 This year, the Festival is partnering susGain, a local social enterprise championing sustainability, on i Light i Pledge presented by Alibaba. The public is encouraged to pledge their commitment to eco-conscious practices by making small but impactful changes in their daily lifestyles to cultivate sustainable habits.
 <br>
 
+<br>
 They can do so through two separate pledges:<br>
 
+<br>
 The <i>Switch Off Turn Up (SOTU)</i> pledge invites all to Switch Off non-essential lightings and Turn Up air-conditioning temperatures during and beyond the festival period. Expanded to the public and schools for the first time this year, SOTU has been a key component of i Light Singapore’s sustainability drive. Since the Festival’s inception in 2010, the initiative has rallied many building owners, corporations and businesses around and beyond Marina Bay to reduce their energy consumption in lighting and air-conditioning, and will continue to do so this year.<br>
 
-The <i>Be a Zero Hero</i> pledge encourages the public to adopt zero-waste habits such as reducing the use of single-use items and food waste. For each pledge, 100g of waste will be removed from Singapore’s waterways* by All Clear, a river cleanup solutions provider.
+<br>
+The <i>Be a Zero Hero</i> pledge encourages the public to adopt zero-waste habits such as reducing the use of single-use items and food waste. For each pledge, 100g of waste will be removed from Singapore’s waterways* by All Clear, a river cleanup solutions provider.<br>
 	
-<br> Take the i Light i Pledge presented by Alibaba <a href="https://www.ilightsingapore.gov.sg/programmes">here</a>. 
+<br> Take the i Light i Pledge presented by Alibaba <a href="https://www.ilightsingapore.gov.sg/programmes">here</a>. <br>
 
-<br>*T&amp;C apply
+<br>*T&amp;C apply<br>
 
 <br>
 <b>Q5. Does i Light Singapore collaborate with other international light festivals?</b>
