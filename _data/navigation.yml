@@ -2,3 +2,19 @@ logo: /images/iLightsg_Lockup(F)-240220-04.png
 links:
   - title: About
     url: /about
+  - title: INSTALLATIONS
+    url: /installations
+  - title: PROGRAMMES
+    url: /programmes
+    sublinks:
+      - title: "LIGHTWAVE: TURNING THE TIDE"
+        url: /lightwave-turning-the-tide
+  - title: SUSTAINABILITY
+    url: /sustainability
+    sublinks:
+      - title: I LIGHT I PLEDGE
+        url: /sustainability/i-light-i-pledge
+      - title: SWITCH OFF, TURN UP
+        url: /sustainability/switch-off-turn-up
+  - title: FAQ
+    url: /faq
