@@ -19,19 +19,19 @@ General admission to the Festival is free, while charges apply for certain <a 
 <b>Q4. How do I get to i Light Singapore 2023 via public transport?</b>
 <br>
 All MRT lines (East-West Line, North-South Line, Downtown Line, Circle Line and Thomson-East Coast Line) have stops in the Marina Bay area. The nearest MRT stations are:<br></p>
-<p style="font-size:17px; line-height:40px"></p><ul>
-	<li>Bayfront (DT16/CE1)</li>
-	<li>City Hall (NS25/EW13</li>
-	<li>Downtown (DT17)</li>
-	<li>Esplanade (CC3)</li>
-	<li>Gardens by The Bay (TE22)</li>
-	<li>Marina Bay (NS27/TE20/CE2)</li>
-	<li>Promenade (DT15/CC4)</li>
-	<li>Raffles Place (NS26/EW14)</li>
-</ul><p>
+<ul>
+	<li><p style="font-size:17px; line-height:40px">Bayfront (DT16/CE1)</p></li>
+	<li><p style="font-size:17px; line-height:40px">City Hall (NS25/EW13</p></li>
+	<li><p style="font-size:17px; line-height:40px">Downtown (DT17)</p></li>
+	<li><p style="font-size:17px; line-height:40px">Esplanade (CC3)</p></li>
+	<li><p style="font-size:17px; line-height:40px">Gardens by The Bay (TE22)</p></li>
+	<li><p style="font-size:17px; line-height:40px">Marina Bay (NS27/TE20/CE2)</p></li>
+	<li><p style="font-size:17px; line-height:40px">Promenade (DT15/CC4)</p></li>
+	<li><p style="font-size:17px; line-height:40px">Raffles Place (NS26/EW14)</p></li>
+</ul>
 
 <br>
-</p><p style="font-size:17px; line-height:40px">
+<p style="font-size:17px; line-height:40px">
 <b>Q5. How is i Light Singapore a sustainable light festival?</b>
 <br>
 The light art installations at the festival are designed with energy-saving lightings, and recycled or environmentally-friendly materials. They serve as reminders to festival-goers to adopt sustainable habits in their everyday lives.<br>
