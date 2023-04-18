@@ -8,7 +8,7 @@ description: ""
 	</tr></thead>
 	<tbody>
 		<tr>
-			<td style="width:30%"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></td>
+			<td style="width:30%"><a href="https://www.ilightsingapore.gov.sg"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></a></td>
 			<td style="width:70%"></td>
 		</tr>
 	</tbody>
