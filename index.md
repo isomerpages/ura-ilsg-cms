@@ -24,4 +24,6 @@ sections:
       title: Acknowledgements
       image: /images/Old Master/acklogo.png
       alt: a
+      button: View More
+      url: /sponsoracknowledgement
 ---
