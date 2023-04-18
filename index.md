@@ -19,7 +19,7 @@ sections:
           - title: Facebook
             url: https://www.facebook.com/ilightsingapore
           - title: Tik Tok
-            url: https://www.tiktok.com/ilightsingapore
+            url: https://www.tiktok.com/@ilightsingapore
   - infopic:
       title: Acknowledgements
       image: /images/Old Master/acklogo.png
