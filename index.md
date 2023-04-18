@@ -10,7 +10,7 @@ sections:
   - hero:
       title: i Light Singapore
       subtitle: Asia’s Leading Sustainable Light Festival held in Marina Bay
-      background: /images/Old Master/ilsgherobanner(f) - smaller file.jpg
+      background: /images/27 Apr/KVHeroBanner1920x720.jpg
       dropdown:
         title: Hero Dropdown Title
         options:
