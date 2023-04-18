@@ -17,35 +17,25 @@ General admission to the Festival is free, while charges apply for certain <a 
 
 <br>
 <b>Q4. How is i Light Singapore a sustainable light festival?</b><br>
-
-<br>
 The light art installations at the festival are designed with energy-saving lightings, and recycled or environmentally-friendly materials. They serve as reminders to festival-goers to adopt sustainable habits in their everyday lives.<br>
-
 <br>	
 This year, the Festival is partnering susGain, a local social enterprise championing sustainability, on i Light i Pledge presented by Alibaba. The public is encouraged to pledge their commitment to eco-conscious practices by making small but impactful changes in their daily lifestyles to cultivate sustainable habits.
 <br>
-
 <br>
 They can do so through two separate pledges:<br>
-
 <br>
 The <i>Switch Off Turn Up (SOTU)</i> pledge invites all to Switch Off non-essential lightings and Turn Up air-conditioning temperatures during and beyond the festival period. Expanded to the public and schools for the first time this year, SOTU has been a key component of i Light Singapore’s sustainability drive. Since the Festival’s inception in 2010, the initiative has rallied many building owners, corporations and businesses around and beyond Marina Bay to reduce their energy consumption in lighting and air-conditioning, and will continue to do so this year.<br>
-
 <br>
 The <i>Be a Zero Hero</i> pledge encourages the public to adopt zero-waste habits such as reducing the use of single-use items and food waste. For each pledge, 100g of waste will be removed from Singapore’s waterways* by All Clear, a river cleanup solutions provider.<br>
-	
-<br> Take the i Light i Pledge presented by Alibaba <a href="https://www.ilightsingapore.gov.sg/programmes">here</a>. <br>
-
+<br> Take the i Light i Pledge presented by Alibaba <a href="https://www.ilightsingapore.gov.sg/programmes">here</a>.<br>
 <br>*T&amp;C apply<br>
 
 <br>
 <b>Q5. Does i Light Singapore collaborate with other international light festivals?</b>
 <br>
 Yes, we have been collaborating with other overseas light festivals and are happy to continue to do so. <br>
-
 <br> 
 For more information on collaboration opportunities, please reach out to us at <a href="info@ilight.sg"> info@ilight.sg</a>.<br>
-
 <br>
 <b>Q6. Do you have a general hotline?</b>
 <br>
