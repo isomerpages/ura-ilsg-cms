@@ -4,8 +4,7 @@ title: i Light Singapore
 description: Asia’s Leading Sustainable Light Festival held in Marina Bay
 image: /images/iLSGShareBanner.jpg
 permalink: /
-notification: Our main website is under construction and we will be back with
-  details on the next edition of the festival. Stay tuned!
+notification: ""
 sections:
   - hero:
       title: i Light Singapore
