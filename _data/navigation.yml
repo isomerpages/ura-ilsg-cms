@@ -1,7 +1,18 @@
 logo: /images/iLightsg_Lockup(F)-240220-04.png
 links:
   - title: About
-    url: /about/the-festival/
+    url: /about/the-festival
+    sublinks:
+      - title: THE FESTIVAL
+        url: /about/the-festival
+      - title: THE THEME
+        url: /about/the-theme
+      - title: ABOUT ORGANISER
+        url: /about/about-organiser
+      - title: LOGO ACKNOWLEDGEMENT
+        url: /about/sponsoracknowledgement
+      - title: Media Releases
+        url: /media-releases/media-releases
   - title: INSTALLATIONS
     url: /installations
   - title: PROGRAMMES
