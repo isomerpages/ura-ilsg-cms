@@ -6,6 +6,12 @@ description: ""
 <p style="font-size:17px; line-height:40px">Follow us <a target="_blank" href="https://www.instagram.com/ilightsingapore">@ilightsingapore </a> for inside scoop of our programmes.</p>
 <br><br>
 
-[![](/images/Programmes/lightwave%20kv%20r2-min.png)](/programmes/lightwave-turning-the-tide)
+<img style="width:80%" src="/images/Programmes/lightwave%20kv%20r2-min.png"> 
 <p style="font-size:17px; line-height:40px">
-	<b>Lightwave: Turning the Tide, presented by Alibaba Cloud</b></p>
+	<b>Lightwave: Turning the Tide, presented by Alibaba Cloud</b>
+<br><br>
+<b>Location</b><br>
+The Promontory at Marina Bay
+
+Find out more [here](/programmes/lightwave-turning-the-tide)!
+</p>
