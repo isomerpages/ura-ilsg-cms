@@ -9,5 +9,5 @@ description: ""
 <br><br>
 For the first time this year, the initiative will expand beyond corporations to include schools and the general public. 
 <br><br>
-Take part in <i>SOTU</i> through <i>i Light i Pledge, presented by Alibaba Cloud</i> at (hyperlink) today!
+Take part in <i>SOTU</i> through <i>i Light i Pledge, presented by Alibaba Cloud</i> at (hyperlink to microsite) today!
 </p>
