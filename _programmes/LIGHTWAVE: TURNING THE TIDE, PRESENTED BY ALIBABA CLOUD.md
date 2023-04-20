@@ -11,6 +11,6 @@ The Promontory at Marina Bay
 <br><br>
 <b>Timing</b>
 <br>
-Weekdays: Sunday to Thursday – 7pm to 11pm (last experience at 10.40pm)
+Weekdays: Sunday to Thursday – 7.30pm to 11pm (last experience at 10.40pm)
 <br>
-Weekends: Friday and Saturday – 7pm to 12am (last experience at 11.40pm)</p>
+Weekends: Friday and Saturday – 7.30pm to 12am (last experience at 11.40pm)</p>
