@@ -25,4 +25,8 @@ sections:
       alt: a
       button: Find out more
       url: /about/sponsoracknowledgement
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: resources
 ---
