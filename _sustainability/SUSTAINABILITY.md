@@ -9,9 +9,10 @@ description: ""
 <br>
 <b>i Light i Pledge, presented by Alibaba Cloud</b>
 
+<br>
 
 [![](/images/Sustainability/ilight%20switch%20off%20turn%20up%20(1)-03.png)](/sustainability/switch-off-turn-up)<br>
-	<b> Switch Off, Turn Up</b></p>
+<b> Switch Off, Turn Up</b></p>
 
 <br>
 <table style="width:100%">
