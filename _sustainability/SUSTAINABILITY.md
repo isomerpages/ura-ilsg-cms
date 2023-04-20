@@ -5,11 +5,12 @@ description: ""
 ---
 <p style="font-size:17px; line-height:40px">
 
-![](/images/Sustainability/compressed%20202301_iiight%20singapore%20(ilip%20banner%20-%201920px%20x%201080px)-min.jpg)
-	<b>i Light i Pledge, presented by Alibaba Cloud</b>
+[![](/images/Sustainability/compressed%20202301_iiight%20singapore%20(ilip%20banner%20-%201920px%20x%201080px)-min.jpg)](/sustainability/ilightipledge)
+
+<b>i Light i Pledge, presented by Alibaba Cloud</b>
 
 
-(insert SOTU photo)
+[(insert SOTU photo)](/sustainability/switch-off-turn-up)
 	<b> Switch Off, Turn Up</b></p>
 
 <br>
