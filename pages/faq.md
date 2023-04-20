@@ -34,9 +34,4 @@ The <b><i>Switch Off Turn Up (SOTU)</i></b> pledge invites all to Switch Off non
 <br>
 Yes, we have been collaborating with other overseas light festivals and are happy to continue to do so. <br>
 <br> 
-For more information on collaboration opportunities, please reach out to us at <a href="mailto:info@ilight.sg"> info@ilight.sg</a>.<br>
-<br>
-<b>Q6. Do you have a general hotline?</b>
-<br>
-For general enquiries, please call or email us at <a href="mailto:info@ilight.sg"> info@ilight.sg</a>.
-<br></p>
+For more information on collaboration opportunities, please reach out to us at <a href="mailto:info@ilight.sg"> info@ilight.sg</a>.</p>
