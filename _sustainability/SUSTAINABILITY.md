@@ -5,7 +5,7 @@ description: ""
 ---
 <p style="font-size:17px; line-height:40px">
 
-(insert iLiP photo)
+![](/images/Sustainability/compressed%20202301_iiight%20singapore%20(ilip%20banner%20-%201920px%20x%201080px)-min.jpg)
 	<b>i Light i Pledge, presented by Alibaba Cloud</b>
 
 
