@@ -21,7 +21,7 @@ sections:
             url: https://www.tiktok.com/@ilightsingapore
   - infopic:
       title: Acknowledgements
-      image: /images/Old Master/acklogo.png
+      image: /images/202301_iiight singapore (16-9 sponsor logos).jpg
       alt: a
       button: Find out more
       url: /about/sponsoracknowledgement
