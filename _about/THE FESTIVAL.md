@@ -3,7 +3,7 @@ title: THE FESTIVAL
 permalink: /about/the-festival/
 description: ""
 ---
-![](/images/27%20Apr/About/ilsgherobanner(f).jpg)
+![](/images/About/ilsgherobanner(f).jpg)
 ### The Festival
 <p style="font-size:17px; line-height:40px">
 i Light Singapore is Asia’s leading sustainable light festival held in Marina Bay. </p>
