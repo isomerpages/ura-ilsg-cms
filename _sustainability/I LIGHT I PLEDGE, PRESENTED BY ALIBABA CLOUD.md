@@ -3,6 +3,7 @@ title: I LIGHT I PLEDGE, PRESENTED BY ALIBABA CLOUD
 permalink: /sustainability/ilightipledge/
 description: ""
 ---
+![](/images/Sustainability/compressed%20202301_iiight%20singapore%20(ilip%20banner%20-%201920px%20x%201080px)-min.jpg)
 <p style="font-size:17px; line-height:40px">This year, the Festival is partnering susGain, a local social enterprise championing sustainability, on <i>i Light i Pledge, presented by Alibaba Cloud</i>. The public is encouraged to pledge their commitment to eco-conscious practices by making small but impactful changes in their daily lifestyles to cultivate sustainable habits.
 <br><br>
 They can do so through two separate pledges:
