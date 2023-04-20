@@ -6,7 +6,7 @@ description: ""
 <p style="font-size:17px; line-height:40px">
 
 (insert iLiP photo)
-	<b>i Light i Pledge presented by Alibaba Cloud</b>
+	<b>i Light i Pledge, presented by Alibaba Cloud</b>
 
 
 (insert SOTU photo)
