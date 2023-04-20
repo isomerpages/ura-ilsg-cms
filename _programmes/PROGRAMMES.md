@@ -5,8 +5,8 @@ description: ""
 ---
 <p style="font-size:17px; line-height:40px">Follow us <a target="_blank" href="https://www.instagram.com/ilightsingapore">@ilightsingapore </a> for inside scoop of our programmes.</p>
 
-<img src="/images/Programmes/lightwave%20kv%20r2-min.png" colspan="1" style="width:90%" align="left"><table>
-</table>
+<img src="/images/Programmes/lightwave%20kv%20r2-min.png" style="width:90%" align="left"><table><tbody><tr></tr>
+</tbody></table>
 <p style="font-size:17px; line-height:40px">
 <b>Lightwave: Turning the Tide, presented by Alibaba Cloud</b>
 <br><br>
