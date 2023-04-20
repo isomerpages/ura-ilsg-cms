@@ -3,6 +3,8 @@ title: THE THEME
 permalink: /about/the-theme/
 description: ""
 ---
+![](/images/About/202301_iiight%20singapore%20(kv%20landscape%20-%201920px%20x%201080px)-min.jpg)
+
 ### A New Wave
 
 <p style="font-size:17px; line-height:40px">Light is a wave, which expands and radiates in all directions. It transmits diverse energy and momentum which in turn,&nbsp;determines how we see space. Yet, light is also a language – a system of communication, resulting in a spectrum of&nbsp;emotions and habitual associations. This spectrum of&nbsp;colours&nbsp;in visible light are superimposed over&nbsp;five editions of&nbsp;i&nbsp;Light&nbsp;Singapore, with a different segment of hues for each year. The Festival becomes a medium which refracts the diversity of&nbsp;the light spectrum, dispersing it into colours of creativity.
