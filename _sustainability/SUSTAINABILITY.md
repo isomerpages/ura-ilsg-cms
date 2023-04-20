@@ -18,8 +18,8 @@ description: ""
 	</tr></thead>
 	<tbody>
 		<tr>
-			<td style="width:30%"><a target="_blank" href="https://www.ilightsingapore.gov.sg"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></a></td>
-			<td style="width:30%"><a target="_blank" href="https://www.ilightsingapore.gov.sg"><img align="left" src="/images/Testing%20Sizes/pico%20250%20x%20140.png"></a></td>
+			<td style="width:30%"><a target="_blank" href="https://www.climateresources.net"><img align="left" src="/images/About/Sponsor%20Acknowledgement/crx_resized%20web%20version.png"></a></td>
+			<td style="width:30%"><a target="_blank" href="https:www.susGain.com"><img align="left" src="/images/About/Sponsor%20Acknowledgement/sus%20grain_resized%20web%20version.png"></a></td>
 			<td style="width:40%"></td>
 		</tr>
 	</tbody>
