@@ -4,6 +4,39 @@ permalink: /about/sponsoracknowledgement/
 description: ""
 ---
 <table style="width:100%">
+<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Organised by</p></th>
+	</tr></thead>
+	<tbody>
+		<tr>
+			<td style="width:30%"><a href="https://www.ura.gov.sg/corporate" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/ura_resized%20web%20version.png" align="left"></a></td>
+			<td style="width:70%"></td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table style="width:100%">
+<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Managed by</p></th>
+	</tr></thead>
+	<tbody>
+		<tr>
+			<td style="width:30%"><a href="https://www.pico.com/en/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/pico_resized%20web%20version.png" align="left"></a></td>
+			<td style="width:70%"></td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table style="width:100%">
+<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Held In</p></th>
+	</tr></thead>
+	<tbody>
+		<tr>
+			<td style="width:30%"><a href="https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Marina-Bay" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/marine%20bay%20singapore_resized%20web%20version.png" align="left"></a></td>			<td style="width:30%"><a href="https://www.visitsingapore.com/en/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/passion%20made%20possible_resized%20web%20version.png" align="left"></a></td>
+			<td style="width:40%"></td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<table style="width:100%">
 <thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px"> Presenting Sponsor</p></th>
 	</tr></thead>
 	<tbody>
