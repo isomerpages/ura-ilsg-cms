@@ -3,6 +3,16 @@ title: SUSTAINABILITY
 permalink: /sustainability/
 description: ""
 ---
+<p style="font-size:17px; line-height:40px">
+
+(insert iLiP photo)
+	<b>i Light i Pledge presented by Alibaba</b>
+
+
+(insert SOTU photo)
+	<b> Switch Off, Turn Up</b>
+
+<br>
 <table style="width:100%">
 <thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px"> Sustainability Partners</p></th>
 	</tr></thead>
@@ -13,4 +23,4 @@ description: ""
 			<td style="width:40%"></td>
 		</tr>
 	</tbody>
-</table>
+</table></p>
