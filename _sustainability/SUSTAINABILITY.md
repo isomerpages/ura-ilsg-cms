@@ -3,15 +3,22 @@ title: SUSTAINABILITY
 permalink: /sustainability/
 description: ""
 ---
-<a href="/sustainability/ilightipledge"><img style="width:90%" src="/images/Sustainability/compressed%20202301_iiight%20singapore%20(ilip%20banner%20-%201920px%20x%201080px)-min.jpg" align="left"></a>
+<table>
+<tbody>
+		<tr>
+			<td><a href="/sustainability/ilightipledge"><img align="left" src="/images/Sustainability/compressed%20202301_iiight%20singapore%20(ilip%20banner%20-%201920px%20x%201080px)-min.jpg"></a></td></tr></tbody></table>
+<p style="font-size:17px; line-height:40px>
+					<b>i Light i Pledge, presented by Alibaba Cloud</b></p>
 
-<br><br><br><br><p style="font-size:17px; line-height:40px">			
-<b>i Light i Pledge, presented by Alibaba Cloud</b></p>
-
-<br><br>
-
-<img style="width:90%" src="/images/Sustainability/ilight%20switch%20off%20turn%20up%20(1)-03.png" align="left">
-<p style="font-size:17px; line-height:40px"><br><br><br><br><br><b> Switch Off, Turn Up</b></p>
+<br>
+		
+<table>
+<tbody>
+		<tr>
+			<td><a href="><img align="left" src="/images/Sustainability/ilight%20switch%20off%20turn%20up%20(1)-03.png">
+			
+</p><p style="font-size:17px; line-height:40px">
+<b>Switch Off, Turn Up</b></p>																			 
 
 <br>
 <table style="width:100%">
@@ -19,8 +26,8 @@ description: ""
 	</tr></thead>
 	<tbody>
 		<tr>
-			<td style="width:30%"><a target="_blank" href="https://www.climateresources.net"><img align="left" src="/images/About/Sponsor%20Acknowledgement/crx_resized%20web%20version.png"></a></td>
-			<td style="width:30%"><a target="_blank" href="https:www.susGain.com"><img align="left" src="/images/About/Sponsor%20Acknowledgement/sus%20grain_resized%20web%20version.png"></a></td>
+			<td style="width:30%"><a href="https://www.climateresources.net" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/crx_resized%20web%20version.png" align="left"></a></td>
+			<td style="width:30%"><a href="https:www.susGain.com" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/sus%20grain_resized%20web%20version.png" align="left"></a></td>
 			<td style="width:40%"></td>
 		</tr>
 	</tbody>
