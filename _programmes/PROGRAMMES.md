@@ -13,5 +13,5 @@ description: ""
 <b>Location</b><br>
 The Promontory at Marina Bay
 
-Find out more [here](/programmes/lightwave-turning-the-tide)!
+Find out more <a href="/programmes/lightwave-turning-the-tide">here</a>!
 </p>
