@@ -3,21 +3,14 @@ title: SUSTAINABILITY
 permalink: /sustainability/
 description: ""
 ---
-<table>
-<tbody>
-		<tr>
-			<td><a href="/sustainability/ilightipledge"><img align="left" src="/images/Sustainability/compressed%20202301_iiight%20singapore%20(ilip%20banner%20-%201920px%20x%201080px)-min.jpg"></a></td></tr></tbody></table>
-<p style="font-size:17px; line-height:40px>
-					<b>i Light i Pledge, presented by Alibaba Cloud</b></p>
+<a href="/sustainability/ilightipledge"><img align="left" src="/images/Sustainability/compressed%20202301_iiight%20singapore%20(ilip%20banner%20-%201920px%20x%201080px)-min.jpg"></a>
+<p style="font-size:17px; line-height:40px">
+<b>i Light i Pledge, presented by Alibaba Cloud</b></p>	
 
 <br>
 		
-<table>
-<tbody>
-		<tr>
-			<td><a href="><img align="left" src="/images/Sustainability/ilight%20switch%20off%20turn%20up%20(1)-03.png">
-			
-</p><p style="font-size:17px; line-height:40px">
+<a href="/sustainability/swich-off-turn-up"><img align="left" src="/images/Sustainability/ilight%20switch%20off%20turn%20up%20(1)-03.png"></a>
+<p style="font-size:17px; line-height:40px">
 <b>Switch Off, Turn Up</b></p>																			 
 
 <br>
