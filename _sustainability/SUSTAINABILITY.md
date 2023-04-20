@@ -10,7 +10,7 @@ description: ""
 
 
 (insert SOTU photo)
-	<b> Switch Off, Turn Up</b>
+	<b> Switch Off, Turn Up</b></p>
 
 <br>
 <table style="width:100%">
@@ -23,4 +23,4 @@ description: ""
 			<td style="width:40%"></td>
 		</tr>
 	</tbody>
-</table></p>
+</table><p></p>
