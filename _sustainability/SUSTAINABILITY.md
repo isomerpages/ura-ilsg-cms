@@ -5,13 +5,13 @@ description: ""
 ---
 <p style="font-size:17px; line-height:40px">
 
-<a href="/sustainability/ilightipledge"><img style="width:90%" src="/images/Sustainability/compressed%20202301_iiight%20singapore%20(ilip%20banner%20-%201920px%20x%201080px)-min.jpg"></a>
-<b>i Light i Pledge, presented by Alibaba Cloud</b>
+<a href="/sustainability/ilightipledge"><img style="width:90%" src="/images/Sustainability/compressed%20202301_iiight%20singapore%20(ilip%20banner%20-%201920px%20x%201080px)-min.jpg" align="left"></a>
+<br><b>i Light i Pledge, presented by Alibaba Cloud</b>
 
 <br><br>
 
-<a href="/sustainability/ilightipledge"><img style="width:90%" src="/images/Sustainability/ilight%20switch%20off%20turn%20up%20(1)-03.png"></a>
-<b> Switch Off, Turn Up</b></p>
+<a href="/sustainability/ilightipledge"><img style="width:90%" src="/images/Sustainability/ilight%20switch%20off%20turn%20up%20(1)-03.png" align="left"></a>
+<br><b> Switch Off, Turn Up</b></p>
 
 <br>
 <table style="width:100%">
