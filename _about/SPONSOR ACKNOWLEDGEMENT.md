@@ -88,7 +88,7 @@ description: ""
 <table>
 <tbody>
 		<tr>
-				<td style="width:30%"><a href="https://www.southbeachavenue.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/south%20beach_resized%20web%20version.png" align="left"></a>
+				<td style="width:30%"><a href="https://www.southbeachavenue.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/south%20beach_version%202.png" align="left"></a>
 <a href="https://www.aedas.com" target="_blank">&nbsp;</a><a href="https://www.sunray.com.sg/" target="_blank">&nbsp;</a></td>
 			<td style="width:30%"><a href="https://www.fullertonhotels.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/the%20fullerton%20heritage_resized%20web%20version.png" align="left"></a></td>
 			<td style="width:40%">
