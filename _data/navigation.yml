@@ -17,6 +17,6 @@ links:
       - title: SWITCH OFF, TURN UP
         url: /sustainability/switch-off-turn-up
   - title: MEDIA RELEASES
-    resource_room: true
+    url: /media-releases
   - title: FAQ
     url: /faq
