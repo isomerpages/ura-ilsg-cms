@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/About/ilsgherobanner(f).jpg)
 
-### **i Light Singapore**
+### **The Festival**
 <p style="font-size:17px; line-height:40px">
 i Light Singapore is Asia’s Leading Sustainable Light Festival held in Marina Bay.
 
