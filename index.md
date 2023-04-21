@@ -22,7 +22,7 @@ sections:
           url: /sustainability/switch-off-turn-up
   - infopic:
       title: Acknowledgements
-      image: /images/202301_iiight singapore (16-9 sponsor logos).jpg
+      image: /images/202301_iiight singapore (16-9 sponsor logos) v3.jpg
       alt: a
       button: Find out more
       url: /about/sponsoracknowledgement
