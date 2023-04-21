@@ -2,8 +2,6 @@
 title: FAQ
 permalink: /faq/
 ---
-### **FAQ**
-
 <p style="font-size:17px; line-height:40px">
 <b>Q1. What is i Light Singapore all about?&nbsp;</b><br> Organised by the Urban Redevelopment Authority (URA) of Singapore, i Light Singapore was previously known as i Light Marina Bay. It started out in 2010 as one of several initiatives to inject vibrancy to the Marina Bay precinct, while reinforcing an important message on sustainability, advocating an environmentally-responsible society and way of life. The Festival has grown over the years to feature not just sustainable light art, but a full array of complementary programmes and exciting events. Returning for its ninth edition this year, the Festival will run over four weekends from 1 to 25 June 2023.<br>
 	<br>
