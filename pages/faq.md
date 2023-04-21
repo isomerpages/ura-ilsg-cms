@@ -6,7 +6,7 @@ permalink: /faq/
 <b>Q1. What is i Light Singapore all about?&nbsp;</b><br> As the place manager of Marina Bay, the Urban Redevelopment Authority (URA) of Singapore promotes exciting activities within the precinct in collaboration with other government agencies and private stakeholders. Organised by URA, i Light Singapore was previously known as i Light Marina Bay. It started out in 2010 as one of several initiatives to inject vibrancy to the Marina Bay precinct, while reinforcing an important message on sustainability, advocating an environmentally-responsible society and way of life. The Festival has grown over the years to feature not just sustainable light art, but a full array of complementary programmes and exciting events. Returning for its ninth edition this year, the Festival will run over four weekends from 1 to 25 June 2023.<br>
 	<br>
 <b>Q2. Do I have to pay admission fees to visit i Light Singapore 2023?</b><br>
-General admission to the Festival is free, while charges apply for certain <a href="/programmes">programmes</a>.<br>
+General admission to the Festival is free, while charges apply for certain <a href="/programmes">programmes</a>.<br>
 	
 <br>
 <b>Q3. What are the opening hours for i Light Singapore 2023?</b>
