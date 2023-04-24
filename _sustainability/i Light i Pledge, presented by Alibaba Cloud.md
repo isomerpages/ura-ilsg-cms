@@ -12,4 +12,4 @@ They can do so through two separate pledges:
 <br><br>
 The <b><i>Be a Zero Hero</i></b> pledge encourages the public to adopt zero waste habits such as reducing the use of single-use items and food waste. For each pledge up to the first 5000 pledges, 100g of waste will be removed from Singapore waterways by All Clear, a sustainability enterprise providing offshore and ocean clean-ups.
 <br><br>
-	The public can take part in <i>i Light i Pledge, presented by Alibaba Cloud</i> at: (hyperlink to microsite) and stand to win attractive prizes.</p>
+	The public can take part in <i>i Light i Pledge, presented by Alibaba Cloud</i> at: <a href="https://www.susgain.com/iLightiPledge">https://www.susgain.com/iLightiPledge</a> and stand to win attractive prizes.</p>
