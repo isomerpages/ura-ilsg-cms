@@ -16,5 +16,5 @@ Weekdays: Sunday to Thursday – 7.30pm to 11pm (last experience at 10.40pm)
 <br>
 Weekends: Friday and Saturday – 7.30pm to 12am (last experience at 11.40pm)
 <br><br>
-Admission tickets are priced at $5 (inclusive of booking fee). Ticket sales will start from 15 May 2023 via <a href="https://www.klook.com/en-SG/?utm_campaign=sg_partnerships_ps_ilight2023_may-2023&amp;utm_medium=p-website&amp;utm_source=ilight">Klook</a>.
+Admission tickets are priced at $5 (inclusive of booking fee). Ticket sales will start from 15 May 2023 via Klook.
 </p>
