@@ -16,6 +16,8 @@ sections:
       url: /programmes/lightwave-turning-the-tide
       image: /images/Programmes/lightwave kv r2-min.png
       alt: Image alt text
+      description: "Enter an underwater world with an imagined future where human
+        exploits have damaged the world arounds us irrevocably. "
   - infopic:
       title: i Light i Pledge
       button: Find out more
@@ -23,6 +25,8 @@ sections:
       image: /images/Sustainability/compressed 202301_iiight singapore (ilip banner -
         1920px x 1080px)-min.jpg
       alt: Image alt text
+      description: Join us in making small but impactful changes in your daily
+        lifestyles to cultivate sustainable habits.
   - infopic:
       title: Acknowledgements
       image: /images/202301_iiight singapore (16-9 sponsor logos) v4.jpg
