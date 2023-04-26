@@ -29,8 +29,8 @@ sections:
         lifestyle to cultivate sustainable habits.
   - infopic:
       title: Acknowledgements
-      image: /images/202301_iiight singapore (16-9 sponsor logos) v5.jpg
+      image: /images/202301_ilight singapore (16-9 sponsor logos) v5.jpg
       alt: a
       button: Find out more
-      url: /about/sponsoracknowledgement
+      url: /about/sponsorsacknowledgement
 ---
