@@ -2,5 +2,6 @@ collections:
   installations:
     output: true
     order:
+      - SHOW III.md
       - Installations.md
       - Glacier Dreams.md
