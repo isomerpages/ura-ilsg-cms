@@ -1,5 +1,5 @@
 collections:
-  installations:
+  installations-30:
     output: true
     order:
       - GLACIER DREAMS.md
