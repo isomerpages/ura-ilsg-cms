@@ -11,7 +11,7 @@ description: ""
 	<b>Location</b>: Façade of ArtScience Museum <br>
 	<i>Co-presented by Julius Baer &amp; Marina Bay Sands</i>
 <br><br>
-Inspired by both the beauty and fragility of glaciers, Glacier Dreams is the result of a groundbreaking, long-term research project involving machine learning, environmental studies and multi-sensory media art.
+	Inspired by both the beauty and fragility of glaciers, <i>Glacier Dreams</i> is the result of a groundbreaking, long-term research project involving machine learning, environmental studies and multi-sensory media art.
 <br><br>
 Visual materials collated from publicly available data and institutional archives, together with glacier images personally collected by Refik Anadol in Iceland, are processed through machine learning algorithms and transformed into Artificial Intelligence (AI)-based multi-sensory narratives.
 <br><br>
