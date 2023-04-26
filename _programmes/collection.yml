@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Programmes.md
-      - "Lightwave: Turning the Tide, presented by Alibaba Cloud.md"
+      - "Lightwave: Turning the Tide.md"
