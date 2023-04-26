@@ -14,7 +14,7 @@ sections:
       title: "Lightwave: Turning the Tide"
       button: Find out more
       url: /programmes/lightwave-turning-the-tide
-      image: /images/Programmes/lightwave kv r2-min.png
+      image: /images/Programmes/lightwave.jpg
       alt: Image alt text
       description: "Enter an underwater world with an imagined future where human
         exploits have damaged the world around us irrevocably. "
