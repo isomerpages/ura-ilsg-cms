@@ -10,7 +10,7 @@ Jeremy Lin, Jedy Chan, Dexter Hong&nbsp;<br>
 Plug &amp; Play (Singapore)&nbsp;
 <br>
 	<b>Location</b>: Entrance of Marina Bay Link Mall <br><br>
-	The dynamic relationship between humans and the environment is explored in <i>Block Party</i>, where visitors can participate in collaborative placemaking through the playful medium of dance.&nbsp;
+The dynamic relationship between humans and the environment is explored in <i>Block Party</i>, where visitors can participate in collaborative placemaking through the playful medium of dance.&nbsp;
 <br><br>
 Familiar public housing blocks in Singapore come to life as they react to movement prompts from visitors, taking on personalities of their own. As one bends and twists with the buildings, gardens bloom spontaneously over their facades.&nbsp;
 <br><br>
