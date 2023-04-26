@@ -17,7 +17,7 @@ Step into a giant musical garden and be surrounded by an immersive jungle of lig
 <br><br>
 Inspired by gramophones, these super-sized flowers burst to life occasionally with a specially commissioned musical score by Otis Studio, accompanied by some of Sydney’s finest jazz musicians.
 <br><br>
-<img src="/images/Installations/nicky_berry_profile_landscape_ilsg23%20-%20berenice%20chao-min.jpg">
+<img src="/images/Installations/amigo_amigo%20samigo_amigo%20studio%20photograph%202tudio%20photograph%202%20-%20daniel%20rodriguez.jpg">
 	<b>About the Artist</b><br>
 Founded in 2012, Amigo &amp; Amigo is an artist studio working across Sydney, Shanghai and Las Vegas. With an extensive background in sculpture and industrial design, their body of work showcases an ability to use light and materials to transform spaces and engage the public. &nbsp;
 <br><br>
