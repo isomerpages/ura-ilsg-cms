@@ -13,7 +13,7 @@ Amigo &amp; Amigo (Australia)&nbsp;
 <br><br>
 	<i>Presented by The Fullerton Heritage</i>
 <br><br>
-Step into a giant musical garden and be surrounded by an immersive jungle of light, colour, and sound. At Trumpet Flowers, visitors get the opportunity to create a unique floral symphony using interactive keys that control the towering musical and light instruments.&nbsp;
+Step into a giant musical garden and be surrounded by an immersive jungle of light, colour, and sound. At <i>Trumpet Flowers</i>, visitors get the opportunity to create a unique floral symphony using interactive keys that control the towering musical and light instruments.&nbsp;
 <br><br>
 Inspired by gramophones, these super-sized flowers burst to life occasionally with a specially commissioned musical score by Otis Studio, accompanied by some of Sydney’s finest jazz musicians.
 <br><br>
