@@ -2,10 +2,10 @@ collections:
   installations:
     output: true
     order:
-      - PRISM.md
-      - BLEACHED.md
-      - TRUMPET FLOWERS.md
-      - BLOCK PARTY.md
-      - SHOW III.md
       - Installations.md
       - Glacier Dreams.md
+      - BLOCK PARTY.md
+      - SHOW III.md
+      - TRUMPET FLOWERS.md
+      - BLEACHED.md
+      - PRISM.md
