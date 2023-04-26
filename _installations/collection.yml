@@ -1,4 +1,5 @@
 collections:
   installations:
     output: true
-    order: []
+    order:
+      - Installations.md
