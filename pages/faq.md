@@ -16,7 +16,7 @@ General admission to the Festival is free, while charges apply for certain <a hr
 <b>Q4. How is i Light Singapore a sustainable light festival?</b><br>
 The light art installations at the festival are designed with energy-saving lightings, and recycled or environmentally-friendly materials. They serve as reminders to festival-goers to adopt sustainable habits in their everyday lives.
 <br><br>	
-This year, the Festival is once again partnering susGain, a local social enterprise championing sustainability, on <b><i>i Light i Pledge, presented by Alibaba Cloud</i></b>. The public is encouraged to pledge their commitment to eco-conscious practices by making small but impactful changes in their daily lifestyles to cultivate sustainable habits.
+This year, the Festival is once again partnering susGain, a local social enterprise championing sustainability, on <b><i>i Light i Pledge, presented by Alibaba Cloud</i></b>. The public is encouraged to pledge their commitment to eco-conscious practices by making small but impactful changes in their daily lifestyle to cultivate sustainable habits.
 <br><br>
 They can do so through two separate pledges:
 <br><br>
