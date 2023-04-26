@@ -21,7 +21,7 @@ Plug &amp; Play (Singapore)<br>
 <b>Location</b>: &nbsp;Entrance of Marina Bay Link Mall<br> 
 <br><br>
 
-<a href="/installations/showIII"><img src="/images/Installations/show%20iii%20.jpg"></a>
+<a href="/installations/showiii"><img src="/images/Installations/show%20iii%20.jpg"></a>
 <b>Show III</b>
 <br>
 Chen Jiawen, Nanyang Academy of Fine Arts (Singapore) and Lai Ling Ling, James Cook University (Singapore)<br>
@@ -29,7 +29,7 @@ Chen Jiawen, Nanyang Academy of Fine Arts (Singapore) and Lai Ling Ling, James C
 <i>Co-presented by South Beach Consortium, Aedas, &amp; Sunray Woodcraft Construction, supported by JW Marriott Singapore South Beach</i>
 <br><br>
 
-<a href="/installations/trumperflowers"><img src="/images/Installations/trumpet%20flowers.jpg"></a>
+<a href="/installations/trumpetflowers"><img src="/images/Installations/trumpet%20flowers.jpg"></a>
 <b>Trumpet Flowers</b>
 <br>
 Amigo &amp; Amigo (Australia)<br>
