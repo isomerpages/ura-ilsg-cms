@@ -15,7 +15,7 @@ Chen Jiawen, Nanyang Academy of Fine Arts (Singapore) and Lai Ling Ling, James C
 <br><br>
 What does one usually think about in the shower?&nbsp;
 <br><br>
-Inspired by a belief that showers are perfect settings for self-contemplation, Show III is an invitation to unwind outdoors by soaking in its calming blue light, with the company of a composed soundscape and virtual water droplets.&nbsp;
+	Inspired by a belief that showers are perfect settings for self-contemplation, <i>Show III</i> is an invitation to unwind outdoors by soaking in its calming blue light, with the company of a composed soundscape and virtual water droplets.&nbsp;
 <br><br>
 The act of showering without water serves as a reminder for visitors to re-evaluate their water usage. It also aims to provide an alternative environment where one can be free of worries in the bustle of the city.
 <br><br>
