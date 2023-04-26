@@ -2,8 +2,13 @@ logo: /images/iLightsg_Lockup(F)-240220-04.png
 links:
   - title: About
     collection: about
+  - title: Installationsg
+    url: /installations
   - title: Installations
     url: /installations
+    sublinks:
+      - title: Glacier Dreams
+        url: /installations/glacier-dreams
   - title: Programmes
     url: /programmes
     sublinks:
