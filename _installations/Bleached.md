@@ -24,5 +24,5 @@ Adopting an interdisciplinary approach, Berenice Chao and Nicky Tjandra create w
 <br><br>
 Art and design is a universal language for Chao, who aspires to evoke a sense of amusement through her works. Tjandra, trained in Traditional Fine Arts, is fascinated with abstract concepts and tactile objects.&nbsp;
 <br><br>
-&nbsp;Currently pursuing Bachelor of Fine Arts in Design Art (Interactive Design major) at Nanyang Technological University School of Art, Design and Media, the duo aims to make art accessible to the community.
+Currently pursuing Bachelor of Fine Arts in Design Art (Interactive Design major) at Nanyang Technological University School of Art, Design and Media, the duo aims to make art accessible to the community.
 </p>
