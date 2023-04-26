@@ -26,7 +26,7 @@ description: ""
 </table>
 <br>
 <table style="width:100%">
-<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Held In</p></th>
+<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Held in</p></th>
 	</tr></thead>
 	<tbody>
 		<tr>
