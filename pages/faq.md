@@ -24,9 +24,7 @@ The <b><i>Switch Off Turn Up (SOTU)</i></b> pledge calls for all to switch off n
 <br><br>
 The <b><i>Be a Zero Hero</i></b> pledge encourages the public to adopt zero-waste habits such as reducing the use of single-use items and food waste. For each pledge up to the first 5000 pledges, 100g of waste will be removed from Singapore’s waterways* by All Clear – a sustainability enterprise providing offshore and ocean clean-ups – will remove 100g of waste from Singapore waterways. As such, up to 500 kg of waste will be removed as an outcome of the pledge.
 <br><br> 
-The public can take part in <i>i Light i Pledge</i> <a href="https://www.susgain.com/iLightiPledge">here</a> and stand to win attractive prizes.<br><br>
-For each pledge submitted online, a visual, unique to each pledge, will be generated using Alibaba Cloud’s AI technologies. The visuals can be viewed on <i>i Light i Pledge’s</i> website and as part of the last chapter at <i>Lightwave: Turning the Tide</i>. This initiative aims to demonstrate how a small step taken by an individual can contribute to a larger sustainability objective.
-<br><br>
+Take part in <i>i Light i Pledge, presented by Alibaba Cloud</i> <a href="https://www.susgain.com/iLightiPledge">here.</a> <br><br>
 *T&amp;C apply<br>
 
 <br>
