@@ -2,6 +2,7 @@ collections:
   installations:
     output: true
     order:
+      - TRUMPET FLOWERS.md
       - BLOCK PARTY.md
       - SHOW III.md
       - Installations.md
