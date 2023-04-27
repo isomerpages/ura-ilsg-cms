@@ -7,7 +7,7 @@ description: ""
 <img src="/images/Installations/glacier%20dreams.jpg">
 	<b>Glacier Dreams</b><br> 
 Refik Anadol<br> 
-Refik Anadol Studio (USA) <br>
+Refik Anadol Studio (USA) and Julius Baer<br>
 <b>Location</b>: Façade of ArtScience Museum <br><br>
 <i>Co-presented by Julius Baer &amp; Marina Bay Sands</i>
 <br><br>
@@ -19,7 +19,7 @@ The artist, together with his Los Angeles-based team, hopes to raise awareness o
 <br><br>
 
 <img src="/images/Installations/refik%20anadol_credit%20efsun%20erkilic.jpg"> 
-	<b>About the artist</b>
+	<b>About the Artist</b>
 	<br>
 Born in Istanbul, Refik Anadol is a media artist, director and pioneer in the aesthetics of data and machine intelligence. His body of work locates creativity at the intersection of humans and machines.
 <br><br>
