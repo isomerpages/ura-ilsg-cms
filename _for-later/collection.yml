@@ -1,0 +1,9 @@
+collections:
+  for-later:
+    output: true
+    order:
+      - TOURS.md
+      - LIGHT WASH.md
+      - LIGHT FORUM.md
+      - GASTROBEATS.md
+      - FESTIVAL DIRECTOR MESSAGE.md

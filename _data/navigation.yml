@@ -1,4 +1,35 @@
 logo: /images/iLightsg_Lockup(F)-240220-04.png
 links:
   - title: About
-    url: /about
+    collection: about
+  - title: Installations
+    url: /installations
+    sublinks:
+      - title: Glacier Dreams
+        url: /installations/glacier-dreams
+      - title: Block Party
+        url: /installations/blockparty
+      - title: Show III
+        url: /installations/showiii
+      - title: Trumpet Flowers
+        url: /installations/trumpetflowers
+      - title: Bleached
+        url: /installations/bleached
+      - title: Prism
+        url: /installations/prism
+  - title: Programmes
+    url: /programmes
+    sublinks:
+      - title: "Lightwave: Turning the Tide"
+        url: /programmes/lightwave-turning-the-tide/
+  - title: Sustainability
+    url: /sustainability
+    sublinks:
+      - title: i Light i Pledge
+        url: /sustainability/ilightipledge
+      - title: Switch Off, Turn Up
+        url: /sustainability/switch-off-turn-up
+  - title: Media Releases
+    url: /media-releases
+  - title: Faq
+    url: /faq

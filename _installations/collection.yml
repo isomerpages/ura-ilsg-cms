@@ -2,19 +2,10 @@ collections:
   installations:
     output: true
     order:
-      - GLACIER DREAMS.md
-      - MOOOOOOOTION.md
-      - TREE MAN.md
-      - BLUMIWAVE.md
-      - SYMPHONY 1.md
-      - LIGHT ANEMONES.md
-      - SHOW III.md
-      - BLOCK PARTY.md
-      - the things left unsaid.md
-      - RÉSONANCES.md
-      - TRUMPET FLOWERS.md
-      - AQUATICS.md
-      - BLEACHED.md
-      - JUN ONG.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - Installations.md
+      - Glacier Dreams.md
+      - Block Party.md
+      - Show III.md
+      - Trumpet Flowers.md
+      - Bleached.md
+      - Prism.md
