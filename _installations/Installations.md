@@ -8,7 +8,7 @@ description: ""
 <b> Glacier Dreams </b>
 <br>
 Refik Anadol <br>
-Refik Anadol Studio (USA)<br> 
+Refik Anadol Studio (USA) and Julius Baer<br> 
 <b>Location</b>: Façade of ArtScience Museum<br><br>
 <i>Co-presented by Julius Baer &amp; Marina Bay Sands</i>	
 <br><br>
