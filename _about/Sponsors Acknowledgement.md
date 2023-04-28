@@ -102,7 +102,7 @@ description: ""
 	</tr></thead>
 	<tbody>
 		<tr>
-			<td style="width:30%"><a href="https://hexogonsol.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/hexogon%20group_version.png" align="left"></a></td>
+			<td style="width:30%"><a href="https://hexogonsol.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/hexogon%20group_version.png" align="left"></a></td>	
 			<td style="width:70%"></td>
 		</tr>
 	</tbody>

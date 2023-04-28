@@ -21,7 +21,8 @@ description: ""
 		<tr>
 			<td style="width:30%"><a href="https://www.climateresources.net" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/crx_resized%20web%20version.png" align="left"></a></td>
 			<td style="width:30%"><a href="https://www.susGain.com" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/sus%20grain_resized%20web%20version.png" align="left"></a></td>
-			<td style="width:40%"></td>
+			<td style="width:30%"><a href="https://energy.alibabacloud.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/alibaba%20energy%20expert%20logo.png" align="left"></a></td>
+			<td style="width:10%"></td>
 		</tr>
 	</tbody>
 </table><p></p>
