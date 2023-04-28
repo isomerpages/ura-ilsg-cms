@@ -3,7 +3,7 @@ title: i Light i Pledge
 permalink: /sustainability/ilightipledge/
 description: ""
 ---
-[![](/images/Sustainability/compressed%20202301_iiight%20singapore%20(ilip%20banner%20-%201920px%20x%201080px)-min.jpg)](https://www.susGain.com/iLightiPledge)
+<a target="_blank" href="https://www.susGain.com/iLightiPledge"><img src="/images/Sustainability/compressed%20202301_iiight%20singapore%20(ilip%20banner%20-%201920px%20x%201080px)-min.jpg"></a>
 
 <p style="font-size:17px; line-height:40px">
 	<b>i Light i Pledge, presented by Alibaba Cloud</b>
