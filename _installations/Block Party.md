@@ -6,7 +6,7 @@ description: ""
 <p style="font-size:17px; line-height:40px"> 
 <img src="/images/Installations/block%20party.jpg">
 	<b>Block Party</b><br>
-Jeremy Lin, Jedy Chan, Dexter Hong&nbsp;<br>
+Jeremy Lin, Jedy Chen, Dexter Hong&nbsp;<br>
 Plug &amp; Play (Singapore)&nbsp;
 <br>
 	<b>Location</b>: Entrance of Marina Bay Link Mall <br><br>
