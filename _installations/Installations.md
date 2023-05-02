@@ -16,7 +16,7 @@ Refik Anadol Studio (USA) and Julius Baer<br>
 <a href="/installations/blockparty"><img src="/images/Installations/block%20party.jpg"></a>
 <b> Block Party</b>
 <br>
-Jeremy Lin, Jedy Chan, Dexter Hong&nbsp; <br>
+Jeremy Lin, Jedy Chen, Dexter Hong&nbsp; <br>
 Plug &amp; Play (Singapore)<br>
 <b>Location</b>: &nbsp;Entrance of Marina Bay Link Mall<br> 
 <br><br>
