@@ -113,7 +113,7 @@ description: ""
 <table>
 <tbody>
 		<tr>
-				<td style="width:30%"><img src="/images/About/Sponsor%20Acknowledgement/sus%20grain_resized%20web%20version.png" align="left"><a href="http://www.susgain.com/" target="_blank"></a></td>
+			<td style="width:30%"><a target="_blank" href="http://www.susgain.com/"><img src="/images/About/Sponsor%20Acknowledgement/sus%20grain_resized%20web%20version.png"></a></td>
 			<td style="width:70%">
 		</td></tr>
 	</tbody>
