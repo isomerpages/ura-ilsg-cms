@@ -26,5 +26,6 @@ Governing Law: The giveaway is governed by the laws of the country where the giv
 <li><p style="font-size:17px;line-height:40px">
 Release: By participating in the giveaway, participants release the organiser, its affiliates, subsidiaries, advertising and promotion agencies, and their respective officers, directors, employees, and agents from any and all liability, loss, or damage arising out of or in connection with their participation in the giveaway or the acceptance, use, or misuse of any prize.</p></li><br>
 <li><p style="font-size:17px;line-height:40px">Agreement to Terms and Conditions: By participating in the giveaway, participants agree to be bound by these terms and conditions.</p></li><br>
+	
 <p style="font-size:17px;line-height:40px">
 <b>- END OF TERMS AND CONDITIONS -</b></p></ol>
