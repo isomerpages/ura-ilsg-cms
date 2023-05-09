@@ -20,21 +20,21 @@ Jeremy Lin, Jedy Chen, Dexter Hong&nbsp; <br>
 Plug &amp; Play (Singapore)<br>
 <b>Location</b>: &nbsp;Entrance of Marina Bay Link Mall<br> 
 <br><br>
-
-<a href="/installations/showiii"><img src="/images/Installations/show%20iii%20.jpg"></a>
-<b>Show III</b>
-<br>
-Chen Jiawen, Nanyang Academy of Fine Arts (Singapore) and Lai Ling Ling, James Cook University (Singapore)<br>
-<b>Location</b>: South Beach Main Entrance (next to JW Marriott Singapore South Beach drop-off point)<br><br>
-<i>Co-presented by South Beach Consortium, Aedas, &amp; Sunray Woodcraft Construction, supported by JW Marriott Singapore South Beach</i>
-<br><br>
-
+	
 <a href="/installations/trumpetflowers"><img src="/images/Installations/trumpet%20flowers.jpg"></a>
 <b>Trumpet Flowers</b>
 <br>
 Amigo &amp; Amigo (Australia)<br>
 <b>Location</b>: Clifford Square<br><br>
 	<i>Presented by The Fullerton Heritage</i>
+<br><br>
+	
+<a href="/installations/showiii"><img src="/images/Installations/show%20iii%20.jpg"></a>
+<b>Show III</b>
+<br>
+Chen Jiawen, Nanyang Academy of Fine Arts (Singapore) and Lai Ling Ling, James Cook University (Singapore)<br>
+<b>Location</b>: South Beach Main Entrance (next to JW Marriott Singapore South Beach drop-off point)<br><br>
+<i>Co-presented by South Beach Consortium, Aedas, &amp; Sunray Woodcraft Construction, supported by JW Marriott Singapore South Beach</i>
 <br><br>
 
 <a href="/installations/bleached"><img src="/images/Installations/bleached.jpg"></a>
