@@ -4,6 +4,7 @@ permalink: /termsandconditions/staycation/
 description: ""
 ---
 ### Staycation Giveaway
+
 <p style="font-size:17px;line-height:40px"><b>
 Applicable to all social media giveaways conducted from 1 - 25 June 2023 on i Light Singapore social media platforms, including Instagram and Facebook:</b></p>
 
