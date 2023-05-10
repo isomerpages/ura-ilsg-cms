@@ -5,7 +5,7 @@ description: ""
 ---
 ### Lightwave: Turning the Tide Tickets
 
-<p style="font size:17px;line height:40px"> <b>Applicable to all social media giveaways conducted on i Light Singapore social media platforms, including Instagram and Facebook:</b>
+<p style="font size:17px;line height:40px"> <b>Applicable to all social media giveaways conducted from 13 - 17 June 2023 on i Light Singapore social media platforms, including Instagram and Facebook:</b>
 </p>
 <ol type="1">
 <li><p style="font-size:17px; line-height:40px">Eligibility: The giveaway is open to individuals at least 18 years old and residing in the country where the giveaway is being held (Singapore). Employees of the organiser, its affiliates, subsidiaries, and advertising and promotion agencies are not eligible to participate in the giveaway.</p></li><br>
