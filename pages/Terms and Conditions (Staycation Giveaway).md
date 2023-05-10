@@ -3,7 +3,7 @@ title: Terms and Conditions (Staycation Giveaway)
 permalink: /termsandconditions/staycation/
 description: ""
 ---
-### Staycation
+### Staycation Giveaway
 <p style="font-size:17px;line-height:40px"><b>
 Applicable to all social media giveaways conducted on i Light Singapore social media platforms, including Instagram and Facebook:</b></p>
 
