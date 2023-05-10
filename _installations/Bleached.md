@@ -8,7 +8,7 @@ description: ""
 	<b>Bleached</b><br>
 Berenice Chao Zong Xin, Nicky Josephine Tjandra&nbsp;
 <br>
-National Technological University School of Art, Design and Media (Singapore)&nbsp;
+Nanyang Technological University School of Art, Design and Media (Singapore)&nbsp;
 <br>
 		<b>Location</b>: South Beach Avenue – Level B1M&nbsp; (beside Akira Back)
 <br><br>
