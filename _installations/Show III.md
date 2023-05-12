@@ -7,7 +7,8 @@ description: ""
 <img src="/images/Installations/show%20iii%20.jpg">
 	<b> Show III</b>
 <br>
-Chen Jiawen, Nanyang Academy of Fine Arts (Singapore) and Lai Ling Ling, James Cook University (Singapore)&nbsp;
+Chen Jiawen, Lai Ling Ling<br>
+Nanyang Academy of Fine Arts (Singapore) and James Cook University (Singapore)&nbsp;
 <br>
 	<b>Location</b>: South Beach Main Entrance (next to JW Marriott Singapore South Beach drop-off point)&nbsp;
 <br><br>
