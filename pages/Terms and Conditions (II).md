@@ -3,7 +3,7 @@ title: Terms and Conditions (II)
 permalink: /termsandconditions/ilightsingapore-contest/
 description: ""
 ---
-### Terms and Conditions (II) (<i>i Light Singapore 2023 Contest</i>)
+### i Light Singapore 2023 Contest
 
 <p style="font-size:17px;line-height:40px"><b>
 Applicable to all social media giveaways conducted from 1 - 25 June 2023 on i Light Singapore social media platforms, including Instagram and Facebook:</b></p>
