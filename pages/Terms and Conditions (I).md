@@ -3,7 +3,7 @@ title: Terms and Conditions (I)
 permalink: /termsandconditions/lightwave-tickets-giveaway/
 description: ""
 ---
-### <i>Lightwave: Turning the Tide</i> Tickets
+### Tickets Giveaway for <i>Lightwave: Turning the Tide</i> 
 
 <p style="font-size:17px;line-height:40px"> <b>Applicable to all social media giveaways conducted from 13 - 17 May 2023 on i Light Singapore social media platforms, including Instagram and Facebook:</b>
 </p>
