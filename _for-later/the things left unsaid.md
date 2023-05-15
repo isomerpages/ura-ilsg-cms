@@ -16,6 +16,6 @@ Visitors are encouraged to wander among wave sheets draped across the space, gen
 <br><br>
 <img src="">
 <b>About the Artist</b><br>
-Brigette Teo is an interactive media artist currently pursuing a degree at Nanyang Technological University School of Art, Design and Media.&nbsp;&nbsp;
+Brigette Teo is an interactive media artist currently pursuing a degree at Nanyang Technological University School of Art, Design and Media.
 <br><br>
 With a passion for fibre handiwork such as crochet and sewing, she enjoys exploring opportunities to create accessible and interactive tactile works. As an illustrator, she has also been commissioned to create skateboard designs.</p>
