@@ -2,6 +2,7 @@ collections:
   for-later:
     output: true
     order:
+      - Symphony 1.md
       - Moooooootion.md
       - Blumiwave.md
       - Tree Man.md
