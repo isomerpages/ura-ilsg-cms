@@ -7,7 +7,7 @@ description: ""
 <img src="/images/Installations/moooooootion.jpg">
 <b>Moooooootion</b><br>
 XD49 (Thailand)<br>
-<b>Location:</b>Bayfront Event Space
+<b>Location:</b> Bayfront Event Space
 <br><br>
 <i>Presented by GastroBeats</i><br> In collaboration with Awakening Bangkok from Bangkok, Thailand
 <br><br>
