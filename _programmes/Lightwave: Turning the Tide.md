@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Programmes/lightwave.jpg)
 <p style="font-size:17px; line-height:40px">
-<b>Lightwave: Turning the Tide, presented by Alibaba Cloud
+	<b>Get your tickets to <i>Lightwave: Turning the Tide, presented by Alibaba Cloud</i> <a target="_blank" href="https://www.klook.com/en-SG/activity/87471-lightwave-turning-tide-ticket/">here</a>!
 	<br><br></b>
 <i>Lightwave: Turning the Tide</i>, imagines a future where human exploits have damaged the world around us irrevocably. 
 <br><br>Transported to an underwater world, visitors are left to ponder: How have we come to this? <br><br>Through three unfolding chapters of thought-provoking multi-sensorial light experiences, explore how our way of life has impacted nature. Be inspired to make a change and turn the tide.
@@ -21,5 +21,5 @@ Weekends: Friday and Saturday – 7.30pm to 12am (last experience at 11.40pm)
 <br><br>
 	<b>Ticketing</b>
 <br>
-Admission tickets are priced at SGD5 each and can be purchased from Klook from 15 May 2023.
+Admission tickets are priced at SGD5 each and can be purchased from Klook.
 </p>
