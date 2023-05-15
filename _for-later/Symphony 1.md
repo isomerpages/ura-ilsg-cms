@@ -3,7 +3,7 @@ title: Symphony 1
 permalink: /installations/symphony-1/
 description: ""
 ---
-<p style="font-size:17px,line-height:40px">
+<p style="font-size:17px, line-height:40px">
 <img src="/images/Installations/symphony%201.jpg">
 <b>Symphony 1</b><br>
 Chan Wan Kyn, Linknito, Linez<br>
