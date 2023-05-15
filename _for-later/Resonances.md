@@ -6,7 +6,7 @@ description: ""
 <p style="font-size:17px; line-height:40px">
 <img src="/images/Installations/re¦çsonances.jpg">
 <b>Résonances</b><br>
-Philipp Artus in collaboration with ELEKTRA (Canada)<br>
+Louis-Philippe Rondeau in collaboration with ELEKTRA (Canada)<br>
 <b>Location:</b> Open Plaza, OUE Bayfront<br><br>
 <i>Résonances</i> is an interactive installation that embodies the inexorable passage of time. It seeks to reveal the limit between present and past.&nbsp;&nbsp;
 <br><br>
