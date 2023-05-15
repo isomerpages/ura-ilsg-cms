@@ -7,7 +7,7 @@ description: ""
 <img src="/images/Installations/the%20things%20left%20unsaid.jpg">
 <b>the things left unsaid</b><br>
 Brigette Teo<br>
-Nanyang Technological University, School of Art, Design and Media (Singapore)<br>
+Nanyang Technological University School of Art, Design and Media (Singapore)<br>
 <b>Location:</b> Breeze Shelter
 <br><br>
 <i>the things left unsaid</i> is a manifestation of the artist’s unspoken thoughts and feelings about growing up in a time of seemingly never-ending doom. Repeatedly confronted by news of a gloomy future and an impending climate catastrophe, the artwork acts as a refuge from despair.&nbsp;&nbsp;
