@@ -2,7 +2,7 @@ collections:
   for-later:
     output: true
     order:
-      - TOURS.md
+      - Tours.md
       - Light Wash.md
       - Light Forum.md
       - GastroBeats.md
