@@ -6,7 +6,7 @@ description: ""
 <a target="_blank" href="https://www.susGain.com/iLightiPledge"><img src="/images/Sustainability/compressed%20202301_iiight%20singapore%20(ilip%20banner%20-%201920px%20x%201080px)-min.jpg"></a>
 
 <p style="font-size:17px; line-height:40px">
-	<b>Take part in i Light i Pledge, presented by Alibaba Cloud <a target="_blank" href="https://www.susgain.com/iLightiPledge">here</a> and stand to win attractive prizes!</b>
+	<b>Take part in <i>i Light i Pledge, presented by Alibaba Cloud</i> <a target="_blank" href="https://www.susgain.com/iLightiPledge">here</a> and stand to win attractive prizes!</b>
 <br><br>
 This year, the Festival is once again partnering susGain, a local social enterprise championing sustainability, on <i>i Light i Pledge</i>. The public is encouraged to pledge their commitment to eco-conscious practices by making small but impactful changes in their daily lifestyle to cultivate sustainable habits.
 <br><br>
