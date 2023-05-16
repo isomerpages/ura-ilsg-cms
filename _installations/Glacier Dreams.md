@@ -28,7 +28,7 @@ Through radical visualisations of our digitised memories, Anadol expands the pos
 	</tr></thead>
 	<tbody>
 		<tr>
-			<td style="width:30%"><a href="www.juliusbaer.com" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/julius%20bar_resized%20web%20version.png" align="left"></a></td>
+			<td style="width:30%"><a href="https://www.juliusbaer.com" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/julius%20bar_resized%20web%20version.png" align="left"></a></td>
 			<td style="width:30%"><a href="https://www.marinabaysands.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/mbs_resized%20web%20version.png" align="left"></a></td>
 			<td style="width:40%"></td>
 		</tr>
