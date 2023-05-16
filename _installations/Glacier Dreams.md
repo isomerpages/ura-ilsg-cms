@@ -9,20 +9,6 @@ description: ""
 Refik Anadol<br> 
 Refik Anadol Studio (USA) and Julius Baer<br>
 <b>Location</b>: Façade of ArtScience Museum <br><br>
-
-<table style="width:100%">
-<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px"> <i>Co-presented by</i></p></th>
-	</tr></thead>
-	<tbody>
-		<tr>
-			<td style="width:30%"><a href="-" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/julius%20bar_resized%20web%20version.png" align="left"></a></td>
-			<td style="width:30%"><a href="-" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/mbs_resized%20web%20version.png" align="left"></a></td>
-			<td style="width:40%"></td>
-		</tr>
-	</tbody>
-</table>
-
-<br><br>
 Inspired by both the beauty and fragility of glaciers, <i>Glacier Dreams</i> is the result of a groundbreaking, long-term research project involving machine learning, environmental studies and multi-sensory media art.
 <br><br>
 Visual materials collated from publicly available data and institutional archives, together with glacier images personally collected by Refik Anadol in Iceland, are processed through machine learning algorithms and transformed into Artificial Intelligence (AI)-based multi-sensory narratives.
@@ -37,3 +23,15 @@ Born in Istanbul, Refik Anadol is a media artist, director and pioneer in the ae
 <br><br>
 Through radical visualisations of our digitised memories, Anadol expands the possibilities of architecture, narrative and the body in motion. This encourages us to rethink our engagement with the physical world and creative potential of machines.
 </p>
+<br>
+<table style="width:100%">
+<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Co-presented by</p></th>
+	</tr></thead>
+	<tbody>
+		<tr>
+			<td style="width:30%"><a href="www.juliusbaer.com" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/julius%20bar_resized%20web%20version.png" align="left"></a></td>
+			<td style="width:30%"><a href="https://www.marinabaysands.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/mbs_resized%20web%20version.png" align="left"></a></td>
+			<td style="width:40%"></td>
+		</tr>
+	</tbody>
+</table>
