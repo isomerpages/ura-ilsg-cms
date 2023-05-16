@@ -22,7 +22,7 @@ The artist, together with his Los Angeles-based team, hopes to raise awareness o
 Born in Istanbul, Refik Anadol is a media artist, director and pioneer in the aesthetics of data and machine intelligence. His body of work locates creativity at the intersection of humans and machines.
 <br><br>
 Through radical visualisations of our digitised memories, Anadol expands the possibilities of architecture, narrative and the body in motion. This encourages us to rethink our engagement with the physical world and creative potential of machines.
-</p>
+</p><br>
 <table style="width:100%">
 <thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Co-presented by</p></th>
 	</tr></thead>
