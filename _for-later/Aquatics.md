@@ -15,7 +15,7 @@ Using a tablet, visitors can design their own creatures and add them to the unde
 <br><br>
 By witnessing the beauty of animal locomotion in its natural habitat, participants are reminded of the urgent need to preserve biodiversity and ecosystems.
 <br><br>
-<img src="">
+<img src="/images/Installations/2nd%20release/philipp_artus_profile_landsscape_ilsg23.jpg">
 <b>About the Artist</b><br>
 Philipp Artus is a multidisciplinary artist and filmmaker based in Berlin. &nbsp;
 <br><br>
