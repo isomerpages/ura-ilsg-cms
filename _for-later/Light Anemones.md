@@ -14,7 +14,7 @@ Studio Kebbel (Germany)<br>
 <br><br>
 During the day, its surroundings and sunlight are reflected in the curved titanium-stainless steel mirrors. In the night, linear beams appear due to the play of light along the entire concave and convex structure with a rotating centre. As light from the three sculptures interact with one another, merging with mirrored silhouettes of their neighbouring buildings, people and landscape, a complex symphony of light and imagery is composed — as though from a different time continuum.<br><br>
 
-<img src=""><br>
+<img src="/images/Installations/2nd%20release/malte_kebbel_profile_landscape_ilsg23%20-%20malte%20kebbel.jpg"><br>
 <b>About the Artist</b>
 <br>
 Malte Kebbel is a German artist who creates large-scale light and sculpture installations for public spaces.&nbsp;
