@@ -3,9 +3,7 @@ title: Light Forum
 permalink: /programmes/light-forum/
 description: ""
 ---
-<p style="font-size:17px; line-height:40px">
-
-<table style="width:100%">
+<table style="width:100%; font-size:17px; line-height:40px;align:justify">
 <tbody>
 <tr><td>Light Forum is a curated series of talks, workshop and walking tours that takes place on the first weekend of the Festival. <br><br>
 	
@@ -15,11 +13,11 @@ Visitors can also participate in a workshop on 4 June for a hands-on opportunity
 As an optional add-on, Light Forum participants can also sign up for a walking tour held in partnership with Let’s Go Tour Singapore. On this tour, they can hear from experienced guides the inspiration behind thisthis year’s Festival theme, A New Wave, as well as stories behind the light art installations. The tour is available to Light Forum participants at a discounted rate of SGD15/pax&nbsp;each.
 <br><br>
 Sign up for Light Forum here [hyperlink =&gt; Light Forum registration page].</td></tr></tbody></table>
+<br>
 <table style="width:100%">
-
 <tbody><tr><td><b>3 June 2023</b></td></tr></tbody></table>
 
-<table style="width:100%">
+<table style="width:100%; font-size:17px; line-height:40px; align:justify">
 	<tbody><tr><td><b>Session A:</b><br>4pm - 4.15pm</td>
 		<td><br>Registration</td></tr></tbody>
 	<tbody><tr><td>4.15pm - 4.30pm</td>
@@ -27,7 +25,7 @@ Sign up for Light Forum here [hyperlink =&gt; Light Forum registration page].</t
 	</tr></tbody><tbody><tr><td>4.20pm - 4.40pm</td>
 		<td>Speaker 1: Lighting Designer – Takashisa Yamaguchi<br>
 			CapitaSpring – from drawing board to reality</td></tr></tbody></table>
-<table style="width:100%">
+<table style="width:100%; font-size:17px; line-height:40px; align:justify">
 <tbody><tr><td>CapitaSpring is a 280-metre-tall building in Singapore designed by Bjarke Ingels Group. Its exterior lighting integrates harmoniously with the structure’s architecture, landscape and function. This presentation unpacks its design philosophy and unveils its techniques of discreet lighting where effects can be felt even though it is invisible even in photographic documentation.&nbsp;
 <br><br>
 	<b>Speaker</b><br>
@@ -36,4 +34,4 @@ Taka is a Japanese lighting designer and an Associate at Nipek Singapore, workin
 	
 	
 	
-</p>
+<p></p>
