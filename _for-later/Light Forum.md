@@ -109,25 +109,28 @@ WE-EF Lighting is a supplier to noteworthy Singapore landmarks like Gardens by T
 <br><br>
 Explore Lighting Effects -, Lighting Up the Façade of a Model.</td>
 	</tr></tbody></table>
-	<table style="width:100%; font-size:17px; line-height:40px; align:justify">
+
+<table style="width:100%; font-size:17px; line-height:40px; align:justify">
 <tbody><tr><td>At this workshop, participants will get a hands-on opportunity to experiment with exterior or façade lighting and light up a small-scale facade model. The session will be facilitated by professional exterior lighting expert Stefan Bittner.&nbsp;
 <br>
 	<b>Facilitator</b>
 <br>
 Born in Germany, Stefan Bittner is Managing Director Sales at WE-EF Lighting Thailand and has spent the last 18 years working in the lighting industry in Asia. He is passionate about sustainable lighting and constantly in dialogue with industry professionals and rethinking ways to light our urban spaces.</td></tr></tbody></table>
 <br>
-5.30pm - 6.15pm
-		Registration
-	<b>Session B</b><br>6.15pm - 6.20pm
-		<br>Welcome and Introduction
-	6.20pm - 7.05pm
-		Let us whisk you into the minds of talented creatives behind i Light Singapore 2023 – featuring artists Philipp Artus <i>(Aquatics)</i>, The Grand Lowlife Orchestra <i>(Symphony 1)</i> and Malte Kebbel <i>(Light Anemones)</i>. Join us to uncover the artists’  inspirations for their artworks.
-	7.05pm - 7.20pm
-		Q&amp;A with Moderator
-	8.00pm - 10.00pm Walking Tour by Let’s Go Tour (Optional Add on)
+<table style="width:100%; font-size:17px; line-height:40px; align:justify">
+	<tbody><tr><td style="width:30%">5.30pm - 6.15pm</td>
+		<td>Registration</td></tr></tbody>
+	<tbody><tr><td style="width:30%"><b>Session B</b><br>6.15pm - 6.20pm</td>
+		<td style="width:70%"><br>Welcome and Introduction</td>
+	</tr></tbody><tbody><tr><td style="width:30%">6.20pm - 7.05pm</td>
+		<td style="width:70%">Let us whisk you into the minds of talented creatives behind i Light Singapore 2023 – featuring artists DP Design <i>(Blumiwave)</i>,&nbsp;Plug &amp; Play <i>(Block Party)</i> and ENESS <i>(Tree Man)</i>. Join us to uncover the artists’  inspirations for their artworks.</td>
+	</tr></tbody><tbody><tr><td style="width:30%">7.05pm - 7.20pm</td>
+		<td style="width:70%">Q&amp;A with Moderator</td></tr></tbody>
+	<tbody><tr><td style="width:30%">8.00pm - 10.00pm</td><td style="width:70%"> Walking Tour by Let’s Go Tour (Optional Add on)
 		<br>
 On this tour held in partnership with Let’s Go Tour Singapore, hear from experienced guides the inspiration behind this year’s Festival theme, A New Wave, as well as stories behind this year’s light art installations.&nbsp;&nbsp;&nbsp;
 <br><br>
 Enjoy the walking tour at a special rate of $15 when sign up for any of the Light Forum talks or workshop.&nbsp;&nbsp;
 <br><br>
-Sign up for Light Forum here [hyperlink =&gt; Light Forum registration page].
+Sign up for Light Forum here [hyperlink =&gt; Light Forum registration page].</td></tr></tbody></table>
+<br><br>
