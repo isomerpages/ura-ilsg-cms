@@ -14,7 +14,7 @@ Nanyang Technological University School of Art, Design and Media (Singapore)<br>
 <br><br>
 Visitors are encouraged to wander among wave sheets draped across the space, gently touching them to see the lights react and change. This interaction evokes an innocent sense of beauty and enchantment, and is a quiet reminder of hope, possibilities, and an appreciation for all things wonderful.
 <br><br>
-<img src="">
+<img src="/images/Installations/2nd%20release/brigette_profile_portrait_ilsg23%20-%20brigette%20teo.jpg">
 <b>About the Artist</b><br>
 Brigette Teo is an interactive media artist currently pursuing a degree at Nanyang Technological University School of Art, Design and Media.
 <br><br>
