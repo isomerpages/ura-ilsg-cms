@@ -23,15 +23,61 @@ Sign up for Light Forum here [hyperlink =&gt; Light Forum registration page].</t
 	<tbody><tr><td>4.15pm - 4.30pm</td>
 		<td>Welcome and Introduction</td>
 	</tr></tbody><tbody><tr><td>4.20pm - 4.40pm</td>
-		<td>Speaker 1: Lighting Designer – Takashisa Yamaguchi<br>
+		<td>Speaker 1: Lighting Designer – Takashisa Yamaguchi<br><br>
 			CapitaSpring – from drawing board to reality</td></tr></tbody></table>
+<br>
 <table style="width:100%; font-size:17px; line-height:40px; align:justify">
 <tbody><tr><td>CapitaSpring is a 280-metre-tall building in Singapore designed by Bjarke Ingels Group. Its exterior lighting integrates harmoniously with the structure’s architecture, landscape and function. This presentation unpacks its design philosophy and unveils its techniques of discreet lighting where effects can be felt even though it is invisible even in photographic documentation.&nbsp;
 <br><br>
 	<b>Speaker</b><br>
 Taka is a Japanese lighting designer and an Associate at Nipek Singapore, working on an extensive range of projects from mixed-use developments in the heart of Singapore's Central Business District to high-end hospitality ventures.</td></tr></tbody></table>
+
+<table style="width:100%; font-size:17px; line-height:40px; align:justify">
+	<tbody><tr><td>4.40pm - 5.00pm</td>
+		<td>Speaker 2: Lighting Designer – Matt Marshall&nbsp;&nbsp;
+<br><br>
+A Beacon for Business: Circular Lighting Design and the Workplace</td>
+	</tr></tbody></table>
 	
+<table style="width:100%; font-size:17px; line-height:40px; align:justify">
+	<tbody>
+		<tr><td>With paradigm shifts underway in sustainable design practices in architecture, the lighting industry can play a big part in minimising its impact on the environment by incorporating circular lighting design and specification strategies. Supported with case studies, this talk will shed light on ways to repurpose existing lighting technologies to conserve energy and reduce cost.&nbsp;&nbsp;
+<br><br>
+<b>Speaker</b>
+<br>
+Matt Marshall has worked in the lighting industry for over 25 years across the greater APAC region. Having studied illumination engineering at university, he holds a firm and passionate belief that good lighting and sensible design adds not only add to the health and well-being of inhabitants and users, but also contributes to the fight against climate change.</td></tr></tbody></table>
+
+<table style="width:100%; font-size:17px; line-height:40px; align:justify">
+	<tbody><tr><td>5.00pm - 5.20pm</td>
+		<td>Speaker 3: Lighting Designer – Toh Yah Li&nbsp;
+<br><br>
+The Transformative Power of Light</td>
+	</tr></tbody></table>
 	
+<table style="width:100%; font-size:17px; line-height:40px; align:justify">
+	<tbody>
+		<tr><td>Discover the transformative power of lighting.&nbsp;
+<br>
+This session examines how effective use of lighting strategies while being sensitive to the environment can improve well-being, enhance human connections and create environments to support plant life. Through case studies like the Singapore Pavilion for World Expo. Dubai 2020 Parkroyal Collection Marina Bay and Meyer House, the talk reveals how lighting is one key component of architectural and biophilic designs.&nbsp;
+<br><br>
+<b>Speaker</b>
+<br>
+Yah Li Toh (CLD, IALD, IES) is the Principal of Light Collab. Shortlisted as Designer of the Year for Singapore President's Design Award 2018 and 2020, she is also a recipient of numerous lighting awards including the SkillsFuture Fellowship Award 2019. Often invited to talk about lighting, she is also an educator and facilitates workshops for design and lighting at tertiary institutions.</td></tr></tbody></table>
+
+<table style="width:100%; font-size:17px; line-height:40px; align:justify">
+	<tbody><tr><td>5.30pm - 6.15pm</td>
+		<td>Registration</td></tr></tbody>
+	<tbody><tr><td><b>Session B</b><br>6.15pm - 6.20pm</td>
+		<td><br>Welcome and Introduction</td>
+	</tr></tbody><tbody><tr><td>6.20pm - 7.05pm</td>
+		<td>Let us whisk you into the minds of talented creatives behind i Light Singapore 2023 – featuring artists Philipp Artus <i>(Aquatics)</i>, The Grand Lowlife Orchestra <i>(Symphony 1)</i> and Malte Kebbel <i>(Light Anemones)</i>. Join us to uncover the artists’  inspirations for their artworks.</td>
+	</tr></tbody><tbody><tr><td>7.05pm - 7.20pm</td>
+		<td>Q&amp;A with Moderator</td></tr></tbody>
+	<tbody><tr><td>8.00pm - 10.00pm</td><td> Walking Tour by Let’s Go Tour (Optional Add on)
+		<br>
+On this tour held in partnership with Let’s Go Tour Singapore, hear from experienced guides the inspiration behind this year’s Festival theme, A New Wave, as well as stories behind this year’s light art installations.&nbsp;&nbsp;&nbsp;
+<br><br>
+Enjoy the walking tour at a special rate of $15 when sign up for any of the Light Forum talks or workshop.&nbsp;&nbsp;
+<br><br>
+Sign up for Light Forum here [hyperlink =&gt; Light Forum registration page].</td></tr></tbody></table>
 	
-	
-<p></p>
