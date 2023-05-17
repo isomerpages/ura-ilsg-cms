@@ -12,8 +12,6 @@ Nanyang Academy of Fine Arts (Singapore) and James Cook University (Singapore)&n
 <br>
 	<b>Location</b>: South Beach Main Entrance (next to JW Marriott Singapore South Beach drop-off point)&nbsp;
 <br><br>
-<i>Co-presented by South Beach Consortium, Aedas, &amp; Sunray Woodcraft Construction, supported by JW Marriott Singapore South Beach</i>
-<br><br>
 What does one usually think about in the shower?&nbsp;
 <br><br>
 	Inspired by a belief that showers are perfect settings for self-contemplation, <i>Show III</i> is an invitation to unwind outdoors by soaking in its calming blue light, with the company of a composed soundscape and virtual water droplets.&nbsp;
@@ -25,3 +23,14 @@ The act of showering without water serves as a reminder for visitors to re-evalu
 	<b>About the Artists</b><br>
 Chen Jiawen is a Furniture and Spatial Design graduate from Nanyang Academy of Fine Arts. Lai Lingling majors in Internet of Things at James Cook University. Together, they aim to inspire a stronger sense of social responsibility and sustainable lifestyle.
  </p>
+ <br>
+<table style="width:100%">
+<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Co-presented by</p></th>
+	</tr></thead>
+	<tbody>
+		<tr>
+			<td style="width:30%"><img src="/images/About/Sponsor%20Acknowledgement/south%20beach_version%202.png" align="left"><a href="https://www.southbeachavenue.com/" target="_blank">&nbsp;</a><a href="https://www.aedas.com" target="_blank">&nbsp;</a><a href="https://www.sunray.com.sg/" target="_blank">&nbsp;</a></td>
+			<td style="width:70%"></td>
+		</tr>
+	</tbody>
+</table>
