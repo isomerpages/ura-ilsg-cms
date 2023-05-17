@@ -24,39 +24,29 @@ Sign up for Light Forum here [hyperlink =&gt; Light Forum registration page].</t
 		<td style="width:70%">Welcome and Introduction</td>
 	</tr></tbody><tbody><tr><td style="width:30%">4.20pm - 4.40pm</td>
 		<td style="width:70%">Speaker 1: Lighting Designer – Takashisa Yamaguchi<br><br>
-			CapitaSpring – from drawing board to reality</td></tr></tbody></table>
-<br>
-<table style="width:100%; font-size:17px; line-height:40px; align:justify">
-<tbody><tr><td>CapitaSpring is a 280-metre-tall building in Singapore designed by Bjarke Ingels Group. Its exterior lighting integrates harmoniously with the structure’s architecture, landscape and function. This presentation unpacks its design philosophy and unveils its techniques of discreet lighting where effects can be felt even though it is invisible even in photographic documentation.&nbsp;
+			CapitaSpring – from drawing board to reality</td></tr></tbody>
+	<tbody><tr><td style="width:30%"></td><td style="width:70%">CapitaSpring is a 280-metre-tall building in Singapore designed by Bjarke Ingels Group. Its exterior lighting integrates harmoniously with the structure’s architecture, landscape and function. This presentation unpacks its design philosophy and unveils its techniques of discreet lighting where effects can be felt even though it is invisible even in photographic documentation.&nbsp;
 <br><br>
 	<b>Speaker</b><br>
-Taka is a Japanese lighting designer and an Associate at Nipek Singapore, working on an extensive range of projects from mixed-use developments in the heart of Singapore's Central Business District to high-end hospitality ventures.</td></tr></tbody></table>
-<br>
-<table style="width:100%; font-size:17px; line-height:40px; align:justify">
+Taka is a Japanese lighting designer and an Associate at Nipek Singapore, working on an extensive range of projects from mixed-use developments in the heart of Singapore's Central Business District to high-end hospitality ventures.</td></tr></tbody>
 	<tbody><tr><td style="width:30%">4.40pm - 5.00pm</td>
-		<td style="width:70%">Speaker 2: Lighting Designer – Matt Marshall&nbsp;&nbsp;
+		<td style="width:70%">Speaker 2: Lighting Designer – Matt Marshall
 <br><br>
 A Beacon for Business: Circular Lighting Design and the Workplace</td>
-	</tr></tbody></table>
-<br>
-<table style="width:100%; font-size:17px; line-height:40px; align:justify">
+	</tr></tbody>
 	<tbody>
-		<tr><td>With paradigm shifts underway in sustainable design practices in architecture, the lighting industry can play a big part in minimising its impact on the environment by incorporating circular lighting design and specification strategies. Supported with case studies, this talk will shed light on ways to repurpose existing lighting technologies to conserve energy and reduce cost.&nbsp;&nbsp;
+		<tr><td style="width:30%"></td><td style="width:70%">With paradigm shifts underway in sustainable design practices in architecture, the lighting industry can play a big part in minimising its impact on the environment by incorporating circular lighting design and specification strategies. Supported with case studies, this talk will shed light on ways to repurpose existing lighting technologies to conserve energy and reduce cost.&nbsp;&nbsp;
 <br><br>
 <b>Speaker</b>
 <br>
-Matt Marshall has worked in the lighting industry for over 25 years across the greater APAC region. Having studied illumination engineering at university, he holds a firm and passionate belief that good lighting and sensible design adds not only add to the health and well-being of inhabitants and users, but also contributes to the fight against climate change.</td></tr></tbody></table>
-<br>
-<table style="width:100%; font-size:17px; line-height:40px; align:justify">
+Matt Marshall has worked in the lighting industry for over 25 years across the greater APAC region. Having studied illumination engineering at university, he holds a firm and passionate belief that good lighting and sensible design adds not only add to the health and well-being of inhabitants and users, but also contributes to the fight against climate change.</td></tr></tbody>
 	<tbody><tr><td style="width:30%">5.00pm - 5.20pm</td>
 		<td style="width:70%">Speaker 3: Lighting Designer – Toh Yah Li
 <br><br>
 The Transformative Power of Light</td>
-	</tr></tbody></table>
-<br>
-<table style="width:100%; font-size:17px; line-height:40px; align:justify">
+	</tr></tbody>
 	<tbody>
-		<tr><td>Discover the transformative power of lighting.
+		<tr><td style="width:30%"></td><td style="width:70%">Discover the transformative power of lighting.
 <br><br>
 This session examines how effective use of lighting strategies while being sensitive to the environment can improve well-being, enhance human connections and create environments to support plant life. Through case studies like the Singapore Pavilion for World Expo. Dubai 2020 Parkroyal Collection Marina Bay and Meyer House, the talk reveals how lighting is one key component of architectural and biophilic designs.&nbsp;
 <br><br>
@@ -92,34 +82,26 @@ Sign up for Light Forum here [hyperlink =&gt; Light Forum registration page].</t
 	</tr></tbody><tbody><tr><td style="width:30%">4.20pm - 4.40pm</td>
 		<td style="width:70%">Speaker: Stefan Bitner&nbsp;&nbsp;
 <br>
-The Future of the Urban Spaces: Dark Sky (Night Sensitive Lighting)</td></tr></tbody></table>
-<br>
-<table style="width:100%; font-size:17px; line-height:40px; align:justify">
-<tbody><tr><td>This session examines viable and sensitive lighting solutions for heritage buildings, monuments, and churches, where lighting fixtures can often be restrictive and confined by conservation rules. It also discusses what lighting companies can do to provide more sustainable solutions for consumers.&nbsp;
+The Future of the Urban Spaces: Dark Sky (Night Sensitive Lighting)</td></tr></tbody>
+	<tbody><tr><td style="width:30%"></td><td style="width:70%">This session examines viable and sensitive lighting solutions for heritage buildings, monuments, and churches, where lighting fixtures can often be restrictive and confined by conservation rules. It also discusses what lighting companies can do to provide more sustainable solutions for consumers.&nbsp;
 <br><br>
 	<b>Speaker</b>&nbsp;
 <br><br>
 WE-EF is a global manufacturer of high-performance exterior luminaires renowned for outstanding engineering design and innovative optical systems. Established in 1950 in Germany, WE-EF is recognised worldwide as a leading specialist for sustainable exterior lighting solutions and a benchmark of product performance, reliability and longevity, as well as ease of installation. Responsible resource management is enforced across all areas of operation, from product life-cycle assessments to sustainable business procedures.&nbsp;
 <br><br>
-WE-EF Lighting is a supplier to noteworthy Singapore landmarks like Gardens by The Bay, South Beach, Marina One&nbsp; and Jewel Changi Airport.</td></tr></tbody></table>
-<br>
-<table style="width:100%; font-size:17px; line-height:40px; align:justify">
+WE-EF Lighting is a supplier to noteworthy Singapore landmarks like Gardens by The Bay, South Beach, Marina One&nbsp; and Jewel Changi Airport.</td></tr></tbody>
 	<tbody><tr><td style="width:30%">4.50pm - 5.45pm</td>
 		<td style="width:70%">Hands-on Workshop: Stefan Bitner&nbsp;&nbsp;
 <br><br>
 Explore Lighting Effects -, Lighting Up the Façade of a Model.</td>
-	</tr></tbody></table>
-
-<table style="width:100%; font-size:17px; line-height:40px; align:justify">
-<tbody><tr><td>At this workshop, participants will get a hands-on opportunity to experiment with exterior or façade lighting and light up a small-scale facade model. The session will be facilitated by professional exterior lighting expert Stefan Bittner.&nbsp;
+	</tr></tbody>
+	<tbody><tr><td style="width:30%"></td><td style="width:70%">At this workshop, participants will get a hands-on opportunity to experiment with exterior or façade lighting and light up a small-scale facade model. The session will be facilitated by professional exterior lighting expert Stefan Bittner.&nbsp;
 <br><br>
 	<b>Facilitator</b>
 <br>
-Born in Germany, Stefan Bittner is Managing Director Sales at WE-EF Lighting Thailand and has spent the last 18 years working in the lighting industry in Asia. He is passionate about sustainable lighting and constantly in dialogue with industry professionals and rethinking ways to light our urban spaces.</td></tr></tbody></table>
-<br>
-<table style="width:100%; font-size:17px; line-height:40px; align:justify">
+Born in Germany, Stefan Bittner is Managing Director Sales at WE-EF Lighting Thailand and has spent the last 18 years working in the lighting industry in Asia. He is passionate about sustainable lighting and constantly in dialogue with industry professionals and rethinking ways to light our urban spaces.</td></tr></tbody>
 	<tbody><tr><td style="width:30%">5.30pm - 6.15pm</td>
-		<td>Registration</td></tr></tbody>
+		<td style="width:70%">Registration</td></tr></tbody>
 	<tbody><tr><td style="width:30%"><b>Session B</b><br>6.15pm - 6.20pm</td>
 		<td style="width:70%"><br>Welcome and Introduction</td>
 	</tr></tbody><tbody><tr><td style="width:30%">6.20pm - 7.05pm</td>
@@ -140,4 +122,4 @@ Sign up for Light Forum here [hyperlink =&gt; Light Forum registration page].</t
 	<thead><tr><th colspan="4"><p style="font-size:17px;line-height:20px">Presented by</p></th></tr></thead>
 	<tbody>
 		<tr>
-			<td style="width:30%"><a href="https://museum.red-dot.sg/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/red%20dot_resized%20web%20version.png" align="left"></a></td><td style="width:70%"></td></tr></tbody></table>
+			<td style="width:30%"><a target="_blank" href="https://museum.red-dot.sg/"><img align="left" src="/images/About/Sponsor%20Acknowledgement/red%20dot_resized%20web%20version.png"></a></td><td style="width:70%"></td></tr></tbody></table>
