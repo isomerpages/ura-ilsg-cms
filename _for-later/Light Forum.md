@@ -57,7 +57,7 @@ The Transformative Power of Light</td>
 <table style="width:100%; font-size:17px; line-height:40px; align:justify">
 	<tbody>
 		<tr><td>Discover the transformative power of lighting.&nbsp;
-<br>
+<br><br>
 This session examines how effective use of lighting strategies while being sensitive to the environment can improve well-being, enhance human connections and create environments to support plant life. Through case studies like the Singapore Pavilion for World Expo. Dubai 2020 Parkroyal Collection Marina Bay and Meyer House, the talk reveals how lighting is one key component of architectural and biophilic designs.&nbsp;
 <br><br>
 <b>Speaker</b>
@@ -80,4 +80,3 @@ On this tour held in partnership with Let’s Go Tour Singapore, hear from exper
 Enjoy the walking tour at a special rate of $15 when sign up for any of the Light Forum talks or workshop.&nbsp;&nbsp;
 <br><br>
 Sign up for Light Forum here [hyperlink =&gt; Light Forum registration page].</td></tr></tbody></table>
-	
