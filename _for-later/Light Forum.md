@@ -87,7 +87,7 @@ The Future of the Urban Spaces: Dark Sky (Night Sensitive Lighting)</td></tr></t
 	<tbody><tr><td style="width:30%"></td><td style="width:70%">This session examines viable and sensitive lighting solutions for heritage buildings, monuments, and churches, where lighting fixtures can often be restrictive and confined by conservation rules. It also discusses what lighting companies can do to provide more sustainable solutions for consumers.&nbsp;
 <br><br>
 	<b>Speaker</b>&nbsp;
-<br><br>
+<br>
 WE-EF is a global manufacturer of high-performance exterior luminaires renowned for outstanding engineering design and innovative optical systems. Established in 1950 in Germany, WE-EF is recognised worldwide as a leading specialist for sustainable exterior lighting solutions and a benchmark of product performance, reliability and longevity, as well as ease of installation. Responsible resource management is enforced across all areas of operation, from product life-cycle assessments to sustainable business procedures.&nbsp;
 <br><br>
 WE-EF Lighting is a supplier to noteworthy Singapore landmarks like Gardens by The Bay, South Beach, Marina One&nbsp; and Jewel Changi Airport.</td></tr></tbody>
