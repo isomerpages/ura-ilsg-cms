@@ -38,7 +38,7 @@ Taka is a Japanese lighting designer and an Associate at Nipek Singapore, workin
 <br><br>
 A Beacon for Business: Circular Lighting Design and the Workplace</td>
 	</tr></tbody></table>
-	<br>
+<br>
 <table style="width:100%; font-size:17px; line-height:40px; align:justify">
 	<tbody>
 		<tr><td>With paradigm shifts underway in sustainable design practices in architecture, the lighting industry can play a big part in minimising its impact on the environment by incorporating circular lighting design and specification strategies. Supported with case studies, this talk will shed light on ways to repurpose existing lighting technologies to conserve energy and reduce cost.&nbsp;&nbsp;
@@ -53,7 +53,7 @@ Matt Marshall has worked in the lighting industry for over 25 years across the g
 <br><br>
 The Transformative Power of Light</td>
 	</tr></tbody></table>
-	<br>
+<br>
 <table style="width:100%; font-size:17px; line-height:40px; align:justify">
 	<tbody>
 		<tr><td>Discover the transformative power of lighting.
@@ -74,7 +74,7 @@ Yah Li Toh (CLD, IALD, IES) is the Principal of Light Collab. Shortlisted as Des
 	</tr></tbody><tbody><tr><td style="width:30%">7.05pm - 7.20pm</td>
 		<td style="width:70%">Q&amp;A with Moderator</td></tr></tbody>
 	<tbody><tr><td style="width:30%">8.00pm - 10.00pm</td><td style="width:70%"> Walking Tour by Let’s Go Tour (Optional Add on)
-		<br>
+<br>
 On this tour held in partnership with Let’s Go Tour Singapore, hear from experienced guides the inspiration behind this year’s Festival theme, A New Wave, as well as stories behind this year’s light art installations.&nbsp;&nbsp;&nbsp;
 <br><br>
 Enjoy the walking tour at a special rate of $15 when sign up for any of the Light Forum talks or workshop.&nbsp;&nbsp;
