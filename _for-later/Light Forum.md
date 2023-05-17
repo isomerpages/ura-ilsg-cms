@@ -20,7 +20,7 @@ Sign up for Light Forum here [hyperlink =&gt; Light Forum registration page].</t
 <table style="width:100%; font-size:17px; line-height:40px; align:justify">
 	<tbody><tr><td style="width:30%"><b>Session A:</b><br>4pm - 4.15pm</td>
 		<td style="width:70%"><br>Registration</td></tr></tbody>
-	<tbody><tr><td style="width:30%">4.15pm - 4.30pm</td>
+	<tbody><tr><td style="width:30%">4.15pm - 4.20pm</td>
 		<td style="width:70%">Welcome and Introduction</td>
 	</tr></tbody><tbody><tr><td style="width:30%">4.20pm - 4.40pm</td>
 		<td style="width:70%">Speaker 1: Lighting Designer – Takashisa Yamaguchi<br><br>
@@ -80,3 +80,54 @@ On this tour held in partnership with Let’s Go Tour Singapore, hear from exper
 Enjoy the walking tour at a special rate of $15 when sign up for any of the Light Forum talks or workshop.&nbsp;&nbsp;
 <br><br>
 Sign up for Light Forum here [hyperlink =&gt; Light Forum registration page].</td></tr></tbody></table>
+<br>
+<table style="width:100%">
+<tbody><tr><td><b>4 June 2023</b></td></tr></tbody></table>
+
+<table style="width:100%; font-size:17px; line-height:40px; align:justify">
+	<tbody><tr><td style="width:30%"><b>Session A:</b><br>4pm - 4.15pm</td>
+		<td style="width:70%"><br>Registration</td></tr></tbody>
+	<tbody><tr><td style="width:30%">4.15pm - 4.20pm</td>
+		<td style="width:70%">Welcome and Introduction</td>
+	</tr></tbody><tbody><tr><td style="width:30%">4.20pm - 4.40pm</td>
+		<td style="width:70%">Speaker: Stefan Bitner&nbsp;&nbsp;
+<br>
+The Future of the Urban Spaces: Dark Sky (Night Sensitive Lighting)</td></tr></tbody></table>
+<br>
+<table style="width:100%; font-size:17px; line-height:40px; align:justify">
+<tbody><tr><td>This session examines viable and sensitive lighting solutions for heritage buildings, monuments, and churches, where lighting fixtures can often be restrictive and confined by conservation rules. It also discusses what lighting companies can do to provide more sustainable solutions for consumers.&nbsp;
+<br><br>
+	<b>Speaker</b>&nbsp;
+<br><br>
+WE-EF is a global manufacturer of high-performance exterior luminaires renowned for outstanding engineering design and innovative optical systems. Established in 1950 in Germany, WE-EF is recognised worldwide as a leading specialist for sustainable exterior lighting solutions and a benchmark of product performance, reliability and longevity, as well as ease of installation. Responsible resource management is enforced across all areas of operation, from product life-cycle assessments to sustainable business procedures.&nbsp;
+<br><br>
+WE-EF Lighting is a supplier to noteworthy Singapore landmarks like Gardens by The Bay, South Beach, Marina One&nbsp; and Jewel Changi Airport.</td></tr></tbody></table>
+
+<table style="width:100%; font-size:17px; line-height:40px; align:justify">
+	<tbody><tr><td style="width:30%">4.50pm - 5.45pm</td>
+		<td style="width:70%">Hands-on Workshop: Stefan Bitner&nbsp;&nbsp;
+<br><br>
+Explore Lighting Effects -, Lighting Up the Façade of a Model.</td>
+	</tr></tbody></table>
+	<table style="width:100%; font-size:17px; line-height:40px; align:justify">
+<tbody><tr><td>At this workshop, participants will get a hands-on opportunity to experiment with exterior or façade lighting and light up a small-scale facade model. The session will be facilitated by professional exterior lighting expert Stefan Bittner.&nbsp;
+<br>
+	<b>Facilitator</b>
+<br>
+Born in Germany, Stefan Bittner is Managing Director Sales at WE-EF Lighting Thailand and has spent the last 18 years working in the lighting industry in Asia. He is passionate about sustainable lighting and constantly in dialogue with industry professionals and rethinking ways to light our urban spaces.</td></tr></tbody></table>
+<br>
+5.30pm - 6.15pm
+		Registration
+	<b>Session B</b><br>6.15pm - 6.20pm
+		<br>Welcome and Introduction
+	6.20pm - 7.05pm
+		Let us whisk you into the minds of talented creatives behind i Light Singapore 2023 – featuring artists Philipp Artus <i>(Aquatics)</i>, The Grand Lowlife Orchestra <i>(Symphony 1)</i> and Malte Kebbel <i>(Light Anemones)</i>. Join us to uncover the artists’  inspirations for their artworks.
+	7.05pm - 7.20pm
+		Q&amp;A with Moderator
+	8.00pm - 10.00pm Walking Tour by Let’s Go Tour (Optional Add on)
+		<br>
+On this tour held in partnership with Let’s Go Tour Singapore, hear from experienced guides the inspiration behind this year’s Festival theme, A New Wave, as well as stories behind this year’s light art installations.&nbsp;&nbsp;&nbsp;
+<br><br>
+Enjoy the walking tour at a special rate of $15 when sign up for any of the Light Forum talks or workshop.&nbsp;&nbsp;
+<br><br>
+Sign up for Light Forum here [hyperlink =&gt; Light Forum registration page].
