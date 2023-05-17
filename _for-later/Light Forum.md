@@ -134,3 +134,10 @@ Enjoy the walking tour at a special rate of $15 when sign up for any of the Ligh
 <br><br>
 Sign up for Light Forum here [hyperlink =&gt; Light Forum registration page].</td></tr></tbody></table>
 <br><br>
+
+
+<table style="width:100%">
+	<thead><tr><th colspan="4"><p style="font-size:17px;line-height:20px">Presented by</p></th></tr></thead>
+	<tbody>
+		<tr>
+			<td style="width:30%"><a href="https://museum.red-dot.sg/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/red%20dot_resized%20web%20version.png" align="left"></a></td><td style="width:70%"></td></tr></tbody></table>
