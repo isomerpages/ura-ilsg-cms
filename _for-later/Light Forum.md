@@ -31,14 +31,14 @@ Sign up for Light Forum here [hyperlink =&gt; Light Forum registration page].</t
 <br><br>
 	<b>Speaker</b><br>
 Taka is a Japanese lighting designer and an Associate at Nipek Singapore, working on an extensive range of projects from mixed-use developments in the heart of Singapore's Central Business District to high-end hospitality ventures.</td></tr></tbody></table>
-
+<br>
 <table style="width:100%; font-size:17px; line-height:40px; align:justify">
 	<tbody><tr><td style="width:30%">4.40pm - 5.00pm</td>
 		<td style="width:70%">Speaker 2: Lighting Designer – Matt Marshall&nbsp;&nbsp;
 <br><br>
 A Beacon for Business: Circular Lighting Design and the Workplace</td>
 	</tr></tbody></table>
-	
+	<br>
 <table style="width:100%; font-size:17px; line-height:40px; align:justify">
 	<tbody>
 		<tr><td>With paradigm shifts underway in sustainable design practices in architecture, the lighting industry can play a big part in minimising its impact on the environment by incorporating circular lighting design and specification strategies. Supported with case studies, this talk will shed light on ways to repurpose existing lighting technologies to conserve energy and reduce cost.&nbsp;&nbsp;
@@ -46,14 +46,14 @@ A Beacon for Business: Circular Lighting Design and the Workplace</td>
 <b>Speaker</b>
 <br>
 Matt Marshall has worked in the lighting industry for over 25 years across the greater APAC region. Having studied illumination engineering at university, he holds a firm and passionate belief that good lighting and sensible design adds not only add to the health and well-being of inhabitants and users, but also contributes to the fight against climate change.</td></tr></tbody></table>
-
+<br>
 <table style="width:100%; font-size:17px; line-height:40px; align:justify">
 	<tbody><tr><td style="width:30%">5.00pm - 5.20pm</td>
 		<td style="width:70%">Speaker 3: Lighting Designer – Toh Yah Li
 <br><br>
 The Transformative Power of Light</td>
 	</tr></tbody></table>
-	
+	<br>
 <table style="width:100%; font-size:17px; line-height:40px; align:justify">
 	<tbody>
 		<tr><td>Discover the transformative power of lighting.
@@ -63,7 +63,7 @@ This session examines how effective use of lighting strategies while being sensi
 <b>Speaker</b>
 <br>
 Yah Li Toh (CLD, IALD, IES) is the Principal of Light Collab. Shortlisted as Designer of the Year for Singapore President's Design Award 2018 and 2020, she is also a recipient of numerous lighting awards including the SkillsFuture Fellowship Award 2019. Often invited to talk about lighting, she is also an educator and facilitates workshops for design and lighting at tertiary institutions.</td></tr></tbody></table>
-
+<br>
 <table style="width:100%; font-size:17px; line-height:40px; align:justify">
 	<tbody><tr><td style="width:30%">5.30pm - 6.15pm</td>
 		<td>Registration</td></tr></tbody>
@@ -80,7 +80,7 @@ On this tour held in partnership with Let’s Go Tour Singapore, hear from exper
 Enjoy the walking tour at a special rate of $15 when sign up for any of the Light Forum talks or workshop.&nbsp;&nbsp;
 <br><br>
 Sign up for Light Forum here [hyperlink =&gt; Light Forum registration page].</td></tr></tbody></table>
-<br>
+<br><br>
 <table style="width:100%">
 <tbody><tr><td><b>4 June 2023</b></td></tr></tbody></table>
 
@@ -102,7 +102,7 @@ The Future of the Urban Spaces: Dark Sky (Night Sensitive Lighting)</td></tr></t
 WE-EF is a global manufacturer of high-performance exterior luminaires renowned for outstanding engineering design and innovative optical systems. Established in 1950 in Germany, WE-EF is recognised worldwide as a leading specialist for sustainable exterior lighting solutions and a benchmark of product performance, reliability and longevity, as well as ease of installation. Responsible resource management is enforced across all areas of operation, from product life-cycle assessments to sustainable business procedures.&nbsp;
 <br><br>
 WE-EF Lighting is a supplier to noteworthy Singapore landmarks like Gardens by The Bay, South Beach, Marina One&nbsp; and Jewel Changi Airport.</td></tr></tbody></table>
-
+<br>
 <table style="width:100%; font-size:17px; line-height:40px; align:justify">
 	<tbody><tr><td style="width:30%">4.50pm - 5.45pm</td>
 		<td style="width:70%">Hands-on Workshop: Stefan Bitner&nbsp;&nbsp;
