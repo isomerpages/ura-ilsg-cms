@@ -112,7 +112,7 @@ Explore Lighting Effects -, Lighting Up the Façade of a Model.</td>
 
 <table style="width:100%; font-size:17px; line-height:40px; align:justify">
 <tbody><tr><td>At this workshop, participants will get a hands-on opportunity to experiment with exterior or façade lighting and light up a small-scale facade model. The session will be facilitated by professional exterior lighting expert Stefan Bittner.&nbsp;
-<br>
+<br><br>
 	<b>Facilitator</b>
 <br>
 Born in Germany, Stefan Bittner is Managing Director Sales at WE-EF Lighting Thailand and has spent the last 18 years working in the lighting industry in Asia. He is passionate about sustainable lighting and constantly in dialogue with industry professionals and rethinking ways to light our urban spaces.</td></tr></tbody></table>
