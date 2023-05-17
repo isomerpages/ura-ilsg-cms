@@ -57,7 +57,7 @@ This session examines how effective use of lighting strategies while being sensi
 Yah Li Toh (CLD, IALD, IES) is the Principal of Light Collab. Shortlisted as Designer of the Year for Singapore President's Design Award 2018 and 2020, she is also a recipient of numerous lighting awards including the SkillsFuture Fellowship Award 2019. Often invited to talk about lighting, she is also an educator and facilitates workshops for design and lighting at tertiary institutions.</td></tr></tbody></table>
 <br>
 <table style="width:100%; font-size:17px; line-height:40px; align:justify">
-	<tbody><tr><td style="width:30%">5.30pm - 6.15pm</td>
+	<tbody><tr><td style="width:30%">5.45pm - 6.15pm</td>
 		<td>Registration</td></tr></tbody>
 	<tbody><tr><td style="width:30%"><b>Session B</b><br>6.15pm - 6.20pm</td>
 		<td style="width:70%"><br>Welcome and Introduction</td>
