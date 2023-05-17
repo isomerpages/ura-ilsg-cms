@@ -102,7 +102,7 @@ Explore Lighting Effects -, Lighting Up the Façade of a Model.</td>
 	<b>Facilitator</b>
 <br>
 Born in Germany, Stefan Bittner is Managing Director Sales at WE-EF Lighting Thailand and has spent the last 18 years working in the lighting industry in Asia. He is passionate about sustainable lighting and constantly in dialogue with industry professionals and rethinking ways to light our urban spaces.</td></tr></tbody>
-	<tbody><tr><td style="width:30%">5.30pm - 6.15pm</td>
+	<tbody><tr><td style="width:30%">5.45pm - 6.15pm</td>
 		<td style="width:70%">Registration</td></tr></tbody>
 	<tbody><tr><td style="width:30%"><b>Session B</b><br>6.15pm - 6.20pm</td>
 		<td style="width:70%"><br>Welcome and Introduction</td>
