@@ -16,7 +16,7 @@ Emitting blue light and with a head shaped like a digital screen, the sculpture 
 <br><br>
 A soundscape is overlaid with a recording of the surrounding environment and programmed to replay every hour. This mechanism mimics how social media is often an archive of ‘live recordings’ that overlap with our immediate realities.
 <br><br>
-<img src="">
+<img src="/images/Installations/2nd%20release/nimrodweis_profile_landscape_ilsg23%20-%20lyndal%20hall-min%20(1).jpg">
 <b>About the Artist</b><br>
 Founded in 1997 by artist Nimrod Weis, ENESS is a multidisciplinary team of creatives traversing art, music, software engineering and industrial design.&nbsp;
 <br><br>
