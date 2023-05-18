@@ -30,7 +30,7 @@ Sign up for Light Forum here [hyperlink =&gt; Light Forum registration page].</t
 	<tbody><tr><td style="width:30%"></td><td style="width:70%">CapitaSpring is a 280-metre-tall building in Singapore designed by Bjarke Ingels Group. Its exterior lighting integrates harmoniously with the structure’s architecture, landscape and function. This presentation unpacks its design philosophy and unveils its techniques of discreet lighting where effects can be felt even though it is invisible even in photographic documentation.&nbsp;
 <br><br>
 	<b>Speaker</b><br>
-Taka is a Japanese lighting designer and an Associate at Nipek Singapore, working on an extensive range of projects from mixed-use developments in the heart of Singapore's Central Business District to high-end hospitality ventures.</td></tr></tbody>
+Taka is a Japanese lighting designer and an Associate at Nipek Singapore, has worked on an extensive range of projects from mixed-use developments in the heart of Singapore's Central Business District to high-end hospitality ventures.</td></tr></tbody>
 	<tbody><tr><td style="width:30%">4.40pm - 5.00pm</td>
 		<td style="width:70%">Speaker 2: Lighting Designer – Matt Marshall
 <br><br>
