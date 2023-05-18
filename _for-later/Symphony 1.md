@@ -12,7 +12,9 @@ The Grand Lowlife Orchestra (Singapore | USA | Morocco)<br>
 <i>Symphony 1</i> is a light-based architectural entity that inhabits space. A living being, its ethereal and translucent organic form populates any location.<br><br>
 Masses of twisting vine-like structures emit an icy glow to fill the space before sprouting into sprigs of crystalline flowers. The sprawl of its existence is a comment on nature and our relationship with it, contradicting yet also enhancing the brutal denseness of urban spaces it finds itself in.
 <br><br>
-<img src="">
+<table style="width:100%">
+	<tbody><tr><td style="width:33%"><img src="/images/Installations/2nd%20release/chanwankyn_profile_landscape_ilsg23.jpg"></td><td style="width:33%"><img src="/images/Installations/2nd%20release/linknito_profile_landscape_ilsg23.jpg"></td><td style="width:33%"><img src="/images/Installations/2nd%20release/linez_profile_landscape_ilsg23.jpg"></td></tr></tbody></table>
+	
 <b>About the Artist</b><br>
 The Grand Lowlife Orchestra (GLO) is a global artist collective, comprising Chan Wan Kyn (Singapore), Linknito (USA) and Linez (Morocco).&nbsp;&nbsp;
 <br><br>
