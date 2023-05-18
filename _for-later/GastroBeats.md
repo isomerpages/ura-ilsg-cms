@@ -12,7 +12,7 @@ be delighted by the array of games and activities, such as towering bouncy castl
 
 <i>GastroBeats</i> is all about showcasing the best of our community and local talents. Get ready for an unforgettable experience filled with fun, laughter and good vibes!<br><br>
 
-For more information, please visit <i>GastroBeats</i> <a target="_blank" href="https://www.gastrobeats.com.sg">here</a>.
+For more information, please visit <i>GastroBeats</i> <a target="_blank" href="https://www.gastrobeats.com.sg">here</a>. <br><br>
 
 <b>Location</b><br>
 Bayfront Event Space<br><br>
