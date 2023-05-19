@@ -10,8 +10,7 @@ In line with the Festival’s colour theme for this edition of i Light Singapore
 <b>Timing</b><br>
 7.30pm – 11pm (with extended hours to 12am on Fridays and Saturdays) daily<br><br>
 	
-<b>Participating Organisation</b><br>
-</p><p style="font-size:17px;line-height:40px">
+<b>Participating Organisation</b></p><p style="font-size:17px;line-height:40px">
 	</p><ol type="1">
 		<li><p style="font-size:17px;line-height:40px">Esplanade - Theatres on the Bay, Outdoor Theatre</p></li>
 	<li><p style="font-size:17px;line-height:40px">Marina Bay Sands</p></li>
