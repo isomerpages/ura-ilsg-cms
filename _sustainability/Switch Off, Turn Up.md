@@ -11,9 +11,9 @@ For the first time this year, the initiative will expand beyond corporations to 
 Take part in <i>SOTU</i> through <i>i Light i Pledge, presented by Alibaba Cloud</i> at <a target="_blank" href="https://www.susgain.com/iLightiPledge">https://www.susgain.com/iLightiPledge</a> today!
 <br><br>
 A huge thank you to the following stakeholders for joining URA to&nbsp;<i>SOTU</i> this year:<br>
-<table style="width:100%; border:1px solid black; border-collapse:collapse; padding:10px">
+<table style="width:100%; border:1px solid black; border-collapse:separate; padding:10px">
 <tbody>
-	<tr style="colour: black"><td style="width:50%">
+	<tr><td style="width:50%">
 		1. Gardens by the Bay</td><td style="width:50%"> Bay South Garden</td></tr>
 	<tr><td style="width:50%">2. Housing Development Board (HDB)</td><td style="width:50%">HDB Hub</td></tr>
 	<tr><td style="width:50%">3. HSBC Institutional Trust Services (S) Limited<br>
