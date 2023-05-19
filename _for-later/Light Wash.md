@@ -10,21 +10,21 @@ In line with the Festival’s colour theme for this edition of i Light Singapore
 <b>Timing</b><br>
 7.30pm – 11pm (with extended hours to 12am on Fridays and Saturdays) daily<br><br>
 	
-<b>Participating Organisation</b></p><p style="font-size:17px;line-height:40px">
-	</p><ol type="1">
-		<li><p style="font-size:17px;line-height:40px">Esplanade - Theatres on the Bay, Outdoor Theatre</p></li>
-	<li><p style="font-size:17px;line-height:40px">Marina Bay Sands</p></li>
-	<li><p style="font-size:17px;line-height:40px">Marina Square</p></li>
-	<li><p style="font-size:17px;line-height:40px">Maybank Tower</p></li>
-	<li><p style="font-size:17px;line-height:40px">Merlion Park</p></li>
-	<li><p style="font-size:17px;line-height:40px">Millenia Tower</p></li>
-	<li><p style="font-size:17px;line-height:40px">Millenia Walk</p></li>
-	<li><p style="font-size:17px;line-height:40px">Ocean Financial Centre&nbsp; (Keppel Land)</p></li>
-	<li><p style="font-size:17px;line-height:40px">Singapore Flyer</p></li>
-	<li><p style="font-size:17px;line-height:40px">South Beach</p></li>
-	<li><p style="font-size:17px;line-height:40px">Suntec City</p></li>
-		<li><p style="font-size:17px;line-height:40px">Anderson Bridge, Cavenagh Bridge <br>(Land Transport Authority)</p></li></ol>
+<b>Participating Organisation</b>
+<table style="width:100%; font-size:17px;line-height:40px;border:1px solid black; border-collapse:separate; padding:10px">
+	<tbody><tr><td>Esplanade - Theatres on the Bay, Outdoor Theatre</td></tr>
+		<tr><td>Marina Bay Sands</td></tr>
+		<tr><td>Marina Square</td></tr>
+		<tr><td>Maybank Tower</td></tr>
+		<tr><td>Merlion Park</td></tr>
+		<tr><td>Millenia Tower</td></tr>
+		<tr><td>Millenia Walk</td></tr>
+		<tr><td>Ocean Financial Centre&nbsp; (Keppel Land)</td></tr>
+		<tr><td>Singapore Flyer</td></tr>
+		<tr><td>South Beach</td></tr>
+		<tr><td>Suntec City</td></tr>
+		<tr><td>Anderson Bridge, Cavenagh Bridge <br>(Land Transport Authority)</td></tr></tbody></table>
 
-<p style="font-size:17px;line-height:40px"><b>Location</b><br>
+</p><p style="font-size:17px;line-height:40px"><b>Location</b><br>
 Marina Bay with expanded footprint to South Beach and Millenia Walk
 </p>
