@@ -12,7 +12,7 @@ In line with the Festival’s colour theme for this edition of i Light Singapore
 	
 <b>Participating Organisation</b><br>
 </p><p style="font-size:17px;line-height:40px">
-	</p><ul type="1">
+	</p><ol type="1">
 		<li>Esplanade - Theatres on the Bay, Outdoor Theatre</li>
 		<li>Marina Bay Sands</li>
 		<li>Marina Square</li>
@@ -24,7 +24,7 @@ In line with the Festival’s colour theme for this edition of i Light Singapore
 		<li>Singapore Flyer</li>
 		<li>South Beach</li>
 		<li>Suntec City</li>
-		<li>Anderson Bridge, Cavenagh Bridge <br>(Land Transport Authority)</li></ul>
+		<li>Anderson Bridge, Cavenagh Bridge <br>(Land Transport Authority)</li></ol>
 <br><br>
 
 <b>Location</b><br>
