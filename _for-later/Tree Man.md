@@ -11,7 +11,7 @@ ENESS (Australia)<br>
 <br><br>
 Encircling a sapling in his arms, <i>Tree Man</i>  provides sanctuary for a young tree while carving out an inner sanctum for visitors. The act of nurturing and connecting with our environment is emphasised in the whimsical light sculptures.
 <br><br>
-Emitting light with a head shaped like a digital screen, the sculpture invites reflection on humans’ insatiable preoccupation with devices, which could be detrimental to our circadian rhythms. As one enters the arms of the Tree Man, light switches across a spectrum of colours, and sparse melodies on top of a forest-inspired soundtrack are triggered, leaving one to wonders if we can ever find a balance between the digital and natural world?
+Emitting light with a head shaped like a digital screen, the sculpture invites reflection on humans’ insatiable preoccupation with devices, which could be detrimental to our circadian rhythms. As one enters the arms of the Tree Man, light switches across a spectrum of colours, and sparse melodies on top of a forest-inspired soundtrack are triggered, leaving one to wonder if we can ever find a balance between the digital and natural world?
 <br><br>
 <img src="/images/Installations/2nd%20release/nimrodweis_profile_landscape_ilsg23%20-%20lyndal%20hall-min%20(1).jpg">
 <b>About the Artist</b><br>
