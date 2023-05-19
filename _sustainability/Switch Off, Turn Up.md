@@ -13,20 +13,95 @@ Take part in <i>SOTU</i> through <i>i Light i Pledge, presented by Alibaba Cloud
 A huge thank you to the following stakeholders for joining URA to&nbsp;<i>SOTU</i> this year:<br>
 <table style="width:100%; border:1px solid black; border-collapse:separate; padding:10px">
 <tbody>
-	<tr><td style="width:50%">
-Gardens by the Bay</td><td style="width:50%"> Bay South Garden</td></tr>
-	<tr><td style="width:50%">Housing Development Board (HDB)</td><td style="width:50%">HDB Hub</td></tr>
-	<tr><td style="width:50%">HSBC Institutional Trust Services (S) Limited<br>
-(as Trustee of Suntec Real Estate Investment Trust)</td><td style="width:50%">Suntec City 1<br>Suntec City<br>Suntec Convention and Exhibition Centre</td></tr>
-	<tr><td style="width:50%">Marina Bay Sands Pte Ltd</td><td style="width:50%">Marina Bay Sands Hotel<br>ArtScience Museum<br>Marina Bay Sands Casino<br>The Shoppes<br>Sands Expo &amp; Convention Centre</td></tr>
-	<tr><td style="width:50%">Millenia Singapore</td><td style="width:50%">Millenia Tower<br>Centennial Tower<br>Millenia Walk<br>Conrad Centennial Singapore<br>The Ritz-Carlton, Millenia Singapore</td></tr>
-	<tr><td style="width:50%">MUJI (Singapore) Pte Ltd</td><td style="width:50%">100AM<br>313@Somerset<br>ION Orchard<br>Bugis Junction<br>Jem<br>Jewel Changi Airport<br>Paragon<br>Plaza Singapura<br>Raffles City<br>Tampines 1<br>VivoCity</td></tr>
-	<tr><td style="width:50%">National Gallery Singapore</td><td style="width:50%">National Gallery Singapore</td></tr>
-	<tr><td style="width:50%">Red Dot Singapore Pte Ltd</td><td style="width:50%">Red Dot Design Museum</td></tr>
-	<tr><td style="width:50%">Singapore River One Limited</td><td style="width:50%">Singapore River One Limited</td></tr>
-	<tr><td style="width:50%">South Beach Consortium Pte Ltd</td><td style="width:50%">South Beach</td></tr>
-	<tr><td style="width:50%">Tanjong Pagar Town Council</td><td style="width:50%">166 Bukit Merah Centre</td></tr>
-	<tr><td style="width:50%">The Fullerton Hotels and Resorts</td><td style="width:50%">The Fullerton Hotel Singapore<br>The Fullerton Bay Hotel Singapore<br>One Fullerton</td></tr>
-	<tr><td style="width:50%">UOL Group Limited</td><td style="width:50%">KINEX<br>Novena Square<br>Odeon Towers<br>United Sqaure</td></tr>
-	<tr><td style="width:50%">Water B</td><td style="width:50%">Water B kiosk</td></tr>
+<tr><td style="width:50%">Arts House Limited</td><td style="width:50%"> - Aliwal Arts Centre<br> - Goodman Arts Centre<br> - Stamford Arts Centre<br> - The Arts House<br> - Victoria Theatre &amp; Concert Hall</td></tr>
+
+<tr><td style="width:50%">
+	CapitaLand</td><td style="width:50%"> <u>Malls</u><br> 
+- Bedok Mall<br> 
+- Bugis+<br> 
+- Bugis Junction<br> 
+- Bukit Panjang Plaza<br> 
+- Funan<br> 
+- IMM<br> 
+- Jcube<br> 
+- Junction 8<br> 
+- Lot One<br> 
+- Plaza Singapura<br>
+- Raffles City<br> 
+- Sengkang Grand Mall<br> 
+- Tampines Mall<br> 
+- Westgate<br><br>
+	<u> Workspace Properties</u><br>
+- 6 Battery Road<br>
+- 21 Collyer Quay<br>
+- 4 Changi South Lane<br>
+- 622 Toa Payoh Lorong 1<br>
+- 80 Bendemeer Road<br>
+- Asia Square Tower 2<br>
+- CapitaGreen<br>
+- Capital Tower<br>
+- CapitaSky<br>
+- CapitaSpring<br>
+- Galaxis<br>
+- Nexus @one-north<br>
+- Plaza 8 @ CBP<br>
+- Siemens Centre<br>
+- Teletech Park 1<br>
+- Teletech Park 2<br>
+- UBIX<br>
+- Xilin Districentre D</td></tr>
+
+<tr><td style="width:50%">
+Council for Estate Agencies</td><td style="width:50%"> - Council for Estate Agencies (HDB Hub)</td></tr>
+
+<tr><td style="width:50%">
+Edgefield Secondary School</td><td style="width:50%">- Edgefield Secondary School</td></tr>
+
+<tr><td style="width:50%">
+Gardens by the Bay</td><td style="width:50%">- Bay South Garden</td></tr>
+	
+<tr><td style="width:50%">Housing Development Board (HDB)</td><td style="width:50%">- HDB Hub</td></tr>
+
+<tr><td style="width:50%">
+Marina Bay Alliance</td><td style="width:50%">
+- Marina Bay Financial Centre Tower 1, 2, 3<br>
+- One Raffles Quay<br>
+- One Fullerton<br>
+- The Fullerton Bay Hotel, Singapore<br>
+- The Fullerton Hotel Singapore</td></tr>
+	
+<tr><td style="width:50%">Marina Central<br>
+(pilot Business Improvement District)</td><td style="width:50%">
+- Centennial Tower<br>
+- Conrad Centennial Singapore<br>
+- Millenia Tower<br>
+- Millenia Walk<br>
+- South Beach Consortium Pte Ltd<br>
+- Suntec City 1, 2, 3, 4, 5<br>
+- The Ritz-Carlton, Millenia Singapore</td></tr>
+
+<tr><td style="width:50%">Marina Bay Sands Pte Ltd</td><td style="width:50%">
+- ArtScience Museum<br>
+- Marina Bay Sands Casino<br>
+- Marina Bay Sands Hotel<br>
+- Sands Expo &amp; Convention Centre<br>
+- The Shoppes</td></tr>
+
+<tr><td style="width:50%">MUJI (Singapore) Pte Ltd</td><td style="width:50%">100AM<br>313@Somerset<br>ION Orchard<br>Bugis Junction<br>Jem<br>Jewel Changi Airport<br>Paragon<br>Plaza Singapura<br>Raffles City<br>Tampines 1<br>VivoCity</td></tr>
+
+<tr><td style="width:50%">National Gallery Singapore</td><td style="width:50%">National Gallery Singapore</td></tr>
+
+<tr><td style="width:50%">Red Dot Singapore Pte Ltd</td><td style="width:50%">Red Dot Design Museum</td></tr>
+
+<tr><td style="width:50%">Singapore River One Limited</td><td style="width:50%">Singapore River One Limited</td></tr>
+
+<tr><td style="width:50%">South Beach Consortium Pte Ltd</td><td style="width:50%">South Beach</td></tr>
+
+<tr><td style="width:50%">Tanjong Pagar Town Council</td><td style="width:50%">166 Bukit Merah Centre</td></tr>
+
+<tr><td style="width:50%">The Fullerton Hotels and Resorts</td><td style="width:50%">The Fullerton Hotel Singapore<br>The Fullerton Bay Hotel Singapore<br>One Fullerton</td></tr>
+
+<tr><td style="width:50%">UOL Group Limited</td><td style="width:50%">KINEX<br>Novena Square<br>Odeon Towers<br>United Sqaure</td></tr>
+
+<tr><td style="width:50%">Water B</td><td style="width:50%">Water B kiosk</td></tr>
 </tbody></table></p><p></p>
