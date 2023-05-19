@@ -11,7 +11,7 @@ For the first time this year, the initiative will expand beyond corporations to 
 Take part in <i>SOTU</i> through <i>i Light i Pledge, presented by Alibaba Cloud</i> at <a target="_blank" href="https://www.susgain.com/iLightiPledge">https://www.susgain.com/iLightiPledge</a> today!
 <br><br>
 A huge thank you to the following stakeholders for joining URA to&nbsp;<i>SOTU</i> this year:<br>
-</p><p></p><table style="width:100%; border:1px solid black; border-collapse:collapse; padding:10px">
+<table style="width:100%; border:1px solid black; border-collapse:collapse; padding:10px">
 <tbody>
 	<tr style="colour: black"><td style="width:50%">
 		1. Gardens by the Bay</td><td style="width:50%"> Bay South Garden</td></tr>
@@ -29,4 +29,4 @@ A huge thank you to the following stakeholders for joining URA to&nbsp;<i>SOTU</
 	<tr><td style="width:50%">12. The Fullerton Hotels and Resorts</td><td style="width:50%">The Fullerton Hotel Singapore<br>The Fullerton Bay Hotel Singapore<br>One Fullerton</td></tr>
 	<tr><td style="width:50%">13. UOL Group Limited</td><td style="width:50%">KINEX<br>Novena Square<br>Odeon Towers<br>United Sqaure</td></tr>
 	<tr><td style="width:50%">14. Water B</td><td style="width:50%">Water B kiosk</td></tr>
-</tbody></table><p></p>
+</tbody></table></p><p></p>
