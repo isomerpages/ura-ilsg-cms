@@ -87,21 +87,49 @@ Marina Bay Alliance</td><td style="width:50%">
 - Sands Expo &amp; Convention Centre<br>
 - The Shoppes</td></tr>
 
-<tr><td style="width:50%">MUJI (Singapore) Pte Ltd</td><td style="width:50%">100AM<br>313@Somerset<br>ION Orchard<br>Bugis Junction<br>Jem<br>Jewel Changi Airport<br>Paragon<br>Plaza Singapura<br>Raffles City<br>Tampines 1<br>VivoCity</td></tr>
+<tr><td style="width:50%">MUJI (Singapore) Pte Ltd</td><td style="width:50%">
+- Muji - 100AM<br>
+- Muji - 313@Somerset<br>
+- Muji - Bugis Junction<br>
+- Muji - ION Orchard<br>
+- Muji - Jem<br>
+- Muji - Jewel Changi Airport<br>
+- Muji - Paragon<br>
+- Muji - Plaza Singapura<br>
+- Muji - Raffles City<br>
+- Muji - Tampines 1<br>
+- Muji - VivoCity</td></tr>
 
-<tr><td style="width:50%">National Gallery Singapore</td><td style="width:50%">National Gallery Singapore</td></tr>
+<tr><td style="width:50%">National Gallery Singapore</td><td style="width:50%">- National Gallery Singapore</td></tr>
 
+<tr><td style="width:50%">National Parks Board</td><td style="width:50%">
+- Animal Quarantine Centre<br>
+- Changi Animal &amp; Plant Quarantine<br>
+- The Animal Lodge</td></tr>
+
+<tr><td style="width:50%">Papa Palheta Pte Ltd</td><td style="width:50%">
+- Chye Seng Huat Hardware Coffee Bar<br>
+- PPP Coffee</td></tr>
+
+<tr><td style="width:50%">Pico Art</td><td style="width:50%">- Pico Creative Building</td></tr>
+
+<tr><td style="width:50%">RC Hotels Ptd Ltd</td><td style="width:50%">- Fairmont Singapore<br>
+- Swissotel The Stamford</td></tr>
+	
 <tr><td style="width:50%">Red Dot Singapore Pte Ltd</td><td style="width:50%">Red Dot Design Museum</td></tr>
+<tr><td style="width:50%">Singapore Recreation Club</td><td style="width:50%">- Singapore Recreation Club</td></tr>
+	
+	
+<tr><td style="width:50%">Singapore River One Limited</td><td style="width:50%">- Singapore River One Limited</td></tr>
 
-<tr><td style="width:50%">Singapore River One Limited</td><td style="width:50%">Singapore River One Limited</td></tr>
+<tr><td style="width:50%">Tanjong Pagar Town Council</td><td style="width:50%">- 166 Bukit Merah Centre</td></tr>
 
-<tr><td style="width:50%">South Beach Consortium Pte Ltd</td><td style="width:50%">South Beach</td></tr>
+<tr><td style="width:50%">UOL Group Limited</td><td style="width:50%">
+- KINEX<br>
+- Novena Square<br>
+- Odeon Towers<br>
+- United Sqaure</td></tr>
 
-<tr><td style="width:50%">Tanjong Pagar Town Council</td><td style="width:50%">166 Bukit Merah Centre</td></tr>
-
-<tr><td style="width:50%">The Fullerton Hotels and Resorts</td><td style="width:50%">The Fullerton Hotel Singapore<br>The Fullerton Bay Hotel Singapore<br>One Fullerton</td></tr>
-
-<tr><td style="width:50%">UOL Group Limited</td><td style="width:50%">KINEX<br>Novena Square<br>Odeon Towers<br>United Sqaure</td></tr>
-
-<tr><td style="width:50%">Water B</td><td style="width:50%">Water B kiosk</td></tr>
+<tr><td style="width:50%">Water B</td><td style="width:50%">
+- Water B kiosk</td></tr>
 </tbody></table></p><p></p>
