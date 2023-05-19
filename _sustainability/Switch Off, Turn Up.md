@@ -13,8 +13,6 @@ Take part in <i>SOTU</i> through <i>i Light i Pledge, presented by Alibaba Cloud
 A huge thank you to the following stakeholders for joining URA to&nbsp;<i>SOTU</i> this year:<br>
 <table style="width:100%; border:1px solid black; border-collapse:separate; padding:10px">
 <tbody>
-<tr><td style="width:50%">Arts House Limited</td><td style="width:50%"> - Aliwal Arts Centre<br> - Goodman Arts Centre<br> - Stamford Arts Centre<br> - The Arts House<br> - Victoria Theatre &amp; Concert Hall</td></tr>
-
 <tr><td style="width:50%">
 	CapitaLand</td><td style="width:50%"> <u>Malls</u><br> 
 - Bedok Mall<br> 
@@ -51,16 +49,18 @@ A huge thank you to the following stakeholders for joining URA to&nbsp;<i>SOTU</
 - UBIX<br>
 - Xilin Districentre D</td></tr>
 
-<tr><td style="width:50%">
-Council for Estate Agencies</td><td style="width:50%"> - Council for Estate Agencies (HDB Hub)</td></tr>
-
-<tr><td style="width:50%">
-Edgefield Secondary School</td><td style="width:50%">- Edgefield Secondary School</td></tr>
-
-<tr><td style="width:50%">
-Gardens by the Bay</td><td style="width:50%">- Bay South Garden</td></tr>
-	
-<tr><td style="width:50%">Housing Development Board (HDB)</td><td style="width:50%">- HDB Hub</td></tr>
+	<tr><td style="width:50%">MUJI (Singapore) Pte Ltd</td><td style="width:50%">
+- Muji - 100AM<br>
+- Muji - 313@Somerset<br>
+- Muji - Bugis Junction<br>
+- Muji - ION Orchard<br>
+- Muji - Jem<br>
+- Muji - Jewel Changi Airport<br>
+- Muji - Paragon<br>
+- Muji - Plaza Singapura<br>
+- Muji - Raffles City<br>
+- Muji - Tampines 1<br>
+- Muji - VivoCity</td></tr>
 
 <tr><td style="width:50%">
 Marina Bay Alliance</td><td style="width:50%">
@@ -69,7 +69,7 @@ Marina Bay Alliance</td><td style="width:50%">
 - One Fullerton<br>
 - The Fullerton Bay Hotel, Singapore<br>
 - The Fullerton Hotel Singapore</td></tr>
-	
+
 <tr><td style="width:50%">Marina Central<br>
 (pilot Business Improvement District)</td><td style="width:50%">
 - Centennial Tower<br>
@@ -87,20 +87,13 @@ Marina Bay Alliance</td><td style="width:50%">
 - Sands Expo &amp; Convention Centre<br>
 - The Shoppes</td></tr>
 
-<tr><td style="width:50%">MUJI (Singapore) Pte Ltd</td><td style="width:50%">
-- Muji - 100AM<br>
-- Muji - 313@Somerset<br>
-- Muji - Bugis Junction<br>
-- Muji - ION Orchard<br>
-- Muji - Jem<br>
-- Muji - Jewel Changi Airport<br>
-- Muji - Paragon<br>
-- Muji - Plaza Singapura<br>
-- Muji - Raffles City<br>
-- Muji - Tampines 1<br>
-- Muji - VivoCity</td></tr>
+<tr><td style="width:50%">Arts House Limited</td><td style="width:50%"> - Aliwal Arts Centre<br> - Goodman Arts Centre<br> - Stamford Arts Centre<br> - The Arts House<br> - Victoria Theatre &amp; Concert Hall</td></tr>
 
-<tr><td style="width:50%">National Gallery Singapore</td><td style="width:50%">- National Gallery Singapore</td></tr>
+<tr><td style="width:50%">UOL Group Limited</td><td style="width:50%">
+- KINEX<br>
+- Novena Square<br>
+- Odeon Towers<br>
+- United Sqaure</td></tr>
 
 <tr><td style="width:50%">National Parks Board</td><td style="width:50%">
 - Animal Quarantine Centre<br>
@@ -111,25 +104,31 @@ Marina Bay Alliance</td><td style="width:50%">
 - Chye Seng Huat Hardware Coffee Bar<br>
 - PPP Coffee</td></tr>
 
-<tr><td style="width:50%">Pico Art</td><td style="width:50%">- Pico Creative Building</td></tr>
-
 <tr><td style="width:50%">RC Hotels Ptd Ltd</td><td style="width:50%">- Fairmont Singapore<br>
 - Swissotel The Stamford</td></tr>
+	
+<tr><td style="width:50%">
+Council for Estate Agencies</td><td style="width:50%"> - Council for Estate Agencies (HDB Hub)</td></tr>
+
+<tr><td style="width:50%">
+Edgefield Secondary School</td><td style="width:50%">- Edgefield Secondary School</td></tr>
+
+<tr><td style="width:50%">
+Gardens by the Bay</td><td style="width:50%">- Bay South Garden</td></tr>
+	
+<tr><td style="width:50%">Housing Development Board (HDB)</td><td style="width:50%">- HDB Hub</td></tr>
+
+<tr><td style="width:50%">National Gallery Singapore</td><td style="width:50%">- National Gallery Singapore</td></tr>
+
+<tr><td style="width:50%">Pico Art</td><td style="width:50%">- Pico Creative Building</td></tr>
 	
 <tr><td style="width:50%">Red Dot Singapore Pte Ltd</td><td style="width:50%">- Red Dot Design Museum</td></tr>
 <tr><td style="width:50%">Singapore Recreation Club</td><td style="width:50%">- Singapore Recreation Club</td></tr>
 	
-	
 <tr><td style="width:50%">Singapore River One Limited</td><td style="width:50%">- Singapore River One Limited</td></tr>
 
 <tr><td style="width:50%">Tanjong Pagar Town Council</td><td style="width:50%">- 166 Bukit Merah Centre</td></tr>
-
-<tr><td style="width:50%">UOL Group Limited</td><td style="width:50%">
-- KINEX<br>
-- Novena Square<br>
-- Odeon Towers<br>
-- United Sqaure</td></tr>
-
+	
 <tr><td style="width:50%">Water B</td><td style="width:50%">
 - Water B kiosk</td></tr>
 </tbody></table></p><p></p>
