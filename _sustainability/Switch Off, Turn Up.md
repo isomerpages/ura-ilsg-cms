@@ -116,7 +116,7 @@ Marina Bay Alliance</td><td style="width:50%">
 <tr><td style="width:50%">RC Hotels Ptd Ltd</td><td style="width:50%">- Fairmont Singapore<br>
 - Swissotel The Stamford</td></tr>
 	
-<tr><td style="width:50%">Red Dot Singapore Pte Ltd</td><td style="width:50%">Red Dot Design Museum</td></tr>
+<tr><td style="width:50%">Red Dot Singapore Pte Ltd</td><td style="width:50%">- Red Dot Design Museum</td></tr>
 <tr><td style="width:50%">Singapore Recreation Club</td><td style="width:50%">- Singapore Recreation Club</td></tr>
 	
 	
