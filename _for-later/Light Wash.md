@@ -12,18 +12,19 @@ In line with the Festival’s colour theme for this edition of i Light Singapore
 	
 <b>Participating Organisation</b>
 <table style="width:75%; font-size:17px;line-height:40px;border:1px solid black; border-collapse:separate; padding:10px">
-	<tbody><tr><td>Esplanade - Theatres on the Bay, Outdoor Theatre</td></tr>
-		<tr><td>Marina Bay Sands</td></tr>
-		<tr><td>Marina Square</td></tr>
-		<tr><td>Maybank Tower</td></tr>
-		<tr><td>Merlion Park</td></tr>
-		<tr><td>Millenia Tower</td></tr>
-		<tr><td>Millenia Walk</td></tr>
-		<tr><td>Ocean Financial Centre&nbsp; (Keppel Land)</td></tr>
-		<tr><td>Singapore Flyer</td></tr>
-		<tr><td>South Beach</td></tr>
-		<tr><td>Suntec City</td></tr>
-		<tr><td>Anderson Bridge, Cavenagh Bridge <br>(Land Transport Authority)</td></tr></tbody></table>
+	<tbody><tr><td>- Anderson Bridge, Cavenagh Bridge <br>(Land Transport Authority)</td></tr>
+		<tr><td>- Esplanade - Theatres on the Bay, Outdoor Theatre</td></tr>
+		<tr><td>- Marina Bay Sands</td></tr>
+		<tr><td>- Marina Square</td></tr>
+		<tr><td>- Maybank Tower</td></tr>
+		<tr><td>- Merlion Park</td></tr>
+		<tr><td>- Millenia Tower</td></tr>
+		<tr><td>- Millenia Walk</td></tr>
+		<tr><td>- Ocean Financial Centre&nbsp; (Keppel Land)</td></tr>
+		<tr><td>- Singapore Flyer</td></tr>
+		<tr><td>- South Beach</td></tr>
+		<tr><td>- Suntec City</td></tr>
+		</tbody></table>
 
 </p><p style="font-size:17px;line-height:40px"><b>Location</b><br>
 Marina Bay with expanded footprint to South Beach and Millenia Walk
