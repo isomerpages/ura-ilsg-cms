@@ -21,8 +21,11 @@ Bayfront Event Space<br><br>
 4pm – 11pm daily<br><br>
 
 General admission to the festival village is free, while charges apply for certain activities.
-
-<p></p><table style="width:100%">
-	<tbody><tr><td>Presented by</td></tr><tr>
-</tr></tbody><tbody><tr><td style="width:30%"><img src="/images/About/Sponsor%20Acknowledgement/202301_ilight%20singapore%20(gastrobeats%20logo).png"></td><td style="width:30%">In collaboration with Awakening Bangkok<br>from Bangkok, Thailand</td></tr></tbody>
-</table></p>
+</p>
+<table style="width:100%">
+<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Presented by</p></th>
+	</tr></thead>
+	<tbody>
+		<tr>
+			<td style="width:30%"><a href="https://www.gastrobeats.com.sg" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/202301_ilight%20singapore%20(gastrobeats%20logo).png" align="left"></a></td><td style="width:30%">In collaboration with Awakening Bangkok<br>from Bangkok, Thailand</td>
+			<td style="width:40%"></td></tr></tbody></table>
