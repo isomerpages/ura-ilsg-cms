@@ -64,7 +64,7 @@ Yah Li Toh (CLD, IALD, IES) is the Principal of Light Collab. Shortlisted as Des
 		<td style="width:70%">Let us whisk you into the minds of talented creatives behind i Light Singapore 2023 – featuring artists Philipp Artus <i>(Aquatics)</i>, The Grand Lowlife Orchestra <i>(Symphony 1)</i> and Malte Kebbel <i>(Light Anemones)</i>. Join us to uncover the artists’  inspirations for their artworks.</td>
 	</tr></tbody><tbody><tr><td style="width:30%">7.05pm - 7.20pm</td>
 		<td style="width:70%">Q&amp;A with Moderator</td></tr></tbody>
-	<tbody><tr><td style="width:30%">8.00pm - 10.00pm</td><td style="width:70%"> Walking Tour by Let’s Go Tour (Optional Add on)
+	<tbody><tr><td style="width:30%">8.00pm - 9.30pm</td><td style="width:70%"> Walking Tour by Let’s Go Tour (Optional Add on)
 <br>
 On this tour held in partnership with Let’s Go Tour Singapore, hear from experienced guides the inspiration behind this year’s Festival theme, A New Wave, as well as stories behind this year’s light art installations.&nbsp;&nbsp;&nbsp;
 <br><br>
@@ -109,7 +109,7 @@ Born in Germany, Stefan Bittner is Managing Director Sales at WE-EF Lighting Tha
 		<td style="width:70%">Let us whisk you into the minds of talented creatives behind i Light Singapore 2023 – featuring artists DP Design <i>(Blumiwave)</i>,&nbsp;Plug &amp; Play <i>(Block Party)</i> and ENESS <i>(Tree Man)</i>. Join us to uncover the artists’  inspirations for their artworks.</td>
 	</tr></tbody><tbody><tr><td style="width:30%">7.05pm - 7.20pm</td>
 		<td style="width:70%">Q&amp;A with Moderator</td></tr></tbody>
-	<tbody><tr><td style="width:30%">8.00pm - 10.00pm</td><td style="width:70%"> Walking Tour by Let’s Go Tour (Optional Add on)
+	<tbody><tr><td style="width:30%">8.00pm - 9.30pm</td><td style="width:70%"> Walking Tour by Let’s Go Tour (Optional Add on)
 		<br>
 On this tour held in partnership with Let’s Go Tour Singapore, hear from experienced guides the inspiration behind this year’s Festival theme, A New Wave, as well as stories behind this year’s light art installations.&nbsp;&nbsp;&nbsp;
 <br><br>
