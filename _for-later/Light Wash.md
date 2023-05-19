@@ -7,9 +7,27 @@ description: ""
 <p style="font-size:17px; line-height:40px">
 In line with the Festival’s colour theme for this edition of i Light Singapore, key buildings and bridges around the Bay will be lit up in a blue hue during the festival period, complementing the light art installations and evoking a charming ambience.<br><br>
 
+<b>Timing</b><br>
+7.30pm – 11pm (with extended hours to 12am on Fridays and Saturdays) daily<br><br>
+	
+<b>Participating Organisation</b><br>
+</p><p style="font-size:17px;line-height:40px">
+	</p><ul type="1">
+		<li>Esplanade - Theatres on the Bay, Outdoor Theatre</li>
+		<li>Marina Bay Sands</li>
+		<li>Marina Square</li>
+		<li>Maybank Tower</li>
+		<li>Merlion Park</li>
+		<li>Millenia Tower</li>
+		<li>Millenia Walk</li>
+		<li>Ocean Financial Centre&nbsp; (Keppel Land)</li>
+		<li>Singapore Flyer</li>
+		<li>South Beach</li>
+		<li>Suntec City</li>
+		<li>Anderson Bridge, Cavenagh Bridge <br>(Land Transport Authority)</li></ul>
+<br><br>
+
 <b>Location</b><br>
 Marina Bay with expanded footprint to South Beach and Millenia Walk<br><br>
 
-<b>Timing</b><br>
-7.30pm – 11pm (with extended hours to 12am on Fridays and Saturdays) daily
-</p>
+<p></p>
