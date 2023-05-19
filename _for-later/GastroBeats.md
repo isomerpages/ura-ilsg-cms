@@ -21,4 +21,8 @@ Bayfront Event Space<br><br>
 4pm – 11pm daily<br><br>
 
 General admission to the festival village is free, while charges apply for certain activities.
-</p>
+
+<p></p><table style="width:100%">
+	<tbody><tr><td>Presented by</td></tr><tr>
+</tr></tbody><tbody><tr><td style="width:30%"><img src="/images/About/Sponsor%20Acknowledgement/202301_ilight%20singapore%20(gastrobeats%20logo).png"></td><td style="width:30%">In collaboration with Awakening Bangkok<br>from Bangkok, Thailand</td></tr></tbody>
+</table></p>
