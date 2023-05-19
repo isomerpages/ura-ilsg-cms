@@ -9,7 +9,7 @@ On this specially curated walking tour conducted by Let’s Go Tour Singapore, h
 Marina Bay<br><br>
 	
 <b>Timing</b><br>
-Weekends - Saturdays and Sundays (from 1- 25 June) 8pm – 10pm<br><br>
+Weekends - Saturdays and Sundays (from 1- 25 June) 8pm – 9.30pm<br><br>
 
 <b>Ticketing</b><br>
 Guided tours are priced at SGD30 each and can be purchased from Let’s Go Tour Singapore here \[url\].
