@@ -27,7 +27,6 @@ In line with the Festival’s colour theme for this edition of i Light Singapore
 		<li><p style="font-size:17px;line-height:40px">Anderson Bridge, Cavenagh Bridge <br>(Land Transport Authority)</p></li></ol>
 <br><br>
 
-<b>Location</b><br>
-Marina Bay with expanded footprint to South Beach and Millenia Walk<br><br>
-
-<p></p>
+<p style="font-size:17px;line-height:40px"><b>Location</b><br>
+Marina Bay with expanded footprint to South Beach and Millenia Walk
+</p>
