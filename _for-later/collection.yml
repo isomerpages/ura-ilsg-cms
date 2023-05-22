@@ -2,6 +2,7 @@ collections:
   for-later:
     output: true
     order:
+      - Light Forum.md
       - GastroBeats.md
       - Aquatics.md
       - Light Anemones.md
