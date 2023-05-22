@@ -29,17 +29,17 @@ A huge thank you to the following stakeholders for joining URA to&nbsp;<i>SOTU</
 - Sengkang Grand Mall<br> 
 - Tampines Mall<br> 
 - Westgate<br><br>
-	<u> Workspace Properties</u><br>
+<u> Workspace Properties</u><br>
+- Asia Square Tower 2<br>
+- Capital Tower<br>
+- CapitaGreen<br>
+- CapitaSky<br>
+- CapitaSpring<br>
 - 6 Battery Road<br>
 - 21 Collyer Quay<br>
 - 4 Changi South Lane<br>
-- 622 Toa Payoh Lorong 1<br>
 - 80 Bendemeer Road<br>
-- Asia Square Tower 2<br>
-- CapitaGreen<br>
-- Capital Tower<br>
-- CapitaSky<br>
-- CapitaSpring<br>
+- 622 Toa Payoh Lorong 1<br>
 - Galaxis<br>
 - Nexus @one-north<br>
 - Plaza 8 @ CBP<br>
@@ -63,16 +63,16 @@ A huge thank you to the following stakeholders for joining URA to&nbsp;<i>SOTU</
 - Muji - VivoCity</td></tr>
 
 <tr><td style="width:50%">
-Marina Bay Alliance</td><td style="width:50%">
+Marina Bay Alliance (Pilot Business Improvement District)</td><td style="width:50%">
 - Marina Bay Financial Centre Tower 1, 2, 3<br>
 - One Raffles Quay<br>
 - One Fullerton<br>
 - OUE Bayfront<br>
-- The Fullerton Bay Hotel, Singapore<br>
+- The Fullerton Bay Hotel Singapore<br>
 - The Fullerton Hotel Singapore</td></tr>
 
 <tr><td style="width:50%">Marina Central<br>
-(pilot Business Improvement District)</td><td style="width:50%">
+(Pilot Business Improvement District)</td><td style="width:50%">
 - Centennial Tower<br>
 - Conrad Centennial Singapore<br>
 - Millenia Tower<br>
@@ -94,11 +94,11 @@ Marina Bay Alliance</td><td style="width:50%">
 - KINEX<br>
 - Novena Square<br>
 - Odeon Towers<br>
-- United Sqaure</td></tr>
+- United Square</td></tr>
 
 <tr><td style="width:50%">National Parks Board</td><td style="width:50%">
 - Animal Quarantine Centre<br>
-- Changi Animal &amp; Plant Quarantine<br>
+- Changi Animal &amp; Plant Quarantine, Changi Airfreight Centre<br>
 - The Animal Lodge</td></tr>
 
 <tr><td style="width:50%">Papa Palheta Pte Ltd</td><td style="width:50%">
