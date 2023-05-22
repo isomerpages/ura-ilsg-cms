@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Programmes.md
-      - GastroBeats.md
       - "Lightwave: Turning the Tide.md"
       - Light Forum.md
       - Light Wash.md
