@@ -120,7 +120,7 @@ Sign up for Light Forum here [hyperlink =&gt; Light Forum registration page].</t
 
 
 <table style="width:100%">
-	<thead><tr><th colspan="4"><p style="font-size:17px;line-height:20px">Presented by</p></th></tr></thead>
+	<thead><tr><th colspan="4"><p style="font-size:17px;line-height:20px">Official Partner</p></th></tr></thead>
 	<tbody>
 		<tr>
 			<td style="width:30%"><a target="_blank" href="https://museum.red-dot.sg/"><img align="left" src="/images/About/Sponsor%20Acknowledgement/red%20dot_resized%20web%20version.png"></a></td><td style="width:70%"></td></tr></tbody></table>
