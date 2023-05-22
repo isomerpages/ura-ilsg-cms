@@ -54,7 +54,7 @@ Plug &amp; Play (Singapore)<br>
 <b> the things left unsaid</b>
 <br>
 Brigette Teo<br>
-Nanyang Technological University, School of Art, Design and Media<br> 
+Nanyang Technological University, School of Art, Design and Media (Singapore)<br> 
 <b>Location</b>: Breeze Shelter<br><br>
 
 <a href="/installations/light-anemones"><img src="/images/Installations/light%20anemones.jpg"></a>
@@ -88,9 +88,9 @@ Philipp Artus (Germany)<br>
 <b>Bleached</b>
 <br>
 Berenice Chao Zong Xin, Nicky Josephine Tjandra<br>
-Nanyang Technological University School of Art, Design and Media (Singapore)<br>
+Nanyang Technological University, School of Art, Design and Media (Singapore)<br>
 <b>Location</b>: South Beach Avenue – Level B1M&nbsp; (beside Akira Back)<br><br>
-	<i>Co-presented by South Beach Consortium, Aedas, &amp; Sunray Woodcraft Construction, supported by JW Marriott Singapore South Beach</i>
+	<i>Co-presented by South Beach Consortium, Aedas, &amp; Sunray Woodcraft Construction</i>
 <br><br>
 	
 <a href="/installations/showiii"><img src="/images/Installations/show%20iii%20.jpg"></a>
