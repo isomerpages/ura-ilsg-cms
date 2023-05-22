@@ -12,7 +12,7 @@ XD49 (Thailand)<br>
 
 The COVID-19 pandemic brought about a period of ‘mandatory isolation’ when people were made to stay indoors to be safe from the virus. With our movements restricted to indoor spaces, the world turned quiet and seemed motionless. Time stood still.&nbsp;&nbsp;
 <br><br>
-<i>Moooooootion</i> is an interactive stage set and a playful counterpoint to the confinement due to lockdowns. In this installation, visitors are encouraged to bring colour and music to a grey world through movement.<br><br>
+<i>Moooooootion</i> is an interactive stage set conceived as a playful counterpoint to the confinement brought about by lockdowns. In this installation, visitors are encouraged to bring colour and music to a grey world through movement.<br><br>
 <img src="/images/Installations/2nd%20release/xd49_profile_landscape_ilsg23%20-%20tanskul%20suwannakudt(1).png">
 <b>About the Artist</b><br>
 Founded in 2021, XD49 (Experience Design 49) is a new media and multidisciplinary design studio.&nbsp;
