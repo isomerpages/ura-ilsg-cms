@@ -8,7 +8,7 @@ description: ""
 <b>Résonances</b><br>
 Louis-Philippe Rondeau in collaboration with ELEKTRA (Canada)<br>
 <b>Location:</b> Open Plaza, OUE Bayfront<br><br><br>
-<i>Résonances</i>is an interactive installation that embodies the inexorable passage of time. It seeks to reveal the limit between present and past.
+<i>Résonances</i> is an interactive installation that embodies the inexorable passage of time. It seeks to reveal the limit between present and past.
 <br><br>
 As an arch of light appears in darkness, a temporal portal emerges. When visitors cross this threshold, their image will be projected onto the adjacent wall and seem deployed in time through the slit-scan technique. In this visual metaphor, the past constantly takes over the present, and visitors will see their own image fade inexorably into the oblivion of white light. The artwork emphasises that all light is the manifestation of events that have already occurred; the twinkle we see in the night sky is but a bygone snapshot of the stars.<br><br>
 <img src="/images/Installations/2nd%20release/lprondeau_16x9%20-%20souha%20kasbi.jpeg">
