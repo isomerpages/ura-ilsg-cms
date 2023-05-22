@@ -2,18 +2,18 @@ collections:
   installations:
     output: true
     order:
-      - Blumiwave.md
-      - Aquatics.md
-      - Resonances.md
-      - Light Anemones.md
-      - the things left unsaid.md
-      - Symphony 1.md
-      - Moooooootion.md
-      - Tree Man.md
       - Installations.md
       - Glacier Dreams.md
+      - Tree Man.md
+      - Blumiwave.md
+      - Moooooootion.md
+      - Symphony 1.md
       - Block Party.md
+      - the things left unsaid.md
+      - Light Anemones.md
+      - Resonances.md
       - Trumpet Flowers.md
+      - Aquatics.md
       - Bleached.md
       - Show III.md
       - Prism.md
