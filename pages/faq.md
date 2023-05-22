@@ -13,9 +13,9 @@ General admission to the Festival is free, while charges apply for certain <a hr
 <br>The opening hours for the Festival are 7.30pm to 11.00pm daily, with extended hours to 12.00am on Fridays and Saturdays. Opening hours for various programmes may vary.<br></p>
 
 <br>
-<b>Q4. How do I get to i Light Singapore 2023 via public transport?</b><br>
+<b><p style="font-size:17px; line-height:40px">Q4. How do I get to i Light Singapore 2023 via public transport?</p></b><br>
 All MRT lines (East-West Line, North-South Line, Downtown Line, Circle Line and Thomson-East Coast Line) have stops in the Marina Bay area. The nearest stations are:<br>
-<p></p><ul>
+<ul>
 <li><p style="font-size:17px; line-height:40px">Bayfront (DT16/CE1)</p></li>
 <li><p style="font-size:17px; line-height:40px">City Hall (NS25/EW13</p></li>
 <li><p style="font-size:17px; line-height:40px">Downtown (DT17)</p></li>
@@ -23,7 +23,7 @@ All MRT lines (East-West Line, North-South Line, Downtown Line, Circle Line and 
 <li><p style="font-size:17px; line-height:40px">Marina Bay (NS27/TE20/CE2)</p></li>
 <li><p style="font-size:17px; line-height:40px">Promenade (DT15/CC4)</p></li>
 <li><p style="font-size:17px; line-height:40px">Raffles Place (NS26/EW14)</p></li></ul>
-<br><br>
+<br>
 <p style="font-size:17px; line-height:40px">
 <b>Q5. What can I see and do at i Light Singapore 2023?</b><br>
 There will be a total of 14 captivating light art installations that aim to spark fresh perspectives on the environment and world around us. Check out the line-up of artworks installations here.<br><br>&nbsp;
