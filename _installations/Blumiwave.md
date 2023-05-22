@@ -11,7 +11,7 @@ DP Design (Singapore)<br>
 <b>Location:</b> Mist Walk
 
 <br><br>
-Blue energy is harnessed from the chemical potential of a salinity difference between the sea and river waters.<i>Blumiwave</i> is an interpretation of this renewable energy source.
+Blue energy is harnessed from the chemical potential of a salinity difference between the sea and river waters. <i>Blumiwave</i> is an interpretation of this renewable energy source.
 <br><br>
 Seen from afar, sculptural waves appear to crash at varying heights and directions. Upon closer inspection, these are in fact made of a carefully weaved fabric of safety nets and scaffolding — everyday objects that the interior designers at DP Design encounter at construction sites. Here, the team transforms what are normally perceived as unsightly materials into a space that invites multiple interpretations of the mundane and its possibilities.
 <br><br>
