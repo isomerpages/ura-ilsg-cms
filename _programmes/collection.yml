@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Light Forum.md
       - Programmes.md
       - "Lightwave: Turning the Tide.md"
