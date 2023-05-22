@@ -36,10 +36,10 @@ links:
   - title: Programmes
     url: /programmes
     sublinks:
-      - title: "Lightwave: Turning the Tide"
-        url: /programmes/lightwave-turning-the-tide/
       - title: GastroBeats
         url: /programmes/gastrobeats
+      - title: "Lightwave: Turning the Tide"
+        url: /programmes/lightwave-turning-the-tide/
       - title: Light Forum
         url: /programmes/light-forum
       - title: Light Wash
