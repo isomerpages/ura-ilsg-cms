@@ -24,4 +24,5 @@ Using audio-visual and interactive technologies, the studio assimilates digital 
 	<tbody>
 		<tr>
 			<td style="width:30%"><a href="https://www.gastrobeats.com.sg" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/202301_ilight%20singapore%20(gastrobeats%20logo).png" align="left"></a></td><td style="width:30%">In collaboration with<br>Awakening Bangkok from Bangkok, Thailand</td>
+			<td style="width:40%"></td>
 			</tr></tbody></table>
