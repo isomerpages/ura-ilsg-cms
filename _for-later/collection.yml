@@ -2,4 +2,5 @@ collections:
   for-later:
     output: true
     order:
+      - Blumiwave.md
       - Tree Man.md
