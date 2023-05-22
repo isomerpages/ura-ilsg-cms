@@ -2,9 +2,9 @@ collections:
   programmes:
     output: true
     order:
-      - Tours.md
-      - Light Wash.md
-      - GastroBeats.md
-      - Light Forum.md
       - Programmes.md
       - "Lightwave: Turning the Tide.md"
+      - GastroBeats.md
+      - Light Forum.md
+      - Light Wash.md
+      - Tours.md
