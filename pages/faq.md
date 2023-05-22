@@ -22,7 +22,7 @@ All MRT lines (East-West Line, North-South Line, Downtown Line, Circle Line and 
 <li><p style="font-size:17px; line-height:40px">Esplanade (CC3)</p></li>
 <li><p style="font-size:17px; line-height:40px">Marina Bay (NS27/TE20/CE2)</p></li>
 <li><p style="font-size:17px; line-height:40px">Promenade (DT15/CC4)</p></li>
-<li><p style="font-size:17px; line-height:40px">Raffles Place (NS26/EW14)</p></li>
+<li><p style="font-size:17px; line-height:40px">Raffles Place (NS26/EW14)</p></li></ul>
 <br><br>
 	
 <b>Q5. What can I see and do at i Light Singapore 2023?</b><br>
@@ -52,4 +52,4 @@ Yes, we have been collaborating with other overseas light festivals and are happ
 For more information on collaboration opportunities, please reach out to us at <a href="mailto:info@ilight.sg"> info@ilight.sg</a>.<br><br>
 <b>Q8. Do you have a general hotline?</b><br>
 
-For general enquiries, please call or Whatsapp: 88252095<p></p></ul>
+For general enquiries, please call or Whatsapp: 88252095<p></p>
