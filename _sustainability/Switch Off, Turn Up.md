@@ -35,7 +35,7 @@ A huge thank you to the following stakeholders for joining URA to&nbsp;<i>SOTU</
 - CapitaGreen<br>
 - CapitaSky<br>
 - CapitaSpring<br>
-- 6 Battery Road<br>
+- Six Battery Road<br>
 - 21 Collyer Quay<br>
 - 4 Changi South Lane<br>
 - 80 Bendemeer Road<br>
@@ -98,7 +98,7 @@ Marina Bay Alliance (Pilot Business Improvement District)</td><td style="width:5
 
 <tr><td style="width:50%">National Parks Board</td><td style="width:50%">
 - Animal Quarantine Centre<br>
-- Changi Animal &amp; Plant Quarantine, Changi Airfreight Centre<br>
+- Changi Animal &amp; Plant Quarantine Changi Airfreight Centre<br>
 - The Animal Lodge</td></tr>
 
 <tr><td style="width:50%">Ministry of National Development</td><td style="width:50%">
