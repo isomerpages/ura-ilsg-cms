@@ -101,6 +101,10 @@ Marina Bay Alliance (Pilot Business Improvement District)</td><td style="width:5
 - Changi Animal &amp; Plant Quarantine, Changi Airfreight Centre<br>
 - The Animal Lodge</td></tr>
 
+<tr><td style="width:50%">Ministry of National Development</td><td style="width:50%">
+- Maxwell<br>
+- JEM</td></tr>
+
 <tr><td style="width:50%">Papa Palheta Pte Ltd</td><td style="width:50%">
 - Chye Seng Huat Hardware Coffee Bar<br>
 - PPP Coffee</td></tr>
