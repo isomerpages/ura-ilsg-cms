@@ -19,4 +19,4 @@ During the day, the sculpture’s surroundings and sunlight are reflected on the
 <br>
 Malte Kebbel is a German artist who creates large-scale light and sculpture installations for public spaces.&nbsp;
 <br><br>
-Kebbel's current work focuses on questioning our evolving relationship with urban space, light, nature and energy. He uses lighting technologies, synthetic materials, parametric design and 3D technology to create monumental structures with geometric shapes and patterns reminiscent of nature.&nbsp; His installations are like temporary temples, shrines and places of contemplation that give new meanings to urban space and create new connections.</p>
+Kebbel's current work focuses on questioning our evolving relationship with urban space, light, nature and energy. He uses lighting technologies, synthetic materials, parametric design and 3D technology to create monumental structures with geometric shapes and patterns reminiscent of nature.&nbsp;His installations are like temporary temples, shrines and places of contemplation that give new meanings to urban space and create new connections.</p>
