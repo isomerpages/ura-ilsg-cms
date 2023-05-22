@@ -13,8 +13,8 @@ General admission to the Festival is free, while charges apply for certain <a hr
 <br>The opening hours for the Festival are 7.30pm to 11.00pm daily, with extended hours to 12.00am on Fridays and Saturdays. Opening hours for various programmes may vary.<br></p>
 
 <br>
-<b><p style="font-size:17px; line-height:40px">Q4. How do I get to i Light Singapore 2023 via public transport?</p></b><br>
-All MRT lines (East-West Line, North-South Line, Downtown Line, Circle Line and Thomson-East Coast Line) have stops in the Marina Bay area. The nearest stations are:<br>
+<b></b><p style="font-size:17px; line-height:40px"><b>Q4. How do I get to i Light Singapore 2023 via public transport?</b><br>
+All MRT lines (East-West Line, North-South Line, Downtown Line, Circle Line and Thomson-East Coast Line) have stops in the Marina Bay area. The nearest stations are:<br></p>
 <ul>
 <li><p style="font-size:17px; line-height:40px">Bayfront (DT16/CE1)</p></li>
 <li><p style="font-size:17px; line-height:40px">City Hall (NS25/EW13</p></li>
