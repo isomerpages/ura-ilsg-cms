@@ -3,6 +3,7 @@ title: Tour
 permalink: /programmes/tour/
 description: ""
 ---
+### Guided Walking Tour
 <p style="font-size:17px; line-height:40px">
 On this specially curated walking tour conducted by Let’s Go Tour Singapore, hear from experienced guides about this year’s Festival theme, A New Wave, as well as the creative ideas, stories and trivia behind the delightful artworks.<br><br>
 <b>Location</b><br>
