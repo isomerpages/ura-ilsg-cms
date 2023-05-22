@@ -9,7 +9,7 @@ description: ""
 Chan Wan Kyn, Linknito, Linez<br>
 The Grand Lowlife Orchestra (Singapore | USA | Morocco)<br>
 <b>Location:</b> Mist Walk<br><br>
-<i>Symphony 1</i> is a light-based architectural entity that inhabits space. A living being, its ethereal and translucent organic form populates any location.<br><br>
+<i>Symphony 1</i> is a light-based architectural entity that inhabits space. Like a living being, its ethereal and translucent organic form populates any location.<br><br>
 Masses of twisting vine-like structures emit an icy glow to fill the space before sprouting into sprigs of crystalline flowers. The sprawl of its existence is a comment on nature and our relationship with it, contradicting yet also enhancing the brutal denseness of urban spaces it finds itself in.
 <br><br>
 <img src="">(Pending Artist Image)
