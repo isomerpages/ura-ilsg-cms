@@ -49,7 +49,7 @@ A huge thank you to the following stakeholders for joining URA to&nbsp;<i>SOTU</
 - UBIX<br>
 - Xilin Districentre D</td></tr>
 
-	<tr><td style="width:50%">MUJI (Singapore) Pte Ltd</td><td style="width:50%">
+<tr><td style="width:50%">MUJI (Singapore) Pte Ltd</td><td style="width:50%">
 - Muji - 100AM<br>
 - Muji - 313@Somerset<br>
 - Muji - Bugis Junction<br>
@@ -67,6 +67,7 @@ Marina Bay Alliance</td><td style="width:50%">
 - Marina Bay Financial Centre Tower 1, 2, 3<br>
 - One Raffles Quay<br>
 - One Fullerton<br>
+- OUE Bayfront<br>
 - The Fullerton Bay Hotel, Singapore<br>
 - The Fullerton Hotel Singapore</td></tr>
 
@@ -118,11 +119,18 @@ Gardens by the Bay</td><td style="width:50%">- Bay South Garden</td></tr>
 	
 <tr><td style="width:50%">Housing Development Board (HDB)</td><td style="width:50%">- HDB Hub</td></tr>
 
+<tr><td style="width:50%">K-REIT Asia Management Limited</td><td style="width:50%">- Ocean Financial Centre</td></tr>	
+	
+<tr><td style="width:50%">MCST 1500</td><td style="width:50%">- 20 Collyer Quay</td></tr>
+	
 <tr><td style="width:50%">National Gallery Singapore</td><td style="width:50%">- National Gallery Singapore</td></tr>
 
 <tr><td style="width:50%">Pico Art</td><td style="width:50%">- Pico Creative Building</td></tr>
 	
 <tr><td style="width:50%">Red Dot Singapore Pte Ltd</td><td style="width:50%">- Red Dot Design Museum</td></tr>
+	
+<tr><td style="width:50%">S L Development Pte Ltd</td><td style="width:50%">- Singapore Land Tower</td></tr>	
+
 <tr><td style="width:50%">Singapore Recreation Club</td><td style="width:50%">- Singapore Recreation Club</td></tr>
 	
 <tr><td style="width:50%">Singapore River One Limited</td><td style="width:50%">- Singapore River One Limited</td></tr>
