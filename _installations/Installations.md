@@ -5,7 +5,7 @@ description: ""
 ---
 <p style="font-size:17px; line-height:40px">
 <img src="/images/i%20light%20singapore%20(festival%20map)%20.jpg">
-
+<br><br>
 <a href="/installations/glacier-dreams"><img src="/images/Installations/glacier%20dreams.jpg"></a>
 <b> Glacier Dreams </b>
 <br>
