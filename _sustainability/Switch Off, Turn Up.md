@@ -81,7 +81,7 @@ Marina Bay Alliance (Pilot Business Improvement District)</td><td style="width:5
 - Suntec City 1, 2, 3, 4, 5<br>
 - The Ritz-Carlton, Millenia Singapore</td></tr>
 
-<tr><td style="width:50%">Raffles Place Alliance (Pilot Business Improvement District)</td><td style="width:50%">
+<tr><td style="width:50%">Raffles Place Alliance<br>(Pilot Business Improvement District)</td><td style="width:50%">
 - Ocean Financial Centre<br>
 - Singapore Land Tower</td></tr>
 	
