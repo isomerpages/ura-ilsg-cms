@@ -30,7 +30,7 @@ Through radical visualisations of our digitised memories, Anadol expands the pos
 		<tr>
 			<td style="width:30%"><a href="https://www.juliusbaer.com" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/julius%20bar_resized%20web%20version.png" align="left"></a></td>
 			<td style="width:30%"><a href="https://www.marinabaysands.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/mbs_resized%20web%20version.png" align="left"></a></td>
-			<td style="width:30%"><a href="https://www.hexogonsol.com/"></a><img src="/images/About/Sponsor%20Acknowledgement/hexogon%20group_version.png" align="left">
+			<td style="width:30%"><a target="blank" href="https://www.hexogonsol.com/"><img src="/images/About/Sponsor%20Acknowledgement/hexogon%20group_version.png" align="left"></a>
 			</td><td style="width:10%"></td>
 		</tr>
 	</tbody>
