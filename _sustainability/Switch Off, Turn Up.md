@@ -15,6 +15,7 @@ A huge thank you to the following stakeholders for joining URA to&nbsp;<i>SOTU</
 table, tr {
       border: 1px solid black;
       border-collapse: collapse;
+			padding: 10px
     }
 <table style="width:100%"><thead><tr><th>Organisation</th><th>Buildings/Properties</th></tr></thead>
 <tbody>
