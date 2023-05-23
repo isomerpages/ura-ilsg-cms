@@ -52,8 +52,8 @@ A huge thank you to the following stakeholders for joining URA to&nbsp;<i>SOTU</
 <tr><td style="width:50%">MUJI (Singapore) Pte Ltd</td><td style="width:50%">
 - Muji - 100AM<br>
 - Muji - 313@Somerset<br>
-- Muji - Bugis Junction<br>
 - Muji - ION Orchard<br>
+- Muji - Bugis Junction<br>
 - Muji - Jem<br>
 - Muji - Jewel Changi Airport<br>
 - Muji - Paragon<br>
@@ -81,6 +81,10 @@ Marina Bay Alliance (Pilot Business Improvement District)</td><td style="width:5
 - Suntec City 1, 2, 3, 4, 5<br>
 - The Ritz-Carlton, Millenia Singapore</td></tr>
 
+<tr><td style="width:50%">Raffles Place Alliance (Pilot Business Improvement District)</td><td style="width:50%">
+- Ocean Financial Centre<br>
+- Singapore Land Tower</td></tr>
+	
 <tr><td style="width:50%">Marina Bay Sands Pte Ltd</td><td style="width:50%">
 - ArtScience Museum<br>
 - Marina Bay Sands Casino<br>
@@ -121,9 +125,7 @@ Edgefield Secondary School</td><td style="width:50%">- Edgefield Secondary Schoo
 <tr><td style="width:50%">
 Gardens by the Bay</td><td style="width:50%">- Bay South Garden</td></tr>
 	
-<tr><td style="width:50%">Housing Development Board (HDB)</td><td style="width:50%">- HDB Hub</td></tr>
-
-<tr><td style="width:50%">K-REIT Asia Management Limited</td><td style="width:50%">- Ocean Financial Centre</td></tr>	
+<tr><td style="width:50%">Housing Development Board (HDB)</td><td style="width:50%">- HDB Hub</td></tr>	
 	
 <tr><td style="width:50%">MCST 1500</td><td style="width:50%">- 20 Collyer Quay</td></tr>
 	
@@ -132,8 +134,6 @@ Gardens by the Bay</td><td style="width:50%">- Bay South Garden</td></tr>
 <tr><td style="width:50%">Pico Art</td><td style="width:50%">- Pico Creative Building</td></tr>
 	
 <tr><td style="width:50%">Red Dot Singapore Pte Ltd</td><td style="width:50%">- Red Dot Design Museum</td></tr>
-	
-<tr><td style="width:50%">S L Development Pte Ltd</td><td style="width:50%">- Singapore Land Tower</td></tr>	
 
 <tr><td style="width:50%">Singapore Recreation Club</td><td style="width:50%">- Singapore Recreation Club</td></tr>
 	
