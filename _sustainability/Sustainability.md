@@ -19,9 +19,9 @@ description: ""
 	</tr></thead>
 	<tbody>
 		<tr>
+			<td style="width:30%"><a href="https://energy.alibabacloud.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/alibaba%20cloud%20energy_version%202.png" align="left"></a></td>
 			<td style="width:30%"><a href="https://www.climateresources.net" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/crx_resized%20web%20version.png" align="left"></a></td>
 			<td style="width:30%"><a href="https://www.susGain.com" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/sus%20grain_resized%20web%20version.png" align="left"></a></td>
-			<td style="width:30%"><a href="https://energy.alibabacloud.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/alibaba%20cloud%20energy_version%202.png" align="left"></a></td>
 			<td style="width:10%"></td>
 		</tr>
 	</tbody>

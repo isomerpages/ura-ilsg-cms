@@ -11,8 +11,6 @@ Amigo &amp; Amigo (Australia)&nbsp;
 <br>
 	<b>Location</b>: Clifford Square&nbsp;
 <br><br>
-	<i>Presented by The Fullerton Heritage</i>
-<br><br>
 Step into a giant musical garden and be surrounded by an immersive jungle of light, colour, and sound. At <i>Trumpet Flowers</i>, visitors get the opportunity to create a unique floral symphony using interactive keys that control the towering musical and light instruments.&nbsp;
 <br><br>
 Inspired by gramophones, these super-sized flowers burst to life occasionally with a specially commissioned musical score by Otis Studio, accompanied by some of Sydney’s finest jazz musicians.
@@ -23,3 +21,14 @@ Founded in 2012, Amigo &amp; Amigo is an artist studio working across Sydney, Sh
 <br><br>
 Motivated to be playful, engaging and inclusive, they continually explore the transformation of environments into memorable experiences with real audience participation and interaction.
 </p>
+<br>
+<table style="width:100%">
+<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Presented by</p></th>
+	</tr></thead>
+	<tbody>
+		<tr>
+			<td style="width:30%"><a href="https://www.fullertonhotels.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/the%20fullerton%20heritage_resized%20web%20version.png" align="left"></a></td>
+			<td style="width:70%"></td>
+		</tr>
+	</tbody>
+</table>

@@ -19,8 +19,8 @@ Refik Anadol Studio (USA) and Julius Baer<br>
 Jeremy Lin, Jedy Chen, Dexter Hong&nbsp; <br>
 Plug &amp; Play (Singapore)<br>
 <b>Location</b>: &nbsp;Entrance of Marina Bay Link Mall<br> 
-<br><br>
-	
+<br>
+
 <a href="/installations/trumpetflowers"><img src="/images/Installations/trumpet%20flowers.jpg"></a>
 <b>Trumpet Flowers</b>
 <br>
@@ -37,13 +37,14 @@ Nanyang Technological University, School of Art, Design and Media (Singapore)<br
 <b>Location</b>: South Beach Avenue – Level B1M&nbsp; (beside Akira Back)<br><br>
 	<i>Co-presented by South Beach Consortium, Aedas, &amp; Sunray Woodcraft Construction, supported by JW Marriott Singapore South Beach</i>
 <br><br>
+	
 <a href="/installations/showiii"><img src="/images/Installations/show%20iii%20.jpg"></a>
 <b>Show III</b>
 <br>
 Chen Jiawen, Lai Ling Ling
 <br>Nanyang Academy of Fine Arts (Singapore) and James Cook University (Singapore)<br>
 <b>Location</b>: South Beach Main Entrance (next to JW Marriott Singapore South Beach drop-off point)<br><br>
-<i>Co-presented by South Beach Consortium, Aedas, &amp; Sunray Woodcraft Construction, supported by JW Marriott Singapore South Beach</i>
+<i>Co-presented by South Beach Consortium, Aedas, &amp; Sunray Woodcraft Construction</i>
 <br><br>
 	
 <a href="/installations/prism"><img src="/images/Installations/prism%20jun%20ong.jpg"></a>
@@ -53,5 +54,7 @@ Jun Ong (Malaysia)<br>
 <b>Location</b>: Millenia Walk (The Great Hall)<br><br>
 	<i>Presented by Millenia Walk</i>
 <br><br>
-More installations will be revealed closer to date. Follow us <a target="_blank" href="https://www.instagram.com/ilightsingapore">@ilightsingapore</a> for sneak peeks of our light art installations.
-	</p>
+
+More installations will be revealed closer to date.&nbsp;Follow us <a target="_blank" href="https://www.instagram.com/ilightsingapore">@ilightsingapore</a> for sneak&nbsp;peeks of our light art installations.
+&nbsp;&nbsp;&nbsp; </p>
+<p></p>

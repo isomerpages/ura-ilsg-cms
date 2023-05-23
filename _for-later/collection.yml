@@ -2,8 +2,15 @@ collections:
   for-later:
     output: true
     order:
-      - TOURS.md
-      - LIGHT WASH.md
-      - LIGHT FORUM.md
-      - GASTROBEATS.md
-      - FESTIVAL DIRECTOR MESSAGE.md
+      - Festival Director Message.md
+      - Tour.md
+      - Light Wash.md
+      - Light Forum.md
+      - GastroBeats.md
+      - Aquatics.md
+      - Light Anemones.md
+      - the things left unsaid.md
+      - Symphony 1.md
+      - Moooooootion.md
+      - Blumiwave.md
+      - Tree Man.md
