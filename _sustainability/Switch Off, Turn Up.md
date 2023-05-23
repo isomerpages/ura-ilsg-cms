@@ -12,7 +12,11 @@ Take part in <i>SOTU</i> through <i>i Light i Pledge, presented by Alibaba Cloud
 <br><br>
 A huge thank you to the following stakeholders for joining URA to&nbsp;<i>SOTU</i> this year:<br>
 
-<table style="width:100%; border: 1px solid black; border-collapse:separate; padding:10px"><thead><tr><th>Organisation</th><th>Buildings/Properties</th></tr></thead>
+table, tr {
+      border: 1px solid black;
+      border-collapse: collapse;
+    }
+<table style="width:100%"><thead><tr><th>Organisation</th><th>Buildings/Properties</th></tr></thead>
 <tbody>
 <tr><td style="width:50%">
 CapitaLand</td><td style="width:50%"> <u>Malls</u><br> 
