@@ -24,7 +24,7 @@ Born in Istanbul, Refik Anadol is a media artist, director and pioneer in the ae
 Through radical visualisations of our digitised memories, Anadol expands the possibilities of architecture, narrative and the body in motion. This encourages us to rethink our engagement with the physical world and creative potential of machines.
 </p><br>
 <p style="font-size: 17px; line-height: 20px"></p><table style="width:100%">
-<thead><tr><th colspan="2">Co-presented by</th><th colspan="1">Supported by</th>
+<thead><tr><th colspan="2">Co-presented by</th><th colspan="2">Supported by</th>
 	</tr></thead>
 	<tbody>
 		<tr>
