@@ -11,7 +11,7 @@ For the first time this year, the initiative will expand beyond corporations to 
 Take part in <i>SOTU</i> through <i>i Light i Pledge, presented by Alibaba Cloud</i> at <a target="_blank" href="https://www.susgain.com/iLightiPledge">https://www.susgain.com/iLightiPledge</a> today!
 <br><br>
 A huge thank you to the following stakeholders for joining URA to&nbsp;<i>SOTU</i> this year:<br>
-<table style="width:100%; border:1px solid black; border-collapse:separate; padding:10px">
+<table style="width:100%; border:1px solid black; border-collapse:separate; padding:10px"><thead><tr><th>Organisation</th><th>Buildings/Properties</th></tr></thead>
 <tbody>
 <tr><td style="width:50%">
 	CapitaLand</td><td style="width:50%"> <u>Malls</u><br> 
@@ -63,7 +63,7 @@ A huge thank you to the following stakeholders for joining URA to&nbsp;<i>SOTU</
 - Muji - VivoCity</td></tr>
 
 <tr><td style="width:50%">
-Marina Bay Alliance (Pilot Business Improvement District)</td><td style="width:50%">
+Marina Bay Alliance<br> (Pilot Business Improvement District)</td><td style="width:50%">
 - Marina Bay Financial Centre Tower 1, 2, 3<br>
 - One Raffles Quay<br>
 - One Fullerton<br>
@@ -117,30 +117,30 @@ Marina Bay Alliance (Pilot Business Improvement District)</td><td style="width:5
 - Swissotel The Stamford</td></tr>
 	
 <tr><td style="width:50%">
-Council for Estate Agencies</td><td style="width:50%"> - Council for Estate Agencies (HDB Hub)</td></tr>
+Council for Estate Agencies</td><td style="width:50%"> Council for Estate Agencies (HDB Hub)</td></tr>
 
 <tr><td style="width:50%">
-Edgefield Secondary School</td><td style="width:50%">- Edgefield Secondary School</td></tr>
+Edgefield Secondary School</td><td style="width:50%"> Edgefield Secondary School</td></tr>
 
 <tr><td style="width:50%">
-Gardens by the Bay</td><td style="width:50%">- Bay South Garden</td></tr>
+Gardens by the Bay</td><td style="width:50%"> Bay South Garden</td></tr>
 	
-<tr><td style="width:50%">Housing Development Board (HDB)</td><td style="width:50%">- HDB Hub</td></tr>	
+<tr><td style="width:50%">Housing Development Board (HDB)</td><td style="width:50%"> HDB Hub</td></tr>	
 	
-<tr><td style="width:50%">MCST 1500</td><td style="width:50%">- 20 Collyer Quay</td></tr>
+<tr><td style="width:50%">MCST 1500</td><td style="width:50%"> 20 Collyer Quay</td></tr>
 	
-<tr><td style="width:50%">National Gallery Singapore</td><td style="width:50%">- National Gallery Singapore</td></tr>
+<tr><td style="width:50%">National Gallery Singapore</td><td style="width:50%"> National Gallery Singapore</td></tr>
 
-<tr><td style="width:50%">Pico Art</td><td style="width:50%">- Pico Creative Building</td></tr>
+<tr><td style="width:50%">Pico Art</td><td style="width:50%"> Pico Creative Building</td></tr>
 	
-<tr><td style="width:50%">Red Dot Singapore Pte Ltd</td><td style="width:50%">- Red Dot Design Museum</td></tr>
+<tr><td style="width:50%">Red Dot Singapore Pte Ltd</td><td style="width:50%"> Red Dot Design Museum</td></tr>
 
-<tr><td style="width:50%">Singapore Recreation Club</td><td style="width:50%">- Singapore Recreation Club</td></tr>
+<tr><td style="width:50%">Singapore Recreation Club</td><td style="width:50%"> Singapore Recreation Club</td></tr>
 	
-<tr><td style="width:50%">Singapore River One Limited</td><td style="width:50%">- Singapore River One Limited</td></tr>
+<tr><td style="width:50%">Singapore River One Limited</td><td style="width:50%"> Singapore River One Limited</td></tr>
 
-<tr><td style="width:50%">Tanjong Pagar Town Council</td><td style="width:50%">- 166 Bukit Merah Centre</td></tr>
+<tr><td style="width:50%">Tanjong Pagar Town Council</td><td style="width:50%"> 166 Bukit Merah Centre</td></tr>
 	
 <tr><td style="width:50%">Water B</td><td style="width:50%">
-- Water B kiosk</td></tr>
+ Water B kiosk</td></tr>
 </tbody></table></p><p></p>
