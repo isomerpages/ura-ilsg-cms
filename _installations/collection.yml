@@ -2,6 +2,7 @@ collections:
   installations:
     output: true
     order:
+      - Tree Man.md
       - Blumiwave.md
       - Moooooootion.md
       - the things left unsaid.md
