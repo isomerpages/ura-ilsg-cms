@@ -83,8 +83,11 @@ Suntec City 1, 2, 3, 4, 5<br>
 The Ritz-Carlton, Millenia Singapore</td></tr>
 
 <tr><td style="width:50%">Raffles Place Alliance<br>(Pilot Business Improvement District)</td><td style="width:50%">
+CapitaGreen<br>
+CapitaSpring<br>
 Ocean Financial Centre<br>
-Singapore Land Tower</td></tr>
+Singapore Land Tower<br>
+Six Battery Road</td></tr>
 	
 <tr><td style="width:50%">Marina Bay Sands Pte Ltd</td><td style="width:50%">
 ArtScience Museum<br>
@@ -112,8 +115,8 @@ Changi Animal &amp; Plant Quarantine Changi Airfreight Centre<br>
 The Animal Lodge</td></tr>
 
 <tr><td style="width:50%">Ministry of National Development</td><td style="width:50%">
-Maxwell<br>
-JEM</td></tr>
+MND Complex<br>
+JEM Office Tower</td></tr>
 
 <tr><td style="width:50%">Papa Palheta Pte Ltd</td><td style="width:50%">
 Chye Seng Huat Hardware Coffee Bar<br>
