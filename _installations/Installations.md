@@ -39,6 +39,7 @@ XD49 (Thailand)<br>
 Chan Wan Kyn,&nbsp;Linknito,&nbsp;Linez<br>
 The Grand Lowlife Orchestra (Singapore | USA | Morocco)<br>
 <b>Location</b>: Mist Walk<br><br>
+<i>Supported by Million Lighting</i><br><br>
 
 <a href="/installations/blockparty"><img src="/images/Installations/block%20party.jpg"></a>
 <b>Block Party</b>
