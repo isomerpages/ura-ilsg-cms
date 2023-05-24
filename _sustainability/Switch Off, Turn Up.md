@@ -3,7 +3,7 @@ title: Switch Off, Turn Up
 permalink: /sustainability/switch-off-turn-up/
 description: ""
 ---
-![](/images/Sustainability/website%20banner%20sotu.png)
+![](/images/Sustainability/website%20banner%20sotu%202.png)
 <p style="font-size:17px; line-height:40px">A key component of the Festival’s sustainability efforts since its inception in 2010, the <b><i>Switch Off, Turn Up (SOTU)</i></b> campaign rallies building owners, corporations and businesses around Marina Bay and beyond to reduce their energy consumption by switching off non-essential lightings and turning up their air conditioning temperatures. Stakeholders are encouraged to continue with these energy-saving habits beyond the Festival period.
 <br><br>
 For the first time this year, the initiative will expand beyond corporations to include schools and the general public. 
