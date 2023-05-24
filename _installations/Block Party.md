@@ -23,3 +23,13 @@ Plug &amp; Play is a multidisciplinary collective of designers, technologists, e
 <br><br>
 Having collaborated with the world’s most innovative brands over the past decade, the studio turns complex issues into simple interactive solutions that help invent possibilities.
 </p>
+
+&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp; <table style="width:100%">
+<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Supported by</p></th></tr></thead><tbody><tr><td style="width:30%"><a href="https://www.aftershockpc.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/aftershock_%20resized%20web%20version.png" align="left"></a></td><td style="width:70%"></td></tr></tbody>
+</table>
