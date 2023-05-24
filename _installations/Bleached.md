@@ -29,7 +29,7 @@ Currently pursuing Bachelor of Fine Arts in Design Art (Interactive Design major
 <p style="font-size: 17px; line-height: 20px"></p><table style="width:100%">
 
 <thead><tr><th colspan="1">Co-presented by</th><th colspan="2">Supported by</th></tr></thead><tbody><tr>
-<td style="width:30%"><img src="/images/About/Sponsor%20Acknowledgement/south%20beach_version%202.png" align="left"><a href="https://www.southbeachavenue.com/" target="_blank">&nbsp;</a><a href="https://www.aedas.com" target="_blank">&nbsp;</a><a href="https://www.sunray.com.sg/" target="_blank">&nbsp;</a></td><td style="width:30%"><a target="_blank" href="https://www.jwsouthbeach.sg/"><img src="/images/About/Sponsor%20Acknowledgement/jw%20marriot%20v2.png" align="left"></a></td><td style="width:30%"><a target="_blank" href="https://www.jwsouthbeach.sg/"><img src="/images/About/Sponsor%20Acknowledgement/jw%20marriot.png" align="left"></a></td><td style="width:10%"></td></tr>
+<td style="width:30%"><img src="/images/About/Sponsor%20Acknowledgement/south%20beach_version%202.png" align="left"><a href="https://www.southbeachavenue.com/" target="_blank">&nbsp;</a><a href="https://www.aedas.com" target="_blank">&nbsp;</a><a href="https://www.sunray.com.sg/" target="_blank">&nbsp;</a></td><td style="width:30%"><a target="_blank" href="https://www.jwsouthbeach.sg/"><img src="/images/About/Sponsor%20Acknowledgement/jw%20marriot%20v2.png" align="left"></a></td><td style="width:30%"></td><td style="width:40%"></td></tr>
 	</tbody>
 </table>
 &nbsp;&nbsp;&nbsp; 
