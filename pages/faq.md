@@ -22,8 +22,8 @@ All MRT lines (East-West Line, North-South Line, Downtown Line, Circle Line and 
 <li><p style="font-size:17px; line-height:40px">Promenade (DT15/CC4)</p></li>
 <li><p style="font-size:17px; line-height:40px">Raffles Place (NS26/EW14)</p></li>
 </ul>
-<br><br>
 
+<p style="font-size:17px; line-height:40px">
 <b>Q5. What can I see and do at&nbsp;i&nbsp;Light Singapore 2023?</b><br>
 
 There will be a total of 14 captivating light art installations that aim to spark fresh perspectives on the environment and world around us. Check out the line-up of artworks installations here.<br><br>
@@ -51,4 +51,4 @@ For more information on collaboration opportunities, please reach out to us at�
 
 <b>Q8. Do you have a general hotline?</b><br>
 For general enquiries, please call or&nbsp;Whatsapp: 88252095
-<p></p>
+</p>
