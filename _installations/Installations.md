@@ -12,7 +12,7 @@ description: ""
 Refik Anadol <br>
 Refik Anadol Studio (USA) and Julius Baer<br> 
 <b>Location</b>: Façade of ArtScience Museum<br><br>
-<i>Co-presented by Julius Baer &amp; Marina Bay Sands, supported by Hexogon</i>	
+<i>Co-presented by Julius Baer &amp; Marina Bay Sands</i>	
 <br><br>
 
 <a href="/installations/tree-man"><img src="/images/Installations/tree%20man.jpg"></a>
@@ -39,16 +39,14 @@ XD49 (Thailand)<br>
 Chan Wan Kyn,&nbsp;Linknito,&nbsp;Linez<br>
 The Grand Lowlife Orchestra (Singapore | USA | Morocco)<br>
 <b>Location</b>: Mist Walk<br><br>
-<i>Supported by Million Lighting</i><br><br>
-
+	
 <a href="/installations/blockparty"><img src="/images/Installations/block%20party.jpg"></a>
 <b>Block Party</b>
 <br>
 Jeremy Lin, Jedy Chen, Dexter Hong&nbsp; <br>
 Plug &amp; Play (Singapore)<br>
 <b>Location</b>: Entrance of Marina Bay Link Mall<br><br>
-<i>Supported by Aftershock</i>
-<br><br>
+
 
 <a href="/installations/the-things-left-unsaid"><img src="/images/Installations/the%20things%20left%20unsaid.jpg"></a>
 <b>the things left unsaid</b><br>
