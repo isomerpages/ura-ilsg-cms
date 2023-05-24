@@ -2,6 +2,7 @@ collections:
   installations:
     output: true
     order:
+      - Installations.md
       - Installation.md
       - Glacier Dreams.md
       - Block Party.md
