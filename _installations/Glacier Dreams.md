@@ -24,16 +24,3 @@ Born in Istanbul, Refik Anadol is a media artist, director and pioneer in the ae
 <br><br>
 Through radical visualisations of our digitised memories, Anadol expands the possibilities of architecture, narrative and the body in motion. This encourages us to rethink our engagement with the physical world and creative potential of machines.
 </p><br>
-
-<p style="font-size: 17px; line-height: 20px"></p><table style="width:100%">
-<thead><tr><th colspan="2">Co-presented by</th><th colspan="1">Supported by</th>
-</tr></thead>
-<tbody><tr>
-<td style="width:30%"><a href="https://www.juliusbaer.com" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/julius%20bar_resized%20web%20version.png" align="left"></a></td><td style="width:30%"><a href="https://www.marinabaysands.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/mbs_resized%20web%20version.png" align="left"></a></td><td style="width:30%"><a href="https://www.hexogonsol.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/hexogon%20group_version.png" align="left"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td><td style="width:10%"></td></tr></tbody>
-</table>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;
