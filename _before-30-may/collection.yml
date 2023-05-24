@@ -1,4 +1,5 @@
 collections:
   before-30-may:
     output: true
-    order: []
+    order:
+      - Installation.md
