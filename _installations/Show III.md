@@ -24,7 +24,6 @@ The act of showering without water serves as a reminder for visitors to re-evalu
 	<b>About the Artists</b><br>
 Chen Jiawen is a Furniture and Spatial Design graduate from Nanyang Academy of Fine Arts. Lai Lingling majors in Internet of Things at James Cook University. Together, they aim to inspire a stronger sense of social responsibility and sustainable lifestyle.
  </p>
- <br>
  <p style="font-size: 17px; line-height: 20px"><table style="width:100%">
 	<thead><tr><th colspan="4">Co-presented by</th>
 		</tr></thead><tbody><tr>
