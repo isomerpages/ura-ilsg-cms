@@ -20,10 +20,10 @@ Inspired by gramophones, these super-sized flowers burst to life occasionally wi
 Founded in 2012, Amigo &amp; Amigo is an artist studio working across Sydney, Shanghai and Las Vegas. With an extensive background in sculpture and industrial design, their body of work showcases an ability to use light and materials to transform spaces and engage the public. &nbsp;
 <br><br>
 Motivated to be playful, engaging and inclusive, they continually explore the transformation of environments into memorable experiences with real audience participation and interaction.
-</p>
+<br>
 <table style="width:100%">
 	<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Presented by</p></th>
 		</tr></thead><tbody><tr><td style="width:30%"><a href="https://www.fullertonhotels.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/the%20fullerton%20heritage_resized%20web%20version.png" align="left"></a></td><td style="width:70%"></td>
 			</tr>
 	</tbody>
-</table>
+</table></p>
