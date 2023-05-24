@@ -2,6 +2,7 @@ collections:
   for-later:
     output: true
     order:
+      - Installations.md
       - Resonances.md
       - Festival Director Message.md
       - Tour.md
