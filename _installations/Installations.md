@@ -7,7 +7,7 @@ description: ""
 <a href="/festival-map"><img src="/images/i%20light%20singapore%20(festival%20map)%20.jpg"><br>
 
 </a><a href="/installations/glacier-dreams"><img src="/images/Installations/glacier%20dreams.jpg"></a>
-<b> Glacier Dreams </b>
+<b>Glacier Dreams </b>
 <br>
 Refik Anadol <br>
 Refik Anadol Studio (USA) and Julius Baer<br> 
@@ -16,32 +16,32 @@ Refik Anadol Studio (USA) and Julius Baer<br>
 <br><br>
 
 <a href="/installations/tree-man"><img src="/images/Installations/tree%20man.jpg"></a>
-<b> Tree Man </b><br>
+<b>Tree Man </b><br>
 ENESS (Australia) <br>
 <b>Location</b>: Event Square<br><br>
 
 <a href="/installations/blumiwave"><img src="/images/Installations/blumiwave.jpg"></a>
-<b>&nbsp;Blumiwave&nbsp;</b><br>
+<b>Blumiwave</b><br>
 DP Design (Singapore)<br>
 <b>Location</b>: Mist Walk<br><br>
 
 <i>Presented by DBS</i><br><br>
 
 <a href="/installations/moooooootion"><img src="/images/Installations/moooooootion.jpg"></a>
-<b>&nbsp;Moooooootion&nbsp;</b><br>
+<b>Moooooootion</b><br>
 XD49 (Thailand)<br>
 <b>Location</b>:Bayfront Event Space<br><br>
 
 <i>Presented by&nbsp;GastroBeats, in collaboration with Awakening Bangkok from Bangkok, Thailand</i><br><br>
 
 <a href="/installations/symphony-1"><img src="/images/Installations/symphony%201.jpg"></a>
-<b> Symphony 1 </b><br>
+<b>Symphony 1 </b><br>
 Chan Wan Kyn,&nbsp;Linknito,&nbsp;Linez<br>
 The Grand Lowlife Orchestra (Singapore | USA | Morocco)<br>
 <b>Location</b>: Mist Walk<br><br>
 
 <a href="/installations/blockparty"><img src="/images/Installations/block%20party.jpg"></a>
-<b> Block Party</b>
+<b>Block Party</b>
 <br>
 Jeremy Lin, Jedy Chen, Dexter Hong&nbsp; <br>
 Plug &amp; Play (Singapore)<br>
@@ -50,19 +50,19 @@ Plug &amp; Play (Singapore)<br>
 <br><br>
 
 <a href="/installations/the-things-left-unsaid"><img src="/images/Installations/the%20things%20left%20unsaid.jpg"></a>
-<b> the things left unsaid</b><br>
+<b>the things left unsaid</b><br>
 Brigette Teo<br>
 Nanyang Technological University, School of Art, Design and Media<br>
 <b>Location</b>: Breeze Shelter<br><br>
 	
 <a href="/installations/light-anemones"><img src="/images/Installations/light%20anemones.jpg"></a>
-<b> Light Anemones </b><br>
+<b>Light Anemones</b><br>
 Malte&nbsp;Kebbel&nbsp;<br>
 Studio&nbsp;Kebbel&nbsp;(Germany)<br>
 <b>Location</b>: The apex at The Promontory at Marina Bay<br><br>
 
 <a href="/installations/resonances"><img src="/images/Installations/re¦çsonances.jpg"></a>
-<b>&nbsp;Résonances&nbsp;</b><br>
+<b>Résonances</b><br>
 Louis-Philippe Rondeau in collaboration with ELEKTRA (Canada)<br>
 <b>Location</b>: Open Plaza, OUE Bayfront<br><br>
 
@@ -77,7 +77,7 @@ Amigo &amp; Amigo (Australia)<br>
 <br><br>
 
 <a href="/installations/aquatics"><img src="/images/Installations/aquatics.jpg"></a>
-<b> Aquatics </b><br>
+<b>Aquatics </b><br>
 Philipp Artus (Germany)<br>
 <b>Location</b>: Under Esplanade Bridge (near Merlion Park)<br><br>
 	
