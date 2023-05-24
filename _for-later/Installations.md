@@ -90,7 +90,7 @@ Amigo &amp; Amigo (Australia)<br>
 
 <b> Aquatics </b><br>
 
-Philipp Artus (Germany)
+Philipp Artus (Germany)<br>
 
 <b>Location</b>: Under Esplanade Bridge (near Merlion Park)<br><br>
 	
