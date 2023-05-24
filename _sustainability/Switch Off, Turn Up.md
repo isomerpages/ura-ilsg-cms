@@ -154,4 +154,4 @@ Gardens by the Bay</td><td style="width:50%"> Bay South Garden</td></tr>
 <tr><td style="width:50%">Water B</td><td style="width:50%">
  Water B kiosks along Singapore River</td></tr>
 </tbody></table>
-<i>*Concurrently acknowledged under parent group of participating properties/organisations</i></p>
+<i>* Concurrently acknowledged under parent group of participating properties/organisations</i></p>
