@@ -2,6 +2,7 @@ collections:
   installations:
     output: true
     order:
+      - Blumiwave.md
       - Moooooootion.md
       - the things left unsaid.md
       - Symphony 1.md
