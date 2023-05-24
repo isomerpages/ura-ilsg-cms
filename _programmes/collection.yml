@@ -2,7 +2,7 @@ collections:
   programmes:
     output: true
     order:
-      - Programmes1.md
+      - Programmes.md
       - Tour.md
       - Light Wash.md
       - Light Forum.md
