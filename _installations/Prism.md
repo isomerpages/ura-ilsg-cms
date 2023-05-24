@@ -26,12 +26,7 @@ In his time as a lecturer in lighting design at Sunway University, Malaysia, he 
 </p>
 <br>
 
-&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; &nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; <table style="width:100%">
+
+<table style="width:100%">
 	<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Presented by</p></th></tr></thead><tbody><tr><td style="width:30%"><a href="https://www.milleniawalk.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/millenia%20walk_resized%20web%20version.png" align="left"></a></td><td style="width:70%"></td></tr></tbody>
 </table>
