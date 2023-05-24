@@ -35,7 +35,7 @@ XD49 (Thailand)<br>
 	
 <b>Location</b>:Bayfront Event Space<br><br>
 
-<i>Presented by&nbsp;GastroBeats<br> In collaboration with Awakening Bangkok<br> from Bangkok, Thailand</i><br><br>
+<i>Presented by&nbsp;GastroBeats, in collaboration with Awakening Bangkok from Bangkok, Thailand</i><br><br>
 
 <a href="/installations/symphony-1"><img src="/images/Installations/symphony%201.jpg"></a>
 <b> Symphony 1 </b><br>
