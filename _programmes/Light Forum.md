@@ -14,7 +14,7 @@ Visitors can also participate in a workshop on 4 June for a hands-on opportunity
 As an optional add-on, <i>Light Forum</i> participants can also sign up for a walking tour held in partnership with Let’s Go Tour Singapore. On this tour, they can hear from experienced guides the inspiration behind thisthis year’s Festival theme, A New Wave, as well as stories behind the light art installations. The tour is available to <i>Light Forum</i> participants at a discounted rate of SGD15/pax each.
 <br><br>
 Sign up for <i>Light Forum</i> <a target="_blank" href="https://lightforum.eventbrite.sg/">here</a>.
-<br>
+<br><br>
 <table style="width:100%">
 <tbody><tr><td><b>3 June 2023</b></td></tr></tbody></table>
 
