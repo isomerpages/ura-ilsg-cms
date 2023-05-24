@@ -10,7 +10,7 @@ description: ""
 Refik Anadol <br>
 Refik Anadol Studio (USA) and Julius Baer<br> 
 <b>Location</b>: Façade of ArtScience Museum<br><br>
-<i>Co-presented by Julius Baer &amp; Marina Bay Sands</i>	
+<i>Co-presented by Julius Baer &amp; Marina Bay Sands, supported by Hexogon</i>	
 <br><br>
 
 <a href="/installations/blockparty"><img src="/images/Installations/block%20party.jpg"></a>
@@ -18,7 +18,8 @@ Refik Anadol Studio (USA) and Julius Baer<br>
 <br>
 Jeremy Lin, Jedy Chen, Dexter Hong&nbsp; <br>
 Plug &amp; Play (Singapore)<br>
-<b>Location</b>: &nbsp;Entrance of Marina Bay Link Mall<br> 
+<b>Location</b>: Entrance of Marina Bay Link Mall<br><br>
+<i>Supported by Aftershock</i>
 <br>
 
 <a href="/installations/trumpetflowers"><img src="/images/Installations/trumpet%20flowers.jpg"></a>
@@ -55,6 +56,6 @@ Jun Ong (Malaysia)<br>
 	<i>Presented by Millenia Walk</i>
 <br><br>
 
-More installations will be revealed closer to date.&nbsp;Follow us <a target="_blank" href="https://www.instagram.com/ilightsingapore">@ilightsingapore</a> for sneak&nbsp;peeks of our light art installations.
+More installations will be revealed closer to date. Follow us <a target="_blank" href="https://www.instagram.com/ilightsingapore">@ilightsingapore</a> for sneak&nbsp;peeks of our light art installations.
 &nbsp;&nbsp;&nbsp; </p>
 <p></p>
