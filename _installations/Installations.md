@@ -10,7 +10,7 @@ description: ""
 Refik Anadol <br>
 Refik Anadol Studio (USA) and Julius Baer<br> 
 <b>Location</b>: Façade of ArtScience Museum<br><br>
-<i>Co-presented by Julius Baer &amp; Marina Bay Sands, supported by Hexogon</i>	
+<i>Co-presented by Julius Baer &amp; Marina Bay Sands</i>	
 <br><br>
 
 <a href="/installations/blockparty"><img src="/images/Installations/block%20party.jpg"></a>
@@ -19,8 +19,6 @@ Refik Anadol Studio (USA) and Julius Baer<br>
 Jeremy Lin, Jedy Chen, Dexter Hong&nbsp; <br>
 Plug &amp; Play (Singapore)<br>
 <b>Location</b>: Entrance of Marina Bay Link Mall<br><br>
-<i>Supported by Aftershock</i>
-<br><br>
 
 <a href="/installations/trumpetflowers"><img src="/images/Installations/trumpet%20flowers.jpg"></a>
 <b>Trumpet Flowers</b>
