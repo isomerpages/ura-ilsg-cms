@@ -27,10 +27,10 @@ Chen Jiawen is a Furniture and Spatial Design graduate from Nanyang Academy of F
 <p style="font-size: 17px; line-height: 20px"></p><table style="width:100%">
 	<thead><tr><th colspan="4">Co-presented by
 &nbsp;&nbsp;&nbsp; </th></tr></thead><tbody><tr>
-<td style="width:30%"><img src="/images/About/Sponsor%20Acknowledgement/south%20beach_version%202.png" align="left"><a href="https://www.southbeachavenue.com/" target="_&quot;blank&quot;">&nbsp;</a><a href="https://www.aedas.com" target="_blank">&nbsp;</a><a href="https://www.sunray.com.sg/" target="_blank">&nbsp;</a></td>
+<td style="width:30%"><img src="/images/About/Sponsor%20Acknowledgement/south%20beach_version%202.png" align="left"><a href="https://www.southbeachavenue.com/" target="_blank">&nbsp;</a><a href="https://www.aedas.com" target="_blank">&nbsp;</a><a href="https://www.sunray.com.sg/" target="_blank">&nbsp;</a></td>
 <td style="width:70%"></td></tr></tbody>
 </table>
 &nbsp;&nbsp;&nbsp; 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;
