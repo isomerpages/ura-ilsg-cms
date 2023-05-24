@@ -3,25 +3,9 @@ links:
   - title: About
     collection: about
   - title: Installations
-    url: /installations
-    sublinks:
-      - title: Glacier Dreams
-        url: /installations/glacier-dreams
-      - title: Block Party
-        url: /installations/blockparty
-      - title: Trumpet Flowers
-        url: /installations/trumpetflowers
-      - title: Bleached
-        url: /installations/bleached
-      - title: Show III
-        url: /installations/showiii
-      - title: Prism
-        url: /installations/prism
+    collection: installations
   - title: Programmes
-    url: /programmes
-    sublinks:
-      - title: "Lightwave: Turning the Tide"
-        url: /programmes/lightwave-turning-the-tide/
+    collection: programmes
   - title: Sustainability
     url: /sustainability
     sublinks:
