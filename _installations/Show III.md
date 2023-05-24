@@ -12,7 +12,6 @@ Nanyang Academy of Fine Arts (Singapore) and James Cook University (Singapore)&n
 <br>
 	<b>Location</b>: South Beach Main Entrance (next to JW Marriott Singapore South Beach drop-off point)&nbsp;
 <br><br>
-<i>Co-presented by South Beach Consortium, Aedas, &amp; Sunray Woodcraft Construction</i><br><br>
 What does one usually think about in the shower?&nbsp;
 <br><br>
 	Inspired by a belief that showers are perfect settings for self-contemplation, <i>Show III</i> is an invitation to unwind outdoors by soaking in its calming blue light, with the company of a composed soundscape and virtual water droplets.&nbsp;
