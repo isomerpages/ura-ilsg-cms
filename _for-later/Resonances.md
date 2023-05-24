@@ -20,3 +20,12 @@ A professor at the School of Digital Arts, Animation and Design of Université d
 His interactive installations seek to question the relationship between the viewer and the artwork. They compel viewers to reconsider the conventions employed in the mediation of images, specifically those regarding the representation of space and time.
 </p>
 <br>
+
+&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp; <table style="width:100%">
+	<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Presented by</p></th></tr></thead><tbody><tr><td style="width:30%"><a href="http://www.oue.com.sg/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/oue_resized%20web%20version.png" align="left"></a></td><td style="width:70%"></td></tr></tbody>
+</table>
