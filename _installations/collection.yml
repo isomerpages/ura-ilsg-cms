@@ -2,6 +2,7 @@ collections:
   installations:
     output: true
     order:
+      - the things left unsaid.md
       - Symphony 1.md
       - Light Anemones.md
       - Aquatics.md
