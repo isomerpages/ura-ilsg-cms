@@ -20,7 +20,7 @@ Jeremy Lin, Jedy Chen, Dexter Hong&nbsp; <br>
 Plug &amp; Play (Singapore)<br>
 <b>Location</b>: Entrance of Marina Bay Link Mall<br><br>
 <i>Supported by Aftershock</i>
-<br>
+<br><br>
 
 <a href="/installations/trumpetflowers"><img src="/images/Installations/trumpet%20flowers.jpg"></a>
 <b>Trumpet Flowers</b>
