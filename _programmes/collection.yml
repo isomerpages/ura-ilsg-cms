@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - GastroBeats.md
       - Programmes.md
       - "Lightwave: Turning the Tide.md"
