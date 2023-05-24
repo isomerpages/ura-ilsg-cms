@@ -2,6 +2,7 @@ collections:
   installations:
     output: true
     order:
+      - Symphony 1.md
       - Light Anemones.md
       - Aquatics.md
       - Resonances.md
