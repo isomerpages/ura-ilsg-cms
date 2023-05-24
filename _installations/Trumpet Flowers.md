@@ -23,12 +23,7 @@ Motivated to be playful, engaging and inclusive, they continually explore the tr
 </p>
 <br>
 
-&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; <table style="width:100%">
-<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Presented by</p></th></tr></thead><tbody><tr><td style="width:30%"><a href="https://www.fullertonhotels.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/the%20fullerton%20heritage_resized%20web%20version.png" align="left"></a></td><td style="width:70%"></td></tr></tbody>
+<table style="width:100%">
+<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Presented by</p></th></tr></thead>
+	<tbody><tr><td style="width:30%"><a href="https://www.fullertonhotels.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/the%20fullerton%20heritage_resized%20web%20version.png" align="left"></a></td><td style="70%"></td></tr></tbody>
 </table>
