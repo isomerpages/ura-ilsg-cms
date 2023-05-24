@@ -33,10 +33,10 @@ Westgate<br><br>
 <u> Workspace Properties</u><br>
 Asia Square Tower 2<br>
 Capital Tower<br>
-CapitaGreen<br>
+CapitaGreen*<br>
 CapitaSky<br>
-CapitaSpring<br>
-Six Battery Road<br>
+CapitaSpring*<br>
+Six Battery Road*<br>
 21 Collyer Quay<br>
 4 Changi South Lane<br>
 80 Bendemeer Road<br>
@@ -83,11 +83,11 @@ Suntec City 1, 2, 3, 4, 5<br>
 The Ritz-Carlton, Millenia Singapore</td></tr>
 
 <tr><td style="width:50%">Raffles Place Alliance<br>(Pilot Business Improvement District)</td><td style="width:50%">
-CapitaGreen<br>
-CapitaSpring<br>
+CapitaGreen*<br>
+CapitaSpring*<br>
 Ocean Financial Centre<br>
 Singapore Land Tower<br>
-Six Battery Road</td></tr>
+Six Battery Road*</td></tr>
 	
 <tr><td style="width:50%">Marina Bay Sands Pte Ltd</td><td style="width:50%">
 ArtScience Museum<br>
@@ -152,5 +152,6 @@ Gardens by the Bay</td><td style="width:50%"> Bay South Garden</td></tr>
 <tr><td style="width:50%">Tanjong Pagar Town Council</td><td style="width:50%"> 166 Bukit Merah Centre</td></tr>
 	
 <tr><td style="width:50%">Water B</td><td style="width:50%">
- Water B kiosk</td></tr>
-</tbody></table></p><p></p>
+ Water B kiosks along Singapore River</td></tr>
+</tbody></table>
+<i>*Concurrently acknowledged under parent group of participating properties/organisations</i></p>
