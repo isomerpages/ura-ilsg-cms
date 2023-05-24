@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Programmes.md
-      - Resonances.md
       - Festival Director Message.md
       - Tour.md
       - Light Wash.md
