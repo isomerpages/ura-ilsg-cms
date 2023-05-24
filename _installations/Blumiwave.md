@@ -22,7 +22,7 @@ Seen from afar, sculptural waves appear to crash at varying heights and directio
 	
 Headquartered in Singapore, DP Design comprises a creative team of diverse talents, personalities and perspectives. Together, they have delivered and presented a preeminent international body of works since 1982.<br><br>
 
-Rooted in the belief that design has the capacity to uplift the human spirit, the interior design practice considers form, function and experience to create sustainable, memorable and meaningful places. In doing so, it synergises people, architecture and the ultimate purpose of the space.</p>
+Rooted in the belief that design has the capacity to uplift the human spirit, the interior design practice considers form, function and experience to create sustainable, memorable and meaningful places. In doing so, it synergises people, architecture and the ultimate purpose of the space.
 <br>
 <table style="width:100%">
 <thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Presented by</p></th>
@@ -33,4 +33,4 @@ Rooted in the belief that design has the capacity to uplift the human spirit, th
 			<td style="width:70%"></td>
 		</tr>
 	</tbody>
-</table>
+</table></p>
