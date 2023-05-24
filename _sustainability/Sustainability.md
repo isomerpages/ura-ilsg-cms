@@ -9,7 +9,7 @@ description: ""
 
 <br>
 		
-<a href="/sustainability/switch-off-turn-up"><img align="left" src="/images/Sustainability/website%20banner%20sotu.png"></a>
+<a href="/sustainability/switch-off-turn-up"><img align="left" src="/images/Sustainability/website%20banner%20sotu%202.png"></a>
 <p style="font-size:17px; line-height:40px">
 <b>Switch Off, Turn Up</b></p>																			 
 

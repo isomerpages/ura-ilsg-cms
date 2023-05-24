@@ -18,8 +18,7 @@ Refik Anadol Studio (USA) and Julius Baer<br>
 <br>
 Jeremy Lin, Jedy Chen, Dexter Hong&nbsp; <br>
 Plug &amp; Play (Singapore)<br>
-<b>Location</b>: &nbsp;Entrance of Marina Bay Link Mall<br> 
-<br>
+<b>Location</b>: Entrance of Marina Bay Link Mall<br><br>
 
 <a href="/installations/trumpetflowers"><img src="/images/Installations/trumpet%20flowers.jpg"></a>
 <b>Trumpet Flowers</b>
@@ -55,6 +54,6 @@ Jun Ong (Malaysia)<br>
 	<i>Presented by Millenia Walk</i>
 <br><br>
 
-More installations will be revealed closer to date.&nbsp;Follow us <a target="_blank" href="https://www.instagram.com/ilightsingapore">@ilightsingapore</a> for sneak&nbsp;peeks of our light art installations.
+More installations will be revealed closer to date. Follow us <a target="_blank" href="https://www.instagram.com/ilightsingapore">@ilightsingapore</a> for sneak&nbsp;peeks of our light art installations.
 &nbsp;&nbsp;&nbsp; </p>
 <p></p>

@@ -13,5 +13,5 @@ Marina Bay<br><br>
 Weekends - Saturdays and Sundays (from 1- 25 June) 8pm – 9.30pm<br><br>
 
 <b>Ticketing</b><br>
-Guided tours are priced at SGD30 each and can be purchased from Let’s Go Tour Singapore here \[url\].
+Guided tours are priced at SGD30 each and can be purchased from Let’s Go Tour Singapore <a target="_blank" href="https://letsgotoursingapore.com/events/ilight-singapore-tour/">here</a>.
 </p>

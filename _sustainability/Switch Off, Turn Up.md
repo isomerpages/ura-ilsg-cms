@@ -3,7 +3,7 @@ title: Switch Off, Turn Up
 permalink: /sustainability/switch-off-turn-up/
 description: ""
 ---
-![](/images/Sustainability/website%20banner%20sotu.png)
+![](/images/Sustainability/website%20banner%20sotu%202.png)
 <p style="font-size:17px; line-height:40px">A key component of the Festival’s sustainability efforts since its inception in 2010, the <b><i>Switch Off, Turn Up (SOTU)</i></b> campaign rallies building owners, corporations and businesses around Marina Bay and beyond to reduce their energy consumption by switching off non-essential lightings and turning up their air conditioning temperatures. Stakeholders are encouraged to continue with these energy-saving habits beyond the Festival period.
 <br><br>
 For the first time this year, the initiative will expand beyond corporations to include schools and the general public. 
@@ -33,10 +33,10 @@ Westgate<br><br>
 <u> Workspace Properties</u><br>
 Asia Square Tower 2<br>
 Capital Tower<br>
-CapitaGreen<br>
+CapitaGreen*<br>
 CapitaSky<br>
-CapitaSpring<br>
-Six Battery Road<br>
+CapitaSpring*<br>
+Six Battery Road*<br>
 21 Collyer Quay<br>
 4 Changi South Lane<br>
 80 Bendemeer Road<br>
@@ -83,8 +83,11 @@ Suntec City 1, 2, 3, 4, 5<br>
 The Ritz-Carlton, Millenia Singapore</td></tr>
 
 <tr><td style="width:50%">Raffles Place Alliance<br>(Pilot Business Improvement District)</td><td style="width:50%">
+CapitaGreen*<br>
+CapitaSpring*<br>
 Ocean Financial Centre<br>
-Singapore Land Tower</td></tr>
+Singapore Land Tower<br>
+Six Battery Road*</td></tr>
 	
 <tr><td style="width:50%">Marina Bay Sands Pte Ltd</td><td style="width:50%">
 ArtScience Museum<br>
@@ -112,8 +115,8 @@ Changi Animal &amp; Plant Quarantine Changi Airfreight Centre<br>
 The Animal Lodge</td></tr>
 
 <tr><td style="width:50%">Ministry of National Development</td><td style="width:50%">
-Maxwell<br>
-JEM</td></tr>
+MND Complex<br>
+JEM Office Tower</td></tr>
 
 <tr><td style="width:50%">Papa Palheta Pte Ltd</td><td style="width:50%">
 Chye Seng Huat Hardware Coffee Bar<br>
@@ -149,5 +152,6 @@ Gardens by the Bay</td><td style="width:50%"> Bay South Garden</td></tr>
 <tr><td style="width:50%">Tanjong Pagar Town Council</td><td style="width:50%"> 166 Bukit Merah Centre</td></tr>
 	
 <tr><td style="width:50%">Water B</td><td style="width:50%">
- Water B kiosk</td></tr>
-</tbody></table></p><p></p>
+ Water B kiosks along Singapore River</td></tr>
+</tbody></table>
+<i>* Concurrently acknowledged under parent group of participating properties/organisations</i></p>
