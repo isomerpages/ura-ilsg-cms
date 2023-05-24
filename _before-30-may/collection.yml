@@ -2,4 +2,5 @@ collections:
   before-30-may:
     output: true
     order:
+      - Programmes.md
       - Installation.md
