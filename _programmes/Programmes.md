@@ -18,4 +18,7 @@ description: ""
 	
 <a href="/programmes/tour"><img src="" align="left">(Pending Image)</a>
 <b>Guided Walking Tour</b>
+	
+<a href="/programmes/rediscover-marina-bay-walking-tour"><img src="" align="left">(Pending edits on image)</a>
+<b>Rediscover Marina Bay Walking Tour</b>
 </p>
