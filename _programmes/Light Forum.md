@@ -16,7 +16,7 @@ As an optional add-on, <i>Light Forum</i> participants can also sign up for a wa
 Sign up for <i>Light Forum</i> <a target="_blank" href="https://lightforum.eventbrite.sg/">here</a>.
 <br><br>
 
-<a href="/files/light%20forum%20programes.pdf"><img src="/images/Programmes/light%20forum%20(web)-min%20(1).jpg"></a><br>
+<a href="/files/light%20forum%20programes.pdf"><img src="/images/Programmes/light%20forum%20(web)%201.jpg"></a><br>
 
 <table style="width:100%">
 	<thead><tr><th colspan="4"><p style="font-size:17px;line-height:20px">Official Partner</p></th></tr></thead>
