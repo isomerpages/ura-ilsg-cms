@@ -16,7 +16,7 @@ Blue energy is harnessed from the chemical potential of a salinity difference be
 Seen from afar, sculptural waves appear to crash at varying heights and directions. Upon closer inspection, these are in fact made of a carefully weaved fabric of safety nets and scaffolding — everyday objects that the interior designers at DP Design encounter at construction sites. Here, the team transforms what are normally perceived as unsightly materials into a space that invites multiple interpretations of the mundane and its possibilities.
 <br><br>
 
-<img src="">(Pending Artist Image)
+<img src="/images/Installations/2nd%20release/website.jpg">
 <br>
 <b>About the Artist</b><br>
 	
