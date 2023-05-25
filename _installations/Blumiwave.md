@@ -17,7 +17,6 @@ Seen from afar, sculptural waves appear to crash at varying heights and directio
 <br><br>
 
 <img src="/images/Installations/2nd%20release/website.jpg">
-<br>
 <b>About the Artist</b><br>
 	
 Headquartered in Singapore, DP Design comprises a creative team of diverse talents, personalities and perspectives. Together, they have delivered and presented a preeminent international body of works since 1982.<br><br>
