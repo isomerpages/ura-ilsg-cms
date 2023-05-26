@@ -3,7 +3,7 @@ links:
   - title: About
     collection: about
   - title: Installations
-    url: /installations
+    url: /installations/
     sublinks:
       - title: Glacier Dreams
         url: /installations/glacier-dreams
@@ -32,7 +32,7 @@ links:
       - title: Prism
         url: /installations/prism
   - title: Programmes
-    url: /programmes
+    url: /programmes/
     sublinks:
       - title: GastroBeats
         url: /programmes/gastrobeats
