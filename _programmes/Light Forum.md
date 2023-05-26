@@ -3,7 +3,7 @@ title: Light Forum
 permalink: /programmes/light-forum/
 description: ""
 ---
-<img src="/images/Programmes/landscape%20(new).png">
+![](/images/Programmes/copy%20of%20website%20landscape%20(new).png)
 
 <p style="font-size:17px; line-height:40px">
 <i>Light Forum</i> is a curated series of talks, workshop and walking tours taking place on the first weekend of the Festival.<br><br>
