@@ -16,7 +16,7 @@ description: ""
 <a href="/programmes/light-wash"><img src="/images/Programmes/lightwash.JPG" align="left"></a>
 <b>Light Wash</b><br><br>
 	
-<a href="/programmes/tour"><img src="" align="left">(Pending Image)</a>
+<a href="/programmes/tour"><img src="/images/Programmes/presentation%201.jpg" align="left"></a>
 <b>Guided Walking Tour</b><br><br>
 	
 <a href="/programmes/rediscover-marina-bay-walking-tour"><img src="/images/Programmes/tour%20photo%201%20(1).jpg" align="left"></a>
