@@ -16,6 +16,14 @@ As an optional add-on, <i>Light Forum</i> participants can also sign up for a wa
 <br><br>
 Sign up for the various <i>Light Forum</i> talks, workshop and tours <a target="_blank" href="https://lightforum.eventbrite.sg/">here</a>. Slots are available on a first-come-first-served basis. 
 <br><br>
+	
+<b>Location</b>:<br>
+Red Dot Design Museum<br><br>
+
+<b>Date and Timing</b><br>
+3 June (Sat): 4pm to 5.20pm &amp; 5.30pm to 7.20pm<br>
+4 June (Sun): 4pm to 5.45pm &amp; 5.45pm to 7.20pm<br>
+Optional add-on guided walking tour from 8pm to 9.30pm on both days 
 
 <a href="/files/light%20forum%20programes.pdf"><img src="/images/Programmes/light%20forum%20(web)%201.jpg"></a><br>
 
