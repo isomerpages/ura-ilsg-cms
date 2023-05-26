@@ -150,6 +150,8 @@ Gardens by the Bay</td><td style="width:50%"> Bay South Garden</td></tr>
 <tr><td style="width:50%">Singapore River One Limited</td><td style="width:50%"> Singapore River One Limited</td></tr>
 
 <tr><td style="width:50%">Tanjong Pagar Town Council</td><td style="width:50%"> 166 Bukit Merah Centre</td></tr>
+
+<tr><td style="width:50%">Urban Redevelopment Authority</td><td style="width:50%"> The URA Centre</td></tr>
 	
 <tr><td style="width:50%">Water B</td><td style="width:50%">
  Water B kiosks along Singapore River</td></tr>
