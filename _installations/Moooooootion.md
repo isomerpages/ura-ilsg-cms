@@ -15,7 +15,7 @@ The COVID-19 pandemic brought about a period of ‘mandatory isolation’ when p
 <i>Moooooootion</i> is an interactive stage set conceived as a playful counterpoint to the confinement brought about by lockdowns. At this installation, visitors are encouraged to bring colour and music to a grey world through movement.<br><br>
 <img src="/images/Installations/2nd%20release/xd49_profile_landscape_ilsg23%20-%20tanskul%20suwannakudt(1).png">
 <b>About the Artist</b><br>
-Founded in 2021, XD49 (Experience Design 49) is a new media and multidisciplinary design studio.&nbsp;
+Founded in 2021, XD49 (Experience Design 49) is a new media and multi-disciplinary design studio.&nbsp;
 <br><br>
 Using audio-visual and interactive technologies, the studio assimilates digital and physical spaces creatively to produce unconventional, poignant and memorable experiences that blur the lines between imagination and reality.</p>
 <br>
