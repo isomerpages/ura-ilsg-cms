@@ -19,6 +19,6 @@ description: ""
 <a href="/programmes/tour"><img src="/images/Programmes/presentation%201.jpg" align="left"></a>
 <b>Guided Walking Tour</b><br><br>
 	
-<a href="/programmes/rediscover-marina-bay-walking-tour"><img src="![](/images/Programmes/ura%20tour.jpg)" align="left"></a>
+<a href="/programmes/rediscover-marina-bay-walking-tour"><img src="/images/Programmes/ura%20tour.jpg" align="left"></a>
 <b>Rediscover Marina Bay Walking Tour</b>
 </p>
