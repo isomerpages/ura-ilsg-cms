@@ -19,7 +19,7 @@ This interactive feature is a reminder of the power we wield to shape our surrou
 <img src="/images/Installations/plug_play_profile_landscape_ilsg23%20-%20jeremy%20lin(1)-min.png">
 <b>About the Artist</b>
 <br>
-Plug &amp; Play is a multidisciplinary collective of designers, technologists, engineers and makers working across mediums to create immersive experiences that spark joy in many. &nbsp;
+Plug &amp; Play is a multi-disciplinary collective of designers, technologists, engineers and makers working across mediums to create immersive experiences that spark joy in many. &nbsp;
 <br><br>
 Having collaborated with the world’s most innovative brands over the past decade, the studio turns complex issues into simple interactive solutions that help invent possibilities.
 <br>
