@@ -13,7 +13,7 @@ Key buildings and bridges across Marina Bay precinct<br><br>
 <b>Timing</b><br>
 7.30pm – 11pm daily (with extended hours to 12am on Fridays and Saturdays)<br><br>
 	
-<b>Participating Organisation</b>
+<b>Participating Organisations</b>
 <table style="width:75%; font-size:17px;line-height:40px;border:1px solid black; border-collapse:separate; padding:10px">
 	<tbody>
 		<tr><td>Esplanade - Theatres on the Bay, Outdoor Theatre</td></tr>
