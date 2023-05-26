@@ -17,6 +17,6 @@ By witnessing the beauty of animal locomotion in its natural habitat, participan
 <br><br>
 <img src="/images/Installations/2nd%20release/philipp_artus_profile_landsscape_ilsg23.jpg">
 <b>About the Artist</b><br>
-Philipp Artus is a multidisciplinary artist and filmmaker based in Berlin. &nbsp;
+Philipp Artus is a multi-disciplinary artist and filmmaker based in Berlin. &nbsp;
 <br><br>
 After graduating from the École des Beaux Arts in Nantes/France, he spent two years studying animation, physics and music theory through self-education. He then finished his postgraduate studies at the Academy of Media Arts in Cologne/Germany.</p>
