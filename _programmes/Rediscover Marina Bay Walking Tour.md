@@ -15,5 +15,4 @@ Marina Bay<br><br>
 
 <b>Ticketing</b><br>
 Tickets for the guided tour are free and available on a first-come-first-served basis. Sign up <a target="_blank" href="https://www.eventbrite.sg/e/rediscover-marina-bay-walking-tour-tickets-633806471217/">here</a> to reserve a spot.
-
 </p>
