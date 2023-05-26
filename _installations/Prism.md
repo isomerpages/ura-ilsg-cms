@@ -12,7 +12,7 @@ Jun Ong (Malaysia)&nbsp;
 	<b>Location</b>: Millenia Walk (The Great Hall)
 <br><br>
 <i>Presented by Millenia Walk</i><br><br>
-<i>Prism</i> is an immersive installation that harnesses both natural and artificial light to create an ever-changing interplay of colours and spatial perception. It is inspired by the power of pure forms - when combined with a purposeful use of light, such forms trigger a deeply emotional reaction.&nbsp;
+<i>Prism</i> is an immersive installation that harnesses both natural and artificial light to create an ever-changing interplay of colours and spatial perception. It is inspired by the power of pure forms – when combined with a purposeful use of light, such forms trigger a deeply emotional reaction.&nbsp;
 <br><br>
 This artwork is made up of numerous truncated pyramids, and each has a dynamic and translucent coloured surface that transforms from a natural light shaft in the day to a glowing beacon of interactive artificial lighting at night. The stereotomy of the artwork and its three-dimensional geometry invites visitors to experience the calming and healing world of chromotherapy.
 <br><br>
