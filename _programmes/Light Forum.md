@@ -12,7 +12,7 @@ Hear from lighting designers and experts from Singapore and abroad, as they shar
 	
 Visitors can participate in a workshop on 4 June for a hands-on opportunity to light up a small-scale facade of a building model, with the guidance of professional exterior lighting experts.<br><br>
 
-As an optional add-on, <i>Light Forum</i> participants can also sign up for a walking tour held in partnership with Let’s Go Tour Singapore. On this tour, they can hear from experienced guides the inspiration behind this year’s Festival theme, A New Wave, as well as stories behind the light art installations. The tour is available to <i>Light Forum</i> participants at a discounted rate of SGD15/pax.
+As an optional add-on, <i>Light Forum</i> participants can also sign up for a walking tour held in partnership with Let’s Go Tour Singapore. On this tour, they can hear from experienced guides the inspiration behind this year’s Festival theme, <b><i>A New Wave</i></b>, as well as stories behind the light art installations. The tour is available to <i>Light Forum</i> participants at a discounted rate of SGD15/pax.
 <br><br>
 Sign up for the various <i>Light Forum</i> talks, workshop and tours <a target="_blank" href="https://lightforum.eventbrite.sg/">here</a>. Slots are available on a first-come-first-served basis. 
 <br><br>
