@@ -6,14 +6,15 @@ description: ""
 <img src="/images/Programmes/landscape%20(new).png">
 
 <p style="font-size:17px; line-height:40px">
-<i>Light Forum</i> is a curated series of talks, workshop and walking tours that takes place on the first weekend of the Festival. <br><br>
+<i>Light Forum</i> is a curated series of talks, workshop and walking tours taking place on the first weekend of the Festival.<br><br>
 	
-Hear from lighting designers and artists as they dive into ideas on sustainability, the future of nightscapes, and the transformative power of lighting and light art to shape the environments we live and work in.<br><br>
-Visitors can also participate in a workshop on 4 June for a hands-on opportunity to light up a small-scale facade model, with the guidance of professional exterior lighting experts.<br><br>
+Hear from lighting designers and experts from Singapore and abroad, as they share their ideas on sustainability, the future of nightscapes, and the transformative power of lighting and light art to shape the environments we live and work in. Artists behind the i Light Singapore artworks will also be present at selected sessions to share about their inspirations. <br><br>
+	
+Visitors can participate in a workshop on 4 June for a hands-on opportunity to light up a small-scale facade of a building model, with the guidance of professional exterior lighting experts.<br><br>
 
-As an optional add-on, <i>Light Forum</i> participants can also sign up for a walking tour held in partnership with Let’s Go Tour Singapore. On this tour, they can hear from experienced guides the inspiration behind thisthis year’s Festival theme, A New Wave, as well as stories behind the light art installations. The tour is available to <i>Light Forum</i> participants at a discounted rate of SGD15/pax each.
+As an optional add-on, <i>Light Forum</i> participants can also sign up for a walking tour held in partnership with Let’s Go Tour Singapore. On this tour, they can hear from experienced guides the inspiration behind this year’s Festival theme, A New Wave, as well as stories behind the light art installations. The tour is available to <i>Light Forum</i> participants at a discounted rate of SGD15/pax.
 <br><br>
-Sign up for <i>Light Forum</i> <a target="_blank" href="https://lightforum.eventbrite.sg/">here</a>.
+Sign up for the various <i>Light Forum</i> talks, workshop and tours <a target="_blank" href="https://lightforum.eventbrite.sg/">here</a>. Slots are available on a first-come-first-served basis. 
 <br><br>
 
 <a href="/files/light%20forum%20programes.pdf"><img src="/images/Programmes/light%20forum%20(web)%201.jpg"></a><br>
