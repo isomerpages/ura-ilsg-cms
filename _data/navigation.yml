@@ -3,9 +3,49 @@ links:
   - title: About
     collection: about
   - title: Installations
-    collection: installations
+    url: /installations
+    sublinks:
+      - title: Glacier Dreams
+        url: /installations/glacier-dreams
+      - title: Tree Man
+        url: /installations/tree-man
+      - title: Blumiwave
+        url: /installations/blumiwave
+      - title: Moooooootion
+        url: /installations/moooooootion
+      - title: Symphony 1
+        url: /installations/symphony-1
+      - title: Block Party
+        url: /installations/block-party
+      - title: the things left unsaid
+        url: /installations/the-things-left-unsaid
+      - title: Light Anemones
+        url: /installations/light-anemones
+      - title: Resonances
+        url: /installations/resonances
+      - title: Trumpet Flower
+        url: /installations/trumpet-flower
+      - title: Bleached
+        url: /installations/bleached
+      - title: Show III
+        url: /installations/show-iii
+      - title: Prism
+        url: /installations/prism
   - title: Programmes
-    collection: programmes
+    url: /programmes
+    sublinks:
+      - title: GastroBeats
+        url: /programmes/gastrobeats
+      - title: "Lightwave: Turning the Tide"
+        url: /programmes/lightwave-turning-the-tide
+      - title: Light Forum
+        url: /programmes/light-forum
+      - title: Light Wash
+        url: /programmes/light-wash
+      - title: Tour
+        url: /programmes/tour
+      - title: Rediscover Marina Bay
+        url: /programmes/rediscover-marina-bay-walking-tour
   - title: Sustainability
     url: /sustainability
     sublinks:
