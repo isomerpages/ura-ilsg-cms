@@ -4,7 +4,7 @@ permalink: /programmes/tour/
 description: ""
 ---
 ### Guided Walking Tour by Let's Go Tour Singapore
-<a target="_blank" href="https://letsgotoursingapore.com/events/ilight-singapore-tour/"><img src="/images/Programmes/presentation%201.jpg"></a>
+<img src="/images/Programmes/presentation%201.jpg">
 <p style="font-size:17px; line-height:40px">
 <b>Get your tickets to the <i>Guided Walking Tour</i> by Let's Go Tour Singapore <a target="_blank" href="https://letsgotoursingapore.com/events/ilight-singapore-tour/">here</a>!</b><br><br>
 
