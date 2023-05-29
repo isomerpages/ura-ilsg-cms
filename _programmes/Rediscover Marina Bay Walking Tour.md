@@ -11,7 +11,7 @@ Find out how the sea was transformed into a distinctive and sustainable district
 Marina Bay<br><br>
 
 <b>Date and timing</b><br>
-7, 14, 21 June (Wed): 5.30pm, 6pm, 6.30pm<br><br>
+7, 14, 21 June (Wednesday): 5.30pm, 6pm, 6.30pm<br><br>
 
 <b>Ticketing</b><br>
 Tickets for the guided tour are free and available on a first-come-first-served basis. Sign up <a target="_blank" href="https://www.eventbrite.sg/e/rediscover-marina-bay-walking-tour-tickets-633806471217/">here</a> to reserve a spot.
