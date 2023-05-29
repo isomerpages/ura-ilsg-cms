@@ -27,5 +27,5 @@ A huge thank you to the following stakeholders who have joined URA for Light Was
 		<tr><td>Singapore Flyer</td></tr>
 		<tr><td>South Beach</td></tr>
 		<tr><td>Suntec City</td></tr>
-		<tr><td>The Merlion Park</td></tr>
+		<tr><td>The Merlion</td></tr>
 		</tbody></table></p>
