@@ -30,7 +30,7 @@ DP Design (Singapore)<br>
 <a href="/installations/moooooootion"><img src="/images/Installations/moooooootion.jpg"></a>
 <b>Moooooootion</b><br>
 XD49 (Thailand)<br>
-<b>Location</b>:Bayfront Event Space<br><br>
+<b>Location</b>: Bayfront Event Space<br><br>
 
 <i>Presented by&nbsp;GastroBeats, in collaboration with Awakening Bangkok from Bangkok, Thailand</i><br><br>
 
