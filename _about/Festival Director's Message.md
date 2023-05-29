@@ -13,7 +13,7 @@ Beyond enlivening the Marina Bay precinct with spectacular artworks and programm
 <br><br>
 From a large-scale projection powered by an AI-based narrative to raise awareness about rising sea levels and climate change, to whimsical towering flower sculptures that can transform into an interactive audio-visual show, there is much to enjoy at i Light Singapore this year! Crowd favourites like Lightwave and GastroBeats have also returned with refreshed programming to delight your senses.
 <br><br>
-On the sustainability front, we continue to rally building owners, corporations and businesses under the Switch Off Turn Up programme to switch off non-essential lightings and turn up air-conditioning temperatures. Members of the public can can also do their part through i Light i Pledge, presented by Alibaba Cloud to pledge their commitment towards a more eco-conscious lifestyle. 
+On the sustainability front, we continue to rally building owners, corporations and businesses under the Switch Off, Turn Up programme to switch off non-essential lightings and turn up air-conditioning temperatures. Members of the public can also do their part through i Light i Pledge, presented by Alibaba Cloud to pledge their commitment towards a more eco-conscious lifestyle. 
 <br><br>
 i Light Singapore 2023, presented by DBS, is made possible because of many like-minded sponsors and partners who have stepped forward to champion sustainability with us. I would like to thank our sponsors and partners for their support and contribution, as well as extend our profound gratitude to all local and international artists without whom none of these would have been possible. We look forward to all your continued support for many more i Light Singapore to come.
 <br><br>
