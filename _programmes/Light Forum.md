@@ -6,6 +6,8 @@ description: ""
 ![](/images/Programmes/copy%20of%20website%20landscape%20(new).png)
 
 <p style="font-size:17px; line-height:40px">
+<b>Sign up for various talks, workshop and tours at Light Forum (first-come-first-served basis) <a target="_blank" href="https://lightforum.eventbrite.sg/">here</a>!</b>
+
 <i>Light Forum</i> is a curated series of talks, workshop and walking tours taking place on the first weekend of the Festival.<br><br>
 	
 Hear from lighting designers and experts from Singapore and abroad, as they share their ideas on sustainability, the future of nightscapes, and the transformative power of lighting and light art to shape the environments we live and work in. Artists behind the i Light Singapore artworks will also be present at selected sessions to share about their inspirations. <br><br>
