@@ -3,7 +3,7 @@ title: Rediscover Marina Bay Walking Tour
 permalink: /programmes/rediscover-marina-bay-walking-tour/
 description: ""
 ---
-![](/images/Programmes/ura%20tour.jpg)
+<a target="_blank" href="https://www.eventbrite.sg/e/rediscover-marina-bay-walking-tour-tickets-633806471217/"><img src="/images/Programmes/ura%20tour.jpg"></a>
 <p style="font-size:17px; line-height:40px">
 <b>Sign up to <i>Rediscover Marina Bay</i> on a walking tour with URA volunteers <a target="_blank" href="https://www.eventbrite.sg/e/rediscover-marina-bay-walking-tour-tickets-633806471217/">here</a>!</b><br><br>
 	
