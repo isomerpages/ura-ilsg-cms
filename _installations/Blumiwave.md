@@ -15,6 +15,7 @@ Blue energy is harnessed from the chemical potential of a salinity difference be
 <br><br>
 Seen from afar, sculptural waves appear to crash at varying heights and directions. Upon closer inspection, these are in fact made of a carefully weaved fabric of safety nets and scaffolding — everyday objects that the interior designers at DP Design encounter at construction sites. Here, the team transforms materials normally perceived as unsightly into a space that invites multiple interpretations of the mundane and its possibilities.
 <br><br>
+All plastics used to assemble <i>Blumiwave</i> will be recycled by local social enterprise Magorium after the festival. Supported by DBS Foundation, Magorium converts plastic waste into a sustainable construction material called ‘NEWBitumen’ that can replace crude-derived bitumen to pave roads sustainably.<br><br>
 
 <img src="/images/Installations/2nd%20release/website.jpg">
 <b>About the Artist</b><br>
