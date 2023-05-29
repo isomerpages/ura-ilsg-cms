@@ -3,7 +3,7 @@ title: Light Forum
 permalink: /programmes/light-forum/
 description: ""
 ---
-![](/images/Programmes/copy%20of%20website%20landscape%20(new).png)
+<a target="_blank" href="https://lightforum.eventbrite.sg/"><img src="/images/Programmes/copy%20of%20website%20landscape%20(new).png"></a>
 
 <p style="font-size:17px; line-height:40px">
 <b>Sign up for the various talks, workshop and optional walking tours at <i>Light Forum</i> <a target="_blank" href="https://lightforum.eventbrite.sg/">here</a>!</b><br><br>
