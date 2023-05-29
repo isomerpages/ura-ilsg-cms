@@ -16,7 +16,7 @@ The opening hours for the Festival are 7.30pm to 11.00pm daily, with extended ho
 All MRT lines (East-West Line, North-South Line, Downtown Line, Circle Line and Thomson-East Coast Line) have stops in the Marina Bay area. The nearest stations are:<br></p>
 <ul>
 <li><p style="font-size:17px; line-height:40px">Bayfront (DT16/CE1)</p></li>
-<li><p style="font-size:17px; line-height:40px">City Hall (NS25/EW13</p></li>
+<li><p style="font-size:17px; line-height:40px">City Hall (NS25/EW13)</p></li>
 <li><p style="font-size:17px; line-height:40px">Downtown (DT17)</p></li>
 <li><p style="font-size:17px; line-height:40px">Esplanade (CC3)</p></li>
 <li><p style="font-size:17px; line-height:40px">Marina Bay (NS27/TE20/CE2)</p></li>
@@ -27,9 +27,9 @@ All MRT lines (East-West Line, North-South Line, Downtown Line, Circle Line and 
 <p style="font-size:17px; line-height:40px">
 <b>Q5. What can I see and do at&nbsp;i&nbsp;Light Singapore 2023?</b><br>
 
-There will be a total of 14 captivating light art installations that aim to spark fresh perspectives on the environment and world around us. Check out the line-up of artworks installations here.<br><br>
+There are a total of 14 captivating light art installations that aim to spark fresh perspectives on the environment and world around us. Check out the line-up of artworks installations <a href="/installations">here</a>.<br><br>
 
-The Festival will also offer exciting&nbsp;programmes&nbsp;that promise a fun-filled experience for families and friends while encouraging conversations on sustainability. Explore how you can have an enriching time here.<br><br>
+The Festival also offers exciting&nbsp;programmes&nbsp;that promise a fun-filled experience for families and friends while encouraging conversations on sustainability. Explore how you can have an enriching time <a href="/programmes">here</a>.<br><br>
 
 <b>Q6. How is i Light Singapore a sustainable light festival?</b><br>
 The light art installations at the festival are designed with energy-saving lightings, and recycled or environmentally-friendly materials. They serve as reminders to festival-goers to adopt sustainable habits in their everyday lives.
