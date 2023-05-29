@@ -21,10 +21,3 @@ Bayfront Event Space<br><br>
 4pm – 11pm daily<br><br>
 
 </p>
-<table style="width:100%">
-<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Presented by</p></th>
-	</tr></thead>
-	<tbody>
-		<tr>
-			<td style="width:30%"><a href="https://www.gastrobeats.com.sg" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/202301_ilight%20singapore%20(gastrobeats%20logo).png" align="left"></a></td>
-			<td style="width:60%"></td></tr></tbody></table>
