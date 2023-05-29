@@ -3,7 +3,7 @@ title: GastroBeats
 permalink: /programmes/gastrobeats/
 description: ""
 ---
-![](/images/Programmes/gastrobeats%20kv.jpg)
+<a target="_blank" href="https://www.gastrobeats.com.sg"><img src="images/Programmes/gastrobeats%20kv.jpg"></a>
 <p style="font-size:17px; line-height:40px">
 <b>Get ready to eat, play, and dance the night away with <i>GastroBeats</i> <a target="_blank" href="https://www.gastrobeats.com.sg">here</a>!</b><br><br>
 	
