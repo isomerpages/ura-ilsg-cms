@@ -12,19 +12,21 @@ Hear from lighting designers and experts from Singapore and abroad, as they shar
 	
 Visitors can participate in a workshop on 4 June for a hands-on opportunity to light up a small-scale facade of a building model, with the guidance of professional exterior lighting experts.<br><br>
 
-As an optional add-on, <i>Light Forum</i> participants can also sign up for a walking tour held in partnership with Let’s Go Tour Singapore. On this tour, they can hear from experienced guides the inspiration behind this year’s Festival theme, <b><i>A New Wave</i></b>, as well as stories behind the light art installations. The tour is available to <i>Light Forum</i> participants at a discounted rate of SGD15/pax.
+As an optional add-on, <i>Light Forum</i> participants can also sign up for a walking tour held in partnership with Let’s Go Tour Singapore. On this tour, they can hear from experienced guides the inspiration behind this year’s Festival theme, <i>A New Wave</i>, as well as stories behind the light art installations. The tour is available to <i>Light Forum</i> participants at a discounted rate of SGD15/pax.
 <br><br>
 Sign up for the various <i>Light Forum</i> talks, workshop and tours <a target="_blank" href="https://lightforum.eventbrite.sg/">here</a>. Slots are available on a first-come-first-served basis. 
 <br><br>
 	
-<b>Location</b>:<br>
+<b>Location</b><br>
 Red Dot Design Museum<br><br>
 
 <b>Date and Timing</b><br>
 3 June (Sat): 4pm to 5.20pm &amp; 5.30pm to 7.20pm<br>
 4 June (Sun): 4pm to 5.45pm &amp; 5.45pm to 7.20pm<br>
-Optional add-on guided walking tour from 8pm to 9.30pm on both days 
+Optional add-on <a href="/programmes/tour"> guided walking tour</a> from 8pm to 9.30pm on both days 
+<br><br>
 
+<b>Detailed Programme</b>
 <a href="/files/light%20forum%20programes.pdf"><img src="/images/Programmes/light%20forum%20(web)%201.jpg"></a><br>
 
 <table style="width:100%">
