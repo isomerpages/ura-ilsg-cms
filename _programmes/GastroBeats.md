@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Programmes/gastrobeats%20kv.jpg)
 <p style="font-size:17px; line-height:40px">
-<b>Get your tickets to our Festival Village, <i>GastroBeats</i> <a target="_blank" href="https://www.gastrobeats.com.sg">here</a>!</b><br><br>
+<b>Get ready to eat, play, and dance the night away with <i>GastroBeats</i> <a target="_blank" href="https://www.gastrobeats.com.sg">here</a>!</b><br><br>
 	
 As the Festival Village of i Light Singapore, <i>GastroBeats</i> is a month-long celebration of good food, good music and good fun that brings the community together and showcases the diversity of local culture.&nbsp;
 <br><br>
