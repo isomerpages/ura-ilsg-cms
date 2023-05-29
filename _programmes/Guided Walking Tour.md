@@ -6,7 +6,7 @@ description: ""
 ### Guided Walking Tour by Let's Go Tour Singapore
 ![](/images/Programmes/presentation%201.jpg)
 <p style="font-size:17px; line-height:40px">
-<b>Get your tickets to the Guided Walking Tour by Let's Go Tour Singapore <a target="_blank" href="https://letsgotoursingapore.com/events/ilight-singapore-tour/">here</a>!</b><br><br>
+<b>Get your tickets to the <i>Guided Walking Tour</i> by Let's Go Tour Singapore <a target="_blank" href="https://letsgotoursingapore.com/events/ilight-singapore-tour/">here</a>!</b><br><br>
 
 On this specially curated walking tour conducted by Let’s Go Tour Singapore over four weekends, hear from experienced guides about this year’s Festival theme, <i>A New Wave</i>, as well as the creative ideas, stories and trivia behind the delightful artworks.<br><br>
 <b>Location</b><br>
