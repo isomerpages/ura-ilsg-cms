@@ -10,10 +10,54 @@ For the first time this year, the initiative will expand beyond corporations to 
 <br><br>
 Take part in <i>SOTU</i> through <i>i Light i Pledge, presented by Alibaba Cloud</i> at <a target="_blank" href="https://www.susgain.com/iLightiPledge">https://www.susgain.com/iLightiPledge</a> today!
 <br><br>
-A huge thank you to the following stakeholders for joining URA to&nbsp;<i>SOTU</i> this year:<br>
+A huge thank you to the following stakeholders for joining <i>SOTU</i> this year:<br>
 
 <table style="width:100%; border: 1px solid black; border-collapse: separate; padding: 10px"><thead><tr><th>Organisation</th><th>Buildings/Properties</th></tr></thead>
 <tbody>
+<tr><td style="width:50%">
+JTC Corporation</td><td style="width:50%">
+Biopolis<br>
+Fusionopolis One<br>
+Fusionopolis Two<br>
+Multi Utility Hub<br>
+AMK AutoPoint<br>
+AMK Tech I<br>
+AMK Tech II<br>
+AMK TechLink<br>
+Sin Ming AutoCare<br>
+Sin Ming AutoCity<br>
+15 Woodlands Link<br>
+20 Woodlands Link<br>
+Senoko Food Hub&nbsp;<br>
+Trendspace<br>
+JTC Space @ Tampines North<br>
+UbiPlex 1<br>
+15 Changi Business Park<br>
+7 Changi Business Park<br>
+9 Changi Business Park<br>
+Aviation One<br>
+Aviation Two<br>
+Bedok Food City<br>
+EASTech<br>
+EASTLink<br>
+Gourmet East Kitchen<br>
+Shimei East Kitchen<br>
+AutoBay<br>
+AutoHub<br>
+KB-1<br>
+Chemicals Hub<br>
+Space@TBP<br>
+Space@Tuas<br>
+JTC Summit<br>
+PPH<br>
+SkyTech<br>
+Cleantech One<br>
+Cleantech Two<br>
+LaunchPad@JID<br>
+Space@Buroh<br>
+Space@Gul&nbsp;<br>
+Surface Engineering Hub</td></tr>
+
 <tr><td style="width:50%">
 CapitaLand</td><td style="width:50%"> <u>Malls</u><br> 
 Bedok Mall<br> 
@@ -31,6 +75,7 @@ Sengkang Grand Mall<br>
 Tampines Mall<br> 
 Westgate<br><br>
 <u> Workspace Properties</u><br>
+Aperia<br>
 Asia Square Tower 2<br>
 Capital Tower<br>
 CapitaGreen*<br>
@@ -40,11 +85,14 @@ Six Battery Road*<br>
 21 Collyer Quay<br>
 4 Changi South Lane<br>
 80 Bendemeer Road<br>
+53 Serangoon North<br>
 622 Toa Payoh Lorong 1<br>
 Galaxis<br>
 Nexus @one-north<br>
 Plaza 8 @ CBP<br>
 Siemens Centre<br>
+Techplace 1<br>
+Techplace 2<br>
 Teletech Park 1<br>
 Teletech Park 2<br>
 UBIX<br>
@@ -79,13 +127,16 @@ Conrad Centennial Singapore<br>
 Millenia Tower<br>
 Millenia Walk<br>
 South Beach Consortium Pte Ltd<br>
-Suntec City 1, 2, 3, 4, 5<br>
+Suntec City<br>
+Suntec City Tower 1 to 5<br>
 The Ritz-Carlton, Millenia Singapore</td></tr>
 
 <tr><td style="width:50%">Raffles Place Alliance<br>(Pilot Business Improvement District)</td><td style="width:50%">
 CapitaGreen*<br>
 CapitaSpring*<br>
 Ocean Financial Centre<br>
+One Raffles Place<br>
+Republic Plaza<br>
 Singapore Land Tower<br>
 Six Battery Road*</td></tr>
 	
@@ -118,6 +169,10 @@ The Animal Lodge</td></tr>
 MND Complex<br>
 JEM Office Tower</td></tr>
 
+<tr><td style="width:50%">Nanyang Girls' High School</td><td style="width:50%">
+Nanyang Girls' High School Campus<br> 
+	NYGH Boarding School</td></tr>
+
 <tr><td style="width:50%">Papa Palheta Pte Ltd</td><td style="width:50%">
 Chye Seng Huat Hardware Coffee Bar<br>
 PPP Coffee</td></tr>
@@ -125,6 +180,9 @@ PPP Coffee</td></tr>
 <tr><td style="width:50%">RC Hotels Ptd Ltd</td><td style="width:50%">
 Fairmont Singapore<br>
 Swissotel The Stamford</td></tr>
+	
+<tr><td style="width:50%">Alibaba Cloud Singapore</td><td style="width:50%">
+	Lazada One</td></tr>
 	
 <tr><td style="width:50%">
 Council for Estate Agencies</td><td style="width:50%"> Council for Estate Agencies (HDB Hub)</td></tr>
@@ -150,6 +208,8 @@ Gardens by the Bay</td><td style="width:50%"> Bay South Garden</td></tr>
 <tr><td style="width:50%">Singapore River One Limited</td><td style="width:50%"> Singapore River One Limited</td></tr>
 
 <tr><td style="width:50%">Tanjong Pagar Town Council</td><td style="width:50%"> 166 Bukit Merah Centre</td></tr>
+
+<tr><td style="width:50%">Urban Redevelopment Authority</td><td style="width:50%"> The URA Centre</td></tr>
 	
 <tr><td style="width:50%">Water B</td><td style="width:50%">
  Water B kiosks along Singapore River</td></tr>

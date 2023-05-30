@@ -37,7 +37,7 @@ description: ""
 </table>
 <br>
 <table style="width:100%">
-<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px"> Presenting Sponsor</p></th>
+<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Presenting Sponsor</p></th>
 	</tr></thead>
 	<tbody>
 		<tr>
@@ -50,7 +50,7 @@ description: ""
 <br>
 
 <table style="width:100%">
-<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px"> Prime Sponsor</p></th>
+<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Prime Sponsor</p></th>
 	</tr></thead>
 	<tbody>
 		<tr>
@@ -63,7 +63,7 @@ description: ""
 <br> 
 
 <table style="width:100%">
-<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px"> Major Sponsor</p></th>
+<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Major Sponsor</p></th>
 	</tr></thead>
 	<tbody>
 		<tr>
@@ -76,12 +76,12 @@ description: ""
 <br> 
 
 <table>
-<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px"> Official Sponsor</p></th>
+<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Official Sponsor</p></th>
 	</tr></thead>
 	<tbody>
 		<tr>
 			<td style="width:30%"><a href="https://www.klook.com/en-SG/?utm_campaign=sg_partnerships_ps_ilight2023_may-2023&amp;utm_medium=p-website&amp;utm_source=ilight" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/klook_resized%20web%20version.png" align="left"></a></td>
-			<td style="width:30%"><a href="https://www.milleniawalk.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/millenia%20walk_resized%20web%20version.png" align="left"></a></td><td style="width:30%"><a href="https://www.oue.com.sg" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/oue_resized%20web%20version.png" align="left"></a></td><td style="width:10%"></td>
+			<td style="width:30%"><a href="https://www.milleniawalk.com/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/millenia%20walk_resized%20web%20version.png" align="left"></a></td><td style="width:30%"><a href="https://www.oue.com.sg" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/oue_version%20(new).png" align="left"></a></td><td style="width:10%"></td>
 		</tr>
 	</tbody></table>
 
