@@ -40,7 +40,7 @@ Chan Wan Kyn,&nbsp;Linknito,&nbsp;Linez<br>
 The Grand Lowlife Orchestra (Singapore | USA | Morocco)<br>
 <b>Location</b>: Mist Walk<br><br>
 	
-<a href="/installations/blockparty"><img src="/images/Installations/block%20party.jpg"></a>
+<a href="/installations/blockparty"><img src="/images/Installations/RL%20Images/30052023_pico_colossal_upload_clean_115-min.jpg"></a>
 <b>Block Party</b>
 <br>
 Jeremy Lin, Jedy Chen, Dexter Hong&nbsp; <br>
