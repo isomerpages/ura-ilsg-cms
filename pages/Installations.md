@@ -80,7 +80,7 @@ Amigo &amp; Amigo (Australia)<br>
 Philipp Artus (Germany)<br>
 <b>Location</b>: Under Esplanade Bridge (near Merlion Park)<br><br>
 	
-<a href="/installations/bleached"><img src="/images/Installations/bleached.jpg"></a>
+<a href="/installations/bleached"><img src="/images/Installations/RL%20Images/30052023_pico_colossal_upload_clean_256-min%20(1).jpg"></a>
 <b>Bleached</b>
 <br>
 Berenice Chao Zong Xin, Nicky Josephine Tjandra<br>
