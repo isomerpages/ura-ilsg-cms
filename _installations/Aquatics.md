@@ -4,7 +4,7 @@ permalink: /installations/aquatics/
 description: ""
 ---
 <p style="font-size:17px; line-height:40px">
-<img src="/images/Installations/aquatics.jpg">
+<img src="/images/Installations/RL%20Images/30052023_pico_colossal_upload_clean_248-min.jpg">
 <b>Aquatics</b><br>
 Philipp Artus (Germany)<br>
 <b>Location:</b> Under Esplanade Bridge (near Merlion Park)<br><br>

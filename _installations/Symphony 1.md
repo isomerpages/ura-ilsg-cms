@@ -4,7 +4,7 @@ permalink: /installations/symphony-1/
 description: ""
 ---
 <p style="font-size:17px; line-height:40px">
-<img src="/images/Installations/symphony%201.jpg">
+<img src="/images/Installations/RL%20Images/29052023_pico_colossal_upload_clean_021-min.jpg">
 <b>Symphony 1</b><br>
 Chan Wan Kyn, Linknito, Linez<br>
 The Grand Lowlife Orchestra (Singapore | USA | Morocco)<br>

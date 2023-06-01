@@ -4,7 +4,7 @@ permalink: /installations/moooooootion/
 description: ""
 ---
 <p style="font-size:17px;line-height:40px">
-<img src="/images/Installations/moooooootion.jpg">
+<img src="/images/Installations/RL%20Images/30052023_pico_colossal_upload_clean_098-min.jpg">
 <b>Moooooootion</b><br>
 XD49 (Thailand)<br>
 <b>Location:</b> Bayfront Event Space

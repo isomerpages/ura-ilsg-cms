@@ -14,10 +14,10 @@ sections:
       title: "Lightwave: Turning the Tide"
       button: Find out more
       url: /programmes/lightwave-turning-the-tide
-      image: /images/Programmes/lightwave.jpg
+      image: /images/Programmes/30052023_pico_colossal_upload_clean_165-min.jpg
       alt: Image alt text
-      description: "Enter an underwater world with an imagined future where human
-        exploits have damaged the world around us irrevocably. "
+      description: Enter an underwater world with an imagined future where human
+        exploits have damaged the world around us irrevocably.
   - infopic:
       title: i Light i Pledge
       button: Find out more

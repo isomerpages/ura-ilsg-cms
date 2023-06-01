@@ -4,7 +4,7 @@ permalink: /installations/showiii/
 description: ""
 ---
 <p style="font-size:17px; line-height:40px">
-<img src="/images/Installations/show%20iii%20.jpg">
+<img src="/images/Installations/RL%20Images/edit30052023_pico_colossal_upload_clean_086-min.jpg">
 	<b> Show III</b>
 <br>
 Chen Jiawen, Lai Ling Ling<br>

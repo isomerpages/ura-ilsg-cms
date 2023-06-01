@@ -4,7 +4,7 @@ permalink: /installations/resonances/
 description: ""
 ---
 <p style="font-size:17px; line-height:40px">
-<img src="/images/Installations/re¦çsonances.jpg">
+<img src="/images/Installations/RL%20Images/30052023_pico_colossal_upload_clean_189-min.jpg">
 <b>Résonances</b><br>
 Louis-Philippe Rondeau in collaboration with ELEKTRA (Canada)<br>
 <b>Location:</b> Open Plaza, OUE Bayfront
@@ -19,5 +19,5 @@ A professor at the School of Digital Arts, Animation and Design of Université d
 His interactive installations seek to question the relationship between the viewer and the artwork. They compel viewers to reconsider the conventions employed in the mediation of images, specifically those regarding the representation of space and time.
 </p>
 <table style="width:100%">
-	<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Presented by</p></th></tr></thead><tbody><tr><td style="width:30%"><a href="http://www.oue.com.sg/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/oue_version%20(new).png" align="left"></a></td><td style="width:70%"></td></tr></tbody>
+	<thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Presented by</p></th></tr></thead><tbody><tr><td style="width:30%"><a href="https://oue.com.sg/" target="_blank"><img src="/images/About/Sponsor%20Acknowledgement/oue_version%20(new).png" align="left"></a></td><td style="width:70%"></td></tr></tbody>
 </table>
