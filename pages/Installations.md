@@ -20,7 +20,7 @@ Refik Anadol Studio (USA) and Julius Baer<br>
 ENESS (Australia) <br>
 <b>Location</b>: Event Square<br><br>
 
-<a href="/installations/blumiwave"><img src="/images/Installations/blumiwave.jpg"></a>
+<a href="/installations/blumiwave"><img src="/images/Installations/RL%20Images/edit30052023_pico_colossal_upload_clean_086%20(1)-min.jpg"></a>
 <b>Blumiwave</b><br>
 DP Design (Singapore)<br>
 <b>Location</b>: Mist Walk<br><br>
