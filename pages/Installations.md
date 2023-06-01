@@ -67,7 +67,7 @@ Louis-Philippe Rondeau in collaboration with ELEKTRA (Canada)<br>
 
 <i>Presented by OUE</i><br><br>
 
-<a href="/installations/trumpetflowers"><img src="/images/Installations/trumpet%20flowers.jpg"></a>
+<a href="/installations/trumpetflowers"><img src="/images/Installations/RL%20Images/30052023_pico_colossal_upload_clean_234-min%20(1).jpg"></a>
 <b>Trumpet Flowers</b>
 <br>
 Amigo &amp; Amigo (Australia)<br>
