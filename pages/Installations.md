@@ -27,7 +27,7 @@ DP Design (Singapore)<br>
 
 <i>Presented by DBS</i><br><br>
 
-<a href="/installations/moooooootion"><img src="/images/Installations/moooooootion.jpg"></a>
+<a href="/installations/moooooootion"><img src="/images/Installations/RL%20Images/30052023_pico_colossal_upload_clean_098-min.jpg"></a>
 <b>Moooooootion</b><br>
 XD49 (Thailand)<br>
 <b>Location</b>: Bayfront Event Space<br><br>
