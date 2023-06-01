@@ -15,7 +15,7 @@ Refik Anadol Studio (USA) and Julius Baer<br>
 <i>Co-presented by Julius Baer &amp; Marina Bay Sands</i>	
 <br><br>
 
-<a href="/installations/tree-man"><img src="/images/Installations/tree%20man.jpg"></a>
+<a href="/installations/tree-man"><img src="/images/Installations/RL%20Images/29052023_pico_colossal_upload_clean_198-min.jpg"></a>
 <b>Tree Man </b><br>
 ENESS (Australia) <br>
 <b>Location</b>: Event Square<br><br>
