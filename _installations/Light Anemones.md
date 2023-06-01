@@ -4,7 +4,7 @@ permalink: /installations/light-anemones/
 description: ""
 ---
 <p style="font-size:17px;line-height:40px">
-<img src="/images/Installations/light%20anemones.jpg">
+<img src="/images/Installations/RL%20Images/30052023_pico_colossal_upload_clean_140-min.jpg">
 <b>Light Anemones</b><br>
 Malte Kebbel<br>
 Studio Kebbel (Germany)<br>
