@@ -4,7 +4,7 @@ permalink: /installations/the-things-left-unsaid/
 description: ""
 ---
 <p style="font-size:17px;line-height:40px"> 
-<img src="/images/Installations/the%20things%20left%20unsaid.jpg">
+<img src="/images/Installations/RL%20Images/30052023_pico_colossal_upload_clean_246-min.jpg">
 <b>the things left unsaid</b><br>
 Brigette Teo<br>
 Nanyang Technological University, School of Art, Design and Media (Singapore)<br>
