@@ -60,7 +60,7 @@ Malte&nbsp;Kebbel&nbsp;<br>
 Studio&nbsp;Kebbel&nbsp;(Germany)<br>
 <b>Location</b>: The apex at The Promontory at Marina Bay<br><br>
 
-<a href="/installations/resonances"><img src="/images/Installations/re¦çsonances.jpg"></a>
+<a href="/installations/resonances"><img src="/images/Installations/RL%20Images/30052023_pico_colossal_upload_clean_189-min.jpg"></a>
 <b>Résonances</b><br>
 Louis-Philippe Rondeau in collaboration with ELEKTRA (Canada)<br>
 <b>Location</b>: Open Plaza, OUE Bayfront<br><br>
