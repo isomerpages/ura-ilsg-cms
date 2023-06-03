@@ -6,7 +6,7 @@ description: ""
 <p style="font-size:17px; line-height:40px">
 <img src="/images/Installations/RL%20Images/30052023_pico_colossal_upload_clean_189-min.jpg">
 <b>Résonances</b><br>
-Louis-Philippe Rondeau in collaboration with ELEKTRA (Canada)<br>
+Louis-Philippe Rondeau in collaboration with ELEKTRA. Distributed by Wireframe Public Art Agency. (Canada)<br>
 <b>Location:</b> Open Plaza, OUE Bayfront
 <br><br>
 <i>Résonances</i> is an interactive installation that embodies the inexorable passage of time. It seeks to reveal the limit between present and past.

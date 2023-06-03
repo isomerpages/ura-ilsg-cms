@@ -62,7 +62,7 @@ Studio&nbsp;Kebbel&nbsp;(Germany)<br>
 
 <a href="/installations/resonances"><img src="/images/Installations/RL%20Images/30052023_pico_colossal_upload_clean_189-min.jpg"></a>
 <b>Résonances</b><br>
-Louis-Philippe Rondeau in collaboration with ELEKTRA (Canada)<br>
+Louis-Philippe Rondeau in collaboration with ELEKTRA. Distributed by Wireframe Public Art Agency. (Canada)<br>
 <b>Location</b>: Open Plaza, OUE Bayfront<br><br>
 
 <i>Presented by OUE</i><br><br>
