@@ -206,6 +206,8 @@ Gardens by the Bay</td><td style="width:50%"> Bay South Garden</td></tr>
 <tr><td style="width:50%">Singapore Recreation Club</td><td style="width:50%"> Singapore Recreation Club</td></tr>
 	
 <tr><td style="width:50%">Singapore River One Limited</td><td style="width:50%"> Singapore River One Limited</td></tr>
+	
+<tr><td style="width:50%">Sunray Woodcraft Construction Pte Ltd</td><td style="width:50%"> Sunray Building</td></tr>
 
 <tr><td style="width:50%">Tanjong Pagar Town Council</td><td style="width:50%"> 166 Bukit Merah Centre</td></tr>
 
