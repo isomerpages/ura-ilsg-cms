@@ -5,7 +5,7 @@ description: ""
 ---
 <p style="font-size:17px; line-height:40px">
 	
-<img src="/images/Installations/RL%20Images/edit30052023_pico_colossal_upload_clean_086%20(1)-min.jpg">
+<img src="/images/Installations/RL%20Images/blumiwave-min.jpeg">
 <b>Blumiwave</b><br>
 DP Design (Singapore)<br>
 <b>Location:</b> Mist Walk
