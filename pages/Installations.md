@@ -34,7 +34,7 @@ XD49 (Thailand)<br>
 
 <i>Presented by&nbsp;GastroBeats, in collaboration with Awakening Bangkok from Bangkok, Thailand</i><br><br>
 
-<a href="/installations/symphony-1"><img src="/images/Installations/RL%20Images/29052023_pico_colossal_upload_clean_021-min.jpg"></a>
+<a href="/installations/symphony-1"><img src="/images/Installations/RL%20Images/symphony%201-min.jpg"></a>
 <b>Symphony 1 </b><br>
 Chan Wan Kyn,&nbsp;Linknito,&nbsp;Linez<br>
 The Grand Lowlife Orchestra (Singapore | USA | Morocco)<br>
