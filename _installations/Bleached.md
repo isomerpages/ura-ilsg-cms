@@ -4,7 +4,7 @@ permalink: /installations/bleached/
 description: ""
 ---
 <p style="font-size:17px; line-height:40px">
-<img src="/images/Installations/RL%20Images/30052023_pico_colossal_upload_clean_256-min%20(1).jpg">
+<img src="/images/Installations/RL%20Images/bleached-min.jpg">
 	<b>Bleached</b><br>
 Berenice Chao Zong Xin, Nicky Josephine Tjandra&nbsp;
 <br>
