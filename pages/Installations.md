@@ -54,7 +54,7 @@ Brigette Teo<br>
 Nanyang Technological University, School of Art, Design and Media<br>
 <b>Location</b>: Breeze Shelter<br><br>
 	
-<a href="/installations/light-anemones"><img src="/images/Installations/RL%20Images/30052023_pico_colossal_upload_clean_140-min.jpg"></a>
+<a href="/installations/light-anemones"><img src="/images/Installations/RL%20Images/light%20anemones-min.jpg"></a>
 <b>Light Anemones</b><br>
 Malte&nbsp;Kebbel&nbsp;<br>
 Studio&nbsp;Kebbel&nbsp;(Germany)<br>
