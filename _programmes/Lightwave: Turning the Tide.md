@@ -3,7 +3,7 @@ title: "Lightwave: Turning the Tide"
 permalink: /programmes/lightwave-turning-the-tide/
 description: ""
 ---
-<img src="/images/Programmes/30052023_pico_colossal_upload_clean_165-min.jpg">
+<img src="/images/Programmes/lightwave-min.jpg">
 
 <p style="font-size:17px; line-height:40px">
 <b>Get your tickets to <i>Lightwave: Turning the Tide, presented by Alibaba Cloud</i> <a target="_blank" href="https://www.klook.com/en-SG/activity/87471-lightwave-turning-tide-ticket/">here</a>!

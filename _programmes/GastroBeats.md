@@ -3,7 +3,7 @@ title: GastroBeats
 permalink: /programmes/gastrobeats/
 description: ""
 ---
-<img src="/images/Programmes/gastrobeats%20kv.jpg">
+<img src="/images/Programmes/miz_8309-min.jpg">
 <p style="font-size:17px; line-height:40px">
 <b>Get ready to eat, play, and dance the night away with <i>GastroBeats</i> <a target="_blank" href="https://www.gastrobeats.com.sg">here</a>!</b><br><br>
 	

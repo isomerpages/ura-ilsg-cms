@@ -4,7 +4,7 @@ permalink: /installations/blockparty/
 description: ""
 ---
 <p style="font-size:17px; line-height:40px"> 
-<img src="/images/Installations/RL%20Images/30052023_pico_colossal_upload_clean_115-min.jpg">
+<img src="/images/Installations/RL%20Images/01062023_pico_colossal_upload_clean_059-min.jpg">
 	<b>Block Party</b><br>
 Jeremy Lin, Jedy Chen, Dexter Hong&nbsp;<br>
 Plug &amp; Play (Singapore)&nbsp;

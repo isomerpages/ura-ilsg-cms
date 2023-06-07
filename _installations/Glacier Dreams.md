@@ -4,7 +4,7 @@ permalink: /installations/glacier-dreams/
 description: ""
 ---
 <p style="font-size:17px; line-height:40px"> 
-<img src="/images/Installations/RL%20Images/29052023_pico_colossal_upload_clean_164-min.jpg">
+<img src="/images/Installations/RL%20Images/glacier%20dreams-min.jpg">
 	<b>Glacier Dreams</b><br> 
 Refik Anadol<br> 
 Refik Anadol Studio (USA) and Julius Baer<br>

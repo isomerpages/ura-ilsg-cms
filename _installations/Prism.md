@@ -4,7 +4,7 @@ permalink: /installations/prism/
 description: ""
 ---
 <p style="font-size:17px; line-height:40px"> 
-<img src="/images/Installations/RL%20Images/l1002323-enhanced-nr-min.jpg">
+<img src="/images/Installations/RL%20Images/01062023_pico_colossal_upload_clean_211-min.jpg">
 	<b>Prism</b>
 <br>
 Jun Ong (Malaysia)&nbsp;
