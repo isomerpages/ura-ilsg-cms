@@ -48,7 +48,7 @@ Plug &amp; Play (Singapore)<br>
 <b>Location</b>: Entrance of Marina Bay Link Mall<br><br>
 
 
-<a href="/installations/the-things-left-unsaid"><img src="/images/Installations/RL%20Images/30052023_pico_colossal_upload_clean_246-min.jpg"></a>
+<a href="/installations/the-things-left-unsaid"><img src="/images/Installations/RL%20Images/04062023_pico_colossal_upload_clean_503-min.jpg"></a>
 <b>the things left unsaid</b><br>
 Brigette Teo<br>
 Nanyang Technological University, School of Art, Design and Media<br>
