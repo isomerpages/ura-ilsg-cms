@@ -4,7 +4,7 @@ permalink: /installations/trumpetflowers/
 description: ""
 ---
 <p style="font-size:17px; line-height:40px">
-<img src="/images/Installations/RL%20Images/30052023_pico_colossal_upload_clean_234-min%20(1).jpg">
+<img src="/images/Installations/RL%20Images/trumpet%20flowers-min.jpg">
 	<b>Trumpet Flowers</b>&nbsp;&nbsp;
 <br>
 Amigo &amp; Amigo (Australia)&nbsp;
