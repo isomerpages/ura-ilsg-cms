@@ -3,7 +3,7 @@ title: Programmes
 permalink: /programmes/
 description: ""
 ---
-<a href="/programmes/gastrobeats"><img src="/images/Programmes/gastrobeats%20kv.jpg" align="left"></a>
+<a href="/programmes/gastrobeats"><img src="/images/Programmes/miz_8309-min.jpg" align="left"></a>
 <br>
 <p style="font-size:17px; line-height:40px">
 <b>GastroBeats</b><br><br>
