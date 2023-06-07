@@ -98,7 +98,7 @@ Chen Jiawen, Lai Ling Ling
 <i>Co-presented by South Beach Consortium, Aedas, &amp; Sunray Woodcraft Construction</i>
 <br><br>
 	
-<a href="/installations/prism"><img src="/images/Installations/RL%20Images/l1002323-enhanced-nr-min.jpg"></a>
+<a href="/installations/prism"><img src="/images/Installations/RL%20Images/01062023_pico_colossal_upload_clean_211-min.jpg"></a>
 <b>Prism</b>
 <br>
 Jun Ong (Malaysia)<br>
