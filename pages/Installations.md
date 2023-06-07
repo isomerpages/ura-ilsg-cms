@@ -89,7 +89,7 @@ Nanyang Technological University, School of Art, Design and Media (Singapore)<br
 	<i>Co-presented by South Beach Consortium, Aedas, &amp; Sunray Woodcraft Construction, supported by JW Marriott Singapore South Beach</i>
 <br><br>
 	
-<a href="/installations/showiii"><img src="/images/Installations/RL%20Images/edit30052023_pico_colossal_upload_clean_086-min.jpg"></a>
+<a href="/installations/showiii"><img src="/images/Installations/RL%20Images/01062023_pico_colossal_upload_clean_165-min.jpg"></a>
 <b>Show III</b>
 <br>
 Chen Jiawen, Lai Ling Ling
