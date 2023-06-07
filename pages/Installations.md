@@ -6,7 +6,7 @@ description: ""
 <p style="font-size:17px; line-height:40px">
 <a href="/festival-map"><img src="/images/i%20light%20singapore%20(festival%20map)%20.jpg"><br>
 
-</a><a href="/installations/glacier-dreams"><img src="/images/Installations/RL%20Images/29052023_pico_colossal_upload_clean_164-min.jpg"></a>
+</a><a href="/installations/glacier-dreams"><img src="/images/Installations/RL%20Images/glacier%20dreams-min.jpg"></a>
 <b>Glacier Dreams </b>
 <br>
 Refik Anadol <br>
