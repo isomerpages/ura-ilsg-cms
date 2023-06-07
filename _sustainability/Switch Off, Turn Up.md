@@ -201,6 +201,8 @@ Gardens by the Bay</td><td style="width:50%"> Bay South Garden</td></tr>
 
 <tr><td style="width:50%">Pico Art</td><td style="width:50%"> Pico Creative Building</td></tr>
 	
+<tr><td style="width:50%">Recovery Advisers Pte Ltd</td><td style="width:50%"> OUE Downtown 2, Unit 18-08</td></tr>
+	
 <tr><td style="width:50%">Red Dot Singapore Pte Ltd</td><td style="width:50%"> Red Dot Design Museum</td></tr>
 
 <tr><td style="width:50%">Singapore Recreation Club</td><td style="width:50%"> Singapore Recreation Club</td></tr>
