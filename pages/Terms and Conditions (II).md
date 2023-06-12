@@ -17,7 +17,7 @@ Applicable to all social media giveaways conducted from 1 - 25 June 2023 on i Li
 <li><p style="font-size:17px;line-height:40px">
 	<b>Prize</b>: The giveaway post will describe the prize(s). The prize(s) are non-transferable and cannot be exchanged for cash or any other prize. Vouchers are valid from 1 July to 31 December 2023 (blackout dates apply).</p></li><br>
 <li><p style="font-size:17px;line-height:40px">
-	<b>Publicity</b>: By participating in the giveaway, participants agree to allow the organiser to use their name and social media handle for publicity purposes.</p></li><br>
+	<b>Publicity</b>: By participating in the giveaway, participants agree to allow the organiser to use their photos/videos, name and social media handle for publicity purposes.</p></li><br>
 <li><p style="font-size:17px;line-height:40px">
 	<b>Disclaimer</b>: The organiser of the giveaway is not responsible for any technical or human error that may occur during the giveaway, including but not limited to errors in entry, notification, or prize delivery.</p></li><br>
 <li><p style="font-size:17px;line-height:40px">
