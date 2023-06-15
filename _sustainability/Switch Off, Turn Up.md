@@ -181,7 +181,7 @@ PPP Coffee</td></tr>
 Fairmont Singapore<br>
 Swissotel The Stamford</td></tr>
 	
-<tr><td style="width:50%">Alibaba Cloud Singapore</td><td style="width:50%">
+<tr><td style="width:50%">Alibaba, Alibaba Cloud Singapore, Lazada Group</td><td style="width:50%">
 	Lazada One</td></tr>
 	
 <tr><td style="width:50%">
