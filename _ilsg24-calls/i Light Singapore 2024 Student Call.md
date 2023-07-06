@@ -4,6 +4,7 @@ permalink: /ilsg24-calls/student-call/
 description: ""
 ---
 ![](/images/ILSG24%20Calls/ilsg2024-studentcall-2.jpg)
+<br><br>
 
 ### i Light Singapore 2024 Student Call
 
