@@ -16,6 +16,6 @@ For this edition, the curatorial theme of i Light Singapore 2024, <b><i>Cyclical
 <br><br>
 Be one of the light art installations to transform Marina Bay into magical landscape of light and colour at i Light Singapore 2024!
 <br><br>
-For further information, download the Student Call document <a href="">here</a>.
+For further information, download the Student Call document <a href="/files/i%20light%20singapore%202024%20–%20student%20call.pdf">here</a>.
 <br><br>
 Fill in the Student Call application form&nbsp;<a target="_blank" href="https://forms.gle/XKDSqi3wo1KNoKGq9">here</a> and submit by <b>3 September 2023, 2359hr GMT+8</b>.</p>
