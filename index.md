@@ -13,11 +13,11 @@ sections:
   - infopic:
       title: 2024 Open Call
       button: Find out more
-      url: /programmes/lightwave-turning-the-tide
+      url: /ilsg24-calls/open-call
       image: /images/ILSG24 Calls/ilsg2024-opencall.jpg
       alt: Image alt text
   - infopic:
-      title: "2024 Student Call "
+      title: 2024 Student Call
       button: Find out more
       url: /ilsg24-calls/student-call
       image: /images/ILSG24 Calls/ilsg2024-studentcall-2.jpg
