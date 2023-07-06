@@ -1,4 +1,5 @@
 collections:
   ilsg24-calls:
     output: true
-    order: []
+    order:
+      - Call for Artworks 2024.md
