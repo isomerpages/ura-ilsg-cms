@@ -13,7 +13,7 @@ For this edition, we invite artists to explore various forms of Sustainability a
 <br><br>
 The curatorial theme of i Light Singapore 2024, <b><i>Cyclical Nature</i></b>, calls for innovative light art installations that draw inspiration from the colour green - associated with nature as well as sustainable concepts such as the circular economy and upcycling.
 <br><br>
-<b><i>Cyclical Nature</i></b>  reimagines the endless potential of everyday objects that are disposed of and their impact on nature through redesign, restoration, and repurposing.
+<b><i>Cyclical Nature</i></b> reimagines the endless potential of everyday objects that are disposed of and their impact on nature through redesign, restoration, and repurposing.
 <br><br>
 For further information, download the Open Call document <a target="_blank" href="/files/i%20light%20singapore%202024%20–%20open%20call.pdf">here</a>.
 <br><br>
