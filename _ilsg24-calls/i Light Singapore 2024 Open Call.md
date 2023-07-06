@@ -4,6 +4,7 @@ permalink: /ilsg24-calls/open-call/
 description: ""
 ---
 <img align="left" src="/images/ILSG24%20Calls/ilsg2024-opencall.jpg">
+<br><br>
 
 ### i Light Singapore 2024 Open Call 
 <p style="font-size:17px; line-height:40px">
