@@ -12,7 +12,7 @@ An open call for students from local tertiary institutions, the i Light Singapor
 <br><br>
 For this edition, the curatorial theme of i Light Singapore 2024, <b><i>Cyclical Nature</i></b>, calls for innovative light art installations that draw inspiration from the colour green - associated with nature as well as sustainable concepts such as the circular economy and upcycling.
 <br><br>
-<b><i>Cyclical Nature</i></b>  reimagines the endless potential of everyday objects that are disposed of and their impact on nature through redesign, restoration, and repurposing.
+<b><i>Cyclical Nature</i></b>,   reimagines the endless potential of everyday objects that are disposed of and their impact on nature through redesign, restoration, and repurposing.
 <br><br>
 Be one of the light art installations to transform Marina Bay into magical landscape of light and colour at i Light Singapore 2024!
 <br><br>
