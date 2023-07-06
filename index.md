@@ -22,10 +22,4 @@ sections:
       url: /ilsg24-calls/student-call
       image: /images/ILSG24 Calls/ilsg2024-studentcall-2.jpg
       alt: Image alt text
-  - infopic:
-      title: Acknowledgements
-      image: /images/202301_iiight singapore (16-9 sponsor logos) v7.jpg
-      alt: a
-      button: Find out more
-      url: /about/sponsorsacknowledgement
 ---
