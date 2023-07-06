@@ -18,6 +18,6 @@ The curatorial theme of i Light Singapore 2024, <b><i>Cyclical Nature</i></b>, c
 
 <b><i>Cyclical Nature</i></b> creative methods and ideas reimagines the endless potential of everyday objects that are disposed of and their impact on nature through redesign, restoration, and repurposing.
 
-For further information, download the Open Call document here
+For further information, download the Open Call document <a href="">here</a>.
 
 Fill in the Open Call application form&nbsp;<a target="_blank" href="https://forms.gle/XKDSqi3wo1KNoKGq9">here</a> and submit by <b>3 September 2023, 2359hr GMT+8</b>.</p>
