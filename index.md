@@ -11,7 +11,7 @@ sections:
       subtitle: Asia’s Leading Sustainable Light Festival held in Marina Bay
       background: /images/KVHeroBanner1920x720.jpg
   - infopic:
-      title: "2024 Open Call "
+      title: 2024 Open Call
       button: Find out more
       url: /programmes/lightwave-turning-the-tide
       image: /images/ILSG24 Calls/ilsg2024-opencall.jpg
