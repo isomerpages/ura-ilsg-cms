@@ -1,0 +1,7 @@
+collections:
+  ilsg24-calls:
+    output: true
+    order:
+      - Call for Artworks 2024.md
+      - i Light Singapore 2024 Open Call.md
+      - i Light Singapore 2024 Student Call.md

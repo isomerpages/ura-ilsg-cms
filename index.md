@@ -11,26 +11,15 @@ sections:
       subtitle: Asia’s Leading Sustainable Light Festival held in Marina Bay
       background: /images/KVHeroBanner1920x720.jpg
   - infopic:
-      title: "Lightwave: Turning the Tide"
+      title: 2024 Open Call
       button: Find out more
-      url: /programmes/lightwave-turning-the-tide
-      image: /images/Programmes/lightwave-min.jpg
+      url: /ilsg24-calls/open-call
+      image: /images/ILSG24 Calls/ilsg2024-opencall.jpg
       alt: Image alt text
-      description: Enter an underwater world with an imagined future where human
-        exploits have damaged the world around us irrevocably.
   - infopic:
-      title: i Light i Pledge
+      title: 2024 Student Call
       button: Find out more
-      url: /sustainability/ilightipledge
-      image: /images/Sustainability/compressed 202301_iiight singapore (ilip banner -
-        1920px x 1080px)-min.jpg
+      url: /ilsg24-calls/student-call
+      image: /images/ILSG24 Calls/ilsg2024-studentcall-2.jpg
       alt: Image alt text
-      description: Join us in making small but impactful changes in your daily
-        lifestyle to cultivate sustainable habits.
-  - infopic:
-      title: Acknowledgements
-      image: /images/202301_iiight singapore (16-9 sponsor logos) v7.jpg
-      alt: a
-      button: Find out more
-      url: /about/sponsorsacknowledgement
 ---

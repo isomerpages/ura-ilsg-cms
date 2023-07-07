@@ -1,7 +1,14 @@
-logo: /images/iLightsg_Lockup(F)-240220-04.png
+logo: /images/ilightsg_lockup(f).png
 links:
   - title: About
     collection: about
+  - title: Call for Artworks 2024
+    url: /ilsg24-calls
+    sublinks:
+      - title: Open Call
+        url: /ilsg24-calls/open-call
+      - title: Student Call
+        url: /ilsg24-calls/student-call
   - title: Installations
     url: /installations/
     sublinks:
@@ -57,7 +64,5 @@ links:
         url: /sustainability/switch-off-turn-up
   - title: Festival Map
     url: /festival-map
-  - title: Media Releases
-    url: /media-releases
   - title: Faq
     url: /faq
