@@ -1,5 +1,5 @@
 ---
-title: i Light Singapore 2024 Call For Programmes
+title: Call for Programmes 2024
 permalink: /Call-for-Programmes
 description: "i Light Singapore 2024 Call for Proposals - Festival Programmes"
 ---
