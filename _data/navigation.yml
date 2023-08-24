@@ -9,6 +9,8 @@ links:
         url: /ilsg24-calls/open-call
       - title: Student Call
         url: /ilsg24-calls/student-call
+  - title: Call for Programmes 2024
+    url: /Call-for-Programmes
   - title: Installations
     url: /installations/
     sublinks:
@@ -62,7 +64,5 @@ links:
         url: /sustainability/ilightipledge
       - title: Switch Off, Turn Up
         url: /sustainability/switch-off-turn-up
-  - title: Festival Map
-    url: /festival-map
   - title: Faq
     url: /faq
