@@ -5,7 +5,7 @@ description: "i Light Singapore 2024 Call for Proposals - Festival Programmes"
 ---
 <img src="/images/ilsg2024-EOI (Website).jpg">
 
-### i Light Singapore 2024 Open Call 
+### i Light Singapore 2024 Call for Proposals - Festival Programmes
 <p style="font-size:17px; line-height:40px">
 Asia’s leading sustainable light festival will return for its 10th edition to showcase new and exciting light art installations at Marina Bay. 
 <br><br>
