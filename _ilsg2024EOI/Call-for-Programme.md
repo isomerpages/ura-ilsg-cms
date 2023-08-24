@@ -1,6 +1,6 @@
 ---
 title: i Light Singapore 2024 Call For Programmes
-permalink: /ilsg2024EOI/Call-for-Programme
+permalink:/ilsg2024EOI/Call-for-Programme
 description: "i Light Singapore 2024 Call for Proposals - Festival Programmes"
 ---
 <img src="/images/ilsg2024-EOI (Website).jpg">
