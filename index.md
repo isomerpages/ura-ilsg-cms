@@ -21,5 +21,4 @@ sections:
       button: Find out more
       url: /ilsg24-calls/student-call
       image: /images/ILSG24 Calls/ILSG24%20Calls/ilsg203%20website-lastcall(Student%20Call).jpg
-      alt: Student Call
 ---
