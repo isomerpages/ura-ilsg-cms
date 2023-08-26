@@ -14,11 +14,12 @@ sections:
       title: 2024 Open Call
       button: Find out more
       url: /ilsg24-calls/open-call
-      image: /images/ILSG24 Calls/ILSG24%20Calls/ilsg203%20website%20last%20call(%20opencall).jpg
+      image: /images/ILSG24%20Calls/ilsg203%20website%20last%20call(%20opencall).jpg
       alt: Open Call
   - infopic:
       title: 2024 Student Call
       button: Find out more
       url: /ilsg24-calls/student-call
-      image: /images/ILSG24 Calls/ILSG24%20Calls/ilsg203%20website-lastcall(Student%20Call).jpg
+      image: /images/ILSG24%20Calls/ilsg203%20website-lastcall(Student%20Call).jpg
+      alt: Student Call
 ---
