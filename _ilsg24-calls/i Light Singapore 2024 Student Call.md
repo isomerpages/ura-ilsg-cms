@@ -3,7 +3,7 @@ title: i Light Singapore 2024 Student Call
 permalink: /ilsg24-calls/student-call/
 description: ""
 ---
-![](/images/ILSG24%20Calls/ilsg2024-studentcall-2.jpg)
+![](/images/ILSG24%20Calls/ilsg203%20website-lastcall(Student%20Call).jpg)
 
 ### i Light Singapore 2024 Student Call
 
@@ -18,4 +18,4 @@ Be one of the light art installations to transform Marina Bay into magical lands
 <br><br>
 For further information, download the Student Call document <a target="_blank" href="/files/i%20light%20singapore%202024%20–%20student%20call.pdf">here</a>.
 <br><br>
-Fill in the Student Call application form&nbsp;<a target="_blank" href="https://forms.gle/Y5zTpowq2PpNfTFU9">here</a> and submit by <b>3 September 2023, 2359hr GMT+8</b>.</p>
+Fill in the Student Call application form&nbsp;<a target="_blank" href="https://forms.gle/Y5zTpowq2PpNfTFU9">here</a> and submit by <b>17 September 2023, 2359hr GMT+8</b>.</p>
