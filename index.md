@@ -11,8 +11,4 @@ sections:
         background: /images/iLSGHEROBANNER(F).jpg
         url: "https://www.instagram.com/ilightsingapore/"
         button: FOLLOW US
-    - infopic:
-        title: Acknowledgements
-        image: /images/acklogo.png
-        alt: ilightsingapore
 ---
