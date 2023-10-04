@@ -2,15 +2,6 @@ logo: /images/ilightsg_lockup(f).png
 links:
   - title: About
     collection: about
-  - title: Call for Artworks 2024
-    url: /ilsg24-calls
-    sublinks:
-      - title: Open Call
-        url: /ilsg24-calls/open-call
-      - title: Student Call
-        url: /ilsg24-calls/student-call
-  - title: Call for Programmes 2024
-    url: /Call-for-Programmes
   - title: Installations
     url: /installations/
     sublinks:
