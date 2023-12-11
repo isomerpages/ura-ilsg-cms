@@ -1,6 +1,7 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
 <p style="font-size:17px; line-height:40px">
 <b>Q1. What is i Light Singapore all about?</b><br>
@@ -52,6 +53,4 @@ Take part in <i>i Light i Pledge, presented by Alibaba Cloud</i> <a target="_bla
 Yes, we have been collaborating with other overseas light festivals and are happy to continue to do so. <br><br>
 For more information on collaboration opportunities, please reach out to us at <a href="mailto:info@ilight.sg">info@ilight.sg</a>.<br><br>
 
-<b>Q8. Do you have a general hotline?</b><br>
-For general enquiries, please call or&nbsp;Whatsapp: 88252095
 </p>
