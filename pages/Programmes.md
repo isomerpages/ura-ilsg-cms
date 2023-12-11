@@ -1,7 +1,8 @@
 ---
 title: Programmes
 permalink: /programmes/
-description: ""
+description: Explore i Light Singapore Programmes
+variant: tiptap
 ---
 <a href="/programmes/gastrobeats"><img src="/images/Programmes/miz_8309-min.jpg" align="left"></a>
 <br>

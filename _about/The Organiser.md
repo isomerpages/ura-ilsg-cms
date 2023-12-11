@@ -1,7 +1,8 @@
 ---
 title: The Organiser
 permalink: /about/the-organiser/
-description: ""
+description: i Light Singapore 2023 - The Organiser
+variant: tiptap
 ---
 ### Urban Redevelopment Authority 
 

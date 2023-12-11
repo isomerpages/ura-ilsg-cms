@@ -1,10 +1,13 @@
 ---
 title: Glacier Dreams
 permalink: /installations/glacier-dreams/
-description: ""
+description: Discover Glacier Dreams by Refik Anadol Studio (USA) and Julius
+  Baer - i Light Singapore 2023
+variant: markdown
+image: /images/Installations/RL Images/glacier dreams-min.jpg
 ---
 <p style="font-size:17px; line-height:40px"> 
-<img src="/images/Installations/RL%20Images/glacier%20dreams-min.jpg">
+<img alt="Glacier Dreams by Refik Anadol Studio (USA) and Julius Baer" src="/images/Installations/RL%20Images/glacier%20dreams-min.jpg">
 	<b>Glacier Dreams</b><br> 
 Refik Anadol<br> 
 Refik Anadol Studio (USA) and Julius Baer<br>
@@ -16,7 +19,7 @@ Visual materials collated from publicly available data and institutional archive
 The artist, together with his Los Angeles-based team, hopes to raise awareness of climate change and rising sea levels through poetic glacier-themed experiences, and also contribute to the study of glaciers with their existing AI tools.
 <br><br>
 
-<img src="/images/Installations/refik%20anadol_credit%20efsun%20erkilic.jpg">
+<img alt="Refik Anadol" src="/images/Installations/refik%20anadol_credit%20efsun%20erkilic.jpg">
 	
 <b>About the Artist</b>
 <br>

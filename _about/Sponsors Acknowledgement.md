@@ -1,7 +1,8 @@
 ---
 title: Sponsors Acknowledgement
 permalink: /about/sponsorsacknowledgement/
-description: ""
+description: Sponsor's Acknowledgement
+variant: tiptap
 ---
 <table style="width:100%">
 <thead><tr><th colspan="4"><p style="font-size: 17px; line-height: 20px">Organised by</p></th>

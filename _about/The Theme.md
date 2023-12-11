@@ -1,7 +1,8 @@
 ---
 title: The Theme
 permalink: /about/the-theme/
-description: ""
+description: i Light Singapore 2023 - A New Wave
+variant: tiptap
 ---
 ![](/images/About/202301_iiight%20singapore%20(kv%20landscape%20-%201920px%20x%201080px)-min.jpg)
 

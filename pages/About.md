@@ -1,7 +1,9 @@
 ---
 title: About
 permalink: /about/
-description: ""
+description: i Light Singapore
+variant: tiptap
+image: /images/kvherobanner1920x720j.jpg
 ---
 ![](/images/About/ilsgherobanner(f).jpg)
 
