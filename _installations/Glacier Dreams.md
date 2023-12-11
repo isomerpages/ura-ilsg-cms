@@ -2,9 +2,10 @@
 title: Glacier Dreams
 permalink: /installations/glacier-dreams/
 description: ""
+variant: markdown
 ---
 <p style="font-size:17px; line-height:40px"> 
-<img src="/images/Installations/RL%20Images/glacier%20dreams-min.jpg">
+<img alt="Glacier Dreams by Refik Anadol Studio (USA) and Julius Baer" src="/images/Installations/RL%20Images/glacier%20dreams-min.jpg">
 	<b>Glacier Dreams</b><br> 
 Refik Anadol<br> 
 Refik Anadol Studio (USA) and Julius Baer<br>
