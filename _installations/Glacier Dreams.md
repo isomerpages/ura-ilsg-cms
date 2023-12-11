@@ -19,7 +19,7 @@ Visual materials collated from publicly available data and institutional archive
 The artist, together with his Los Angeles-based team, hopes to raise awareness of climate change and rising sea levels through poetic glacier-themed experiences, and also contribute to the study of glaciers with their existing AI tools.
 <br><br>
 
-<img src="/images/Installations/refik%20anadol_credit%20efsun%20erkilic.jpg">
+<img alt="Refik Anadol" src="/images/Installations/refik%20anadol_credit%20efsun%20erkilic.jpg">
 	
 <b>About the Artist</b>
 <br>
