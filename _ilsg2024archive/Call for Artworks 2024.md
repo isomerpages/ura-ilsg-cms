@@ -2,6 +2,7 @@
 title: Call for Artworks 2024
 permalink: /ilsg24-calls/
 description: ""
+variant: markdown
 ---
 <a href="/ilsg24-calls/open-call"><img src="/images/ILSG24%20Calls/ilsg203%20website%20last%20call(%20opencall).jpg" align="left"></a>
 <br>

@@ -3,9 +3,10 @@ title: Installations
 permalink: /installations/
 description: Explore i Light Singapore Installations
 variant: markdown
+image: /images/i light singapore (festival map) .jpg
 ---
 <p style="font-size:17px; line-height:40px">
-<a href="/festival-map"><img alt="i Light Singapore Festival map" src="/images/i%20light%20singapore%20(festival%20map)%20.jpg"><br>
+<a href="/festival-map"><img alt="i Light Singapore Festival Map" src="/images/i%20light%20singapore%20(festival%20map)%20.jpg"><br>
 
 </a><a href="/installations/glacier-dreams"><img alt="Glacier Dreams" src="/images/Installations/RL%20Images/glacier%20dreams-min.jpg"></a>
 <b>Glacier Dreams </b>
