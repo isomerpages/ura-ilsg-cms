@@ -3,7 +3,7 @@ url: https://www.ilightsingapore.gov.sg
 favicon: /images/iLSGfavicon.ico
 colors:
   primary-color: "#031621"
-  secondary-color: "#14afcd"
+  secondary-color: "#0ca0bd"
   media-colors:
     - title: media-color-one
       color: "#0e4d80"
