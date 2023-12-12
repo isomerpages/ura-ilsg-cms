@@ -2,8 +2,9 @@
 title: Call for Artworks 2024
 permalink: /ilsg24-calls/
 description: ""
+variant: markdown
 ---
-<a href="/ilsg24-calls/open-call"><img src="/images/ILSG24%20Calls/ilsg203%20website%20last%20call(%20opencall).jpg" align="left"></a>
+<img src="/images/ILSG24%20Calls/ilsg203%20website%20last%20call(%20opencall).jpg" align="left">
 <br>
 <p style="font-size:17px; line-height:40px">
 <b>i Light Singapore 2024 Open Call</b><br><br>
@@ -13,3 +14,5 @@ description: ""
 <br>
 </p><p style="font-size:17px; line-height:40px">
 <b>i Light Singapore 2024 Student Call</b></p>
+
+<a href="/ilsg24-calls/open-call"></a>
