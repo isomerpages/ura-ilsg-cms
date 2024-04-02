@@ -3,7 +3,7 @@ layout: homepage
 title: i Light Singapore
 description: Asia’s Leading Sustainable Light Festival held in Marina Bay
 permalink: /
-notification:
+notification: ""
 sections:
     - hero:
         title: i Light Singapore
