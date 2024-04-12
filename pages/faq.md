@@ -15,7 +15,8 @@ The opening hours for the Festival are 7.30pm to 11.00pm daily, with extended ho
 </p>
 
 <p style="font-size:17px; line-height:40px"><b>Q4.How do I get to&nbsp;i&nbsp;Light Singapore 2024 via public transport?</b><br>
-Most MRT lines (East-West Line, North-South Line, Downtown Line, Circle Line and Thomson-East Coast Line) have stops near the festival area. The nearest stations are:<br></p>
+Most MRT lines (East-West Line, North-South Line, Downtown Line, Circle Line and Thomson-East Coast Line) have stops near the festival area. The nearest stations are:<br>
+</p>
 
 <p style="font-size:17px; line-height:40px">
 For the main festival area at Marina Bay and satellite sites at Millenia Walk and South Beach: <br></p>
@@ -28,7 +29,7 @@ For the main festival area at Marina Bay and satellite sites at Millenia Walk an
 <li><p style="font-size:17px; line-height:40px">Promenade (DT15/CC4)</p></li>
 <li><p style="font-size:17px; line-height:40px">Raffles Place (NS26/EW14)</p></li>
 </ul>
-
+<p></p>
 <p style="font-size:17px; line-height:40px">
 For satellite site at Tanjong Pagar: <br>
 </p>
@@ -41,14 +42,15 @@ For satellite site at Tanjong Pagar: <br>
 <b>Q5. What can I see and do at&nbsp;i&nbsp;Light Singapore 2023?</b><br>
 There will be a total of 17 captivating light art installations that aim to spark fresh perspectives on the environment and world around us. Check out the line-up of installations <a href="/installations">here</a>.
 <br><br>
-The Festival will also offer exciting programmes that promise a fun-filled experience for festival-goers and encourage conversations on sustainability. Explore the list of programmes <a href="/programmes">here</a>.<br><br> </p>
-<p style="font-size:17px; line-height:40px">
+The Festival will also offer exciting programmes that promise a fun-filled experience for festival-goers and encourage conversations on sustainability. Explore the list of programmes <a href="/programmes">here</a>.
+<br><br> 
 <b>Q6. How is i Light Singapore a sustainable light festival?</b><br>
 The light art installations at the Festival are designed with energy-saving lightings and recycled or environmentally-friendly materials. They serve as reminders to festival-goers to adopt sustainable habits in their everyday lives. We also work closely with programme partners to encourage festival-goers to put green habits into practice when participating in the programmes.
 <br><br>
 <b>Q7. Does i Light Singapore collaborate with other international light festivals?</b><br>
 Yes, we regularly collaborate with other overseas light festivals through the exchange of festival artworks. <br><br>
-For more information on collaboration opportunities, please reach out to us at <a href="mailto:info@ilight.sg">info@ilight.sg</a>.<br><br> 
+For more information on collaboration opportunities, please reach out to us at <a href="mailto:info@ilight.sg">info@ilight.sg</a>.
+<br><br> 
 <b>Q8. Do you have a general hotline?</b><br>
 For general enquiries, please email  <a href="mailto:info@ilight.sg">info@ilight.sg</a>.
 <br><br></p>
