@@ -35,7 +35,7 @@ For satellite site at Tanjong Pagar: <br>
 <ul>
 <li><p style="font-size:17px; line-height:40px">Tanjong Pagar (EW15)</p></li>
 <li><p style="font-size:17px; line-height:40px">Maxwell (TE18)</p></li>
-</ul>
+</ul> <p></p>
 
 <p style="font-size:17px; line-height:40px">
 <b>Q5. What can I see and do at&nbsp;i&nbsp;Light Singapore 2023?</b><br>
