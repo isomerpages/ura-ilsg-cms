@@ -39,7 +39,7 @@ For satellite site at Tanjong Pagar: <br>
 </ul> <p></p>
 
 <p style="font-size:17px; line-height:40px">
-<b>Q5. What can I see and do at&nbsp;i&nbsp;Light Singapore 2023?</b><br>
+<b>Q5. What can I see and do at&nbsp;i&nbsp;Light Singapore 2024?</b><br>
 There will be a total of 17 captivating light art installations that aim to spark fresh perspectives on the environment and world around us. Check out the line-up of installations <a href="/installations">here</a>.
 <br><br>
 The Festival will also offer exciting programmes that promise a fun-filled experience for festival-goers and encourage conversations on sustainability. Explore the list of programmes <a href="/programmes">here</a>.
