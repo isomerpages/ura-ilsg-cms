@@ -43,7 +43,7 @@ For satellite site at Tanjong Pagar: <br>
 There will be a total of 17 captivating light art installations that aim to spark fresh perspectives on the environment and world around us. Check out the line-up of installations <a href="/installations">here</a>.
 <br><br>
 The Festival will also offer exciting programmes that promise a fun-filled experience for festival-goers and encourage conversations on sustainability. Explore the list of programmes <a href="/programmes">here</a>.
-<br><br> 
+<br><br>
 <b>Q6. How is i Light Singapore a sustainable light festival?</b><br>
 The light art installations at the Festival are designed with energy-saving lightings and recycled or environmentally-friendly materials. They serve as reminders to festival-goers to adopt sustainable habits in their everyday lives. We also work closely with programme partners to encourage festival-goers to put green habits into practice when participating in the programmes.
 <br><br>
