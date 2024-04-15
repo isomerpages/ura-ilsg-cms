@@ -16,22 +16,7 @@ description: Discover Liminal; Minimal by Benjamin Lim (Singapore) and Yeo Soon
 Musem</p>
 <p>
 <br>
-<br>Blue energy is harnessed from the chemical potential of a salinity difference
-between the sea and river waters. <em>Blumiwave</em> is an interpretation
-of this renewable energy source.
-<br>
-<br>Seen from afar, sculptural waves appear to crash at varying heights and
-directions. Upon closer inspection, these are in fact made of a carefully
-weaved fabric of safety nets and scaffolding — everyday objects that the
-interior designers at DP Design encounter at construction sites. Here,
-the team transforms materials normally perceived as unsightly into a space
-that invites multiple interpretations of the mundane and its possibilities.
-<br>
-<br>All plastics used to assemble <em>Blumiwave</em> will be recycled by local
-social enterprise Magorium after the festival. Supported by DBS Foundation,
-Magorium converts plastic waste into a sustainable construction material
-called ‘NEWBitumen’ that can replace crude-derived bitumen to pave roads
-sustainably.
+<br>Waste lurks unseen
 <br>
 </p>
 <p></p>
@@ -41,12 +26,4 @@ sustainably.
 </div>
 <p><strong>About the Artist</strong>
 </p>
-<p>Headquartered in Singapore, DP Design comprises a creative team of diverse
-talents, personalities and perspectives. Together, they have delivered
-and presented a preeminent international body of works since 1982.
-<br>
-</p>
-<p>Rooted in the belief that design has the capacity to uplift the human
-spirit, the interior design practice considers form, function and experience
-to create sustainable, memorable and meaningful places. In doing so, it
-synergises people, architecture and the ultimate purpose of the space.</p>
+<p>Benjamin Lim and Yeo Soon Yii</p>
