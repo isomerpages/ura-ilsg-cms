@@ -2,7 +2,7 @@ collections:
   installations:
     output: true
     order:
-      - Wagumi Air Space.md
+      - Iwagumi Air Space.md
       - Dandelion.md
       - Kinetic Perspective.md
       - Pure Ring.md
