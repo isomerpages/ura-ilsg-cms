@@ -4,3 +4,4 @@ permalink: /the-lantern/
 variant: tiptap
 description: ""
 ---
+<p></p>
