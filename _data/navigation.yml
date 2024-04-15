@@ -5,6 +5,8 @@ links:
   - title: Installations
     url: /installations/
     sublinks:
+      - title: Liminal; Minimal
+        url: /installations/liminal;minimal
       - title: Glacier Dreams
         url: /installations/glacier-dreams
       - title: Tree Man
@@ -33,8 +35,6 @@ links:
         url: /installations/showiii
       - title: Prism
         url: /installations/prism
-      - title: Liminal; Minimal
-        url: /installations/liminal;minimal
   - title: Programmes
     url: /programmes/
     sublinks:
