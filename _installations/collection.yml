@@ -2,6 +2,7 @@ collections:
   installations:
     output: true
     order:
+      - BottleBlooms.md
       - Hidden Garden.md
       - Kickit Team Tennis.md
       - Modern Guru and the Path to Artificial Happiness.md
