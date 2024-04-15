@@ -2,6 +2,7 @@ collections:
   installations:
     output: true
     order:
+      - Pure Ring.md
       - Kinetic Perspective.md
       - Dandelion.md
       - Liminal Minimal.md
