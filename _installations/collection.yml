@@ -2,6 +2,7 @@ collections:
   installations:
     output: true
     order:
+      - The Lantern.md
       - Lumi.md
       - Dandelion.md
       - Kinetic Perspective.md
