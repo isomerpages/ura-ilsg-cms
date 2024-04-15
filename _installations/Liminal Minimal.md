@@ -9,7 +9,7 @@ description: Discover Liminal; Minimal by Benjamin Lim (Singapore) and Yeo Soon
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Liminal; Minimal by Benjamin Lim and Yeo Soon Yii (Singapore)" src="/images/2024 Installations/website_0019_Liminal_Minimal_min.jpg">
 </div>
-<p><strong>Liminal; Minimal</strong>
+<p><strong>Liminal; Minimal</strong> 
 <br>Benjamin Lim and Yeo Soon Yii (Singapore)
 <br>Singapore University of Technology and Design
 <br><strong>Location:</strong> Waterfront promenade in front of Red Dot Design
