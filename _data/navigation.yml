@@ -33,6 +33,8 @@ links:
         url: /installations/showiii
       - title: Prism
         url: /installations/prism
+      - title: Liminal; Minimal
+        url: /installations/liminal;minimal
   - title: Programmes
     url: /programmes/
     sublinks:
