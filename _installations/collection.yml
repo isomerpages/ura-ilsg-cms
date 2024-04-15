@@ -2,6 +2,7 @@ collections:
   installations:
     output: true
     order:
+      - Arc Zero Nimbus.md
       - Fish Are Jumping.md
       - Spin Me a Yarn.md
       - Pure Ring.md
