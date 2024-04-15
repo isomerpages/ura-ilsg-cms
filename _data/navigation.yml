@@ -5,6 +5,8 @@ links:
   - title: Installations
     url: /installations/dandelion/
     sublinks:
+      - title: Dandelion
+        url: /installations/dandelion/
       - title: Liminal; Minimal
         url: /installations/liminal-minimal
       - title: Glacier Dreams
@@ -35,8 +37,6 @@ links:
         url: /installations/showiii
       - title: Prism
         url: /installations/prism
-      - title: Dandelion
-        url: /installations/dandelion/
   - title: Programmes
     url: /programmes/
     sublinks:
