@@ -35,6 +35,8 @@ links:
         url: /installations/showiii
       - title: Prism
         url: /installations/prism
+      - title: Dandelion
+        url: /installations/dandelion/
   - title: Programmes
     url: /programmes/
     sublinks:
