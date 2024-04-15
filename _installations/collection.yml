@@ -2,6 +2,7 @@ collections:
   installations:
     output: true
     order:
+      - Modern Guru and the Path to Artificial Happiness.md
       - The Lantern.md
       - Lumi.md
       - Dandelion.md
