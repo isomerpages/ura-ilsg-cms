@@ -2,7 +2,6 @@ collections:
   installations:
     output: true
     order:
-      - Iwagumi Air Space.md
       - Dandelion.md
       - Kinetic Perspective.md
       - Pure Ring.md
@@ -11,6 +10,7 @@ collections:
       - Arc Zero Nimbus.md
       - Liminal Minimal.md
       - BOB the nice world.md
+      - Iwagumi Air Space.md
       - Glacier Dreams.md
       - Tree Man.md
       - Blumiwave.md
