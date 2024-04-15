@@ -2,12 +2,6 @@ collections:
   installations:
     output: true
     order:
-      - BottleBlooms.md
-      - Hidden Garden.md
-      - Kickit Team Tennis.md
-      - Modern Guru and the Path to Artificial Happiness.md
-      - The Lantern.md
-      - Lumi.md
       - Dandelion.md
       - Kinetic Perspective.md
       - Pure Ring.md
@@ -19,6 +13,12 @@ collections:
       - Iwagumi Air Space.md
       - Alchemy of Atmospheres.md
       - Fountain of Happiness.md
+      - Lumi.md
+      - The Lantern.md
+      - Modern Guru and the Path to Artificial Happiness.md
+      - Kickit Team Tennis.md
+      - Hidden Garden.md
+      - BottleBlooms.md
       - Glacier Dreams.md
       - Tree Man.md
       - Blumiwave.md
