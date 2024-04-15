@@ -7,6 +7,6 @@ variant: tiptap
 <p><strong>i Light Singapore x The Conscious Festival</strong>​
 <br>
 </p>
-<p><strong>GastroBeats</strong> 
+<p><strong>GastroBeats</strong>
 </p>
 <p></p>
