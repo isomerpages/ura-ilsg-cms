@@ -3,7 +3,7 @@ links:
   - title: About
     collection: about
   - title: Installations
-    url: /installations/
+    url: /installations/dandelion/
     sublinks:
       - title: Liminal; Minimal
         url: /installations/liminal-minimal
