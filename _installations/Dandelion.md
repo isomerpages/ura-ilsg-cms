@@ -8,18 +8,15 @@ description: Discover Dandelion by Amigo and Amigo (Singapore) - i Light Singapo
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0031_Dandelion_min.jpg">
 </div>
-<p><strong>Dandelion</strong>
-<br>ENESS (Australia)
-<br><strong>Location:</strong> Event Square
+<p><strong>Dandelion</strong> 
+<br>Amigo and Amigo
+<br><strong>Location:</strong> 
 <br>
-<br>E
+<br>
 <br>
 </p>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Amigo and Amigo" src="/images/2024 Installations/website_0032_Amigo_and_Amigo_min.jpg">
 </div>
-<p><strong>About the Artist</strong>
-<br>F</p>
+<p><strong>About the Artist</strong> 
+<br>Amigo and Amigo</p>
