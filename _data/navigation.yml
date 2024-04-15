@@ -7,16 +7,16 @@ links:
     sublinks:
       - title: Dandelion
         url: /installations/dandelion/
+      - title: Kinetic Perspective
+        url: /installations/kinetic-perspective/
+      - title: Pure Ring
+        url: /installations/pure-ring/
+      - title: Spin Me a Yarn
+        url: /installations/spin-me-a-yarn/
+      - title: Fish are Jumping
+        url: /installations/fish-are-jumping/
       - title: Liminal; Minimal
         url: /installations/liminal-minimal
-      - title: Glacier Dreams
-        url: /installations/glacier-dreams
-      - title: Tree Man
-        url: /installations/tree-man
-      - title: Blumiwave
-        url: /installations/blumiwave
-      - title: Moooooootion
-        url: /installations/moooooootion
       - title: Symphony 1
         url: /installations/symphony-1
       - title: Block Party
@@ -35,8 +35,6 @@ links:
         url: /installations/bleached
       - title: Show III
         url: /installations/showiii
-      - title: Prism
-        url: /installations/prism
   - title: Programmes
     url: /programmes/
     sublinks:
