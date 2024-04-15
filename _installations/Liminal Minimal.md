@@ -14,11 +14,6 @@ description: Discover Liminal; Minimal by Benjamin Lim and Yeo Soon Yii
 <br>Singapore University of Technology and Design
 <br><strong>Location:</strong> Waterfront promenade in front of Red Dot Design
 Musem</p>
-<p>
-<br>
-<br>Waste lurks unseen
-<br>
-</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
