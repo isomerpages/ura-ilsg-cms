@@ -8,8 +8,12 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0006_Modern_Guru_and_the_Path_to_Artificial_Happiness_min.jpg">
 </div>
-<p></p>
+<p><strong>Modern Guru and the Path to Artificial Happiness</strong>
+<br>Nimrod Weis
+<br><strong>Location:</strong> 
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0016_ENESS_Nimrod_Weis_copy_min.jpg">
 </div>
-<p></p>
+<p><strong>About the Artist</strong>
+</p>
