@@ -2,13 +2,13 @@ collections:
   installations:
     output: true
     order:
-      - BOB the nice world.md
-      - Arc Zero Nimbus.md
-      - Fish Are Jumping.md
-      - Spin Me a Yarn.md
-      - Pure Ring.md
-      - Kinetic Perspective.md
       - Dandelion.md
+      - Kinetic Perspective.md
+      - Pure Ring.md
+      - Spin Me a Yarn.md
+      - Fish Are Jumping.md
+      - Arc Zero Nimbus.md
+      - BOB the nice world.md
       - Liminal Minimal.md
       - Glacier Dreams.md
       - Tree Man.md
