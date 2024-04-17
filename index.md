@@ -12,7 +12,7 @@ sections:
       url: https://www.instagram.com/ilightsingapore/
       button: FOLLOW US
   - infopic:
-      title: "Sponsors & Partners "
+      title: Sponsors & Partners
       id: infopic
       image: /images/202403_iIight_Singapore__16_9_SPONSOR_LOGOS__01.jpg
       alt: Image alt text
