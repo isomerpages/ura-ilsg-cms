@@ -22,11 +22,12 @@ away mindlessly. A reminder of the transformative potential inherent in
 our discarded materials, <em>BottleBlooms</em> urges us to think about the
 life cycle of materials and encourages a more thorough incorporation of
 plastics into the circular economy via PET recycling.</p>
-<p><strong>About the Artist </strong> 
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0001_Yun_Qin_Lee_min.jpg">
 </div>
+<p><strong>About the Artist</strong>
+</p>
 <p>An industrial designer working in research and development, Yun drives
 innovation in consumer goods. Her first artwork <em>Moon Flower</em> premiered
 at i Light Marina Bay in 2017 and later travelled to Europe and the United
