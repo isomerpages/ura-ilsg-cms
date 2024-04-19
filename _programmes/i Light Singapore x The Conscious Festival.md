@@ -33,17 +33,15 @@ with one another and with the Earth that sustains us.</p>
 </p>
 <p></p>
 <p><strong>Location</strong>
-</p>
-<p>Various locations at Marina Bay (specific locations to be announced in
+<br>Various locations at Marina Bay (specific locations to be announced in
 May)</p>
 <p></p>
 <p><strong>Date</strong>
 </p>
-<p>31 May - 2 June 2024</p>
-<p>7 - 9 June 2024</p>
-<p>21 June 2024</p>
+<p>31 May - 2 June 2024
+<br>7 - 9 June 2024
+<br>21 June 2024</p>
 <p></p>
 <p><strong>Ticketing</strong>
-</p>
-<p>General admission to <em>The Conscious Festival</em> x <em>i Light Singapore </em>is
+<br>General admission to <em>The Conscious Festival</em> x <em>i Light Singapore </em>is
 free, while charges apply for certain programmes.</p>
