@@ -2,22 +2,24 @@
 title: GastroBeats
 permalink: /programmes/gastrobeats/
 description: ""
+variant: markdown
 ---
 <img src="/images/Programmes/miz_8309-min.jpg">
 <p style="font-size:17px; line-height:40px">
 <b>Get ready to eat, play, and dance the night away with <i>GastroBeats</i> <a target="_blank" href="https://www.gastrobeats.com.sg">here</a>!</b><br><br>
 	
-As the Festival Village of i Light Singapore, <i>GastroBeats</i> is a month-long celebration of good food, good music and good fun that brings the community together and showcases the diversity of local culture.&nbsp;
+<i>GastroBeats</i> is the Festival Village of i Light Singapore 2024 that will feature a wide range of gastronomic delights and musical experiences. Visitors will be spoilt for choice with the inclusion of more sustainably-produced food options, including items cultivated through organic farming methods, locally-grown seasonal produce and ethically sourced meat. An enticing array of local and international cuisine ranging from Mexican tacos, Russian dumplings and prawn noodles awaits.
 <br><br>
-Foodies can indulge in delicacies served up by 50 homegrown F&amp;B vendors, featuring both classic and modern dishes to tantalise their taste buds. Music lovers are also in for a treat with live performances by talented local musicians from a variety of music genres, such as 53A and Tabula. In addition, fun seekers are sure to be delighted by the array of activities, such as towering bouncy castles for both the young and young-at-heart.<br><br>
+	This year, <i>GastroBeats</i> will strengthen its sustainability efforts by tapping on solar energy to optimise rechargeable batteries for its light posts, wayfinding signages and powering back-of-house operations. Solar energy will also be used to power air-conditioned “portaloos”, setting a new benchmark for eco-conscious event amenities. To encourage visitors to put into practice green habits, <i>GastroBeats</i> strongly encourages visitors to bring their own cup/flask/tupperware to reduce waste. Eco-friendly food packaging and utensils will be used and no plastic straws will be provided.<br><br>
 
-At the DBS zone, visitors can enjoy a variety of interactive experiences and instagrammable visual installations, designed around the themes of self-care, sustainable living and being future-ready. Children can learn about managing money matters at POSB Money Smarts through experiences designed to stimulate their creativity, while adults can test their reflexes at interactive games Money Matchmaker and Made for Travel. Visitors can also try their hands at rowing machines to light up an installation at Eco Row and Glow, or work the camera at Find Your Spark, where a glambot will help capture cinematic, slow-motion video reels. <br><br>
-General admission to the Festival Village is free, while charges apply for selected activities. More information on <i>GastroBeats</i> can be found <a target="_blank" href="https://www.gastrobeats.com.sg">here</a>. <br><br>
+Find out more information on programme details at: <a target="_blank" href="https://www.ilightsingapore.gov.sg/programmes/gastrobeats/">https://www.ilightsingapore.gov.sg/programmes/gastrobeats/</a>. <br><br>
 
 <b>Location</b><br>
 Bayfront Event Space<br><br>
-
+<b>Date</b><br>
+31 May - 23 June 2024<br><br>
 <b>Timing</b><br>
 4pm – 11pm daily<br><br>
-
+<b>Ticketing</b><br>
+General admission to the Festival Village is free, while charges apply for selected activities.	
 </p>
