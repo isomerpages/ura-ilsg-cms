@@ -5,6 +5,10 @@ description: Explore i Light Singapore Installations
 variant: tiptap
 image: /images/i light singapore (festival map) .jpg
 ---
+<p><strong>Artwork</strong>
+</p>
+<p>Follow us <a href="https://www.instagram.com/ilightsingapore/" rel="noopener noreferrer nofollow" target="_blank">@ilightsingapore</a> for
+sneak peeks of our light art&nbsp;installations</p>
 <p><strong>Dandelion</strong> 
 <br>Amigo and Amigo
 <br><strong>Location:</strong>
