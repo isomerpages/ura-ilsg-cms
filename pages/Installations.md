@@ -90,7 +90,7 @@ Grand Ballroom, Level 1</p>
 Park near Orchid Hotel Singapore</p>
 <p><em>Presented by Discover Tanjong Pagar</em>
 </p>
-<p><em>Supported by City Sprouts and Cantonment Primary School</em><a href="/festival-map" rel="noopener noreferrer nofollow" target="_blank"><br></a>
+<p><em>Supported by City Sprouts and Cantonment Primary School</em>
 </p>
 <p></p>
 <p>_____________________________________________________________________________________________________</p>
