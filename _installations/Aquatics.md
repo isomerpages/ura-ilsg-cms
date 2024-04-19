@@ -1,8 +1,0 @@
----
-title: Aquatics
-permalink: /installations/aquatics/
-description: Discover Aquatics by Philipp Artus (Germany) - i Light Singapore 2023
-variant: tiptap
-image: /images/Installations/RL Images/01062023_pico_colossal_upload_clean_135-min.jpg
----
-<p></p><p></p><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="Aquatics by Philipp Artus" src="/images/Installations/RL%20Images/01062023_pico_colossal_upload_clean_135-min.jpg"></div><p><strong>Aquatics</strong><br>Philipp Artus (Germany)<br><strong>Location:</strong> Under Esplanade Bridge (near Merlion Park)<br><br></p><p><em>Aquatics</em> is an interactive animation depicting sea creatures swimming around and interacting with one another. It explores the emergence of life through abstract shapes and movement.&nbsp; <br><br>Using a tablet, visitors can design their own creatures and add them to the underwater world.&nbsp;&nbsp; <br><br>By witnessing the beauty of animal locomotion in its natural habitat, participants are reminded of the urgent need to preserve biodiversity and ecosystems. <br><br></p><p></p><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="Philipp Artus" src="/images/Installations/2nd%20release/philipp_artus_profile_landsscape_ilsg23.jpg"></div><p><strong>About the Artist</strong><br>Philipp Artus is a multi-disciplinary artist and filmmaker based in Berlin. &nbsp; <br><br>After graduating from the École des Beaux Arts in Nantes/France, he spent two years studying animation, physics and music theory through self-education. He then finished his postgraduate studies at the Academy of Media Arts in Cologne/Germany.</p><p></p>
