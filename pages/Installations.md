@@ -9,36 +9,43 @@ image: /images/i light singapore (festival map) .jpg
 </p>
 <p>Follow us <a href="https://www.instagram.com/ilightsingapore/" rel="noopener noreferrer nofollow" target="_blank">@ilightsingapore</a> for
 sneak peeks of our light art&nbsp;installations</p>
+<p></p><a class="isomer-image-wrapper" href="/installations/dandelion/"><img style="width: 100%" height="auto" width="100%" alt="Dandelion" src="/images/2024 Installations/website_0031_Dandelion_min.jpg"></a>
 <p><strong>Dandelion</strong> 
 <br>Amigo and Amigo
 <br><strong>Location:</strong>
 </p>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="/installations/kinetic-perspective/"><img style="width: 100%" height="auto" width="100%" alt="Kinetic Perspective" src="/images/2024 Installations/website_0029_Kinetic_Perspective_min.jpg"></a>
 <p><strong>Kinetic Perspective</strong> 
 <br>Juan Fuentes Studio (Spain)
 <br><strong>Location: </strong>Marina Bay Sands Event Plaza</p>
 <p><em>Presented by Marina Bay Sands</em>
 </p>
+<p></p><a class="isomer-image-wrapper" href="/installations/pure-ring/"><img style="width: 100%" height="auto" width="100%" alt="Pure Ring" src="/images/2024 Installations/website_0027_Pure_Ring_min.jpg"></a>
 <p><strong>Pure Ring</strong> 
 <br>Xu Dongliang
 <br><strong>Location:</strong>
 </p>
+<p></p><a class="isomer-image-wrapper" href="/installations/spin-me-a-yarn/"><img style="width: 100%" height="auto" width="100%" alt="Spin me a Yarn" src="/images/2024 Installations/website_0025_Spin_me_a_Yarn_min.jpg"></a>
 <p><strong>Spin Me a Yarn</strong> 
 <br>Studio Vertigo (United Kingdom)
 <br><strong>Location: </strong>Mist Walk</p>
+<p></p><a class="isomer-image-wrapper" href="/installations/fish-are-jumping/"><img style="width: 100%" height="auto" width="100%" alt="Fish are Jumping" src="/images/2024 Installations/website_0023_Fish_are_Jumping_min.jpg"></a>
 <p><strong>Fish Are Jumping</strong> 
 <br>Amigo and Amigo
 <br><strong>Location:</strong>
 </p>
+<p></p><a class="isomer-image-wrapper" href="/installations/arc-zero-nimbus/"><img style="width: 100%" height="auto" width="100%" alt="Arc Zero Nimbus" src="/images/2024 Installations/website_0021_Arc_Zero_Nimbus_min.jpg"></a>
 <p><strong>Arc Zero Nimbus</strong> 
 <br>James Tapscott
 <br><strong>Location:</strong>
 </p>
+<p></p><a class="isomer-image-wrapper" href="/installations/liminal-minimal/"><img style="width: 100%" height="auto" width="100%" alt="Liminal; Minimal" src="/images/2024 Installations/website_0019_Liminal_Minimal_min.jpg"></a>
 <p><strong>Liminal; Minimal</strong> 
 <br>Benjamin Lim, Yeo Soon Yii (Singapore) | Singapore University of Technology
 and Design (SUTD)
 <br><strong>Location:</strong> Waterfront promenade in front of Red Dot Design
 Museum</p>
+<p></p>
 <p><strong>BOB the nice world</strong> 
 <br>Amigo and Amigo
 <br><strong>Location:</strong>
