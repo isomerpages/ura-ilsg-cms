@@ -13,7 +13,8 @@ image: /images/i light singapore (festival map) .jpg
 <p><strong>Kinetic Perspective</strong> 
 <br>Juan Fuentes Studio (Spain)
 <br><strong>Location: </strong>Marina Bay Sands Event Plaza</p>
-<p></p>
+<p><em>Presented by Marina Bay Sands</em>
+</p>
 <p><strong>Pure Ring</strong> 
 <br>Xu Dongliang
 <br><strong>Location:</strong>
@@ -54,23 +55,38 @@ Museum</p>
 <br>Heather Noble, Sara Ibrahim, Suz Ibrahim, Ye Sul E. Cho | 65 SQM @ SUSA
 SPACE (United Kingdom)
 <br><strong>Location: </strong>Fountain Plaza, South Beach Avenue Level 1</p>
+<p><em>Presented by South Beach</em>
+</p>
+<p><em>Supported by Illuspace (Thailand) Co. Ltd.</em>
+</p>
 <p><strong>The Lantern</strong> 
 <br>Josephine Pun Tsz Kiu (Hong Kong) | National University of Singapore (NUS)
 <br><strong>Location: </strong>Courtyard between South Beach Tower and The
 Grand Ballroom, Level 1</p>
+<p><em>Presented by AEDAS</em>
+</p>
 <p><strong>Modern Guru and the Path to Artificial Happiness</strong> 
 <br>ENESS (Australia)
 <br><strong>Location: </strong>Millenia Walk (The Great Hall)</p>
+<p><em>Presented by Millenia Walk</em>
+</p>
 <p><strong>Kickit Team Tennis</strong> 
 <br>Limelight (Hungary)
 <br><strong>Location: </strong>Discover Tanjong Pagar Community Green</p>
+<p><em>Presented by Discover Tanjong Pagar</em>
+</p>
 <p><strong>Hidden Garden</strong> 
 <br>Koros Design (Hungary)
 <br><strong>Location: </strong>Tras Link Park</p>
+<p><em>Presented by Discover Tanjong Pagar</em>
+</p>
 <p><strong>BottleBlooms</strong> 
 <br>Yun (Singapore)
 <br><strong>Location: </strong>Tanjong Pagar Park at Guoco Tower, Tras Link
-Park near Orchid Hotel Singapore<a href="/festival-map" rel="noopener noreferrer nofollow" target="_blank"><br></a>
+Park near Orchid Hotel Singapore</p>
+<p><em>Presented by Discover Tanjong Pagar</em>
+</p>
+<p><em>Supported by City Sprouts and Cantonment Primary School</em><a href="/festival-map" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
 <p></p>
 <p>_____________________________________________________________________________________________________</p>
