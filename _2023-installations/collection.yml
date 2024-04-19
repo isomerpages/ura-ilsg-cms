@@ -2,6 +2,7 @@ collections:
   2023-installations:
     output: true
     order:
+      - Bleached.md
       - Aquatics.md
       - Trumpet Flowers.md
       - Resonances.md
