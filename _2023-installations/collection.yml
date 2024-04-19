@@ -1,4 +1,5 @@
 collections:
   2023-installations:
     output: true
-    order: []
+    order:
+      - Glacier Dreams.md
