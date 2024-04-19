@@ -10,10 +10,10 @@ description: Discover Liminal; Minimal by Benjamin Lim and Yeo Soon Yii
 <img style="width: 100%" height="auto" width="100%" alt="Liminal; Minimal by Benjamin Lim and Yeo Soon Yii (Singapore)" src="/images/2024 Installations/website_0019_Liminal_Minimal_min.jpg">
 </div>
 <p><strong>Liminal; Minimal</strong> 
-<br>Benjamin Lim and Yeo Soon Yii (Singapore)
-<br>Singapore University of Technology and Design
+<br>Benjamin Lim, Yeo Soon Yii (Singapore)
+<br>Singapore University of Technology and Design (SUTD)
 <br><strong>Location:</strong> Waterfront promenade in front of Red Dot Design
-Musem</p>
+Museum</p>
 <p>Waste lurks unseen in the built environment — a silent witness to the
 development of a modern city and its excesses. Assembled with wooden beams,
 reclaimed pallets and discarded dust nettings, <em>Liminal; Minimal</em> exposes
