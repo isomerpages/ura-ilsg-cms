@@ -2,6 +2,7 @@ collections:
   2023-installations:
     output: true
     order:
+      - Symphony 1.md
       - Moooooootion.md
       - Blumiwave.md
       - Tree Man.md
