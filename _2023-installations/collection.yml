@@ -2,4 +2,5 @@ collections:
   2023-installations:
     output: true
     order:
+      - Tree Man.md
       - Glacier Dreams.md
