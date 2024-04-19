@@ -2,6 +2,7 @@ collections:
   2023-installations:
     output: true
     order:
+      - Moooooootion.md
       - Blumiwave.md
       - Tree Man.md
       - Glacier Dreams.md
