@@ -45,23 +45,27 @@ sneak peeks of our light art&nbsp;installations</p>
 and Design (SUTD)
 <br><strong>Location:</strong> Waterfront promenade in front of Red Dot Design
 Museum</p>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="/installations/bob-the-nice-world/"><img style="width: 100%" height="auto" width="100%" alt="BOB the nice world" src="/images/2024 Installations/website_0017_BOB_the_nice_world_min.jpg"></a>
 <p><strong>BOB the nice world</strong> 
 <br>Amigo and Amigo
 <br><strong>Location:</strong>
 </p>
+<p></p><a class="isomer-image-wrapper" href="/installations/iwagumi-air-space/"><img style="width: 100%" height="auto" width="100%" alt="Iwagumi Air Space" src="/images/2024 Installations/website_0015_Iwagumi_min.jpg"></a>
 <p><strong>Iwagumi Air Space</strong> 
 <br>Nimrod Weis
 <br><strong>Location:</strong>
 </p>
+<p></p><a class="isomer-image-wrapper" href="/installations/alchemy-of-atmospheres/"><img style="width: 100%" height="auto" width="100%" alt="Alchemy of Atmospheres" src="/images/2024 Installations/website_0013_Alchemy_of_Atmospheres_min.jpg"></a>
 <p><strong>Alchemy of Atmospheres</strong> 
 <br>Janez Groselj
 <br><strong>Location:</strong>
 </p>
+<p></p><a class="isomer-image-wrapper" href="/installations/fountain-of-happiness/"><img style="width: 100%" height="auto" width="100%" alt="Fountain of Happiness" src="/images/2024 Installations/website_0011_Fountain_of_Happiness_min.jpg"></a>
 <p><strong>Fountain of Happiness</strong> 
 <br>27JuneStudio
 <br><strong>Location:</strong>
 </p>
+<p></p><a class="isomer-image-wrapper" href="/installations/lumi/"><img style="width: 100%" height="auto" width="100%" alt="Lumi" src="/images/2024 Installations/website_0009_Lumi_min.jpg"></a>
 <p><strong>Lumi</strong> 
 <br>Heather Noble, Sara Ibrahim, Suz Ibrahim, Ye Sul E. Cho | 65 SQM @ SUSA
 SPACE (United Kingdom)
@@ -70,27 +74,32 @@ SPACE (United Kingdom)
 </p>
 <p><em>Supported by Illuspace (Thailand) Co. Ltd.</em>
 </p>
+<p></p><a class="isomer-image-wrapper" href="/installations/the-lantern/"><img style="width: 100%" height="auto" width="100%" alt="The Lantern" src="/images/2024 Installations/website_0007_The_Lantern_min.jpg"></a>
 <p><strong>The Lantern</strong> 
 <br>Josephine Pun Tsz Kiu (Hong Kong) | National University of Singapore (NUS)
 <br><strong>Location: </strong>Courtyard between South Beach Tower and The
 Grand Ballroom, Level 1</p>
 <p><em>Presented by AEDAS</em>
 </p>
+<p></p><a class="isomer-image-wrapper" href="/installations/modern-guru-and-the-path-to-artificial-happiness/"><img style="width: 100%" height="auto" width="100%" alt="Modern Guru and the Path to Artificial Happiness" src="/images/2024 Installations/website_0006_Modern_Guru_and_the_Path_to_Artificial_Happiness_min.jpg"></a>
 <p><strong>Modern Guru and the Path to Artificial Happiness</strong> 
 <br>ENESS (Australia)
 <br><strong>Location: </strong>Millenia Walk (The Great Hall)</p>
 <p><em>Presented by Millenia Walk</em>
 </p>
+<p></p><a class="isomer-image-wrapper" href="/installations/kickit-team-tennis/"><img style="width: 100%" height="auto" width="100%" alt="Kickit Team Tennis" src="/images/2024 Installations/website_0004_Kickit_Team_Tennis_min.jpg"></a>
 <p><strong>Kickit Team Tennis</strong> 
 <br>Limelight (Hungary)
 <br><strong>Location: </strong>Discover Tanjong Pagar Community Green</p>
 <p><em>Presented by Discover Tanjong Pagar</em>
 </p>
+<p></p><a class="isomer-image-wrapper" href="/installations/hidden-garden/"><img style="width: 100%" height="auto" width="100%" alt="Hidden Garden" src="/images/2024 Installations/website_0002_Hidden_Garden_min.jpg"></a>
 <p><strong>Hidden Garden</strong> 
 <br>Koros Design (Hungary)
 <br><strong>Location: </strong>Tras Link Park</p>
 <p><em>Presented by Discover Tanjong Pagar</em>
 </p>
+<p></p><a class="isomer-image-wrapper" href="/installations/bottleblooms/"><img style="width: 100%" height="auto" width="100%" alt="BottleBlooms" src="/images/2024 Installations/website_0000_BottleBlooms_min.jpg"></a>
 <p><strong>BottleBlooms</strong> 
 <br>Yun (Singapore)
 <br><strong>Location: </strong>Tanjong Pagar Park at Guoco Tower, Tras Link
