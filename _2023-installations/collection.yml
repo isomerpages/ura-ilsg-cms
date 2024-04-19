@@ -2,6 +2,7 @@ collections:
   2023-installations:
     output: true
     order:
+      - Aquatics.md
       - Trumpet Flowers.md
       - Resonances.md
       - Light Anemones.md
