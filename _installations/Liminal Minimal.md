@@ -31,7 +31,6 @@ in the face of rapid urban development.</p>
 </div>
 <p><strong>About the Artist</strong>
 </p>
-<p>Benjamin Lim and Yeo Soon Yii</p>
 <p>Benjamin Lim and Yeo Soon Yii are students from Singapore University of
 Technology and Design’s Architecture and Sustainable Design programme.
 Lim seeks to create tactile and immersive experiences in his work, while
