@@ -8,13 +8,28 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0025_Spin_me_a_Yarn_min.jpg">
 </div>
-<p><strong>Spin Me a Yarn</strong>
-<br>Studio Vertigo
-<br><strong>Location:</strong> 
-</p>
+<p><strong>Spin Me a Yarn</strong> 
+<br>Studio Vertigo (United Kingdom)
+<br><strong>Location: </strong>Mist Walk</p>
+<p><em>Spin Me a Yarn </em>features three oversized yarn balls, each with
+its own long trail that snakes over and around its surrounding environment.</p>
+<p></p>
+<p>The larger-than-life design and impact of its scale is an intentional
+statement. An unusual addition to its surroundings, the artwork’s conspicuousness
+prompts a re-evaluation of the commonplace. With yarn preparation being
+one of the contributors to the fashion industry’s global carbon emissions, <em>Spin Me a Yarn </em>examines
+the unsustainable practices that underpin our modern lifestyles. It serves
+as a reminder of the intricate threads that bind us all and the collective
+responsibility that we bear in shaping the future.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0026_Studio_Vertigo_min.jpg">
 </div>
 <p><strong>About the Artist</strong>
 </p>
+<p>Studio Vertigo is a multidisciplinary design and fabrication studio based
+in the UK, led by artists Lucy McDonnell and Stephen Newby with the help
+of an experienced team of designers, engineers and fabricators. The studio
+has created light installations and sculptures for international exhibitions
+since 2012, including Lumiere Durham, Amsterdam Light Festival, Taiwan
+Lantern Festival and Vivid Sydney.&nbsp;</p>
