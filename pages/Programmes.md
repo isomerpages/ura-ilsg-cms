@@ -10,3 +10,6 @@ variant: tiptap
 <p><strong>GastroBeats</strong>
 </p>
 <p></p>
+<p><strong>Programmes</strong>
+</p>
+<p>Follow us @ilightsingapore for inside scoop of our programmes</p>
