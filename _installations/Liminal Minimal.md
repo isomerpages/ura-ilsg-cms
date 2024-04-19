@@ -29,7 +29,7 @@ in the face of rapid urban development.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0020_Benjamin_and_Soon_Yii_min.jpg">
 </div>
-<p><strong>About the Artist </strong>
+<p><strong>About the Artist</strong>
 </p>
 <p>Benjamin Lim and Yeo Soon Yii</p>
 <p>Benjamin Lim and Yeo Soon Yii are students from Singapore University of
