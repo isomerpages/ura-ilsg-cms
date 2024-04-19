@@ -36,7 +36,7 @@ with one another and with the Earth that sustains us.</p>
 <br>Various locations at Marina Bay (specific locations to be announced in
 May)</p>
 <p></p>
-<p><strong>Date</strong>
+<p><strong>Date</strong> 
 <br>31 May - 2 June 2024
 <br>7 - 9 June 2024
 <br>21 June 2024</p>
