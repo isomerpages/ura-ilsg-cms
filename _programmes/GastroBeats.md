@@ -12,7 +12,7 @@ variant: markdown
 <br><br>
 	This year, <i>GastroBeats</i> will strengthen its sustainability efforts by tapping on solar energy to optimise rechargeable batteries for its light posts, wayfinding signages and powering back-of-house operations. Solar energy will also be used to power air-conditioned “portaloos”, setting a new benchmark for eco-conscious event amenities. To encourage visitors to put into practice green habits, <i>GastroBeats</i> strongly encourages visitors to bring their own cup/flask/tupperware to reduce waste. Eco-friendly food packaging and utensils will be used and no plastic straws will be provided.<br><br>
 
-Find out more information on programme details at: <a target="_blank" href="https://www.ilightsingapore.gov.sg/programmes/gastrobeats/">https://www.ilightsingapore.gov.sg/programmes/gastrobeats/</a>. <br><br>
+Find out more information on programme details at: <a target="_blank" href="https://gastrobeats.com.sg/">https://gastrobeats.com.sg/</a>. <br><br>
 
 <b>Location</b><br>
 Bayfront Event Space<br>
