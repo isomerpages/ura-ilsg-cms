@@ -15,9 +15,9 @@ variant: markdown
 Find out more information on programme details at: <a target="_blank" href="https://www.ilightsingapore.gov.sg/programmes/gastrobeats/">https://www.ilightsingapore.gov.sg/programmes/gastrobeats/</a>. <br><br>
 
 <b>Location</b><br>
-Bayfront Event Space<br><br>
+Bayfront Event Space<br>
 <b>Date</b><br>
-31 May - 23 June 2024<br><br>
+31 May - 23 June 2024<br>
 <b>Timing</b><br>
 4pm – 11pm daily<br><br>
 <b>Ticketing</b><br>
