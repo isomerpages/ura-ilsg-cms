@@ -3,7 +3,7 @@ links:
   - title: About
     collection: about
   - title: Installations
-    url: /installations/dandelion/
+    url: /installations/
     sublinks:
       - title: Dandelion
         url: /installations/dandelion/
