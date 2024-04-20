@@ -21,7 +21,7 @@ and remould the artwork in a shared act of co-creation. The repurposing
 of ordinary objects, such as yoga balls, demonstrates the transformative
 potential inherent in the mundane. Join in — to play, or to rest.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0010_65SQMxSUSA_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Artist-Ye Sul E. Cho, Sara Ibrahim, Suz Ibrahim, Heather Noble" src="/images/2024 Installations/website_0010_65SQMxSUSA_min.jpg">
 </div>
 <p><strong>About the Artist</strong>
 </p>
@@ -48,13 +48,12 @@ and cultural research to shape new and innovative spaces.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="South Beach Logo" src="/images/South_Beach_version.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://southbeachavenue.com/"><img style="width: 100%" height="auto" width="100%" alt="South Beach Logo" src="/images/South_Beach_version.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Illuspace (Thailand) Co. Ltd.</em>
+<p><em>Lighting support by SEAM Design (UK)</em>
+</p>
+<p><em>Technical programming by Illuspace (Thailand) Co. Ltd.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
