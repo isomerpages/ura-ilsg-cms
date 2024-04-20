@@ -13,7 +13,6 @@ description: ""
 <br><strong>Location: </strong>Mist Walk</p>
 <p><em>Spin Me a Yarn </em>features three oversized yarn balls, each with
 its own long trail that loops over and around its surrounding environment.</p>
-<p></p>
 <p>With its larger-than-life design and conspicuous scale, the artwork is
 an unusual addition to its surroundings that intentionally prompts a re-evaluation
 of the commonplace. With yarn preparation being one of the contributors
