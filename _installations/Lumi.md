@@ -50,7 +50,7 @@ and cultural research to shape new and innovative spaces.</p>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://southbeachavenue.com/"><img style="width: 100%" height="auto" width="100%" alt="South Beach Logo" src="/images/South_Beach_version.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Lighting support by SEAM Design (UK)</em>
+<p><em>Lighting support by SEAM Design (UK)</em> 
 <br><em>Technical programming by Illuspace (Thailand) Co. Ltd.</em>
 </p>
 </td>
