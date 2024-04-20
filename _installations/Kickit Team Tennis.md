@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0004_Kickit_Team_Tennis_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Installation-Kickit Team Tennis" src="/images/2024 Installations/website_0004_Kickit_Team_Tennis_min.jpg">
 </div>
 <p><strong>Kickit Team Tennis</strong> 
 <br>Limelight (Hungary)
@@ -20,7 +20,7 @@ solo sport for teamplay in a public space, this installation encourages
 visitors to interact and collaborate with strangers — a call to find common
 ground and unity through friendly competition and play.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0005_LIMELIGHT_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Artist-LIMELIGHT" src="/images/2024 Installations/website_0005_LIMELIGHT_min.jpg">
 </div>
 <p><strong>About the Artist</strong>
 </p>
