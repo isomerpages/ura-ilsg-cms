@@ -8,9 +8,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0015_Iwagumi_min.jpg">
 </div>
-<p><strong>Iwagumi Air Space</strong>
+<p><strong>Iwagumi Air Scape</strong>
 <br>Nimrod Weis
-<br><strong>Location:</strong> 
+<br><strong>Location:</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
