@@ -124,7 +124,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/mbs_resized%20web%20version.png">
 </div>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://www.uobgroup.com"><img style="width: 100%" height="auto" width="100%" alt="UOB Logo" src="/images/UOB_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="www.uobgroup.com"><img style="width: 100%" height="auto" width="100%" alt="UOB Logo" src="/images/2024 Sponsor's Logo /UOB_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -145,7 +145,8 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://aedas.com"><img style="width: 100%" height="auto" width="100%" alt="Aedas" src="/images/Aedas_version.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.milleniawalk.com/"><img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/millenia%20walk_resized%20web%20version.png"></a>
 </td>
@@ -166,7 +167,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.discovertanjongpagar.sg/"><img style="width: 100%" height="auto" width="100%" alt="Discover Tanjong Pagar Logo" src="/images/Discover_Tanjong_Pager.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.discovertanjongpagar.sg/"><img style="width: 100%" height="auto" width="100%" alt="Discover Tanjong Pagar Logo" src="/images/2024 Sponsor's Logo /Discover_Tanjong_Pager.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -197,12 +198,9 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.unravelcarbon.com/"><img style="width: 100%" height="auto" width="100%" alt="Unravel Carbon Logo" src="/images/Unravel_Carbon__1_.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.unravelcarbon.com/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Sponsor's Logo /Unravel_Carbon__1_.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/space.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.discovertanjongpagar.sg/"><img style="width: 100%" height="auto" width="100%" alt="Unravel Carbon Logo" src="/images/space.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
