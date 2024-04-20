@@ -12,12 +12,12 @@ description: ""
 <br>Studio Vertigo (United Kingdom)
 <br><strong>Location: </strong>Mist Walk</p>
 <p><em>Spin Me a Yarn </em>features three oversized yarn balls, each with
-its own long trail that snakes over and around its surrounding environment.</p>
+its own long trail that loops over and around its surrounding environment.</p>
 <p></p>
-<p>The larger-than-life design and impact of its scale is an intentional
-statement. An unusual addition to its surroundings, the artwork’s conspicuousness
-prompts a re-evaluation of the commonplace. With yarn preparation being
-one of the contributors to the fashion industry’s global carbon emissions, <em>Spin Me a Yarn </em>examines
+<p>With its larger-than-life design and conspicuous scale, the artwork is
+an unusual addition to its surroundings that intentionally prompts a re-evaluation
+of the commonplace. With yarn preparation being one of the contributors
+to the fashion industry’s global carbon emissions, <em>Spin Me a Yarn </em>examines
 the unsustainable practices that underpin our modern lifestyles. It serves
 as a reminder of the intricate threads that bind us all and the collective
 responsibility that we bear in shaping the future.</p>
