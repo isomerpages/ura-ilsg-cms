@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0000_BottleBlooms_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Installation-BottleBlooms" src="/images/2024 Installations/website_0000_BottleBlooms_min.jpg">
 </div>
 <p><strong>BottleBlooms</strong> 
 <br>Yun (Singapore)
@@ -18,13 +18,13 @@ terephthalate (PET) bottles through a public collection drive by Discover
 Tanjong Pagar, Cantonment Primary School and City Sprouts, a social enterprise
 with an aim to rejuvenate urban spaces.</p>
 <p>The artwork provokes a re-evaluation of the things that are often thrown
-away mindlessly. A reminder of the transformative potential inherent in
-our discarded materials, <em>BottleBlooms</em> urges us to think about the
-life cycle of materials and encourages a more thorough incorporation of
-plastics into the circular economy via PET recycling.</p>
+away mindlessly and is a reminder of the transformative potential inherent
+in our discarded materials. <em>BottleBlooms</em> urges us to think about
+the life cycle of materials and encourages a more thorough incorporation
+of plastics into the circular economy via PET recycling.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0001_Yun_Qin_Lee_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Artist-Yun" src="/images/2024 Installations/website_0001_Yun_Qin_Lee_min.jpg">
 </div>
 <p><strong>About the Artist</strong>
 </p>
@@ -49,10 +49,7 @@ and deeply memorable experiences for people through her art and design.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Discover Tanjong Pagar Logo" src="/images/Discover_Tanjong_Pager.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.discovertanjongpagar.sg/"><img style="width: 100%" height="auto" width="100%" alt="Discover Tanjong Pagar Logo" src="/images/Discover_Tanjong_Pager.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>City Sprouts and Cantonment Primary School</em>
