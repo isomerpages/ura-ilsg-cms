@@ -119,10 +119,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/alibaba%20cloud_resized%20web%20version.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/mbs_resized%20web%20version.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.fullertonhotels.com/"><img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/mbs_resized%20web%20version.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
