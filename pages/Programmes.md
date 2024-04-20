@@ -9,14 +9,11 @@ variant: tiptap
 <p>Follow us <a href="https://www.instagram.com/ilightsingapore/" rel="noopener noreferrer nofollow" target="_blank">@ilightsingapore</a> for
 inside scoop of our programmes</p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GastroBeats" src="/images/2024 Programmes/GastroBeats.jpg">
-</div>
-<p><strong> GastroBeats</strong>
+<p></p><a class="isomer-image-wrapper" href="/programmes/gastrobeats/"><img style="width: 100%" height="auto" width="100%" alt="GastroBeats" src="/images/2024 Programmes/GastroBeats.jpg"></a>
+<p><a href="/programmes/gastrobeats/" rel="noopener noreferrer nofollow" target="_blank">GastroBeats</a>
 </p>
 <p></p>
-<p><strong>The Conscious Festival</strong>​<strong> x</strong>  <strong>i Light Singapore </strong>
+<p><a href="/programmes/theconsciousfestivalxilsg/" rel="noopener noreferrer nofollow" target="_blank">The Conscious Festival x i Light Singapore</a><strong> </strong>
 <br>
 </p>
 <p></p>
