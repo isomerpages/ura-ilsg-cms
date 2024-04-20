@@ -4,8 +4,6 @@ permalink: /programmes/i-light-singapore-x-the-conscious-festival/
 variant: tiptap
 description: ""
 ---
-<p><strong><a href="https://www.theconsciousfestival.com/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
-</p>
 <p></p>
 <p>Embark on a journey of transformation at <em>The Conscious Festival x i Light Singapore</em>,
 a vibrant convergence of wellness, technology, leadership and eco-consciousness
@@ -29,12 +27,12 @@ is not just a theme — it is a way of life. Immerse yourself in seven days
 of activities devoted to sustainability and rediscover our intrinsic connections
 with one another and with the Earth that sustains us.</p>
 <p></p>
-<p>To find out more information on programme details, please visit: <a href="https://www.ilightsingapore.gov.sg/programmes/theconsciousfestivalxiLSG/" rel="noopener noreferrer nofollow" target="_blank">https://www.ilightsingapore.gov.sg/programmes/theconsciousfestivalxiLSG/</a>
+<p>To find out more information on programme details, please visit:
+<br><a href="https://www.theconsciousfestival.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.theconsciousfestival.com/</a>
 </p>
-<p></p>
 <p><strong>Location</strong> 
-<br>Various locations at Marina Bay (specific locations to be announced in
-May)</p>
+<br>Various locations at Marina Bay (details on specific activities and locations
+to be announced in May 2024)</p>
 <p></p>
 <p><strong>Date</strong> 
 <br>31 May - 2 June 2024
