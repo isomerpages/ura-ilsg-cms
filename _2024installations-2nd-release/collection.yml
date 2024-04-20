@@ -2,5 +2,6 @@ collections:
   2024installations-2nd-release:
     output: true
     order:
+      - Fish Are Jumping.md
       - Pure Ring.md
       - Dandelion.md
