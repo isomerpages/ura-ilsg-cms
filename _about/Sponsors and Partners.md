@@ -12,10 +12,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/ura_resized%20web%20version.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ura.gov.sg/corporate"><img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/ura_resized%20web%20version.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -46,10 +43,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/pico_resized%20web%20version.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.pico.com/en/"><img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/pico_resized%20web%20version.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -110,10 +104,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.alibabacloud.com/en"><img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/alibaba%20cloud_resized%20web%20version.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/mbs_resized%20web%20version.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.marinabaysands.com"><img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/mbs_resized%20web%20version.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="www.uobgroup.com"><img style="width: 100%" height="auto" width="100%" alt="UOB Logo" src="/images/2024 Sponsor's Logo /UOB_Logo.png"></a>
 </td>
