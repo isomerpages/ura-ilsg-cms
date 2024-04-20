@@ -48,10 +48,7 @@ in the world.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Marina Bay Sands Logo" src="/images/About/Sponsor Acknowledgement/mbs_resized web version.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.marinabaysands.com/"><img style="width: 100%" height="auto" width="100%" alt="Marina Bay Sands Logo" src="/images/About/Sponsor Acknowledgement/mbs_resized web version.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
