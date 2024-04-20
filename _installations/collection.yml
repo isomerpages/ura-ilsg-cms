@@ -2,7 +2,6 @@ collections:
   installations:
     output: true
     order:
-      - Dandelion.md
       - Kinetic Perspective.md
       - Pure Ring.md
       - Spin Me a Yarn.md
