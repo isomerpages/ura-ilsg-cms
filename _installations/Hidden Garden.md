@@ -48,7 +48,7 @@ experiment with inflated lightweight fabric and digitally generated design.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.discovertanjongpagar.sg/"><img style="width: 100%" height="auto" width="100%" alt="Discover Tanjong Pagar Logo" src="/images/Discover_Tanjong_Pager.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.discovertanjongpagar.sg/"><img style="width: 100%" height="auto" width="100%" alt="Discover Tanjong Pagar Logo" src="/images/2024 Sponsor's Logo /Discover_Tanjong_Pager.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
