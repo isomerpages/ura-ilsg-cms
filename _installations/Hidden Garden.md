@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0002_Hidden_Garden_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Installation-Hidden Garden" src="/images/2024 Installations/website_0002_Hidden_Garden_min.jpg">
 </div>
 <p><strong>Hidden Garden</strong> 
 <br>Koros Design (Hungary)
@@ -14,13 +14,14 @@ description: ""
 <p><em>Hidden Garden </em>illustrates the co-existence of nature with the
 urban environment, much like blades of grass bursting forth through concrete
 — its tenacious growth a sign of its enduring vitality and pursuit of harmony.</p>
-<p>Resplendent inflatable flowers cling to the trunks of trees, akin to living
-organisms, transforming the concrete jungle. Here, the man-made and natural
-are intertwined in symbiosis and forge a harmonious co-existence, with
-each lending support to and enhancing the other. The radiant display of
-colours is both a tribute to and jubilant celebration of biodiversity.</p>
+<p>The artwork presents resplendent inflatable flowers cling to the trunks
+of trees, akin to living organisms, transforming the concrete jungle. Here,
+the man-made and natural are intertwined in symbiosis and forge a harmonious
+co-existence, with each lending support to and enhancing the other. The
+radiant display of colours is both a tribute to and jubilant celebration
+of biodiversity.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0003_Korosdesign_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Artist-Koros Design" src="/images/2024 Installations/website_0003_Korosdesign_min.jpg">
 </div>
 <p><strong>About the Artist</strong>
 </p>
@@ -47,10 +48,7 @@ experiment with inflated lightweight fabric and digitally generated design.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Discover Tanjong Pagar Logo" src="/images/Discover_Tanjong_Pager.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.discovertanjongpagar.sg/"><img style="width: 100%" height="auto" width="100%" alt="Discover Tanjong Pagar Logo" src="/images/Discover_Tanjong_Pager.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
