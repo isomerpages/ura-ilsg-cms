@@ -30,14 +30,14 @@ provided.
 <br>
 <br>
 </p>
-<p><strong>Location</strong>
+<p><strong>Location</strong> 
 <br>Bayfront Event Space
-<br><strong>Date</strong>
+<br><strong>Date</strong> 
 <br>31 May - 23 June 2024
-<br><strong>Timing</strong>
+<br><strong>Timing</strong> 
 <br>4pm – 11pm daily
 <br>
-<br><strong>Ticketing</strong>
+<br><strong>Ticketing</strong> 
 <br>General admission to the Festival Village is free, while charges apply
 for selected activities.</p>
 <p></p>
