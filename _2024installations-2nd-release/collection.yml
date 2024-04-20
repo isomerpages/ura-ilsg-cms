@@ -2,6 +2,7 @@ collections:
   2024installations-2nd-release:
     output: true
     order:
+      - Alchemy of Atmospheres.md
       - BOB the nice world.md
       - "Arc ZERO: Nimbus.md"
       - Fish Are Jumping.md
