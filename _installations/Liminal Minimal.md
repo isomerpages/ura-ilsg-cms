@@ -19,7 +19,6 @@ development of a modern city and its excesses. Assembled with wooden beams,
 reclaimed pallets and discarded dust nettings, <em>Liminal; Minimal</em> exposes
 the hidden wastefulness of urban construction by framing the surrounding
 cityscape with remnants from building sites.</p>
-<p></p>
 <p>In the relentless pursuit of urban densification, Singapore finds itself
 at a crossroads. <em>Liminal; Minimal</em> is an interrogation of our intricate
 entanglement with waste. The artwork forces a confrontation with the transient
