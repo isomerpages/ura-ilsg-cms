@@ -1,4 +1,5 @@
 collections:
   2023-programmes:
     output: true
-    order: []
+    order:
+      - Rediscover Marina Bay Walking Tour.md
