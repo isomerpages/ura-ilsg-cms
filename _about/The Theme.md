@@ -6,7 +6,10 @@ variant: tiptap
 image: /images/kvherobanner1920x720j.jpg
 ---
 <h3></h3>
-<h3>Cyclical Nature </h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Key Visual" src="/images/Keyvisual_website.jpg">
+</div>
+<h3>Cyclical Nature</h3>
 <p>Light is a wave, radiating in all directions. It transmits diverse energy
 and momentum which in turn, determines how we see space. Yet, light is
 also a language – a system of communication, resulting in a spectrum of
