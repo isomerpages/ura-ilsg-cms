@@ -124,10 +124,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/mbs_resized%20web%20version.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="UOB Logo" src="/images/UOB_Logo.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://www.uobgroup.com"><img style="width: 100%" height="auto" width="100%" alt="UOB Logo" src="/images/UOB_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -169,10 +166,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Discover Tanjong Pagar Logo" src="/images/Discover_Tanjong_Pager.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.discovertanjongpagar.sg/"><img style="width: 100%" height="auto" width="100%" alt="Discover Tanjong Pagar Logo" src="/images/Discover_Tanjong_Pager.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -203,10 +197,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Unravel Carbon Logo" src="/images/Unravel_Carbon__1_.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.unravelcarbon.com/"><img style="width: 100%" height="auto" width="100%" alt="Unravel Carbon Logo" src="/images/Unravel_Carbon__1_.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
