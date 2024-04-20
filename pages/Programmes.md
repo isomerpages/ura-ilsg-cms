@@ -4,10 +4,7 @@ permalink: /programmes/
 description: Explore i Light Singapore Programmes
 variant: tiptap
 ---
-<p><strong>Programmes</strong>
-</p>
-<p>Follow us <a href="https://www.instagram.com/ilightsingapore/" rel="noopener noreferrer nofollow" target="_blank">@ilightsingapore</a> for
-inside scoop of our programmes</p>
+<h4>Follow us <a href="https://www.instagram.com/ilightsingapore/" rel="noopener noreferrer nofollow" target="_blank">@ilightsingapore</a> for inside scoop of our programmes.</h4>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/programmes/gastrobeats/"><img style="width: 100%" height="auto" width="100%" alt="GastroBeats" src="/images/2024 Programmes/GastroBeats.jpg"></a>
 <p><a href="/programmes/gastrobeats/" rel="noopener noreferrer nofollow" target="_blank">GastroBeats</a>
