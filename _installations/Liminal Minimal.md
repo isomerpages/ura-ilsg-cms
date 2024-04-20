@@ -7,7 +7,7 @@ description: Discover Liminal; Minimal by Benjamin Lim and Yeo Soon Yii
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Liminal; Minimal by Benjamin Lim and Yeo Soon Yii (Singapore)" src="/images/2024 Installations/website_0019_Liminal_Minimal_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Installation-Liminal; Minimal" src="/images/2024 Installations/website_0019_Liminal_Minimal_min.jpg">
 </div>
 <p><strong>Liminal; Minimal</strong> 
 <br>Benjamin Lim, Yeo Soon Yii (Singapore) | Singapore University of Technology
@@ -27,7 +27,7 @@ nature of our built environment and represents an insistent call for sustainable
 practices in the face of rapid urban development.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0020_Benjamin_and_Soon_Yii_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Artist-by Benjamin Lim and Yeo Soon Yii" src="/images/2024 Installations/website_0020_Benjamin_and_Soon_Yii_min.jpg">
 </div>
 <p><strong>About the Artist</strong>
 </p>
