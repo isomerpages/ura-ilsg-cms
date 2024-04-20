@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0007_The_Lantern_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Installation-The Lantern" src="/images/2024 Installations/website_0007_The_Lantern_min.jpg">
 </div>
 <p><strong>The Lantern</strong> 
 <br>Josephine Pun Tsz Kiu (Hong Kong) | National University of Singapore (NUS)
@@ -25,7 +25,7 @@ of these upcycled materials, <em>The Lantern</em> is also a symbol of renewal
 and a call for bolder, innovative design approaches to shape a more sustainable
 future.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0008_Josephine_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Artist-Josephine Pun Tsz Kiu" src="/images/2024 Installations/website_0008_Josephine_min.jpg">
 </div>
 <p><strong>About the Artist</strong>
 </p>
@@ -44,22 +44,18 @@ impact on the community and foster meaningful encounters and relationships.</p>
 <p>Presented by</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Supported by</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Aedas" src="/images/Aedas_version.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="aedas.com"><img style="width: 100%" height="auto" width="100%" alt="Aedas Logo" src="/images/Aedas_version.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/space.png">
-</div>
+<p><em>M Social Singapore and Studio M Hotel Singapore.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
