@@ -20,7 +20,7 @@ solo sport for teamplay in a public space, this installation encourages
 visitors to interact and collaborate with strangers — a call to find common
 ground and unity through friendly competition and play.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Artist-LIMELIGHT" src="/images/2024 Installations/website_0005_LIMELIGHT_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Artist-Limelight" src="/images/2024 Installations/website_0005_LIMELIGHT_min.jpg">
 </div>
 <p><strong>About the Artist</strong>
 </p>
@@ -50,10 +50,7 @@ Academy programme.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Discover Tanjong Pagar Logo" src="/images/Discover_Tanjong_Pager.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.discovertanjongpagar.sg/"><img style="width: 100%" height="auto" width="100%" alt="Discover Tanjong Pagar Logo" src="/images/Discover_Tanjong_Pager.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
