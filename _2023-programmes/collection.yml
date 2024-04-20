@@ -2,6 +2,7 @@ collections:
   2023-programmes:
     output: true
     order:
+      - i Light Forum.md
       - Guided Walking Tour.md
       - "Lightwave: Turning the Tide.md"
       - Light Wash.md
