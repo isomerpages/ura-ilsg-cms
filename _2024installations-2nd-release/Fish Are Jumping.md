@@ -9,7 +9,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Installation- Fish are Jumping" src="/images/2024 Installations/website_0023_Fish_are_Jumping_min.jpg">
 </div>
 <p><strong>Fish Are Jumping</strong> 
-<br>Studio Toer
+<br>Studio Toer (The Netherlands)
 <br><strong>Location:</strong>
 </p>
 <div class="isomer-image-wrapper">
