@@ -9,7 +9,7 @@ description: Discover Dandelion by Amigo and Amigo (Singapore) - i Light Singapo
 <img style="width: 100%" height="auto" width="100%" alt="Installation- Dandelion" src="/images/2024 Installations/website_0031_Dandelion_min.jpg">
 </div>
 <p><strong>Dandelion</strong> 
-<br>Amigo &amp; Amigo and Otis</p>
+<br>Amigo &amp; Amigo and Otis (Australia)</p>
 <p>
 <br><strong>Location:</strong> 
 <br>
