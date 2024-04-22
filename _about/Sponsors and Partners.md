@@ -132,9 +132,6 @@ variant: tiptap
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.milleniawalk.com/"><img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/millenia%20walk_resized%20web%20version.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://southbeachavenue.com/"><img style="width: 100%" height="auto" width="100%" alt="South Beach Logo" src="/images/2024 Sponsor's Logo /South_Beach_version.png"></a>
-<a class="isomer-image-wrapper" href="https://southbeachavenue.com/">
-<img style="width: 100%" height="auto" width="100%" alt="South Beach Logo" src="/images/South_Beach_version.png">
-</a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.fullertonhotels.com/"><img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/the%20fullerton%20heritage_resized%20web%20version.png"></a>
 </td>
