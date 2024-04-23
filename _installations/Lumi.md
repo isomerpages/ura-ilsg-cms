@@ -12,8 +12,8 @@ description: ""
 <br>Ye Sul E. Cho, Sara Ibrahim, Suz Ibrahim, Heather Noble
 <br>65 SQM @ SUSA SPACE (United Kingdom)
 <br><strong>Location: </strong>Fountain Plaza, South Beach Avenue Level 1</p>
-<p>Paying homage to Singapore’s maritime heritage, <em>Lumi </em>embodies
-the fluidity of meandering river paths and its state of perpetual flux.</p>
+<p>Paying homage to Singapore’s maritime heritage, Lumi embodies the fluidity
+of meandering river paths and its state of perpetual flux.</p>
 <p>This interactive installation invites play, connection and reflection
 within the bustling urban landscape. Tactile and immersive, it implores
 visitors to engage with one another and in the process, mould and remould
@@ -40,7 +40,7 @@ and cultural research to shape new and innovative spaces.</p>
 <p>Presented by</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Supported by</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -50,13 +50,30 @@ and cultural research to shape new and innovative spaces.</p>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://southbeachavenue.com/"><img style="width: 100%" height="auto" width="100%" alt="South Beach Logo" src="/images/2024 Sponsor's Logo /South_Beach_version.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>SEAM Design and</em>  <em>Illuspace (Thailand) Co. Ltd.</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/space.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Supported by</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><em>SEAM Design and</em>  <em>Illuspace (Thailand) Co. Ltd.</em>
+</p>
 </td>
 </tr>
 </tbody>
