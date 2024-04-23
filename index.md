@@ -23,4 +23,12 @@ sections:
       url: /programmes/gastrobeats/
       image: /images/2024 Programmes/GastroBeats.jpg
       alt: Image alt text
+  - infopic:
+      title: The Conscious Festival x i Light Singapore
+      subtitle: Add an image and text
+      id: infopic
+      button: "Find out more "
+      url: /programmes/theconsciousfestivalxilsg/
+      image: /images/2024 Programmes/TCFxiLSG.jpg
+      alt: Image alt text
 ---
