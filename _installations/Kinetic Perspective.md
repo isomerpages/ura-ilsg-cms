@@ -10,7 +10,7 @@ description: ""
 </div>
 <p><strong>Kinetic Perspective</strong> 
 <br>Juan Fuentes Studio (Spain)
-<br><strong>Location: </strong>Marina Bay Sands, Event Plaza</p>
+<br><strong>Location: </strong>Marina Bay Sands Event Plaza</p>
 <p><em>Kinetic Perspective</em> is an immersive abstract geometric experience
 inspired by the Optical Art Movement of the 1960s that uses optical illusions.</p>
 <p>The circles within the installation are in perpetual motion, spinning
