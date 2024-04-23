@@ -14,6 +14,18 @@ Park near Orchid Hotel Singapore
 <br><em>Presented by Discover Tanjong Pagar</em> 
 <br><em>Supported by City Sprouts and Cantonment Primary School</em>
 </p>
+<p></p><a class="isomer-image-wrapper" href="/installations/hidden-garden/"><img style="width: 100%" height="auto" width="100%" alt="Hidden Garden" src="/images/2024 Installations/website_0002_Hidden_Garden_min.jpg"></a>
+<p><strong>Hidden Garden</strong> 
+<br>Koros Design (Hungary)
+<br><strong>Location: </strong>Tras Link Park
+<br><em>Presented by Discover Tanjong Pagar</em>
+</p>
+<p></p><a class="isomer-image-wrapper" href="/installations/kickit-team-tennis/"><img style="width: 100%" height="auto" width="100%" alt="Kickit Team Tennis" src="/images/2024 Installations/website_0004_Kickit_Team_Tennis_min.jpg"></a>
+<p><strong>Kickit Team Tennis</strong> 
+<br>Limelight (Hungary)
+<br><strong>Location: </strong>Discover Tanjong Pagar Community Green
+<br><em>Presented by Discover Tanjong Pagar</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Kinetic Perspective" src="/images/2024 Installations/website_0029_Kinetic_Perspective_min.jpg">
@@ -22,12 +34,6 @@ Park near Orchid Hotel Singapore
 <br>Juan Fuentes Studio (Spain)
 <br><strong>Location: </strong>Marina Bay Sands Event Plaza
 <br><em>Presented by Marina Bay Sands</em>
-</p>
-<p></p><a class="isomer-image-wrapper" href="/installations/kickit-team-tennis/"><img style="width: 100%" height="auto" width="100%" alt="Kickit Team Tennis" src="/images/2024 Installations/website_0004_Kickit_Team_Tennis_min.jpg"></a>
-<p><strong>Kickit Team Tennis</strong> 
-<br>Limelight (Hungary)
-<br><strong>Location: </strong>Discover Tanjong Pagar Community Green
-<br><em>Presented by Discover Tanjong Pagar</em>
 </p>
 <p></p><a class="isomer-image-wrapper" href="/installations/liminal-minimal/"><img style="width: 100%" height="auto" width="100%" alt="Liminal; Minimal" src="/images/2024 Installations/website_0019_Liminal_Minimal_min.jpg"></a>
 <p><strong>Liminal; Minimal</strong> 
@@ -42,12 +48,6 @@ Museum</p>
 <br><strong>Location: </strong>Fountain Plaza, South Beach Avenue Level 1
 <br><em>Presented by South Beach</em> 
 <br><em>Supported by SEAM Design and Illuspace (Thailand) Co. Ltd.</em>
-</p>
-<p></p><a class="isomer-image-wrapper" href="/installations/hidden-garden/"><img style="width: 100%" height="auto" width="100%" alt="Hidden Garden" src="/images/2024 Installations/website_0002_Hidden_Garden_min.jpg"></a>
-<p><strong>Hidden Garden</strong> 
-<br>Koros Design (Hungary)
-<br><strong>Location: </strong>Tras Link Park
-<br><em>Presented by Discover Tanjong Pagar</em>
 </p>
 <p></p><a class="isomer-image-wrapper" href="/installations/modern-guru-and-the-path-to-artificial-happiness/"><img style="width: 100%" height="auto" width="100%" alt="Modern Guru and the Path to Artificial Happiness" src="/images/2024 Installations/website_0006_Modern_Guru_and_the_Path_to_Artificial_Happiness_min.jpg"></a>
 <p><strong>Modern Guru and the Path to Artificial Happiness</strong> 
