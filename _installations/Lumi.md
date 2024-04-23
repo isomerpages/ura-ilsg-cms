@@ -50,7 +50,7 @@ and cultural research to shape new and innovative spaces.</p>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://southbeachavenue.com/"><img style="width: 100%" height="auto" width="100%" alt="South Beach Logo" src="/images/2024 Sponsor's Logo /South_Beach_version.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>SEAM Design and</em>  <em> Illuspace (Thailand) Co. Ltd.</em>
+<p><em>SEAM Design and</em>  <em>Illuspace (Thailand) Co. Ltd.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
