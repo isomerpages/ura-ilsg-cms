@@ -25,3 +25,9 @@ responsibility that we bear in shaping the future.</p>
 </div>
 <p><strong>About the Artist</strong>
 </p>
+<p>Studio Vertigo is a multi-disciplinary design and fabrication studio based
+in the UK, led by artists Lucy McDonnell and Stephen Newby with the help
+of an experienced team of designers, engineers and fabricators. The studio
+has created light installations and sculptures for international exhibitions
+since 2012, including Lumiere Durham, Amsterdam Light Festival, Taiwan
+Lantern Festival and Vivid Sydney.</p>
