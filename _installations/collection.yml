@@ -2,12 +2,12 @@ collections:
   installations:
     output: true
     order:
+      - BottleBlooms.md
       - Kinetic Perspective.md
-      - Spin Me a Yarn.md
+      - Kickit Team Tennis.md
       - Liminal Minimal.md
       - Lumi.md
-      - The Lantern.md
-      - Modern Guru and the Path to Artificial Happiness.md
-      - Kickit Team Tennis.md
       - Hidden Garden.md
-      - BottleBlooms.md
+      - Modern Guru and the Path to Artificial Happiness.md
+      - Spin Me a Yarn.md
+      - The Lantern.md
