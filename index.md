@@ -20,7 +20,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: The Conscious Festival x i Light Singapore
-      subtitle: Add an image and text
       id: infopic
       button: Find out more
       url: /programmes/theconsciousfestivalxilsg/
