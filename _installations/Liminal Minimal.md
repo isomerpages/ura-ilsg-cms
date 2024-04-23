@@ -16,11 +16,11 @@ description: Discover Liminal; Minimal by Benjamin Lim and Yeo Soon Yii
 Museum</p>
 <p>Waste lurks unseen in the built environment — a silent witness to the
 development of a modern city and its excesses. Assembled with wooden beams,
-reclaimed pallets and discarded dust nettings, <em>Liminal; Minimal</em> exposes
+reclaimed pallets and discarded dust nettings, Liminal; Minimal exposes
 the hidden wastefulness of urban construction by framing the surrounding
 cityscape with remnants from building sites.</p>
 <p>In the relentless pursuit of urban densification, Singapore finds itself
-at a crossroads. <em>Liminal; Minimal</em> is an interrogation of our intricate
+at a crossroads. Liminal; Minimal is an interrogation of our intricate
 entanglement with waste. The artwork forces a confrontation with the transient
 nature of our built environment and represents an insistent call for sustainable
 practices in the face of rapid urban development.</p>
