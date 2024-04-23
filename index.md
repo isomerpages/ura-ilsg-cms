@@ -16,4 +16,11 @@ sections:
       id: infopic
       image: /images/202403_iIight_Singapore__16_9_SPONSOR_LOGOS__V3.jpg
       alt: Sponsors Acknowledgement
+  - infopic:
+      title: GastroBeats
+      id: infopic
+      button: "Find out more "
+      url: /programmes/gastrobeats/
+      image: /images/2024 Programmes/GastroBeats.jpg
+      alt: Image alt text
 ---
