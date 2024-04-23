@@ -25,14 +25,13 @@ inherent in the mundane. Join in — to play, or to rest.</p>
 </div>
 <p><strong>About the Artist</strong>
 </p>
-<p>65 SQM @SUSA SPACE, is a women-led collective focused on architecture,
+<p>65 SQM @ SUSA SPACE, is a women-led collective focused on architecture,
 design and research. The studio places sustainability at its core, emphasising
 the reuse of materials. Driven by the principle of 'design by making’,
 the practice seeks to free material from its form and form from its tradition.
 Through innovative design methodologies and early fabrication process,
 the studio’s goal is to reconstitute parts of traditional construction
 and cultural research to shape new and innovative spaces.</p>
-<p></p>
 <table>
 <tbody>
 <tr>
