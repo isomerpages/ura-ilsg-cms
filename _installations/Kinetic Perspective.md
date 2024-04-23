@@ -38,7 +38,7 @@ in the world.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Presented By</p>
+<p>Presented by</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
