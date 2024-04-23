@@ -37,6 +37,7 @@ from the wonders of nature. With the belief that urban architecture should
 honour and be in harmony with the natural, she keenly explores the endless
 possibilities of building sustainably with designs that create a positive
 impact on the community and foster meaningful encounters and relationships.</p>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -54,7 +55,9 @@ impact on the community and foster meaningful encounters and relationships.</p>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://aedas.com"><img style="width: 100%" height="auto" width="100%" alt="Aedas" src="/images/2024 Sponsor's Logo /Aedas_version.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/space.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -62,20 +65,24 @@ impact on the community and foster meaningful encounters and relationships.</p>
 </div>
 </td>
 </tr>
+</tbody>
+</table>
+<table>
+<tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Supported by</p>
 </th>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><em>M Social Singapore and Studio M Hotel Singapore.</em>
+<p><em>M Social Singapore and Studio M Hotel Singapore</em>
 </p>
 </td>
 </tr>
