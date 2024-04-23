@@ -12,14 +12,16 @@ description: ""
 <br>Ye Sul E. Cho, Sara Ibrahim, Suz Ibrahim, Heather Noble
 <br>65 SQM @ SUSA SPACE (United Kingdom)
 <br><strong>Location: </strong>Fountain Plaza, South Beach Avenue Level 1</p>
-<p>Paying homage to Singapore’s maritime heritage, Lumi embodies the fluidity
-of meandering river paths and its state of perpetual flux.</p>
+<p></p>
+<p>Paying homage to Singapore’s maritime heritage, <em>Lumi</em> embodies the
+fluidity of meandering river paths and its state of perpetual flux.</p>
 <p>This interactive installation invites play, connection and reflection
 within the bustling urban landscape. Tactile and immersive, it implores
 visitors to engage with one another and in the process, mould and remould
 the artwork in a shared act of co-creation. The repurposing of ordinary
 objects, such as yoga balls, demonstrates the transformative potential
 inherent in the mundane. Join in — to play, or to rest.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Artist-Ye Sul E. Cho, Sara Ibrahim, Suz Ibrahim, Heather Noble" src="/images/2024 Installations/website_0010_65SQMxSUSA_min.jpg">
 </div>
@@ -32,6 +34,7 @@ the practice seeks to free material from its form and form from its tradition.
 Through innovative design methodologies and early fabrication process,
 the studio’s goal is to reconstitute parts of traditional construction
 and cultural research to shape new and innovative spaces.</p>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -59,17 +62,21 @@ and cultural research to shape new and innovative spaces.</p>
 </div>
 </td>
 </tr>
+</tbody>
+</table>
+<table>
+<tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>Supported by</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
