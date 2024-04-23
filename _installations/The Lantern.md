@@ -52,7 +52,7 @@ impact on the community and foster meaningful encounters and relationships.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://aedas.com"><img style="width: 100%" height="auto" width="100%" alt="Aedas" src="/images/2024 Sponsor's Logo /Aedas_version.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://aedas.com/"><img style="width: 100%" height="auto" width="100%" alt="Aedas Logo" src="/images/2024 Sponsor's Logo /Aedas_website24April.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
