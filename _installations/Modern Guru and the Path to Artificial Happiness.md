@@ -11,17 +11,15 @@ description: ""
 <p><strong>Modern Guru and the Path to Artificial Happiness</strong> 
 <br>ENESS (Australia)
 <br><strong>Location: </strong>Millenia Walk (The Great Hall)</p>
-<p><em>Modern Guru and the Path to Artificial Happiness</em> juxtaposes the
-timeless archetype of a guru, traditionally a guide to attain spiritual
-enlightenment and happiness, with the contemporary pursuit of fulfilment.</p>
+<p>Modern Guru and the Path to Artificial Happiness juxtaposes the timeless
+archetype of a guru, traditionally a guide to attain spiritual enlightenment
+and happiness, with the contemporary pursuit of fulfilment.</p>
 <p>Inside the ceremonial shroud, visitors are greeted by the Modern Guru,
 a translucent ovoid with four imposing large digital eyes suspended above
 a spiralling ring of LEDs. A stream of absurdist messages flows from its
 mouth.</p>
 <p>A new message reveals when visitors point the lens of their camera to
-capture a glimpse of the Modern Guru.
-<br>
-</p>
+capture a glimpse of the Modern Guru.</p>
 <p>This installation is a commentary on the role that technology plays in
 shaping perceptions of fulfilment in the digital age.</p>
 <div class="isomer-image-wrapper">
@@ -30,7 +28,7 @@ shaping perceptions of fulfilment in the digital age.</p>
 <p><strong>About the Artist</strong>
 </p>
 <p>Founded in 1997, ENESS is a multi-award-winning art and technology studio.
-The multidisciplinary team produces interactive art in public spaces that
+The multi-disciplinary team produces interactive art in public spaces that
 combines sculpture, textiles, design, programming and music to tell a story.</p>
 <p>Cross-generational connection is at the heart of the studio’s work. As
 pioneers of new media art, the collective's ethos is the belief in the
