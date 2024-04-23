@@ -10,6 +10,9 @@ variant: tiptap
 <p><strong><a href="/programmes/gastrobeats/" rel="noopener noreferrer nofollow" target="_blank">GastroBeats</a></strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Conscious Festival" src="/images/2024 Programmes/TCFxiLSG.jpg">
+</div>
 <p><strong><a href="/programmes/theconsciousfestivalxilsg/" rel="noopener noreferrer nofollow" target="_blank">The Conscious Festival x i Light Singapore</a> <br></strong>
 </p>
 <p></p>
