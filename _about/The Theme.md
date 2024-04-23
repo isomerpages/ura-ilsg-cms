@@ -5,9 +5,9 @@ description: i Light Singapore 2023 - A New Wave
 variant: tiptap
 image: /images/kvherobanner1920x720j.jpg
 ---
-<h3></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Key Visual" src="/images/Keyvisual_website.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="iLSG KeyVisual" src="/images/23april_website.jpg">
 </div>
 <h3>Cyclical Nature</h3>
 <p>Light is a wave, radiating in all directions. It transmits diverse energy
