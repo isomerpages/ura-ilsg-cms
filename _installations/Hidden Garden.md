@@ -11,10 +11,17 @@ description: ""
 <p><strong>Hidden Garden</strong> 
 <br>Koros Design (Hungary)
 <br><strong>Location: </strong>Tras Link Park</p>
-<p><em>Hidden Garden illustrates the co-existence of nature with the urban environment, much like blades of grass bursting forth through concrete — its tenacious growth a sign of its enduring vitality and pursuit of harmony.</em>
-</p>
-<p><em>The artwork presents resplendent inflatable flowers cling to the trunks of trees akin to living organisms, transforming the concrete jungle. Here, the man-made and natural are intertwined in symbiosis and forge a harmonious co-existence, with each lending support to and enhancing the other. The radiant display of colours is both a tribute to and jubilant celebration of biodiversity.</em>
-</p>
+<p></p>
+<p><em>Hidden Garden illustrates </em>the co-existence of nature with the
+urban environment, much like blades of grass bursting forth through concrete
+— its tenacious growth a sign of its enduring vitality and pursuit of harmony.</p>
+<p>The artwork presents resplendent inflatable flowers cling to the trunks
+of trees akin to living organisms, transforming the concrete jungle. Here,
+the man-made and natural are intertwined in symbiosis and forge a harmonious
+co-existence, with each lending support to and enhancing the other. The
+radiant display of colours is both a tribute to and jubilant celebration
+of biodiversity.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Artist-Koros Design" src="/images/2024 Installations/website_0003_Korosdesign_min.jpg">
 </div>
@@ -26,8 +33,9 @@ Réka Magyar and design artist Peter Koros.</p>
 studio strives to bring its audience closer to nature using special materials
 and technologies. It does so through large luminous art installations that
 experiment with inflated lightweight fabric and digitally generated design.</p>
-<p>A variety of programmes will be hosted to complement the artworks at Tanjong
-Pagar. More information will be available next month.</p>
+<p><em>A variety of programmes will be hosted to complement the artworks at Tanjong Pagar. More information will be available next month.</em>
+</p>
+<p></p>
 <table>
 <tbody>
 <tr>
