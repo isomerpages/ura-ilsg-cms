@@ -123,7 +123,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="aedas.com"><img style="width: 100%" height="auto" width="100%" alt="Aedas Logo" src="/images/2024 Sponsor's Logo /Aedas_website24.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://aedas.com/"><img style="width: 100%" height="auto" width="100%" alt="Aedas" src="/images/2024 Sponsor's Logo /Aedas_website24April.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.milleniawalk.com/"><img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/millenia%20walk_resized%20web%20version.png"></a>
 </td>
