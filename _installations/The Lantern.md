@@ -12,18 +12,16 @@ description: ""
 <br>Josephine Pun Tsz Kiu (Hong Kong) | National University of Singapore (NUS)
 <br><strong>Location: </strong>Courtyard between South Beach Tower and The
 Grand Ballroom, Level 1</p>
-<p></p>
 <p>Nestled in the embrace of the city, the luminous pavilion emerges as a
 contemplation on the voracious cycle of consumption. Its gentle luminescence
 is an alluring invitation to be mesmerised by the sight of light dancing
 upon the water within.</p>
 <p>Made out of over 5,000 upcycled plastic water bottles — a staggering quantity
 that mirrors the relentless pace of bottle disposal in Singapore recurring
-every 7 minutes — <em>The Lantern</em> is a sobering physical embodiment
-of our collective harm to the environment. Yet, by harnessing the beauty
-of these upcycled materials, <em>The Lantern</em> is also a symbol of renewal
-and a call for bolder, innovative design approaches to shape a more sustainable
-future.</p>
+every 7 minutes — The Lantern is a sobering physical embodiment of our
+collective harm to the environment. Yet, by harnessing the beauty of these
+upcycled materials, The Lantern is also a symbol of renewal and a call
+for bolder, innovative design approaches to shape a more sustainable future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Artist-Josephine Pun Tsz Kiu" src="/images/2024 Installations/website_0008_Josephine_min.jpg">
 </div>
@@ -36,7 +34,6 @@ from the wonders of nature. With the belief that urban architecture should
 honour and be in harmony with the natural, she keenly explores the endless
 possibilities of building sustainably with designs that create a positive
 impact on the community and foster meaningful encounters and relationships.</p>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -44,7 +41,7 @@ impact on the community and foster meaningful encounters and relationships.</p>
 <p>Presented by</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Supported by</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -54,13 +51,29 @@ impact on the community and foster meaningful encounters and relationships.</p>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://aedas.com"><img style="width: 100%" height="auto" width="100%" alt="Aedas" src="/images/2024 Sponsor's Logo /Aedas_version.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>M Social Singapore and Studio M Hotel Singapore.</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/space.png">
 </div>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Supported by</p>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><em>M Social Singapore and Studio M Hotel Singapore.</em>
+</p>
 </td>
 </tr>
 </tbody>
