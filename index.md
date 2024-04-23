@@ -19,7 +19,7 @@ sections:
   - infopic:
       title: GastroBeats
       id: infopic
-      button: "Find out more "
+      button: Find out more
       url: /programmes/gastrobeats/
       image: /images/2024 Programmes/GastroBeats.jpg
       alt: Image alt text
