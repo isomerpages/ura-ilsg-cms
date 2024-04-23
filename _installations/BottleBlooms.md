@@ -12,6 +12,7 @@ description: ""
 <br>Yun (Singapore)
 <br><strong>Location: </strong>Tanjong Pagar Park at Guoco Tower, Tras Link
 Park near Orchid Hotel Singapore</p>
+<p></p>
 <p><em>BottleBlooms </em>is a display of solar-powered luminous plastic blossoms
 in a green public space, crafted from approximately 1,000 upcycled polyethylene
 terephthalate (PET) bottles through a public collection drive by Discover
