@@ -42,7 +42,7 @@ and deeply memorable experiences for people through her art and design.</p>
 <p>Presented by</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Supported by</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -52,13 +52,29 @@ and deeply memorable experiences for people through her art and design.</p>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.discovertanjongpagar.sg/"><img style="width: 100%" height="auto" width="100%" alt="Discover Tanjong Pagar Logo" src="/images/2024 Sponsor's Logo /Discover_Tanjong_Pager.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>City Sprouts and Cantonment Primary School</em>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/space.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Supported by</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>City Sprouts and Cantonment Primary School</p>
 </td>
 </tr>
 </tbody>
