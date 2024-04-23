@@ -1,5 +1,5 @@
 ---
-title: Liminal Minimal
+title: "Liminal; Minimal"
 permalink: /installations/liminal-minimal/
 variant: tiptap
 description: Discover Liminal; Minimal by Benjamin Lim and Yeo Soon Yii
