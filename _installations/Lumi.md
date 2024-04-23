@@ -9,8 +9,8 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Installation-Lumi" src="/images/2024 Installations/website_0009_Lumi_min.jpg">
 </div>
 <p><strong>Lumi</strong> 
-<br>Ye Sul E. Cho, Sara Ibrahim, Suz Ibrahim, Heather Noble | 65 SQM @ SUSA
-SPACE (United Kingdom)
+<br>Ye Sul E. Cho, Sara Ibrahim, Suz Ibrahim, Heather Noble
+<br>65 SQM @ SUSA SPACE (United Kingdom)
 <br><strong>Location: </strong>Fountain Plaza, South Beach Avenue Level 1</p>
 <p>Paying homage to Singapore’s maritime heritage, <em>Lumi </em>embodies
 the fluidity of meandering river paths and its state of perpetual flux.</p>
@@ -47,11 +47,10 @@ and cultural research to shape new and innovative spaces.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://southbeachavenue.com/"><img style="width: 100%" height="auto" width="100%" alt="South Beach Logo" src="/images/South_Beach_version.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://southbeachavenue.com/"><img style="width: 100%" height="auto" width="100%" alt="South Beach Logo" src="/images/2024 Sponsor's Logo /South_Beach_version.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Lighting support by SEAM Design (UK)</em> 
-<br><em>Technical programming by Illuspace (Thailand) Co. Ltd.</em>
+<p><em>SEAM Design and</em>  <em> Illuspace (Thailand) Co. Ltd.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
