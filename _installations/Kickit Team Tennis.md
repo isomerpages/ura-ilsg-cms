@@ -11,13 +11,15 @@ description: ""
 <p><strong>Kickit Team Tennis</strong> 
 <br>Limelight (Hungary)
 <br><strong>Location: </strong>Discover Tanjong Pagar Community Green</p>
-<p>Kickit Team Tennis is an interactive light art game that can be played
-by two teams of up to five-a-side.</p>
+<p></p>
+<p><em>Kickit Team Tennis </em>is an interactive light art game that can
+be played by two teams of up to five-a-side.</p>
 <p>A visit to the Barbican, a gothic gate-tower in Pécs, Hungary, inspired
 the creation of this modern tennis game. By reimagining a traditionally
 solo sport for teamplay in a public space, this installation encourages
 visitors to interact and collaborate with strangers — a call to find common
 ground and unity through friendly competition and play.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Artist-Limelight" src="/images/2024 Installations/website_0005_LIMELIGHT_min.jpg">
 </div>
