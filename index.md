@@ -12,11 +12,6 @@ sections:
       url: https://www.instagram.com/ilightsingapore/
       button: FOLLOW US
   - infopic:
-      title: Sponsors & Partners
-      id: infopic
-      image: /images/202403_iIight_Singapore__16_9_SPONSOR_LOGOS__V3.jpg
-      alt: Sponsors Acknowledgement
-  - infopic:
       title: GastroBeats
       id: infopic
       button: Find out more
@@ -27,8 +22,13 @@ sections:
       title: The Conscious Festival x i Light Singapore
       subtitle: Add an image and text
       id: infopic
-      button: "Find out more "
+      button: Find out more
       url: /programmes/theconsciousfestivalxilsg/
       image: /images/2024 Programmes/TCFxiLSG.jpg
       alt: Image alt text
+  - infopic:
+      title: Sponsors & Partners
+      id: infopic
+      image: /images/202403_iIight_Singapore__16_9_SPONSOR_LOGOS__V3.jpg
+      alt: Sponsors Acknowledgement
 ---
