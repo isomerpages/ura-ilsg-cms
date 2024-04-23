@@ -49,7 +49,9 @@ and cultural research to shape new and innovative spaces.</p>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://southbeachavenue.com/"><img style="width: 100%" height="auto" width="100%" alt="South Beach Logo" src="/images/2024 Sponsor's Logo /South_Beach_version.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/space.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
