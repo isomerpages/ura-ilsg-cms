@@ -24,7 +24,7 @@ spaces in our city centre.</p>
 <p>Returning for its 10<sup>th </sup>edition this year, the festival will
 run from 31 May – 23 June 2024. The opening hours for the Festival are
 7.30pm to 11.00pm daily, with extended hours to 12.00am on Fridays and
-Saturdays. opening hours for various programmes may vary.
+Saturdays. Opening hours for various programmes may vary.
 <br>
 <br>
 </p>
