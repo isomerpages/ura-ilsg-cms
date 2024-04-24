@@ -100,7 +100,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.marinabaysands.com"><img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/mbs_resized%20web%20version.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="www.uobgroup.com"><img style="width: 100%" height="auto" width="100%" alt="UOB Logo" src="/images/2024 Sponsor's Logo /UOB_Logo.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.uobgroup.com/uobgroup/index.page"><img style="width: 100%" height="auto" width="100%" alt="UOB Logo" src="/images/2024 Sponsor's Logo /UOB_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
