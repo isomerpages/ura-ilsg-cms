@@ -26,10 +26,7 @@ Park near Orchid Hotel Singapore
 <br><strong>Location: </strong>Discover Tanjong Pagar Community Green
 <br><em>Presented by Discover Tanjong Pagar</em>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kinetic Perspective" src="/images/2024 Installations/website_0029_Kinetic_Perspective_min.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/installations/kinetic-perspective/"><img style="width: 100%" height="auto" width="100%" alt="Kinetic Perspective" src="/images/2024 Installations/website_0029_Kinetic_Perspective_min.jpg"></a>
 <p><strong>Kinetic Perspective</strong> 
 <br>Juan Fuentes Studio (Spain)
 <br><strong>Location: </strong>Marina Bay Sands Event Plaza
