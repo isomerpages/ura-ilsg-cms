@@ -23,7 +23,7 @@ ground and unity through friendly competition and play.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Artist-Limelight" src="/images/2024 Installations/website_0005_LIMELIGHT_min.jpg">
 </div>
-<p><strong>About the Artist</strong>
+<p><strong>About the Artists</strong>
 </p>
 <p>Formed nearly two decades ago, Limelight is an artist collective that
 tells stories to a global audience through 3D projection mapping, light
