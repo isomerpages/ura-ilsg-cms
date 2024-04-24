@@ -33,7 +33,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -63,7 +62,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -90,7 +88,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -114,7 +111,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p></p>
 <table>
 <tbody>
 <tr>
@@ -134,7 +130,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <table>
 <tbody>
@@ -165,7 +160,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <table>
 <tbody>
