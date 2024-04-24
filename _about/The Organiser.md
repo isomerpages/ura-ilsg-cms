@@ -18,5 +18,4 @@ and liveable city for all to enjoy. In shaping a distinctive city, URA
 also promotes architecture and urban design excellence.</p>
 <p>Visit <strong><a href="https://www.ura.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.ura.gov.sg </a></strong>for
 more information and follow us on <a href="https://www.facebook.com/URASingapore" rel="noopener noreferrer nofollow" target="_blank">Facebook,</a>  <a href="https://www.instagram.com/urasingapore/" rel="noopener noreferrer nofollow" target="_blank">Instagram,</a> 
-<a href="https://twitter.com/urasg" rel="noopener noreferrer nofollow" target="_blank">Twitter,</a> <a href="https://www.linkedin.com/company/urasingapore/" rel="noopener noreferrer nofollow" target="_blank">LinkedIn</a> or
-<a href="https://t.me/urasingapore" rel="noopener noreferrer nofollow" target="_blank">Telegram</a>.</p>
+<a href="https://www.linkedin.com/company/urasingapore/" rel="noopener noreferrer nofollow" target="_blank">LinkedIn</a>or <a href="https://t.me/urasingapore" rel="noopener noreferrer nofollow" target="_blank">Telegram</a>.</p>
