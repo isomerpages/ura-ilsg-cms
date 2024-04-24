@@ -7,10 +7,7 @@ description: The Conscious Festival x i Light Singapore - Embark on a journey of
   convergence of wellness, technology, leadership and eco-consciousness that
   strives to guide humanity towards a brighter future.
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Conscious Festival x i Light Singapore" src="/images/2024 Programmes/TCFxiLSG.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.theconsciousfestival.com/"><img style="width: 100%" height="auto" width="100%" alt="The Conscious Festival x i Light Singapore" src="/images/2024 Programmes/TCFxiLSG.jpg"></a>
 <p>Embark on a journey of transformation at The Conscious Festival x i Light
 Singapore, a vibrant convergence of wellness, technology, leadership and
 eco-consciousness that strives to guide humanity towards a brighter future.</p>

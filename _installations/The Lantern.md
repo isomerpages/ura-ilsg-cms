@@ -9,7 +9,8 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Installation-The Lantern" src="/images/2024 Installations/website_0007_The_Lantern_min.jpg">
 </div>
 <p><strong>The Lantern</strong> 
-<br>Josephine Pun Tsz Kiu (Hong Kong) | National University of Singapore (NUS)
+<br>Josephine Pun Tsz Kiu (Hong Kong)
+<br>National University of Singapore (NUS)
 <br><strong>Location: </strong>Courtyard between South Beach Tower and The
 Grand Ballroom, Level 1</p>
 <p></p>
