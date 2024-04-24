@@ -27,7 +27,7 @@ shaping perceptions of fulfilment in the digital age.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Artist-ENESS" src="/images/2024 Installations/website_0016_ENESS_Nimrod_Weis_copy_min.jpg">
 </div>
-<p><strong>About the Artist</strong>
+<p><strong>About the Artists</strong>
 </p>
 <p>Founded in 1997, ENESS is a multi-award-winning art and technology studio.
 The multi-disciplinary team produces interactive art in public spaces that
