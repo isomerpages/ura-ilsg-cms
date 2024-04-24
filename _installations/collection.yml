@@ -2,17 +2,12 @@ collections:
   installations:
     output: true
     order:
-      - Glacier Dreams.md
-      - Tree Man.md
-      - Blumiwave.md
-      - Moooooootion.md
-      - Symphony 1.md
-      - Block Party.md
-      - the things left unsaid.md
-      - Light Anemones.md
-      - Resonances.md
-      - Trumpet Flowers.md
-      - Aquatics.md
-      - Bleached.md
-      - Show III.md
-      - Prism.md
+      - BottleBlooms.md
+      - Hidden Garden.md
+      - Kickit Team Tennis.md
+      - Kinetic Perspective.md
+      - Liminal Minimal.md
+      - Lumi.md
+      - Modern Guru and the Path to Artificial Happiness.md
+      - Spin Me a Yarn.md
+      - The Lantern.md

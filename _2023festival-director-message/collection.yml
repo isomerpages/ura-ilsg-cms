@@ -1,0 +1,5 @@
+collections:
+  2023festival-director-message:
+    output: true
+    order:
+      - Festival Director's Message.md

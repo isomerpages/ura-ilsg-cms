@@ -5,55 +5,30 @@ links:
   - title: Installations
     url: /installations/
     sublinks:
-      - title: Glacier Dreams
-        url: /installations/glacier-dreams
-      - title: Tree Man
-        url: /installations/tree-man
-      - title: Blumiwave
-        url: /installations/blumiwave
-      - title: Moooooootion
-        url: /installations/moooooootion
-      - title: Symphony 1
-        url: /installations/symphony-1
-      - title: Block Party
-        url: /installations/blockparty
-      - title: the things left unsaid
-        url: /installations/the-things-left-unsaid
-      - title: Light Anemones
-        url: /installations/light-anemones
-      - title: Resonances
-        url: /installations/resonances
-      - title: Trumpet Flowers
-        url: /installations/trumpetflowers
-      - title: Aquatics
-        url: /installations/aquatics
-      - title: Bleached
-        url: /installations/bleached
-      - title: Show III
-        url: /installations/showiii
-      - title: Prism
-        url: /installations/prism
+      - title: BottleBlooms
+        url: /installations/bottleblooms/
+      - title: Hidden Garden
+        url: /installations/hidden-garden/
+      - title: Kickit Team Tennis
+        url: /installations/kickit-team-tennis/
+      - title: Kinetic Perspective
+        url: /installations/kinetic-perspective/
+      - title: Liminal; Minimal
+        url: /installations/liminal-minimal
+      - title: Lumi
+        url: /installations/lumi/
+      - title: Modern Guru & the Path
+        url: /installations/modern-guru-and-the-path-to-artificial-happiness/
+      - title: Spin Me a Yarn
+        url: /installations/spin-me-a-yarn/
+      - title: The Lantern
+        url: /installations/the-lantern/
   - title: Programmes
     url: /programmes/
     sublinks:
       - title: GastroBeats
         url: /programmes/gastrobeats
-      - title: "Lightwave: Turning the Tide"
-        url: /programmes/lightwave-turning-the-tide
-      - title: Light Forum
-        url: /programmes/light-forum
-      - title: Light Wash
-        url: /programmes/light-wash
-      - title: Guided Walking Tour
-        url: /programmes/tour
-      - title: Rediscover Marina Bay
-        url: /programmes/rediscover-marina-bay-walking-tour
-  - title: Sustainability
-    url: /sustainability
-    sublinks:
-      - title: i Light i Pledge
-        url: /sustainability/ilightipledge
-      - title: Switch Off, Turn Up
-        url: /sustainability/switch-off-turn-up
-  - title: Faq
+      - title: The Conscious Festival x iLSG
+        url: /programmes/theconsciousfestivalxilsg/
+  - title: FAQ
     url: /faq
