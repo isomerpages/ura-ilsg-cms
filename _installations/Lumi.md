@@ -25,7 +25,7 @@ inherent in the mundane. Join in — to play, or to rest.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Artist-Ye Sul E. Cho, Sara Ibrahim, Suz Ibrahim, Heather Noble" src="/images/2024 Installations/website_0010_65SQMxSUSA_min.jpg">
 </div>
-<p><strong>About the Artist</strong>
+<p><strong>About the Artists</strong>
 </p>
 <p>65 SQM @ SUSA SPACE, is a women-led collective focused on architecture,
 design and research. The studio places sustainability at its core, emphasising
