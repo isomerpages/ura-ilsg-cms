@@ -1,0 +1,6 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - GastroBeats.md
+      - The Conscious Festival x i Light Singapore.md
