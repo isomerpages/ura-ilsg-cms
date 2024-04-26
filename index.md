@@ -30,4 +30,5 @@ sections:
       id: infopic
       image: /images/202403_iIight_Singapore__16_9_SPONSOR_LOGOS__V4.jpg
       alt: Sponsors Acknowledgement
+image: /images/23april_website.jpg
 ---
