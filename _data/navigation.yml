@@ -23,8 +23,6 @@ links:
         url: /installations/spin-me-a-yarn/
       - title: The Lantern
         url: /installations/the-lantern/
-  - title: Installations
-    collection: installations
   - title: Programmes
     url: /programmes/
     sublinks:
