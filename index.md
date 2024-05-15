@@ -9,8 +9,8 @@ sections:
       title: i Light Singapore
       subtitle: Asia’s Leading Sustainable Light Festival
       background: /images/2024banner1920x720_1_.jpg
-      url: https://www.instagram.com/ilightsingapore/
-      button: FOLLOW US
+      url: /festival-map/
+      button: Festival Map
   - infopic:
       title: GastroBeats
       id: infopic
