@@ -30,3 +30,23 @@ the same year with an accompanying viral campaign that brought BOB to cafes
 around Bangkok in the form of graffiti, stickers, merchandise and its current
 inflatable form. Tetanonsakul is also a curator and art consultant for
 businesses and international artists.&nbsp;</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>In Collaboration with</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Awakening Bangkok from Bangkok, Thailand</p>
+<p>Awakening Bangkok (Bangkok, Thailand)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
