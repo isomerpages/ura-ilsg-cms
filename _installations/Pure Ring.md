@@ -48,8 +48,11 @@ includes lighting plans for numerous Chinese cities and iconic landmarks.&nbsp;<
 <tr>
 <td rowspan="1" colspan="1">
 <p>Glow Shenzhen from Shenzhen, China</p>
+<p>Glow Shenzhen (Shenzhen, China)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>
+<br>
+</p>
