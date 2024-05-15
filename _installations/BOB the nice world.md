@@ -37,7 +37,7 @@ businesses and international artists.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>In Collaboration with</strong>
+<p><strong>In collaboration with</strong>
 </p>
 </td>
 </tr>
