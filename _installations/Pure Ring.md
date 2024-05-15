@@ -20,7 +20,7 @@ amidst the urban bustle.&nbsp;&nbsp;</p>
 interplay of light and sound. Once a module is sat on, the installation
 reacts with a colour change, initiating a mysterious pairing with another
 module chosen at random unbeknownst to its audience. The synchronised modules
-will simultaneously turn red for the chosen pair seated atop the<u>m.</u> &nbsp;</p>
+will simultaneously turn red for the chosen pair seated atop them. &nbsp;</p>
 <p>This artwork hopes to foster connections through the convergence of light.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
