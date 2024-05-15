@@ -2,6 +2,7 @@ collections:
   installations:
     output: true
     order:
+      - Fountain of Happiness.md
       - Iwagumi Air Scape.md
       - BottleBlooms.md
       - Hidden Garden.md
