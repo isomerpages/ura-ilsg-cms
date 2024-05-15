@@ -2,6 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - i Quest.md
       - GastroBeats.md
       - The Conscious Festival x i Light Singapore.md
+      - i Quest.md
