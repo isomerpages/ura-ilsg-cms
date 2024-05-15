@@ -30,3 +30,38 @@ an expert in robotics and software engineering, the studio combines their
 diverse skills to create a unique fusion of creativity and technology focused
 on interaction design. Audience engagement is at the core of the studio’s
 projects, each a blank canvas waiting to be brought to life by its viewers.&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Presented by</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.fullertonhotels.com/"><img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/the%20fullerton%20heritage_resized%20web%20version.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/space.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/space.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
