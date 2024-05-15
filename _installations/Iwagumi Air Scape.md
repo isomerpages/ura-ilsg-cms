@@ -31,5 +31,5 @@ combines sculpture, textiles, design, programming and music to tell a story.&nbs
 <p>Cross-generational connection is at the heart of the studio’s work. As
 pioneers of new media art, the collective's ethos is the belief in the
 power of encountering art in everyday life that fires the imagination.
-The studio creates transformational experiences, bringing joy<u> </u>and
-beauty to unexpected places.&nbsp;</p>
+The studio creates transformational experiences, bringing joy and beauty
+to unexpected places.&nbsp;</p>
