@@ -16,10 +16,9 @@ image: /images/i light singapore (festival map) .jpg
 <br><strong>Location: </strong>Pontoon near Red Dot Design Museum</p><a class="isomer-image-wrapper" href="/installations/bob-the-nice-world/"><img style="width: 100%" height="auto" width="100%" alt="Installation- BOB the nice world" src="/images/2024 Installations/website_0017_BOB_the_nice_world_min.jpg"></a>
 <p><strong>BOB the nice world</strong> 
 <br>BOB the nice guy (Thailand)
-<br><strong>Location: </strong>Next to the entrance of Marina Bay Link Mall&nbsp;</p>
-<a class="isomer-image-wrapper" href="/installations/bottleblooms/">
-<img style="width: 100%" height="auto" width="100%" alt="BottleBlooms" src="/images/2024 Installations/website_0000_BottleBlooms_min.jpg">
-</a>
+<br><strong>Location: </strong>Next to the entrance of Marina Bay Link Mall&nbsp;
+<br><em>In collaboration with Awakening Bangkok from Bangkok, Thailand&nbsp;</em>
+</p><a class="isomer-image-wrapper" href="/installations/bottleblooms/"><img style="width: 100%" height="auto" width="100%" alt="BottleBlooms" src="/images/2024 Installations/website_0000_BottleBlooms_min.jpg"></a>
 <p><strong>BottleBlooms</strong> 
 <br>Yun (Singapore)
 <br><strong>Location: </strong>Tanjong Pagar Park at Guoco Tower, Tras Link
@@ -29,7 +28,9 @@ Park near Orchid Hotel Singapore
 </p><a class="isomer-image-wrapper" href="/installations/dandelion/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Dandelion" src="/images/2024 Installations/website_0031_Dandelion_min.jpg"></a>
 <p><strong>Dandelion</strong> 
 <br>Amigo &amp; Amigo and Otis (Australia)
-<br><strong>Location:</strong> Marina Bay Sands Event Plaza</p><a class="isomer-image-wrapper" href="/installations/fish-are-jumping/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Fish are Jumping" src="/images/2024 Installations/website_0023_Fish_are_Jumping_min.jpg"></a>
+<br><strong>Location:</strong> Marina Bay Sands Event Plaza
+<br><em>Presented by Marina Bay Sands</em>
+</p><a class="isomer-image-wrapper" href="/installations/fish-are-jumping/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Fish are Jumping" src="/images/2024 Installations/website_0023_Fish_are_Jumping_min.jpg"></a>
 <p><strong>Fish are Jumping</strong> 
 <br>Studio Toer (The Netherlands)
 <br><strong>Location: </strong>Waterbody near Marina Bay lower boardwalk steps</p>
@@ -38,7 +39,9 @@ Park near Orchid Hotel Singapore
 </a>
 <p><strong>Fountain of Happiness</strong> 
 <br>27JUNE Studio (Thailand)
-<br><strong>Location: </strong>Clifford Square</p><a class="isomer-image-wrapper" href="/installations/hidden-garden/"><img style="width: 100%" height="auto" width="100%" alt="Hidden Garden" src="/images/2024 Installations/website_0002_Hidden_Garden_min.jpg"></a>
+<br><strong>Location: </strong>Clifford Square
+<br><em>Presented by The Fullerton Heritage&nbsp;<br>In collaboration with Alibaba Cloud</em>
+</p><a class="isomer-image-wrapper" href="/installations/hidden-garden/"><img style="width: 100%" height="auto" width="100%" alt="Hidden Garden" src="/images/2024 Installations/website_0002_Hidden_Garden_min.jpg"></a>
 <p><strong>Hidden Garden</strong> 
 <br>Koros Design (Hungary)
 <br><strong>Location: </strong>Tras Link Park
@@ -80,7 +83,9 @@ Museum</p>
 </p><a class="isomer-image-wrapper" href="/installations/pure-ring/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Pure Ring" src="/images/2024 Installations/website_0027_Pure_Ring_min.jpg"></a>
 <p><strong>Pure Ring</strong> 
 <br>Xu Dongliang
-<br><strong>Location: </strong>Event Square&nbsp;</p><a class="isomer-image-wrapper" href="/installations/spin-me-a-yarn/"><img style="width: 100%" height="auto" width="100%" alt="Spin me a Yarn" src="/images/2024 Installations/website_0025_Spin_me_a_Yarn_min.jpg"></a>
+<br><strong>Location: </strong>Event Square&nbsp;
+<br><em>In collaboration with Glow Shenzhen from Shenzhen, China</em>
+</p><a class="isomer-image-wrapper" href="/installations/spin-me-a-yarn/"><img style="width: 100%" height="auto" width="100%" alt="Spin me a Yarn" src="/images/2024 Installations/website_0025_Spin_me_a_Yarn_min.jpg"></a>
 <p><strong>Spin Me a Yarn</strong> 
 <br>Studio Vertigo (United Kingdom)
 <br><strong>Location: </strong>Mist Walk</p>
@@ -91,5 +96,6 @@ Museum</p>
 <br><strong>Location: </strong>Courtyard between South Beach Tower and The
 Grand Ballroom, Level 1
 <br><em>Presented by Aedas</em>
+<br><em>Supported by M Social Singapore and Studio M Hotel Singapore</em>
 </p>
 <p></p>
