@@ -35,3 +35,38 @@ projects featured across Asia, the Americas, Europe and the Middle East.&nbsp;</
 Amigo’s extensive background in sculpture and industrial design allows
 them to showcase their ability to use light and materials to transform
 spaces into memorable experiences with audience participation and interaction.&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Presented by</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.marinabaysands.com"><img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/mbs_resized%20web%20version.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/space.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/space.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
