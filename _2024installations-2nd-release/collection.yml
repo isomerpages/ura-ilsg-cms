@@ -1,5 +1,4 @@
 collections:
   2024installations-2nd-release:
     output: true
-    order:
-      - Dandelion.md
+    order: []
