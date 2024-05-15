@@ -14,15 +14,15 @@ description: ""
 Park near Orchid Hotel Singapore</p>
 <p></p>
 <p><em>BottleBlooms </em>is a display of solar-powered luminous plastic blossoms
-in a green public space, crafted from <u>over&nbsp;</u><s> </s><u>1,500</u> upcycled
-polyethylene terephthalate (PET) bottles through a public collection drive
-by Discover Tanjong Pagar<u> (pilot Business Improvement District)</u>,
-Cantonment Primary School and City Sprouts, a social enterprise with an
-aim to rejuvenate urban spaces.&nbsp;</p>
-<p>The artwork provokes a re-evaluation of&nbsp;<s> </s>things that are often
-thrown away mindlessly and is a reminder of the transformative potential
-inherent in our discarded materials. <em>BottleBlooms</em> urges us to think
-about the life cycle of materials and encourages a more thorough incorporation
+in a green public space, crafted from over&nbsp;1,500 upcycled polyethylene
+terephthalate (PET) bottles through a public collection drive by Discover
+Tanjong Pagar (pilot Business Improvement District), Cantonment Primary
+School and City Sprouts, a social enterprise with an aim to rejuvenate
+urban spaces.&nbsp;</p>
+<p>The artwork provokes a re-evaluation of&nbsp;things that are often thrown
+away mindlessly and is a reminder of the transformative potential inherent
+in our discarded materials. <em>BottleBlooms</em> urges us to think about
+the life cycle of materials and encourages a more thorough incorporation
 of plastics into the circular economy via PET recycling.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
