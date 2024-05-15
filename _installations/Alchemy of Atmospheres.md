@@ -9,7 +9,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Installation-Alchemy of Atmospheres" src="/images/2024 Installations/website_0013_Alchemy_of_Atmospheres_min.jpg">
 </div>
 <p><strong>Alchemy of Atmospheres</strong> 
-<br>Janez Groselj (Slovenia)
+<br>Janez Grošelj (Slovenia)
 <br><strong>Location: </strong>Lawn beside NTUC Building&nbsp;</p>
 <p></p>
 <p><em>Alchemy of Atmospheres</em> harnesses the mysteries in our atmospheric
