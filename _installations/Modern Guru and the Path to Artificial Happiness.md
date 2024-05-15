@@ -17,10 +17,10 @@ timeless archetype of a guru, traditionally a guide to attain spiritual
 enlightenment and happiness, with the contemporary pursuit of fulfilment.&nbsp;</p>
 <p>Inside the ceremonial shroud, visitors are greeted by the Modern Guru,
 a translucent ovoid with four imposing large digital eyes suspended above
-a spiralling ring of LEDs. A stream of<u> AI-generated</u> absurdist messages
+a spiralling ring of LEDs. A stream of AI-generated absurdist messages
 flows from its mouth.&nbsp;&nbsp;</p>
-<p>A new message reveals <u>itself </u>when visitors point the lens of their
-camera to capture a glimpse of the Modern Guru.&nbsp;&nbsp;</p>
+<p>A new message reveals itself when visitors point the lens of their camera
+to capture a glimpse of the Modern Guru.&nbsp;&nbsp;</p>
 <p>This installation is a commentary on the role that technology plays in
 shaping perceptions of fulfilment in the digital age.&nbsp;</p>
 <p></p>
