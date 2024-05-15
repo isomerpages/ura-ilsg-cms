@@ -2,7 +2,6 @@ collections:
   2024installations-2nd-release:
     output: true
     order:
-      - "Arc ZERO: Nimbus.md"
       - Fish are Jumping.md
       - Pure Ring.md
       - Dandelion.md
