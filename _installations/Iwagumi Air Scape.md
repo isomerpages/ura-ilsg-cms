@@ -11,15 +11,15 @@ description: ""
 <p><strong>Iwagumi Air Scape</strong> 
 <br>ENESS
 <br><strong>Location: </strong>The Promontory at Marina Bay&nbsp;</p>
-<p><em>Iwagumi Air Scape<u> </u></em>is inspired by the Japanese art form<u> </u>of
-Iwagumi, the arrangement of rocks in aquascaping, or underwater gardening,
-that places a heavy emphasis on the raw, humble beauty of nature.&nbsp;</p>
+<p><em>Iwagumi Air Scape </em>is inspired by the Japanese art form of Iwagumi,
+the arrangement of rocks in aquascaping, or underwater gardening, that
+places a heavy emphasis on the raw, humble beauty of nature.&nbsp;</p>
 <p>Conjuring an illusion of immense weight, the air-filled inflatables carry
 the allure and mystery of mountains within them. Colours and soundscapes
 evolve based on the movement of city dwellers passing through. Encountering
 these quiet but majestic boulders which are typically found in untamed
-landscapes<u>&nbsp; </u>brings a sense of awe and wonderment of existence
-into the urban experience.&nbsp;</p>
+landscapes brings a sense of awe and wonderment of existence into the urban
+experience.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0016_ENESS_Nimrod_Weis_copy_min.jpg">
 </div>
