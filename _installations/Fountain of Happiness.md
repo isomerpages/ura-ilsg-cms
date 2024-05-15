@@ -64,4 +64,38 @@ projects, each a blank canvas waiting to be brought to life by its viewers.&nbsp
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>In Collaboration with</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.alibabacloud.com/en"><img style="width: 100%" height="auto" width="100%" src="/images/About/Sponsor%20Acknowledgement/alibaba%20cloud_resized%20web%20version.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/space.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/space.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
