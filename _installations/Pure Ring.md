@@ -26,7 +26,7 @@ will simultaneously turn red for the chosen pair seated atop them. &nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Artist- Xu Dongliang" src="/images/2024 Installations/website_0028_Xu_Dongliang_min.jpg">
 </div>
-<p><strong>About the Artist</strong> 
+<p><strong>About the Artist</strong>
 </p>
 <p>Xu Dongliang is an architect with an extensive design portfolio and experience
 in Japan. He is currently the lead designer at Toryo International Lighting
@@ -34,3 +34,22 @@ Design Center and a respected member of the China Illuminating Engineering
 Society. With a diverse background spanning urban lighting planning, architectural
 lighting design and creating light art installations, his impressive portfolio
 includes lighting plans for numerous Chinese cities and iconic landmarks.&nbsp;</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>In collaboration with</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Glow Shenzhen from Shenzhen, China</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
