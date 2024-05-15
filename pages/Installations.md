@@ -25,7 +25,7 @@ image: /images/i light singapore (festival map) .jpg
 <br><strong>Location: </strong>Tanjong Pagar Park at Guoco Tower, Tras Link
 Park near Orchid Hotel Singapore
 <br><em>Presented by Discover Tanjong Pagar</em> 
-<br><em>Supported by City Sprouts and Cantonment Primary School</em>
+<br><em>Supported by Cantonment Primary School and City Sprouts</em>
 </p><a class="isomer-image-wrapper" href="/installations/dandelion/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Dandelion" src="/images/2024 Installations/website_0031_Dandelion_min.jpg"></a>
 <p><strong>Dandelion</strong> 
 <br>Amigo &amp; Amigo and Otis (Australia)
