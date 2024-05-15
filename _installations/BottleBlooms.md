@@ -14,15 +14,16 @@ description: ""
 Park near Orchid Hotel Singapore</p>
 <p></p>
 <p><em>BottleBlooms </em>is a display of solar-powered luminous plastic blossoms
-in a green public space, crafted from approximately 1,000 upcycled polyethylene
-terephthalate (PET) bottles through a public collection drive by Discover
-Tanjong Pagar, Cantonment Primary School and City Sprouts, a social enterprise
-with an aim to rejuvenate urban spaces.</p>
-<p>The artwork provokes a re-evaluation of things that are often thrown away
-mindlessly and is a reminder of the transformative potential inherent in
-our discarded materials. BottleBlooms urges us to think about the life
-cycle of materials and encourages a more thorough incorporation of plastics
-into the circular economy via PET recycling.</p>
+in a green public space, crafted from <u>over&nbsp;</u><s> </s><u>1,500</u> upcycled
+polyethylene terephthalate (PET) bottles through a public collection drive
+by Discover Tanjong Pagar<u> (pilot Business Improvement District)</u>,
+Cantonment Primary School and City Sprouts, a social enterprise with an
+aim to rejuvenate urban spaces.&nbsp;</p>
+<p>The artwork provokes a re-evaluation of&nbsp;<s> </s>things that are often
+thrown away mindlessly and is a reminder of the transformative potential
+inherent in our discarded materials. <em>BottleBlooms</em> urges us to think
+about the life cycle of materials and encourages a more thorough incorporation
+of plastics into the circular economy via PET recycling.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Artist-Yun" src="/images/2024 Installations/website_0001_Yun_Qin_Lee_min.jpg">
@@ -30,14 +31,19 @@ into the circular economy via PET recycling.</p>
 <p><strong>About the Artist</strong>
 </p>
 <p>An industrial designer working in research and development, Yun drives
-innovation in consumer goods. Her first artwork Moon Flower premiered at
-i Light Marina Bay in 2017 and later travelled to Europe and the United
-States. She then co-created The Rainbow Connection with community partners
-for i Light Singapore – Bicentennial Edition in 2019. Yun’s return to i
-Light Singapore 2024 is motivated by her resolve to create delightful and
-deeply memorable experiences for people through her art and design.</p>
+innovation in consumer goods. Her first artwork <em>Moon Flower</em> premiered
+at i Light Marina Bay in 2017 and later travelled to Europe and the United
+States. She then co-created <em>The Rainbow Connection </em>with community
+partners for i Light Singapore – Bicentennial Edition in 2019. Yun’s return
+to i Light Singapore 2024 is motivated by her resolve to create delightful
+and deeply memorable experiences for people through her art and design.&nbsp;</p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -66,7 +72,12 @@ deeply memorable experiences for people through her art and design.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -76,7 +87,7 @@ deeply memorable experiences for people through her art and design.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>City Sprouts and Cantonment Primary School</p>
+<p>Cantonment Primary School and City Sprouts</p>
 </td>
 </tr>
 </tbody>
