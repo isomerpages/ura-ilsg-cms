@@ -44,7 +44,6 @@ businesses and international artists.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Awakening Bangkok from Bangkok, Thailand</p>
-<p>Awakening Bangkok (Bangkok, Thailand)</p>
 </td>
 </tr>
 </tbody>
