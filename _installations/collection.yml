@@ -2,20 +2,20 @@ collections:
   installations:
     output: true
     order:
-      - Dandelion.md
-      - Pure Ring.md
-      - Fish are Jumping.md
+      - Alchemy of Atmospheres.md
       - "Arc ZERO: Nimbus.md"
       - BOB the nice world.md
-      - Alchemy of Atmospheres.md
-      - Fountain of Happiness.md
-      - Iwagumi Air Scape.md
       - BottleBlooms.md
+      - Dandelion.md
+      - Fish are Jumping.md
+      - Fountain of Happiness.md
       - Hidden Garden.md
+      - Iwagumi Air Scape.md
       - Kickit Team Tennis.md
       - Kinetic Perspective.md
       - Liminal Minimal.md
       - Lumi.md
       - Modern Guru and the Path to Artificial Happiness.md
+      - Pure Ring.md
       - Spin Me a Yarn.md
       - The Lantern.md
