@@ -46,6 +46,13 @@ links:
         url: /programmes/gastrobeats
       - title: The Conscious Festival x iLSG
         url: /programmes/theconsciousfestivalxilsg/
+  - title: Sustainability
+    url: /permalink
+    sublinks:
+      - title: SOTU
+        url: /permalink
+      - title: i Quest
+        url: /permalink
   - title: Festival Map
     url: /festival-map/
   - title: FAQ
