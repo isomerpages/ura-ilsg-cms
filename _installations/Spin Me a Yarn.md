@@ -25,8 +25,9 @@ responsibility that we bear in shaping the future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Artist-Lucy McDonnell and Stephen Newby" src="/images/2024 Installations/website_0026_Studio_Vertigo_min.jpg">
 </div>
-<p><strong>About the Artists</strong> 
-<br>Studio Vertigo is a multi-disciplinary design and fabrication studio based
+<p><strong>About the Artists</strong>
+</p>
+<p>Studio Vertigo is a multi-disciplinary design and fabrication studio based
 in the UK, led by artists Lucy McDonnell and Stephen Newby with the help
 of an experienced team of designers, engineers and fabricators. The studio
 has created light installations and sculptures for international exhibitions
