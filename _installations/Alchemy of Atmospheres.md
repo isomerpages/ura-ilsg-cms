@@ -25,8 +25,7 @@ of a climate catastrophe.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="Artist- Janez Groselj" src="/images/2024 Installations/website_0014_Janez_Groselj_min.jpg">
 </div>
 <p><strong>About the Artist</strong>
-</p>
-<p>With a Master's degree in architecture, Janez Grošelj channels his expertise
+<br>With a Master's degree in architecture, Janez Grošelj channels his expertise
 into a deeply personal exploration of light and light art focused on multimedia
 expositions. He also shares his knowledge and experience, as a consultant
 and workshop tutor. His work has been presented at festivals and galleries
