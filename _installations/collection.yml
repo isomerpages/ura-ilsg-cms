@@ -2,6 +2,7 @@ collections:
   installations:
     output: true
     order:
+      - BOB the nice world.md
       - Alchemy of Atmospheres.md
       - Fountain of Happiness.md
       - Iwagumi Air Scape.md
