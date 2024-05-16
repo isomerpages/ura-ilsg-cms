@@ -9,7 +9,7 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/installations/alchemy-of-atmospheres/"><img style="width: 100%" height="auto" width="100%" alt="Alchemy of Atmospheres" src="/images/2024 Installations/website_0013_Alchemy_of_Atmospheres_min.jpg"></a>
 <p><strong>Alchemy of Atmospheres</strong> 
-<br>Janez Groselj (Slovenia)
+<br>Janez Grošelj (Slovenia)
 <br><strong>Location: </strong>Lawn beside NTUC Building&nbsp;</p><a class="isomer-image-wrapper" href="/installations/arc-zero-nimbus/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Arc ZERO: Nimbus" src="/images/2024 Installations/website_0021_Arc_Zero_Nimbus_min.jpg"></a>
 <p><strong>Arc ZERO: Nimbus</strong> 
 <br>Studio James Tapscott (Australia)
@@ -95,7 +95,7 @@ Museum</p>
 <br>National University of Singapore (NUS)
 <br><strong>Location: </strong>Courtyard between South Beach Tower and The
 Grand Ballroom, Level 1
-<br><em>Presented by Aedas</em>
+<br><em>Presented by Aedas</em> 
 <br><em>Supported by M Social Singapore and Studio M Hotel Singapore</em>
 </p>
 <p></p>
