@@ -2,10 +2,10 @@ collections:
   programmes:
     output: true
     order:
-      - i Light Shuttle Service.md
-      - Guided Walking Tour.md
       - GastroBeats.md
       - The Conscious Festival x i Light Singapore.md
       - i Quest.md
       - Community Green Market x Sunday Social.md
       - i Light Forum.md
+      - Guided Walking Tour.md
+      - i Light Shuttle Service.md
