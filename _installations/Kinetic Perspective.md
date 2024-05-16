@@ -36,7 +36,12 @@ Lithuania, Leeds, Liverpool, Morecambe and Sydney. In 2021, Fuentes also
 received the 40 under 40 award as one of the top 40 lighting designers
 in the world.</p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
