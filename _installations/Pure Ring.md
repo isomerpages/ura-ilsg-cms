@@ -17,7 +17,7 @@ description: ""
 <p>A modern twist to the concept of musical chairs, <em>Pure Ring</em> aspires
 to foster unexpected connections among strangers, sparking moments of serendipity
 amidst the urban bustle.&nbsp;&nbsp;</p>
-<p>When&nbsp; unoccupied, this interactive installation orchestrates a mesmerising
+<p>When&nbsp;unoccupied, this interactive installation orchestrates a mesmerising
 interplay of light and sound. Once a module is sat on, the installation
 reacts with a colour change, initiating a mysterious pairing with another
 module chosen at random unbeknownst to its audience. The synchronised modules
