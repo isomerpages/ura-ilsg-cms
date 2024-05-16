@@ -28,7 +28,7 @@ nature.&nbsp;
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Artist - Amigo &amp; Amigo and Otis" src="/images/2024 Installations/website_0032_Amigo_and_Amigo_min.jpg">
 </div>
-<p><strong>About the Artist</strong>
+<p><strong>About the Artists</strong>
 </p>
 <p>Founded in 2012, Amigo &amp; Amigo is a Sydney-based artist studio with
 projects featured across Asia, the Americas, Europe and the Middle East.&nbsp;</p>
