@@ -11,6 +11,7 @@ description: ""
 </div>
 <p><strong>Pure Ring</strong> 
 <br>Xu Dongliang
+<br>Toryo International Lighting Design Center (China)
 <br><strong>Location: </strong>Event Square&nbsp;</p>
 <p></p>
 <p>A modern twist to the concept of musical chairs, <em>Pure Ring</em> aspires
