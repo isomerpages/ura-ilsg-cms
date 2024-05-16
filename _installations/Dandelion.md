@@ -16,10 +16,9 @@ description: Discover Dandelion by Amigo and Amigo (Singapore) - i Light Singapo
 and playfulness — <em>Dandelion</em> whisks visitors into a realm of hope
 and optimism.&nbsp;</p>
 <p>Make a wish as it bursts into a symphony of light and music every five
-minutes. The score is an original musical piece by Otis Studio accompanied
-by Sydney’s finest jazz musicians, and is an ode to the wind as well as
-the intrinsic characteristics of the dandelion, revered for healing properties
-in certain cultures.&nbsp;&nbsp;</p>
+minutes. The score is an original musical piece by Otis Studio, and is
+an ode to the wind as well as the intrinsic characteristics of the dandelion,
+revered for healing properties in certain cultures.&nbsp;&nbsp;</p>
 <p><em>Dandelion</em> is a sanctuary for all, offering visitors a moment to
 pause from the frenetic pace of life and reconnect with the marvels of
 nature.&nbsp;
@@ -28,7 +27,7 @@ nature.&nbsp;
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Artist - Amigo &amp; Amigo and Otis" src="/images/2024 Installations/website_0032_Amigo_and_Amigo_min.jpg">
 </div>
-<p><strong>About the Artist</strong> 
+<p><strong>About the Artist</strong>
 </p>
 <p>Founded in 2012, Amigo &amp; Amigo is a Sydney-based artist studio with
 projects featured across Asia, the Americas, Europe and the Middle East.&nbsp;</p>
