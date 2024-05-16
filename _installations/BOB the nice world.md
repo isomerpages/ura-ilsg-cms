@@ -26,10 +26,10 @@ urgency as he calls for mindful action against the gloom of climate change.&nbsp
 Institute of Technology Ladkrabang and majored in printmaking at Nagoya
 University of Arts. Her foray into light art and projection mapping began
 with Awakening Bangkok in 2019. <em>BOB the nice guy</em> was created in
-the same year with an accompanying viral campaign that brought BOB to cafes
-around Bangkok in the form of graffiti, stickers, merchandise and its current
-inflatable form. Tetanonsakul is also a curator and art consultant for
-businesses and international artists.&nbsp;</p>
+the same year with an accompanying viral campaign that brought <em>BOB </em>to
+cafes around Bangkok in the form of graffiti, stickers, merchandise and
+its current inflatable form. Tetanonsakul is also a curator and art consultant
+for businesses and international artists.&nbsp;</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
