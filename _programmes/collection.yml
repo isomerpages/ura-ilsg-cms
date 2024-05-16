@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - i Light Shuttle Service.md
       - Guided Walking Tour.md
       - GastroBeats.md
       - The Conscious Festival x i Light Singapore.md
