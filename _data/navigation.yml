@@ -6,23 +6,6 @@ links:
     collection: installations
   - title: Programmes
     collection: programmes
-  - title: Programmes
-    url: /programmes/
-    sublinks:
-      - title: GastroBeats
-        url: /programmes/gastrobeats
-      - title: The Conscious Festival x iLSG
-        url: /programmes/theconsciousfestivalxilsg/
-      - title: i Quest
-        url: /i-quest/
-      - title: Community Green Market x Sunda
-        url: /programmes/community-green-market-x-sunday-social/
-      - title: i Light Forum
-        url: /programmes/i-light-forum/
-      - title: Guided Walking Tour
-        url: /programmes/guided-walking-tour/
-      - title: i Light Shuttle Service
-        url: /programmes/i-light-shuttle-service/
   - title: Sustainability
     url: /permalink
     sublinks:
