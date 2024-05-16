@@ -9,7 +9,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Installation-Fountain of Happiness" src="/images/2024 Installations/website_0011_Fountain_of_Happiness_min.jpg">
 </div>
 <p><strong>Fountain of Happiness</strong> 
-<br>27JUNE Studio (Thailand)
+<br>27June Studio (Thailand)
 <br><strong>Location: </strong>Clifford Square</p>
 <p><em>Fountain of Happiness</em> is an interactive installation that features
 seven sets of swings and light tubes designed to resemble fountains. Visitors
