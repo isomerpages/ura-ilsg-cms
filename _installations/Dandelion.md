@@ -9,8 +9,8 @@ description: Discover Dandelion by Amigo and Amigo (Singapore) - i Light Singapo
 <img style="width: 100%" height="auto" width="100%" alt="Installation- Dandelion" src="/images/2024 Installations/website_0031_Dandelion_min.jpg">
 </div>
 <p><strong>Dandelion</strong> 
-<br>Amigo &amp; Amigo
-<br>Commissioned musical score by Otis Studio&nbsp; (Australia)
+<br>Amigo &amp; Amigo (Australia)
+<br>Commissioned musical score by Otis Studio&nbsp;
 <br><strong>Location:</strong> Marina Bay Sands Event Plaza&nbsp;
 <br>
 <br>Inspired by the breezy dance of dandelion petals — an embodiment of free-spiritedness
