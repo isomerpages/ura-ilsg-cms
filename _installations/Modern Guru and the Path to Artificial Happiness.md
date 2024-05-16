@@ -30,9 +30,8 @@ shaping perceptions of fulfilment in the digital age.&nbsp;</p>
 <p><strong>About the Artists</strong>
 </p>
 <p>Founded in 1997, ENESS is a multi-award-winning art and technology studio.
-The multi<s>-</s>disciplinary team produces interactive art in public spaces
-that combines sculpture, textiles, design, programming and music to tell
-a story.&nbsp;</p>
+The multidisciplinary team produces interactive art in public spaces that
+combines sculpture, textiles, design, programming and music to tell a story.&nbsp;</p>
 <p>Cross-generational connection is at the heart of the studio’s work. As
 pioneers of new media art, the collective's ethos is the belief in the
 power of encountering art in everyday life that fires the imagination.
