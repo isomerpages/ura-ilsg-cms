@@ -5,6 +5,8 @@ links:
   - title: Installations
     collection: installations
   - title: Programmes
+    collection: programmes
+  - title: Programmes
     url: /programmes/
     sublinks:
       - title: GastroBeats
