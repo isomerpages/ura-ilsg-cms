@@ -5,40 +5,40 @@ links:
   - title: Installations
     url: /installations/
     sublinks:
-      - title: Alchemy of Atmospheres
-        url: /installations/alchemy-of-atmospheres/
-      - title: "Arc ZERO: Nimbus"
-        url: /installations/arc-zero-nimbus/
-      - title: BOB the nice world
-        url: /installations/bob-the-nice-world/
-      - title: BottleBlooms
-        url: /installations/bottleblooms/
       - title: Dandelion
         url: /installations/dandelion/
-      - title: Fish are Jumping
-        url: /installations/fish-are-jumping/
-      - title: Fountain of Happiness
-        url: /installations/fountain-of-happiness/
-      - title: Hidden Garden
-        url: /installations/hidden-garden/
-      - title: Iwagumi Air Scape
-        url: /installations/iwagumi-air-space/
-      - title: Kickit Team Tennis
-        url: /installations/kickit-team-tennis/
       - title: Kinetic Perspective
         url: /installations/kinetic-perspective/
-      - title: Liminal; Minimal
-        url: /installations/liminal-minimal
-      - title: Lumi
-        url: /installations/lumi/
-      - title: Modern Guru & the Path
-        url: /installations/modern-guru-and-the-path-to-artificial-happiness/
       - title: Pure Ring
         url: /installations/pure-ring/
       - title: Spin Me a Yarn
         url: /installations/spin-me-a-yarn/
+      - title: Fish are Jumping
+        url: /installations/fish-are-jumping/
+      - title: "Arc ZERO: Nimbus"
+        url: /installations/arc-zero-nimbus/
+      - title: Liminal; Minimal
+        url: /installations/liminal-minimal
+      - title: BOB the nice world
+        url: /installations/bob-the-nice-world/
+      - title: Iwagumi Air Scape
+        url: /installations/iwagumi-air-space/
+      - title: Alchemy of Atmospheres
+        url: /installations/alchemy-of-atmospheres/
+      - title: Fountain of Happiness
+        url: /installations/fountain-of-happiness/
+      - title: Lumi
+        url: /installations/lumi/
       - title: The Lantern
         url: /installations/the-lantern/
+      - title: Modern Guru & the Path
+        url: /installations/modern-guru-and-the-path-to-artificial-happiness/
+      - title: Kickit Team Tennis
+        url: /installations/kickit-team-tennis/
+      - title: BottleBlooms
+        url: /installations/bottleblooms/
+      - title: Hidden Garden
+        url: /installations/hidden-garden/
   - title: Programmes
     url: /programmes/
     sublinks:
