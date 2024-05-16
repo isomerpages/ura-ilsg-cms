@@ -2,8 +2,8 @@ collections:
   programmes:
     output: true
     order:
-      - i Light Forum.md
       - GastroBeats.md
       - The Conscious Festival x i Light Singapore.md
       - i Quest.md
       - Community Green Market x Sunday Social.md
+      - i Light Forum.md
