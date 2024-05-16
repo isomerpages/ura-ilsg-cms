@@ -9,7 +9,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0015_Iwagumi_min.jpg">
 </div>
 <p><strong>Iwagumi Air Scape</strong> 
-<br>ENESS
+<br>ENESS (Australia)
 <br><strong>Location: </strong>The Promontory at Marina Bay&nbsp;</p>
 <p><em>Iwagumi Air Scape </em>is inspired by the Japanese art form of Iwagumi,
 the arrangement of rocks in aquascaping, or underwater gardening, that
