@@ -10,8 +10,8 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Installation- Pure Ring" src="/images/2024 Installations/website_0027_Pure_Ring_min.jpg">
 </div>
 <p><strong>Pure Ring</strong> 
-<br>Xu Dongliang
-<br>Toryo International Lighting Design Center (China)
+<br>Xu Dongliang (China)
+<br>Toryo International Lighting Design Center
 <br><strong>Location: </strong>Event Square&nbsp;</p>
 <p></p>
 <p>A modern twist to the concept of musical chairs, <em>Pure Ring</em> aspires
