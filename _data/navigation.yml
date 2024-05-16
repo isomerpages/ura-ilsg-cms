@@ -57,3 +57,5 @@ links:
     url: /festival-map/
   - title: FAQ
     url: /faq
+  - title: Installations
+    collection: installations
