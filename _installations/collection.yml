@@ -2,7 +2,7 @@ collections:
   installations:
     output: true
     order:
-      - Installations.md
+      - Overview.md
       - Dandelion.md
       - Kinetic Perspective.md
       - Pure Ring.md
