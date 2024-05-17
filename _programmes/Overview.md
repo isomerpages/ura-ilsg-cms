@@ -16,4 +16,9 @@ variant: tiptap
 <p><strong>Community Green Market x Sunday Social</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="i Light Shuttle Service" src="/images/i_Light_Shuttle_Service.jpg">
+</div>
+<p><strong>i Light Shuttle Service</strong>
+</p>
 <p></p>
