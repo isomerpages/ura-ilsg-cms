@@ -38,6 +38,30 @@ partners for i Light Singapore – Bicentennial Edition in 2019. Yun’s return
 to i Light Singapore 2024 is motivated by her resolve to create delightful
 and deeply memorable experiences for people through her art and design.&nbsp;</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BottleBlooms Workshop" src="/images/BottleBlooms_Workshop_F.jpg">
+</div>
+<p></p>
+<p>Join us for a fun-filled handcrafting workshop with BottleBlooms in collaboration
+with <a href="https://www.instagram.com/discovertanjongpagar/" class="fui-Link ___1rxvrpe f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1hu3pq6 f11qmguv f19f4twv f1tyq0we f1g0x7ka fhxju0i f1qch9an f1cnd47f fqv5qza f1vmzxwi f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">@discovertanjongpagar</a>!
+🌿🌸
+<br>
+<br>Step into the enchanting world of upcycled art with BottleBlooms by artist
+Yun in this special workshop! Explore the beauty of solar-powered blossoms
+intricately crafted from over 1,500 upcycled PET bottles, before trying
+your hand at creating your very own blossoms.
+<br>
+<br>Don’t miss this opportunity to unleash your inner artist and contribute
+to a greener world! Limited spots available, book yours today - <a href="https://docs.google.com/forms/d/e/1FAIpQLSfGRn_rkBEMhxOo_ZJ8fCvlF7ddB_zXs6xAwiI5ZJiOqfWG9Q/viewform" rel="noopener noreferrer nofollow" target="_blank">here</a>!
+<br>
+<br>✨Programme: BottleBlooms Workshop
+<br>📅Date / Time: 1 June 2024, 6.15pm-7.30pm
+<br>📍Venue: Tanjong Pagar Park at Guoco Tower
+<br>
+<br><a href="https://www.instagram.com/explore/tags/ilightsingapore/" class="fui-Link ___1rxvrpe f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1hu3pq6 f11qmguv f19f4twv f1tyq0we f1g0x7ka fhxju0i f1qch9an f1cnd47f fqv5qza f1vmzxwi f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">#iLightSingapore</a> 
+<a href="https://www.instagram.com/explore/tags/urasingapore/" class="fui-Link ___1rxvrpe f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1hu3pq6 f11qmguv f19f4twv f1tyq0we f1g0x7ka fhxju0i f1qch9an f1cnd47f fqv5qza f1vmzxwi f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">#URASingapore</a>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
