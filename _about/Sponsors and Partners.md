@@ -244,36 +244,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Green Is The New Black" src="/images/2024 Sponsor's Logo /Green_is_The_New_Black.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://greenisthenewblack.com/"><img style="width: 100%" height="auto" width="100%" alt="Green Is The New Black" src="/images/2024 Sponsor's Logo /Green_is_The_New_Black.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Let's Go Tour" src="/images/2024 Sponsor's Logo /Lets_go_tour.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.letsgotoursingapore.com/"><img style="width: 100%" height="auto" width="100%" alt="Let's Go Tour" src="/images/2024 Sponsor's Logo /Lets_go_tour.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="O4X" src="/images/2024 Sponsor's Logo /O2_Logo.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.theo4company.com/"><img style="width: 100%" height="auto" width="100%" alt="O4X" src="/images/2024 Sponsor's Logo /O2_Logo.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="People's Association" src="/images/2024 Sponsor's Logo /PA.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.pa.gov.sg/"><img style="width: 100%" height="auto" width="100%" alt="People's Association" src="/images/2024 Sponsor's Logo /PA.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore River Cruise" src="/images/2024 Sponsor's Logo /Singapore_River_Cruise.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://rivercruise.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="Singapore River Cruise" src="/images/2024 Sponsor's Logo /Singapore_River_Cruise.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
