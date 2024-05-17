@@ -7,9 +7,9 @@ image: /images/i light singapore (festival map) .jpg
 ---
 <h4>Follow us <a href="https://www.instagram.com/ilightsingapore/" rel="noopener noreferrer nofollow" target="_blank">@ilightsingapore</a> for sneak peeks of our light art&nbsp;installations</h4>
 <p></p>
-<h3><strong>Marina  Bay</strong></h3>
+<h3><strong>Marina Bay</strong></h3>
 <p></p><a class="isomer-image-wrapper" href="/installations/dandelion/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Dandelion" src="/images/2024 Installations/website_0031_Dandelion_min.jpg"></a>
-<p><strong> Dandelion</strong> 
+<p><strong>Dandelion</strong> 
 <br>Amigo &amp; Amigo and Otis (Australia)
 <br><strong>Location:</strong> Marina Bay Sands Event Plaza
 <br><em>Presented by Marina Bay Sands</em>
@@ -38,7 +38,7 @@ image: /images/i light singapore (festival map) .jpg
 <p><strong>Arc ZERO: Nimbus</strong> 
 <br>Studio James Tapscott (Australia)
 <br><strong>Location: </strong>Pontoon near Red Dot Design Museum</p>
-<p></p><a class="isomer-image-wrapper" href="/installations/liminal-minimal/"><img style="width: 100%" height="auto" width="100%" alt="Liminal; Minimal" src="/images/2024 Installations/website_0019_Liminal_Minimal_min.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/installations/liminal-minimal/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Liminal; Minimal" src="/images/2024 Installations/website_0019_Liminal_Minimal_min.jpg"></a>
 <p><strong>Liminal; Minimal</strong> 
 <br>Benjamin Lim, Yeo Soon Yii (Singapore)
 <br>Singapore University of Technology and Design (SUTD)
@@ -50,11 +50,11 @@ Museum</p>
 <br><strong>Location: </strong>Next to the entrance of Marina Bay Link Mall&nbsp;
 <br><em>In collaboration with Awakening Bangkok from Bangkok, Thailand&nbsp;</em>
 </p>
-<p></p><a class="isomer-image-wrapper" href="/installations/iwagumi-air-space/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0015_Iwagumi_min.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/installations/iwagumi-air-space/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Iwagumi Air Scape" src="/images/2024 Installations/website_0015_Iwagumi_min.jpg"></a>
 <p><strong>Iwagumi Air Scape</strong> 
 <br>ENESS
 <br><strong>Location: </strong>The Promontory at Marina Bay</p>
-<p></p><a class="isomer-image-wrapper" href="/installations/alchemy-of-atmospheres/"><img style="width: 100%" height="auto" width="100%" alt="Alchemy of Atmospheres" src="/images/2024 Installations/website_0013_Alchemy_of_Atmospheres_min.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/installations/alchemy-of-atmospheres/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Alchemy of Atmospheres" src="/images/2024 Installations/website_0013_Alchemy_of_Atmospheres_min.jpg"></a>
 <p><strong>Alchemy of Atmospheres</strong> 
 <br>Janez Grošelj (Slovenia)
 <br><strong>Location: </strong>Lawn beside NTUC Building&nbsp;</p>
@@ -64,7 +64,7 @@ Museum</p>
 <br><strong>Location: </strong>Clifford Square
 <br><em>Presented by The Fullerton Heritage&nbsp;<br>In collaboration with Alibaba Cloud</em>
 </p>
-<p></p><a class="isomer-image-wrapper" href="/installations/lumi/"><img style="width: 100%" height="auto" width="100%" alt="Lumi" src="/images/2024 Installations/website_0009_Lumi_min.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/installations/lumi/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Lumi" src="/images/2024 Installations/website_0009_Lumi_min.jpg"></a>
 <p><strong>Lumi</strong> 
 <br>Ye Sul E. Cho, Sara Ibrahim, Suz Ibrahim, Heather Noble
 <br>65 SQM @ SUSA SPACE (United Kingdom)
@@ -72,7 +72,7 @@ Museum</p>
 <br><em>Presented by South Beach</em> 
 <br><em>Supported by SEAM Design and Illuspace (Thailand) Co. Ltd.</em>
 </p>
-<p></p><a class="isomer-image-wrapper" href="/installations/the-lantern/"><img style="width: 100%" height="auto" width="100%" alt="The Lantern" src="/images/2024 Installations/website_0007_The_Lantern_min.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/installations/the-lantern/"><img style="width: 100%" height="auto" width="100%" alt="Installation- The Lantern" src="/images/2024 Installations/website_0007_The_Lantern_min.jpg"></a>
 <p><strong>The Lantern</strong> 
 <br>Josephine Pun Tsz Kiu (Hong Kong)
 <br>National University of Singapore (NUS)
@@ -81,20 +81,20 @@ Grand Ballroom, Level 1
 <br><em>Presented by Aedas</em> 
 <br><em>Supported by M Social Singapore and Studio M Hotel Singapore</em>
 </p>
-<p></p><a class="isomer-image-wrapper" href="/installations/modern-guru-and-the-path-to-artificial-happiness/"><img style="width: 100%" height="auto" width="100%" alt="Modern Guru and the Path to Artificial Happiness" src="/images/2024 Installations/website_0006_Modern_Guru_and_the_Path_to_Artificial_Happiness_min.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/installations/modern-guru-and-the-path-to-artificial-happiness/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Modern Guru and the Path to Artificial Happiness" src="/images/2024 Installations/website_0006_Modern_Guru_and_the_Path_to_Artificial_Happiness_min.jpg"></a>
 <p><strong>Modern Guru and the Path to Artificial Happiness</strong> 
 <br>ENESS (Australia)
 <br><strong>Location: </strong>Millenia Walk (The Great Hall)
 <br><em>Presented by Millenia Walk</em>
 </p>
 <h3><strong>Tanjong Pagar</strong></h3>
-<p></p><a class="isomer-image-wrapper" href="/installations/kickit-team-tennis/"><img style="width: 100%" height="auto" width="100%" alt="Kickit Team Tennis" src="/images/2024 Installations/website_0004_Kickit_Team_Tennis_min.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/installations/kickit-team-tennis/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Kickit Team Tennis" src="/images/2024 Installations/website_0004_Kickit_Team_Tennis_min.jpg"></a>
 <p><strong>Kickit Team Tennis</strong> 
 <br>Limelight (Hungary)
 <br><strong>Location: </strong>Discover Tanjong Pagar Community Green
 <br><em>Presented by Discover Tanjong Pagar</em>
 </p>
-<p></p><a class="isomer-image-wrapper" href="/installations/bottleblooms/"><img style="width: 100%" height="auto" width="100%" alt="BottleBlooms" src="/images/2024 Installations/website_0000_BottleBlooms_min.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/installations/bottleblooms/"><img style="width: 100%" height="auto" width="100%" alt="Installation- BottleBlooms" src="/images/2024 Installations/website_0000_BottleBlooms_min.jpg"></a>
 <p><strong>BottleBlooms</strong> 
 <br>Yun (Singapore)
 <br><strong>Location: </strong>Tanjong Pagar Park at Guoco Tower, Tras Link
@@ -102,7 +102,7 @@ Park near Orchid Hotel Singapore
 <br><em>Presented by Discover Tanjong Pagar</em> 
 <br><em>Supported by Cantonment Primary School and City Sprouts</em>
 </p>
-<p></p><a class="isomer-image-wrapper" href="/installations/hidden-garden/"><img style="width: 100%" height="auto" width="100%" alt="Hidden Garden" src="/images/2024 Installations/website_0002_Hidden_Garden_min.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/installations/hidden-garden/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Hidden Garden" src="/images/2024 Installations/website_0002_Hidden_Garden_min.jpg"></a>
 <p><strong>Hidden Garden</strong> 
 <br>Koros Design (Hungary)
 <br><strong>Location: </strong>Tras Link Park
