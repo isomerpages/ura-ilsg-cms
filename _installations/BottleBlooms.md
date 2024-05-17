@@ -39,6 +39,7 @@ to i Light Singapore 2024 is motivated by her resolve to create delightful
 and deeply memorable experiences for people through her art and design.&nbsp;</p>
 <p></p>
 <p></p>
+<h4><strong>BottleBlooms Workshop</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="BottleBlooms Workshop" src="/images/BottleBlooms_Workshop_F.jpg">
 </div>
