@@ -261,10 +261,7 @@ variant: tiptap
 <p></p><a class="isomer-image-wrapper" href="https://rivercruise.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="Singapore River Cruise" src="/images/2024 Sponsor's Logo /Singapore_River_Cruise.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WaterB" src="/images/2024 Sponsor's Logo /WaterB.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://waterb.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="WaterB" src="/images/2024 Sponsor's Logo /WaterB.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
