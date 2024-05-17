@@ -28,7 +28,8 @@ sections:
   - infopic:
       title: Sponsors & Partners
       id: infopic
-      image: /images/202403_iIight_Singapore__16_9_SPONSOR_LOGOS__V5.jpg
+      image: /images/2024 Sponsor's Logo
+        /202403_iIight_Singapore__16_9_SPONSOR_LOGOS__V5.jpg
       alt: Sponsors Acknowledgement
 image: /images/23april_website.jpg
 ---
