@@ -207,7 +207,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="4">
-<p>Official Partner</p>
+<p>Official Partners</p>
 </th>
 </tr>
 <tr>
