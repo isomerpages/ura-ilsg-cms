@@ -58,7 +58,10 @@ Museum</p>
 <p><strong>Alchemy of Atmospheres</strong> 
 <br>Janez Grošelj (Slovenia)
 <br><strong>Location: </strong>Lawn beside NTUC Building&nbsp;</p>
-<p></p><a class="isomer-image-wrapper" href="/installations/fountain-of-happiness/"><img style="width: 100%" height="auto" width="100%" alt="Installation-Fountain of Happiness" src="/images/2024 Installations/website_0011_Fountain_of_Happiness_min.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Fountain_of_Happiness" src="/images/2024 Installations/Fountain_of_Happiness.jpg">
+</div>
 <p><strong>Fountain of Happiness</strong> 
 <br>27JUNE Studio (Thailand)
 <br><strong>Location: </strong>Clifford Square
