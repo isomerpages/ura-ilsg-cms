@@ -84,7 +84,7 @@ projects, each a blank canvas waiting to be brought to life by its viewers.&nbsp
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em> Alibaba Cloud</em>
+<p><em>Alibaba Cloud</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
