@@ -1,4 +1,5 @@
 collections:
   sustainability:
     output: true
-    order: []
+    order:
+      - Switch Off, Turn Up.md
