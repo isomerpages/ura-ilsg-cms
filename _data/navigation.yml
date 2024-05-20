@@ -7,10 +7,7 @@ links:
   - title: Programmes
     collection: programmes
   - title: Sustainability
-    url: /permalink
-    sublinks:
-      - title: Switch Off, Turn Up
-        url: /permalink
+    collection: sustainability
   - title: Festival Map
     url: /festival-map/
   - title: FAQ
