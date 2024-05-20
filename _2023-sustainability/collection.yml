@@ -1,5 +1,5 @@
 collections:
-  sustainability:
+  2023-sustainability:
     output: true
     order:
       - Sustainability.md
