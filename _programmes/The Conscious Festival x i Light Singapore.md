@@ -8,7 +8,7 @@ description: The Conscious Festival x i Light Singapore - Embark on a journey of
   strives to guide humanity towards a brighter future.
 ---
 <p></p><a class="isomer-image-wrapper" href="https://www.theconsciousfestival.com/"><img style="width: 100%" height="auto" width="100%" alt="The Conscious Festival x i Light Singapore" src="/images/2024 Programmes/TCFxiLSG.jpg"></a>
-<p><strong><u>Conscious Leaders Bootcamp (Powered by Alibaba Cloud)</u></strong>
+<p><strong>Conscious Leaders Bootcamp (Powered by Alibaba Cloud)</strong>
 </p>
 <p>Embark on a journey of transformation at The Conscious Festival x i Light
 Singapore, a vibrant convergence of wellness, technology, leadership and
