@@ -39,12 +39,12 @@ and utensils will be used, and no plastic straws will be provided.&nbsp;&nbsp;&n
 <p>Find out more information on programme details at: <a href="https://gastrobeats.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://gastrobeats.com.sg/</u></a>
 </p>
 <p><strong>Location</strong> 
-<br>Bayfront Event Space&nbsp;</p>
-<p><strong>Dates</strong> 
-<br>31 May - 23 June 2024</p>
-<p><strong>Time</strong> 
-<br>4pm - 11pm daily&nbsp;</p>
-<p><strong>Pricing</strong> 
+<br>Bayfront Event Space&nbsp;
+<br><strong>Dates</strong> 
+<br>31 May - 23 June 2024
+<br><strong>Time</strong> 
+<br>4pm - 11pm daily&nbsp;
+<br><strong>Pricing</strong> 
 <br>General admission is free, while charges apply for selected activities</p>
 <p>
 <br>
