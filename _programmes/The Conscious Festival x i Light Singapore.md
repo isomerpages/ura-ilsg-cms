@@ -32,11 +32,11 @@ one another and with the Earth that sustains us.</p>
 <p>Find out more information at:
 <br><a href="https://www.theconsciousfestival.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.theconsciousfestival.com/</a>
 </p>
-<p><strong>Location</strong>
-<br>Various locations at Marina Bay</p>
-<p><strong>Dates</strong>
+<p><strong>Location</strong> 
+<br>Various locations at Marina Bay
+<br><strong>Dates</strong> 
 <br>31 May - 2 June 2024
 <br>7 - 9 June 2024
-<br>21 June 2024</p>
-<p><strong>Ticketing</strong>
+<br>21 June 2024
+<br><strong>Ticketing</strong> 
 <br>General admission is free, while charges apply for selected programmes.</p>
