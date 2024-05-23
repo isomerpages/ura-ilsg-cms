@@ -43,7 +43,7 @@ and utensils will be used, and no plastic straws will be provided.&nbsp;&nbsp;&n
 <br><strong>Dates</strong> 
 <br>31 May - 23 June 2024
 <br><strong>Time</strong> 
-<br>4pm - 11pm daily&nbsp;</p>
+<br>4.00pm - 11.00pm daily&nbsp;</p>
 <p><strong>Pricing</strong> 
 <br>General admission is free, while charges apply for selected activities</p>
 <p>
