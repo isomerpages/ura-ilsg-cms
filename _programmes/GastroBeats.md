@@ -36,14 +36,15 @@ cups, flasks and tupperware to reduce waste. Eco-friendly food packaging
 and utensils will be used, and no plastic straws will be provided.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>Don't miss out on this ultimate fusion of food, music, and fun at GastroBeats
 — from bites to beats, it’s a complete treat!</p>
-<p>Find out more information on programme details <a href="https://www.ilightsingapore.gov.sg/programmes/gastrobeats/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
-<p><strong>Location</strong>
+<p>Find out more information on programme details at: <a href="https://gastrobeats.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://gastrobeats.com.sg/</u></a>
+</p>
+<p><strong>Location</strong> 
 <br>Bayfront Event Space&nbsp;</p>
-<p><strong>Dates</strong>
+<p><strong>Dates</strong> 
 <br>31 May - 23 June 2024</p>
-<p><strong>Time</strong>
+<p><strong>Time</strong> 
 <br>4pm - 11pm daily&nbsp;</p>
-<p><strong>Pricing</strong>
+<p><strong>Pricing</strong> 
 <br>General admission is free, while charges apply for selected activities</p>
 <p>
 <br>
