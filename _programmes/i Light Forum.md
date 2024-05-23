@@ -28,16 +28,16 @@ lighting and technologies can pave the way for a decarbonised future.&nbsp;</p>
 <p>Sign up for i Light Forum <a href="https://www.eventbrite.sg/e/walk-ins-first-come-first-served-i-light-singapore-2023-light-forum-tickets-641932255657?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!
 Registration for both sessions comes with a complimentary drink and $10
 Millenia Walk voucher (T&amp;Cs apply)&nbsp;&nbsp;</p>
-<p><strong>Location</strong>
+<p><strong>Location</strong> 
 <br>Millenia Walk
 <br>15 June 2024: Kith Cafe (9 Raffles Boulevard, Millenia Walk, #01-44/45,
 Singapore 039596)
 <br>16 June 2024: VietSmith (9 Raffles Boulevard, Millenia Walk, #01-88/89/90,
 Singapore 039596)&nbsp;
-<br><strong>Dates&nbsp;</strong>
+<br><strong>Dates&nbsp;</strong> 
 <br>15-16 June 2024, Saturday and Sunday
-<br><strong>Time</strong>
+<br><strong>Time</strong> 
 <br>4.30pm to 6pm&nbsp;</p>
-<p><strong>Ticketing&nbsp;</strong>
+<p><strong>Ticketing&nbsp;</strong> 
 <br>15 June session: $8&nbsp;
 <br>16 June session: $8</p>
