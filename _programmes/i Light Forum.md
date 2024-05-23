@@ -37,7 +37,7 @@ Singapore 039596)&nbsp;
 <br><strong>Dates&nbsp;</strong> 
 <br>15-16 June 2024, Saturday and Sunday
 <br><strong>Time</strong> 
-<br>4.30pm to 6pm&nbsp;</p>
+<br>4.30pm to 6.00pm&nbsp;</p>
 <p><strong>Ticketing&nbsp;</strong> 
 <br>15 June session: $8&nbsp;
 <br>16 June session: $8</p>
