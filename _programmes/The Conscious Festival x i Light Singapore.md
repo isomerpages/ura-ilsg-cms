@@ -8,6 +8,8 @@ description: The Conscious Festival x i Light Singapore - Embark on a journey of
   strives to guide humanity towards a brighter future.
 ---
 <p></p><a class="isomer-image-wrapper" href="https://www.theconsciousfestival.com/"><img style="width: 100%" height="auto" width="100%" alt="The Conscious Festival x i Light Singapore" src="/images/2024 Programmes/TCFxiLSG.jpg"></a>
+<p><strong><u>Conscious Leaders Bootcamp (Powered by Alibaba Cloud)</u></strong>
+</p>
 <p>Embark on a journey of transformation at The Conscious Festival x i Light
 Singapore, a vibrant convergence of wellness, technology, leadership and
 eco-consciousness that strives to guide humanity towards a brighter future.</p>
@@ -27,17 +29,14 @@ an extended duration in partnership with i Light Singapore 2024.</p>
 a theme — it is a way of life. Immerse yourself in seven days of activities
 devoted to sustainability and rediscover our intrinsic connections with
 one another and with the Earth that sustains us.</p>
-<p>To find out more information on programme details, please visit:
+<p>Find out more information at:
 <br><a href="https://www.theconsciousfestival.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.theconsciousfestival.com/</a>
 </p>
-<p></p>
-<p><strong>Location</strong> 
-<br>Various locations at Marina Bay (details on full activities and locations
-to be announced in May 2024)</p>
-<p><strong>Date</strong> 
+<p><strong>Location</strong>
+<br>Various locations at Marina Bay</p>
+<p><strong>Dates</strong>
 <br>31 May - 2 June 2024
 <br>7 - 9 June 2024
 <br>21 June 2024</p>
-<p><strong>Ticketing</strong> 
-<br>General admission to <em>The Conscious Festival</em> x <em>i Light Singapore </em>is
-free, while charges apply for certain programmes.</p>
+<p><strong>Ticketing</strong>
+<br>General admission is free, while charges apply for selected programmes.</p>
