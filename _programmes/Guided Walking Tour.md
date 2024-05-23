@@ -10,15 +10,15 @@ description: ""
 tour for an in-depth exploration of the creative ideas behind the light
 art installations.&nbsp;</p>
 <p>Get your tickets to the Guided Walking Tour by Let's Go Tour Singapore
-<a href="https://www.letsgotoursingapore.com/events/ilight-singapore-tour/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u>
+<a href="https://www.letsgotoursingapore.com/events/ilight-singapore-tour/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u> 
 </a>!</p>
-<p><strong>Location</strong>
+<p><strong>Location</strong> 
 <br>i Light Singapore festival grounds&nbsp;
-<br><strong>Dates</strong>
+<br><strong>Dates</strong> 
 <br>1, 8, 15, 22 June 2024
-<br><strong>Time</strong>
+<br><strong>Time</strong> 
 <br>8pm - 9.30pm&nbsp;</p>
-<p><strong>Ticketing&nbsp;</strong>
+<p><strong>Ticketing&nbsp;</strong> 
 <br>Tickets for the guided tours are priced at SGD28 each.</p>
 <p>
 <br>
