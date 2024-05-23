@@ -25,10 +25,10 @@ to unlock instant prizes - i Light Singapore vouchers that can be used
 at The Conscious Festival x i Light Singapore Marketplace and GastroBeats
 and win in the Grand Draw prize of $1000 cash sponsored by South Beach.</p>
 <p>Embark on a journey of purpose.&nbsp;</p>
-<p><strong>Location</strong>
+<p><strong>Location</strong> 
 <br>Various locations around the festival grounds
-<br><strong>Dates</strong>
+<br><strong>Dates</strong> 
 <br>31 May - 23 June 2024
-<br><strong>Time</strong>
+<br><strong>Time</strong> 
 <br>Sunday - Thursday: 7.30pm to 11.00pm
 <br>Friday - Saturday: 7.30pm to 12.00am</p>
