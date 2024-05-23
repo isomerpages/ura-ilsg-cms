@@ -51,7 +51,8 @@ more information.</p>
 <p><strong>Location</strong> 
 <br>Discover Tanjong Pagar Community Green
 <br><strong>Dates</strong> 
-<br>7 - 9 June &amp; 14 - 16 June 2024, Friday to Sunday
+<br>7 - 9 June
+<br>14 - 16 June 2024, Friday to Sunday
 <br><strong>Time&nbsp;</strong> 
 <br>4pm - 10pm</p>
 <p><strong>Ticketing</strong> 
