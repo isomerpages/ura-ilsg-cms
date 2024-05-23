@@ -28,6 +28,3 @@ the picturesque Marina Bay.</p>
 <br>31 May, 1-2 June, 7-9 June, 14 June, 16-17 June and 21-23 June 2024
 <br><strong>Ticketing</strong> 
 <br>$6 per pax</p>
-<p>
-<br>
-</p>
