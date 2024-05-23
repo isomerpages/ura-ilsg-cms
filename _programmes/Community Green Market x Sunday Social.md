@@ -48,14 +48,11 @@ offerings from the food trucks available.</p>
 food, art, and a celebration of talents!</p>
 <p>Follow @discovertanjongpagar and @sundaysocialmarket on Instagram for
 more information.</p>
-<p><strong>Location</strong>
+<p><strong>Location</strong> 
 <br>Discover Tanjong Pagar Community Green
-<br><strong>Dates</strong>
+<br><strong>Dates</strong> 
 <br>7 - 9 June &amp; 14 - 16 June 2024, Friday to Sunday
-<br><strong>Time&nbsp;</strong>
+<br><strong>Time&nbsp;</strong> 
 <br>4pm - 10pm</p>
-<p><strong>Ticketing</strong>
+<p><strong>Ticketing</strong> 
 <br>Admission is free</p>
-<p>
-<br>
-</p>
