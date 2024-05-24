@@ -26,7 +26,7 @@ the picturesque Marina Bay.</p>
 <br>Bayfront South Jetty and Clifford Pier Jetty
 <br><strong>Date</strong> 
 <br>31 May - 2 June, 7 - 9 June, 14, 16, 17, 21 and 23 June
-<br><strong>Time</strong>
+<br><strong>Time</strong> 
 <br>7.30pm - 11pm (last service at 10.30pm)
 <br>Note: Visitors should expect a waiting time of approximately 10-20 min
 between departure.</p>
