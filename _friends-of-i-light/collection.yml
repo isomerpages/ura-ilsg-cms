@@ -1,4 +1,5 @@
 collections:
   friends-of-i-light:
     output: true
-    order: []
+    order:
+      - Carlton City Hotel.md
