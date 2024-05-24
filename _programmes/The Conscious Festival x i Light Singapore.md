@@ -40,3 +40,4 @@ one another and with the Earth that sustains us.</p>
 <br>21 June 2024
 <br><strong>Ticketing</strong> 
 <br>General admission is free, while charges apply for selected programmes.</p>
+<p></p>
