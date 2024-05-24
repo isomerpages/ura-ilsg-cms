@@ -6,7 +6,8 @@ description: ""
 ---
 <p></p>
 <p></p>
-<p></p>
+<p><strong>Tuxedo</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tuxedo Coffee" src="/images/Friends of i Light/Tuxedo_Coffee.png">
 </div>
