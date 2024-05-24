@@ -4,8 +4,10 @@ permalink: /programmes/i-quest/
 variant: tiptap
 description: ""
 ---
-<p>(SGBO lock up + i Quest to be inserted)&nbsp;</p>
-<p>&nbsp;&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="i Quest KV" src="/images/2024 Programmes/i_Quest__KV_.jpg">
+</div>
 <p>The Conscious Festival x i Light Singapore introduces&nbsp;<strong>i Quest</strong>,
 a unique merger of art, advocacy and adventure that rallies the collective
 effort of festival visitors to safeguard the future of regional mangrove
