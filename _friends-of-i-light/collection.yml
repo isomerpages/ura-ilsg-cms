@@ -2,5 +2,6 @@ collections:
   friends-of-i-light:
     output: true
     order:
+      - Downtown Gallery.md
       - Sofitel Singapore City Centre.md
       - Carlton City Hotel.md
