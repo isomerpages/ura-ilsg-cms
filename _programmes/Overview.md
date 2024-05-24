@@ -10,10 +10,7 @@ variant: tiptap
 </p><a class="isomer-image-wrapper" href="/programmes/gastrobeats/"><img style="width: 100%" height="auto" width="100%" alt="GastroBeats" src="/images/2024 Programmes/GastroBeats.jpg"></a>
 <p></p>
 <p><strong>The Conscious Festival x i Light Singapore</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TCF X iLSG" src="/images/2024 Programmes/TCFxiLSG.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/programmes/theconsciousfestivalxilsg/"><img style="width: 100%" height="auto" width="100%" alt="TCF X iLSG" src="/images/2024 Programmes/TCFxiLSG.jpg"></a>
 <p><strong>i Quest</strong>
 </p>
 <p></p>
