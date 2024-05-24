@@ -27,7 +27,6 @@ that can be spent at our festival grounds!&nbsp;</p>
 <br>Scan all 19 QR codes to illuminate the entire virtual mangrove forest
 and qualify for our Grand Draw to win a $1,000 cash prize sponsored by
 South Beach!&nbsp;</p>
-<p>&nbsp;&nbsp;</p>
 <p><em>* The 19 checkpoints include 17 light art installations, GastroBeats, and The Conscious Festival x i Light SG Marketplace</em>&nbsp;
 <br><em>^ Instant prizes include vouchers for GastroBeats and The Conscious Festival x i Light SG Marketplace</em>&nbsp;</p>
 <hr>
