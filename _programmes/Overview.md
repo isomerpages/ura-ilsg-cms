@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 <p><strong>i Light Forum</strong>
 </p>
-<p><strong>Guided Walking Tour</strong>
+<p><strong>Guided Tour</strong>
 </p>
 <p></p><a class="isomer-image-wrapper" href="/programmes/i-light-shuttle-service/"><img style="width: 100%" height="auto" width="100%" alt="i Light Shuttle Service" src="/images/i_Light_Shuttle_Service.jpg"></a>
 <p><strong>i Light Shuttle Service</strong>
