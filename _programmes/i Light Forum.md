@@ -18,7 +18,7 @@ and inspirations behind their works!</p>
 visions. Go behind-the-scenes with a glimpse into the making and execution
 of their illuminated displays.&nbsp;</p>
 <p>Participants will also get to take part in a workshop where they will
-be guided to upcycle a self watering pot from plastic bottles to plant
+be guided to upcycle a self-watering pot from plastic bottles to plant
 their own herbs.</p>
 <p><strong>Illuminating Sustainability: Urban Renewal through Lighting and Technology (16 June)</strong>
 </p>
@@ -38,6 +38,6 @@ Singapore 039596)&nbsp;
 <br>15-16 June 2024, Saturday and Sunday
 <br><strong>Time</strong> 
 <br>4.30pm to 6.00pm&nbsp;</p>
-<p><strong>Ticketing&nbsp;</strong> 
-<br>15 June session: $8&nbsp;
-<br>16 June session: $8</p>
+<p><strong>Ticketing</strong>
+<br>Admission tickets for the <strong>i Light Forum </strong>sessions are priced
+at SGD8</p>
