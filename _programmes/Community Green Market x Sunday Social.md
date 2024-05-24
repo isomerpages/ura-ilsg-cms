@@ -46,8 +46,8 @@ offerings from the food trucks available.</p>
 </ul>
 <p>Gather your friends and family for two unforgettable weekends of music,
 food, art, and a celebration of talents!</p>
-<p>Follow @discovertanjongpagar and @sundaysocialmarket on Instagram for
-more information.</p>
+<p>Follow <a href="https://www.instagram.com/discovertanjongpagar/" rel="noopener noreferrer nofollow" target="_blank">@discovertanjongpagar</a> and
+<a href="https://www.instagram.com/sundaysocialmarket/" rel="noopener noreferrer nofollow" target="_blank">@sundaysocialmarket</a>on Instagram for more information.</p>
 <p><strong>Location</strong> 
 <br>Discover Tanjong Pagar Community Green
 <br><strong>Dates</strong> 
