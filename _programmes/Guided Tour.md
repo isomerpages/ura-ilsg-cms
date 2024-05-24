@@ -6,9 +6,9 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Guided Tour" src="/images/Guided_Tour__16_9_KV_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Guided Tours" src="/images/2024 Programmes/GuidedTours.jpg">
 </div>
-<p><strong>Guided Tour</strong>
+<p><strong>Guided Tours by Let’s Go Tour Singapore&nbsp;</strong>
 </p>
 <p>Join the guides from Let’s Go Tour Singapore on a specially curated walking
 tour for an in-depth exploration of the creative ideas behind the light
