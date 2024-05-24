@@ -9,6 +9,13 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <h3><strong>Location Map</strong></h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Marina Bay Location Map" src="/images/Location Map/202301_iIight_Singapore__A3_MAP_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tanjong Pagar Location Map" src="/images/Location Map/202301_iIight_Singapore__A3_MAP___TG__V2.jpg">
+</div>
 <h3><strong>Marina Bay</strong></h3>
 <p></p><a class="isomer-image-wrapper" href="/installations/dandelion/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Dandelion" src="/images/2024 Installations/website_0031_Dandelion_min.jpg"></a>
 <p><strong>Dandelion</strong> 
