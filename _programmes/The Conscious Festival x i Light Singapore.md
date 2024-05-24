@@ -41,3 +41,7 @@ one another and with the Earth that sustains us.</p>
 <br><strong>Ticketing</strong> 
 <br>General admission is free, while charges apply for selected programmes.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Conscious Festival Schedule x i Light Singapore" src="/images/2024 Programmes/TCF_Agenda__May_20_.jpg">
+</div>
+<p></p>
