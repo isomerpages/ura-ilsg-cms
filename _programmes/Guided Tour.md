@@ -4,6 +4,10 @@ permalink: /programmes/guided-walking-tour/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Guided Tour" src="/images/Guided_Tour__16_9_KV_.jpg">
+</div>
 <p><strong>Guided Tour</strong>
 </p>
 <p>Join the guides from Let’s Go Tour Singapore on a specially curated walking
