@@ -4,31 +4,43 @@ permalink: /programmes/i-quest/
 variant: tiptap
 description: ""
 ---
-<p><strong>The Conscious Festival x i Light Singapore - i Quest&nbsp;</strong>
+<p>(SGBO lock up + i Quest to be inserted)&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<p>The Conscious Festival x i Light Singapore introduces&nbsp;<strong>i Quest</strong>,
+a unique merger of art, advocacy and adventure that rallies the collective
+effort of festival visitors to safeguard the future of regional mangrove
+forests and seaweed meadows while offering a chance to win prizes along
+the way!&nbsp;</p>
+<p><u>(QR CODE TO BE INSERTED)&nbsp;</u>
 </p>
-<p>Change is at our fingertips.</p>
-<p>Mangroves are the only trees that thrive in saltwater. Its dense root
-system is a hiding place for small animals and a nursery habitat for young
-marine species. Fostering incredible biodiversity, mangrove forests also
-help prevent erosion and storm surges, and are formidable carbon sinks.
-However, with urbanisation, expanding coastline development and industrial
-pollution, these wetlands are facing an existential crisis.</p>
-<p>The Conscious Festival x i Light Singapore introduces i Quest,&nbsp; which
-uniquely merges art, advocacy and adventure to collectively inspire visitors
-to safeguard the future of mangrove forests.</p>
-<p>The Conscious Festival x i Light Singapore has partnered with Nature Society
-Singapore to restore Sungei Pangsua Mangrove. The size of the clean-up
-effort will be driven by visitors’ participation in i Quest.</p>
-<p>While exploring the festival, help revitalise both virtual and real-life
-mangrove forests by scanning the QR codes on display, and stand a chance
-to unlock instant prizes - i Light Singapore vouchers that can be used
-at The Conscious Festival x i Light Singapore Marketplace and GastroBeats
-and win in the Grand Draw prize of $1000 cash sponsored by South Beach.</p>
-<p>Embark on a journey of purpose.&nbsp;</p>
-<p><strong>Location</strong> 
-<br>Various locations around the festival grounds
-<br><strong>Dates</strong> 
-<br>31 May - 23 June 2024
-<br><strong>Time</strong> 
-<br>Sunday - Thursday: 7.30pm to 11.00pm
-<br>Friday - Saturday: 7.30pm to 12.00am</p>
+<p><strong>Scan to start your i Quest</strong>&nbsp;
+<br>There are 19 unique QR codes<sup>*</sup> located throughout our festival
+grounds.&nbsp;Enter the quest&nbsp;by scanning a QR&nbsp;code&nbsp;with&nbsp;your
+mobile phone, and be transported into a mesmerising virtual mangrove forest.
+Each unique scan draws a colony of fireflies that illuminates a part of
+the forest.&nbsp;</p>
+<p><strong>Win Instant Prizes</strong>&nbsp;
+<br>Each unique scan automatically enrols you in a lucky dip where you may
+stand a chance to win 1 of 400 instant prizes^, including cash vouchers
+that can be spent at our festival grounds!&nbsp;</p>
+<p><strong>Enter the Grand&nbsp;Draw by completing all scans</strong>&nbsp;
+<br>Scan all 19 QR codes to illuminate the entire virtual mangrove forest
+and qualify for our Grand Draw to win a $1,000 cash prize sponsored by
+South Beach!&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
+<p><em>* The 19 checkpoints include 17 light art installations, GastroBeats, and The Conscious Festival x i Light SG Marketplace</em>&nbsp;
+<br><em>^ Instant prizes include vouchers for GastroBeats and The Conscious Festival x i Light SG Marketplace</em>&nbsp;</p>
+<hr>
+<p><strong>What is our collective impact?</strong>&nbsp;</p>
+<p>In partnership with&nbsp;<em><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.seastainable.co%2Fproducts%2Fcarbonethics-x-seastainable-help-restore-our-marine-ecosystems%3Fvariant%3D39367238418519&amp;data=05%7C02%7Cshuting.voon%40pico.com%7Cd3128b0753274e4bf9dc08dc7bd79dc1%7Cab6f0e1c73be44c3b7fa2e8dde81aae7%7C0%7C0%7C638521413271566049%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=m4s1pSWjBW8Zy%2FDRVfCAQhCH%2Fa1FY3WkW4VnxMbF%2Fuk%3D&amp;reserved=0" class="Hyperlink SCXW187520893 BCX8" rel="noreferrer noopener" target="_blank"><u>Seastainable</u></a></em>,
+The Conscious Festival x i Light Singapore pledges to contribute to a restoration
+programme located in Dompak Island, Bintan, which conducts research on
+coastal preservation methods, trains and hires local communities to plant
+mangrove and seaweed seedlings in their natural habitats.&nbsp;</p>
+<p>The restoration&nbsp;effort will be driven by&nbsp;festival&nbsp;visitors’&nbsp;participation&nbsp;in&nbsp;<strong>i Quest</strong>.&nbsp;Each
+QR code scan contributes 1 point to the festival’s community scoreboard
+in real time.&nbsp;</p>
+<p>Upon attaining 1,000&nbsp;points, we pledge to plant 160 mangrove and
+seaweed seedlings. When this number grows to 3,000, we pledge to increase
+our contribution to 400 seedlings to the restoration programme.&nbsp;</p>
+<p>Embark on a journey of purpose with us!</p>
