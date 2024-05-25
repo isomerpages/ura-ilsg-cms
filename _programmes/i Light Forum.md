@@ -4,6 +4,10 @@ permalink: /programmes/i-light-forum/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="i Light Forum" src="/images/2024 Programmes/202403_iIight_Singapore__16_9_iLight_FORUM__V3.jpg">
+</div>
 <p><strong>i Light Forum&nbsp;</strong>
 </p>
 <p>Hear from local artists and thought leaders in lighting, architecture,
