@@ -45,4 +45,4 @@ in real time.&nbsp;</p>
 <p>Upon attaining 1,000&nbsp;points, we pledge to plant 160 mangrove and
 seaweed seedlings. When this number grows to 3,000, we pledge to increase
 our contribution to 400 seedlings to the restoration programme.&nbsp;</p>
-<p>Embark on a journey of purpose wit</p>
+<p>Embark on a journey of purpose with us!</p>
