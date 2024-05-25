@@ -17,6 +17,12 @@ are welcome to share moments of happiness on the swings and watch as the
 colours transform with each swinging motion. It invites both the young
 and young-at-heart to unwind, play and set off various lighting effects
 to infuse fun colours into the city skyline.&nbsp;</p>
+<p></p>
+<p>The installation leverages&nbsp;Alibaba&nbsp;Cloud's AI-driven sustainability
+solution, Energy Expert, to measure and analyse real-time energy consumption,
+creating a space where art, sustainability and technology could co-exist
+in harmony.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Artist- 27JUNE Studio" src="/images/2024 Installations/website_0012_27junestudio_min.jpg">
 </div>
