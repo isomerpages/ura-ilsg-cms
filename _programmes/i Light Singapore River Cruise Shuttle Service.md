@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Programme - i Light Shuttle Service" src="/images/i_Light_Shuttle_Service.jpg">
 </div>
-<p><strong>i Light river cruise shuttle service</strong>
+<p><strong>i Light Singapore River Cruise Shuttle Service</strong>
 </p>
 <p>Experience the magic of i Light Singapore 2024 with the river cruise shuttle
 service connecting Bayfront South Jetty and Clifford Pier Jetty!</p>
