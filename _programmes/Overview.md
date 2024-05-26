@@ -11,7 +11,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <p><strong>The Conscious Festival x i Light Singapore</strong>
-</p><a class="isomer-image-wrapper" href="/programmes/theconsciousfestivalxilsg/"><img style="width: 100%" height="auto" width="100%" alt="TCF X iLSG" src="/images/2024 Programmes/TCFxiLSG.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/programmes/theconsciousfestivalxilsg/"><img style="width: 100%" height="auto" width="100%" alt="The Conscious Festival x i Light Singapore" src="/images/2024 Programmes/TCFxiLSG.jpg"></a>
 <p></p>
 <p></p>
 <p><strong>i Quest</strong>
@@ -19,7 +19,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <p><strong>Community Green Market by Discover Tanjong Pagar x Sunday Social</strong>
-</p><a class="isomer-image-wrapper" href="/programmes/community-green-market-x-sunday-social/"><img style="width: 100%" height="auto" width="100%" alt="Community Green Market x Sunday Social" src="/images/2024 Programmes/Community_Green_Market.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/programmes/community-green-market-by-discover-tanjong-pagar-x-sunday-social/"><img style="width: 100%" height="auto" width="100%" alt="Community Green Market by Discover Tanjong Pagar x Sunday Social" src="/images/2024 Programmes/Community_Green_Market.jpg"></a>
 <p></p>
 <p></p>
 <p><strong>i Light Forum</strong>
@@ -27,13 +27,10 @@ variant: tiptap
 <p></p>
 <p></p>
 <p><strong>Guided Tour by Let's Go Tour Singapore</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Guided Tour" src="/images/2024 Programmes/Guided_Tour__16_9_KV_.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/programmes/guided-tour/"><img style="width: 100%" height="auto" width="100%" alt="Guided Tour" src="/images/2024 Programmes/Guided_Tour__16_9_KV_.jpg"></a>
 <p></p>
 <p></p>
 <p><strong>i Light Singapore River Cruise Shuttle Service</strong>
-</p><a class="isomer-image-wrapper" href="/programmes/i-light-singapore-river-cruise-shuttle-service/"><img style="width: 100%" height="auto" width="100%" alt="i Light Shuttle Service" src="/images/i_Light_Shuttle_Service.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/programmes/i-light-singapore-river-cruise-shuttle-service/"><img style="width: 100%" height="auto" width="100%" alt="i Light Singapore Shuttle Service" src="/images/i_Light_Shuttle_Service.jpg"></a>
 <p></p>
 <p></p>
