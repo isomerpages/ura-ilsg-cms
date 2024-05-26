@@ -12,9 +12,8 @@ variant: tiptap
 <p></p>
 <p><strong>The Conscious Festival x i Light Singapore</strong>
 </p><a class="isomer-image-wrapper" href="/programmes/theconsciousfestivalxilsg/"><img style="width: 100%" height="auto" width="100%" alt="TCF X iLSG" src="/images/2024 Programmes/TCFxiLSG.jpg"></a>
-<p>
-<br>
-</p>
+<p></p>
+<p></p>
 <p><strong>i Quest</strong>
 </p><a class="isomer-image-wrapper" href="/programmes/i-quest/"><img style="width: 100%" height="auto" width="100%" alt="i Quest" src="/images/2024 Programmes/i_Quest__KV_.jpg"></a>
 <p></p>
