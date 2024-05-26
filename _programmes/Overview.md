@@ -30,7 +30,7 @@ variant: tiptap
 </p><a class="isomer-image-wrapper" href="/programmes/guided-tour/"><img style="width: 100%" height="auto" width="100%" alt="Guided Tour" src="/images/2024 Programmes/Guided_Tour__16_9_KV_.jpg"></a>
 <p></p>
 <p></p>
-<p><strong>i Light Singapore River Cruise Shuttle Service</strong>
-</p><a class="isomer-image-wrapper" href="/programmes/i-light-singapore-river-cruise-shuttle-service/"><img style="width: 100%" height="auto" width="100%" alt="i Light Singapore Shuttle Service" src="/images/i_Light_Shuttle_Service.jpg"></a>
+<p><strong>i Light River Cruise Shuttle Service</strong>
+</p><a class="isomer-image-wrapper" href="/programmes/i-light-river-cruise-shuttle-service/"><img style="width: 100%" height="auto" width="100%" alt="i Light Singapore Shuttle Service" src="/images/i_Light_Shuttle_Service.jpg"></a>
 <p></p>
 <p></p>
