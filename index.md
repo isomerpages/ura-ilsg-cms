@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: i Light Singapore
-description: "Asia’s Leading Sustainable Light Festival "
+description: Asia’s Leading Sustainable Light Festival
 permalink: /
 notification: ""
 sections:
@@ -11,6 +11,13 @@ sections:
       background: /images/2024banner1920x720_1_.jpg
       url: /festival-map/
       button: Festival Map
+  - infopic:
+      title: "i Quest "
+      id: infopic
+      button: "find out more "
+      url: /programmes/i-quest/
+      image: /images/2024 Programmes/i_Quest__KV_.jpg
+      alt: Image alt text
   - infopic:
       title: GastroBeats
       id: infopic
