@@ -46,3 +46,40 @@ in real time.&nbsp;</p>
 seaweed seedlings. When this number grows to 3,000, we pledge to increase
 our contribution to 400 seedlings to the restoration programme.&nbsp;</p>
 <p>Embark on a journey of purpose with us!</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Grand Draw Prize
+<br>Sponsored by</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://southbeachavenue.com/"><img style="width: 100%" height="auto" width="100%" alt="South Beach Logo" src="/images/2024 Sponsor's Logo /South_Beach_version.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/space.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/space.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
