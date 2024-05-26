@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="i Light Forum" src="/images/2024 Programmes/202403_iIight_Singapore__16_9_iLight_FORUM__V3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="i Light Forum" src="/images/2024 Programmes/i_Light_Forum.jpg">
 </div>
 <p><strong>i Light Forum&nbsp;</strong>
 </p>
