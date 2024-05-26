@@ -23,7 +23,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <p><strong>i Light Forum</strong>
-</p><a class="isomer-image-wrapper" href="/programmes/i-light-forum/"><img style="width: 100%" height="auto" width="100%" alt="i Light Forum" src="/images/2024 Programmes/202403_iIight_Singapore__16_9_iLight_FORUM__V3.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/programmes/i-light-forum/"><img style="width: 100%" height="auto" width="100%" alt="i Light Forum" src="/images/2024 Programmes/i_Light_Forum.jpg"></a>
 <p></p>
 <p></p>
 <p><strong>Guided Tour by Let's Go Tour Singapore</strong>
