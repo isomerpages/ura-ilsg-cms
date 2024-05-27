@@ -17,7 +17,7 @@ artworks against the Marina Bay city skyline. Whether one intends to admire
 the light art installations or soak in the vibrant waterfront, this shuttle
 service provides all with a seamless and scenic 10-minute journey across
 the Bay.&nbsp;</p>
-<p>With regular departures, the i Light river cruise shuttle service offered
+<p>With regular departures, the i Light River Cruise Shuttle Service offered
 by Singapore River Cruise and WaterB will be your hassle-free link between
 two key locations along the festival route, ensuring you make the most
 of this captivating celebration of art, innovation and sustainability along
