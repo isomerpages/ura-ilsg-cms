@@ -4,10 +4,7 @@ permalink: /programmes/i-light-forum/
 variant: tiptap
 description: i Light Forum
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="i Light Forum" src="/images/2024 Programmes/i_Light_Forum.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.eventbrite.sg/e/i-light-singapore-2024-i-light-forum-tickets-908158746257?aff=oddtdtcreator"><img style="width: 100%" height="auto" width="100%" alt="i Light Forum" src="/images/2024 Programmes/i_Light_Forum.jpg"></a>
 <p><strong>i Light Forum&nbsp;</strong>
 </p>
 <p>Hear from local artists and thought leaders in lighting, architecture,
