@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Glow PAddle 2024.md
       - Overview.md
       - GastroBeats.md
       - The Conscious Festival x i Light Singapore.md
