@@ -26,6 +26,8 @@ sections:
       url: /programmes/gastrobeats/
       image: /images/2024 Programmes/GastroBeats.jpg
       alt: Image alt text
+      description: "Festival Village of i Light Singapore: A feast of flavours and a
+        symphony of sounds"
   - infopic:
       title: The Conscious Festival x i Light Singapore
       id: infopic
