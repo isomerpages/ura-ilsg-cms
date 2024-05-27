@@ -46,11 +46,8 @@ and beauty to unexpected places.&nbsp;</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Presented by</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
