@@ -44,14 +44,8 @@ projects, each a blank canvas waiting to be brought to life by its viewers.&nbsp
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="3">
 <p>Presented by</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -78,14 +72,8 @@ projects, each a blank canvas waiting to be brought to life by its viewers.&nbsp
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>In Collaboration with</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="3">
+<p>In collaboration with</p>
 </th>
 </tr>
 <tr>
