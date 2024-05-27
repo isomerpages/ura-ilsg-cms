@@ -55,7 +55,8 @@ trying your hand at creating your very own blossoms.
 <br>Don’t miss this opportunity to unleash your inner artist and contribute
 to a greener world! Limited spots available, book yours today - <a href="https://docs.google.com/forms/d/e/1FAIpQLSfGRn_rkBEMhxOo_ZJ8fCvlF7ddB_zXs6xAwiI5ZJiOqfWG9Q/viewform" rel="noopener noreferrer nofollow" target="_blank">here</a>!
 <br>
-<br><strong>Date / Time:</strong> 1 June 2024, 6.15pm-7.30pm
+<br><strong>Date: </strong>1 June 2024
+<br><strong>Time:</strong> 6.15pm-7.30pm
 <br><strong>Venue: </strong>Tanjong Pagar Park at Guoco Tower
 <br>
 </p>
@@ -67,11 +68,8 @@ to a greener world! Limited spots available, book yours today - <a href="https:/
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Presented by</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
