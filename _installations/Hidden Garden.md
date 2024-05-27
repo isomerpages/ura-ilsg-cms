@@ -33,8 +33,7 @@ Réka Magyar and design artist Peter Koros.</p>
 studio strives to bring its audience closer to nature using special materials
 and technologies. It does so through large luminous art installations that
 experiment with inflated lightweight fabric and digitally generated design.</p>
-<p><em>A variety of programmes will be hosted to complement the artworks at Tanjong Pagar. More information will be available next month.</em>
-</p>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -44,11 +43,8 @@ experiment with inflated lightweight fabric and digitally generated design.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Presented by</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
