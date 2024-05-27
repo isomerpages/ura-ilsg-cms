@@ -39,7 +39,7 @@ sections:
   - infopic:
       title: Sponsors & Partners
       id: infopic
-      image: /images/16_9_logo.jpg
+      image: /images/16_9_lockup__website_.jpg
       alt: Sponsors Acknowledgement
 image: /images/23april_website.jpg
 ---
