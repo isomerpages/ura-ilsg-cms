@@ -28,7 +28,10 @@ their own herbs.</p>
 </p>
 <p>Prepare to be enlightened as thought leaders in lighting, architecture,
 and sustainability share their perspectives on how architectural ingenuity,
-lighting and technologies can pave the way for a decarbonised future.&nbsp;</p>
+lighting and technologies can pave the way for a decarbonised future.&nbsp;Panellists
+include Tan Szue Hann, Head of Sustainability and Director, Sustainable
+Urban Renewal at Keppel (Real Estate), Toh Yah Li, Principal of Light Collab
+and Henry Woon, Director of Atelier Ten Singapore.</p>
 <p>Sign up for i Light Forum <a href="https://www.eventbrite.sg/e/i-light-singapore-2024-i-light-forum-tickets-908158746257?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!
 Registration for both sessions comes with a complimentary drink and $10
 Millenia Walk voucher (T&amp;Cs apply)&nbsp;&nbsp;</p>
