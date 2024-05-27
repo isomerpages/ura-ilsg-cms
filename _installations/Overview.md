@@ -19,7 +19,8 @@ image: /images/i light singapore (festival map) .jpg
 <h3><strong>Marina Bay</strong></h3>
 <p></p><a class="isomer-image-wrapper" href="/installations/dandelion/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Dandelion" src="/images/2024 Installations/website_0031_Dandelion_min.jpg"></a>
 <p><strong>Dandelion</strong> 
-<br>Amigo &amp; Amigo and Otis (Australia)
+<br>Amigo &amp; Amigo (Australia)
+<br>Commissioned musical score by Otis Studio&nbsp;
 <br><strong>Location:</strong> Marina Bay Sands Event Plaza
 <br><em>Presented by Marina Bay Sands</em>
 </p>
@@ -31,7 +32,8 @@ image: /images/i light singapore (festival map) .jpg
 </p>
 <p></p><a class="isomer-image-wrapper" href="/installations/pure-ring/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Pure Ring" src="/images/2024 Installations/website_0027_Pure_Ring_min.jpg"></a>
 <p><strong>Pure Ring</strong> 
-<br>Xu Dongliang
+<br>Xu Dongliang (China)
+<br>Toryo International Lighting Design Center&nbsp;
 <br><strong>Location: </strong>Event Square&nbsp;
 <br><em>In collaboration with Glow Shenzhen from Shenzhen, China</em>
 </p>
@@ -69,11 +71,11 @@ Museum</p>
 <br><strong>Location: </strong>Lawn beside NTUC Building&nbsp;</p>
 <p></p><a class="isomer-image-wrapper" href="/installations/fountain-of-happiness/"><img style="width: 100%" height="auto" width="100%" alt="Fountain_of_Happiness" src="/images/2024 Installations/Fountain_of_Happiness.jpg"></a>
 <p><strong>Fountain of Happiness</strong> 
-<br>27JUNE Studio (Thailand)
+<br>27June Studio (Thailand)
 <br><strong>Location: </strong>Clifford Square
-<br><em>Presented by The Fullerton Heritage&nbsp;<br>In collaboration with Alibaba Cloud</em>
+<br><em>Presented by The Fullerton Heritage, in collaboration with Alibaba Cloud</em>
 </p>
-<p></p><a class="isomer-image-wrapper" href="/installations/lumi/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Lumi" src="/images/2024 Installations/website_0009_Lumi_min.jpg"></a>
+<h3><strong>South Beach</strong></h3><a class="isomer-image-wrapper" href="/installations/lumi/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Lumi" src="/images/2024 Installations/website_0009_Lumi_min.jpg"></a>
 <p><strong>Lumi</strong> 
 <br>Ye Sul E. Cho, Sara Ibrahim, Suz Ibrahim, Heather Noble
 <br>65 SQM @ SUSA SPACE (United Kingdom)
@@ -90,7 +92,7 @@ Grand Ballroom, Level 1
 <br><em>Presented by Aedas</em> 
 <br><em>Supported by M Social Singapore and Studio M Hotel Singapore</em>
 </p>
-<p></p><a class="isomer-image-wrapper" href="/installations/modern-guru-and-the-path-to-artificial-happiness/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Modern Guru and the Path to Artificial Happiness" src="/images/2024 Installations/website_0006_Modern_Guru_and_the_Path_to_Artificial_Happiness_min.jpg"></a>
+<h3><strong>Millenia Walk</strong></h3><a class="isomer-image-wrapper" href="/installations/modern-guru-and-the-path-to-artificial-happiness/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Modern Guru and the Path to Artificial Happiness" src="/images/2024 Installations/website_0006_Modern_Guru_and_the_Path_to_Artificial_Happiness_min.jpg"></a>
 <p><strong>Modern Guru and the Path to Artificial Happiness</strong> 
 <br>ENESS (Australia)
 <br><strong>Location: </strong>Millenia Walk (The Great Hall)
