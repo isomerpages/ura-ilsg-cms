@@ -561,8 +561,39 @@ SOTU! A huge thank you to the following organisations:</p>
 </td>
 </tr>
 <tr>
+<td rowspan="5" colspan="1">
+<p><strong>Discover Tanjong Pagar</strong>
+<br><strong>(Pilot Business Improvement District)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Carlton City Hotel Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guoco Tower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Icon Village</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Oasia Hotel Downtown</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OUE Downtown - Downtown Gallery</p>
+</td>
+</tr>
+<tr>
 <td rowspan="10" colspan="1">
-<p><strong>Marina Central (Pilot Business Improvement District)</strong>
+<p><strong>Marina Central</strong>
+<br><strong>(Pilot Business Improvement District)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -655,36 +686,6 @@ SOTU! A huge thank you to the following organisations:</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
-<p><strong>Discover Tanjong Pagar </strong>
-<br><strong>(Pilot Business Improvement District)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Carlton City Hotel Singapore</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Guoco Tower</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Oasia Hotel Downtown</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OUE Downtown - Downtown Gallery</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Icon Village</p>
-</td>
-</tr>
-<tr>
 <td rowspan="8" colspan="1">
 <p><strong>Singapore River One </strong>
 <br><strong>(Pilot Business Improvement District)</strong>
@@ -730,29 +731,6 @@ SOTU! A huge thank you to the following organisations:</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p><strong>Building and Construction Authority</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>BCA Braddell Campus</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>BCA Headquarters (JEM Office Tower)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Council for Estate Agencies</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Council for Estate Agencies</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Ministry of Communications and Information</strong>
 </p>
@@ -773,6 +751,29 @@ SOTU! A huge thank you to the following organisations:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>MND Complex</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Building and Construction Authority</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BCA Braddell Campus</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BCA Headquarters (JEM Office Tower)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Council for Estate Agencies</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Council for Estate Agencies</p>
 </td>
 </tr>
 <tr>
