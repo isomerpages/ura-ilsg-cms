@@ -18,7 +18,7 @@ culture and community spirit, making it a fitting celebration of our 50th
 Anniversary. For more updates on Glow PAddle, please visit<s> </s>registration
 link: <a href="http://go.gov.sg/glowpaddle" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/glowpaddle</a>
 </p>
-<p><strong>URL:</strong>&nbsp; <a href="http://go.gov.sg/glowpaddle" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/glowpaddle</a>
+<p><strong>URL:</strong>&nbsp; <a href="http://go.gov.sg/glowpaddle" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/glowpaddle</a> 
 <br><strong>Location:</strong> PAssion Wave @ Marina Bay, 11 Rhu Cross Singapore
 437440
 <br><strong>Dates: </strong>8, 16 and 23 June 2024
