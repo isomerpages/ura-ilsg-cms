@@ -55,15 +55,8 @@ our contribution to 400 seedlings to the restoration programme.&nbsp;</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Grand Draw Prize
-<br>Sponsored by</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="3">
+<p>Grand Draw Prize sponsored by</p>
 </th>
 </tr>
 <tr>
