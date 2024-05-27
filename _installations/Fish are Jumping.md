@@ -20,7 +20,7 @@ enchanted.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Artist-Studio Toer" src="/images/2024 Installations/website_0024_Studio_Toer_min.jpg">
 </div>
-<p><strong>About the Artist</strong>
+<p><strong>About the Artists</strong>
 </p>
 <p>Studio Toer is a multidisciplinary design studio from the Netherlands,
 founded by Castor Bours and Wouter Widdershoven in 2011.&nbsp;&nbsp;</p>
