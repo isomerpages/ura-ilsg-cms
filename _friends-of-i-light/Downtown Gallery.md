@@ -4,7 +4,7 @@ permalink: /downtown-gallery/
 variant: tiptap
 description: ""
 ---
-<h4>Quote ‘<strong>iLight Tanjong Pagar</strong>’ to enjoy below offers from participating Downtown Gallery stores from 31 May to 23 June 2024</h4>
+<h4>Quote ‘<strong>i Light Tanjong Pagar</strong>’ to enjoy below offers from participating Downtown Gallery stores from 31 May to 23 June 2024</h4>
 <p></p>
 <h4>Body Fit Training Tanjong Pagar</h4>
 <div class="isomer-image-wrapper">
