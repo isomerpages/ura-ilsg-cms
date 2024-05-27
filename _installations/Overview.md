@@ -63,7 +63,7 @@ Museum</p>
 </p>
 <p></p><a class="isomer-image-wrapper" href="/installations/iwagumi-air-space/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Iwagumi Air Scape" src="/images/2024 Installations/website_0015_Iwagumi_min.jpg"></a>
 <p><strong>Iwagumi Air Scape</strong> 
-<br>ENESS
+<br>ENESS (Australia)
 <br><strong>Location: </strong>The Promontory at Marina Bay</p>
 <p></p><a class="isomer-image-wrapper" href="/installations/alchemy-of-atmospheres/"><img style="width: 100%" height="auto" width="100%" alt="Installation- Alchemy of Atmospheres" src="/images/2024 Installations/website_0013_Alchemy_of_Atmospheres_min.jpg"></a>
 <p><strong>Alchemy of Atmospheres</strong> 
