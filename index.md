@@ -35,6 +35,7 @@ sections:
       url: /programmes/theconsciousfestivalxilsg/
       image: /images/2024 Programmes/TCFxiLSG.jpg
       alt: Image alt text
+      description: Immerse yourself in seven days of activities devoted to sustainability
   - infopic:
       title: Sponsors & Partners
       id: infopic
