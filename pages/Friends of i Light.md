@@ -62,6 +62,9 @@ description: ""
 <p><strong>20% off Souths Sea pearls</strong>
 </p>
 <h4>The Dental Studio</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Dental Studio" src="/images/Friends of i Light/The_Dental_Studio.png">
+</div>
 <p><strong>Scaling and polishing with x-ray at $85 nett. Chairside whitening at $872 nett</strong>
 </p>
 <p></p>
