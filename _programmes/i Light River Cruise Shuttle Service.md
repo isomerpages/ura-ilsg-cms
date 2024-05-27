@@ -31,4 +31,4 @@ the picturesque Marina Bay.</p>
 <br>Note: Visitors should expect a waiting time of approximately 10-20 min
 between departures.</p>
 <p><strong>Ticketing</strong> 
-<br>$6 per pax</p>
+<br>SGD6 per pax</p>
