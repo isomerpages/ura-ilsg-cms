@@ -43,5 +43,4 @@ Singapore 039596)&nbsp;
 <br><strong>Time</strong> 
 <br>4.30pm to 6.00pm&nbsp;</p>
 <p><strong>Ticketing</strong> 
-<br>Admission tickets for the <strong>i Light Forum </strong>sessions are priced
-at SGD8</p>
+<br>Admission tickets for the i Light Forum Sessions are priced at SGD8</p>
