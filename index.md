@@ -12,12 +12,13 @@ sections:
       url: /festival-map/
       button: Festival Map
   - infopic:
-      title: "i Quest "
+      title: i Quest
       id: infopic
-      button: "find out more "
+      button: find out more
       url: /programmes/i-quest/
       image: /images/2024 Programmes/i_Quest__KV_.jpg
       alt: Image alt text
+      description: Contribute to a good cause and stand to win prizes!
   - infopic:
       title: GastroBeats
       id: infopic
