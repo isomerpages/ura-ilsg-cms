@@ -211,6 +211,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="http://gorental.sg"><img style="width: 100%" height="auto" width="100%" alt="Go Rental Logo" src="/images/2024 Sponsor's Logo /Go_Rental_version.png"></a>
+<p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.unravelcarbon.com/"><img style="width: 100%" height="auto" width="100%" alt="Unravel Carbon Logo" src="/images/2024 Sponsor's Logo /Unravel_Carbon__1_.png"></a>
 </td>
