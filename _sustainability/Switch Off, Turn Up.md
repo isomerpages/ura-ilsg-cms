@@ -562,7 +562,7 @@ SOTU! A huge thank you to the following organisations:</p>
 </tr>
 <tr>
 <td rowspan="5" colspan="1">
-<p><strong>Discover Tanjong Pagar</strong>
+<p><strong>Discover Tanjong Pagar</strong> 
 <br><strong>(Pilot Business Improvement District)</strong>
 </p>
 </td>
@@ -592,7 +592,7 @@ SOTU! A huge thank you to the following organisations:</p>
 </tr>
 <tr>
 <td rowspan="10" colspan="1">
-<p><strong>Marina Central</strong>
+<p><strong>Marina Central</strong> 
 <br><strong>(Pilot Business Improvement District)</strong>
 </p>
 </td>
