@@ -19,7 +19,7 @@ description: i Light Singapore Media Release
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><a href="https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr24-25" rel="noopener noreferrer nofollow" target="_blank">i Light Singapore opens on 31 May 2024 with 17 eclectic artworks and a slew of exciting programmes to inspire sustainable lifestyles</a>
+<p><a href="https://www.ura.gov.sg/Corporate/Media-Room/Media-Releases/pr24-25" rel="noopener noreferrer nofollow" target="_blank">i LIGHT SINGAPORE OPENS ON 31 MAY 2024 WITH 17 ECLECTIC ARTWORKS AND A SLEW OF EXCITING PROGRAMMES TO INSPIRE SUSTAINABLE LIFESTYLES</a>
 </p>
 </td>
 </tr>
