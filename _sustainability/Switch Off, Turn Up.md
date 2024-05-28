@@ -1,221 +1,1228 @@
 ---
 title: Switch Off, Turn Up
 permalink: /sustainability/switch-off-turn-up/
+variant: tiptap
 description: ""
 ---
-![](/images/Sustainability/website%20banner%20sotu%202.png)
-<p style="font-size:17px; line-height:40px">A key component of the Festival’s sustainability efforts since its inception in 2010, the <b><i>Switch Off, Turn Up (SOTU)</i></b> campaign rallies building owners, corporations and businesses around Marina Bay and beyond to reduce their energy consumption by switching off non-essential lightings and turning up their air conditioning temperatures. Stakeholders are encouraged to continue with these energy-saving habits beyond the Festival period.
-<br><br>
-For the first time this year, the initiative will expand beyond corporations to include schools and the general public. 
-<br><br>
-Take part in <i>SOTU</i> through <i>i Light i Pledge, presented by Alibaba Cloud</i> at <a target="_blank" href="https://www.susgain.com/iLightiPledge">https://www.susgain.com/iLightiPledge</a> today!
-<br><br>
-A huge thank you to the following stakeholders for joining <i>SOTU</i> this year:<br>
-
-<table style="width:100%; border: 1px solid black; border-collapse: separate; padding: 10px"><thead><tr><th>Organisation</th><th>Buildings/Properties</th></tr></thead>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Switch Off, Turn Up" src="/images/Sustainability/202403_iIight_Singapore__SOTU_LANDSCAPE__V2.jpg">
+</div>
+<p>A key component of the Festival’s sustainability efforts since its inception
+in 2010, the <strong><em>Switch Off, Turn Up (SOTU)</em></strong> campaign
+champions energy conservation by encouraging building owners, corporations
+and businesses to power off non-essential lighting and switch air conditioning
+to more optimal temperatures throughout the festival duration. Participating
+organisations are also encouraged to continue with these energy-saving
+habits beyond the festival period.</p>
+<p>This edition, we have more than 200 buildings and properties on board
+SOTU! A huge thank you to the following organisations:</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr><td style="width:50%">
-JTC Corporation</td><td style="width:50%">
-Biopolis<br>
-Fusionopolis One<br>
-Fusionopolis Two<br>
-Multi Utility Hub<br>
-AMK AutoPoint<br>
-AMK Tech I<br>
-AMK Tech II<br>
-AMK TechLink<br>
-Sin Ming AutoCare<br>
-Sin Ming AutoCity<br>
-15 Woodlands Link<br>
-20 Woodlands Link<br>
-Senoko Food Hub&nbsp;<br>
-Trendspace<br>
-JTC Space @ Tampines North<br>
-UbiPlex 1<br>
-15 Changi Business Park<br>
-7 Changi Business Park<br>
-9 Changi Business Park<br>
-Aviation One<br>
-Aviation Two<br>
-Bedok Food City<br>
-EASTech<br>
-EASTLink<br>
-Gourmet East Kitchen<br>
-Shimei East Kitchen<br>
-AutoBay<br>
-AutoHub<br>
-KB-1<br>
-Chemicals Hub<br>
-Space@TBP<br>
-Space@Tuas<br>
-JTC Summit<br>
-PPH<br>
-SkyTech<br>
-Cleantech One<br>
-Cleantech Two<br>
-LaunchPad@JID<br>
-Space@Buroh<br>
-Space@Gul&nbsp;<br>
-Surface Engineering Hub</td></tr>
-
-<tr><td style="width:50%">
-CapitaLand</td><td style="width:50%"> <u>Malls</u><br> 
-Bedok Mall<br> 
-Bugis+<br> 
-Bugis Junction<br> 
-Bukit Panjang Plaza<br> 
-Funan<br> 
-IMM<br> 
-Jcube<br> 
-Junction 8<br> 
-Lot One<br> 
-Plaza Singapura<br>
-Raffles City<br> 
-Sengkang Grand Mall<br> 
-Tampines Mall<br> 
-Westgate<br><br>
-<u> Workspace Properties</u><br>
-Aperia<br>
-Asia Square Tower 2<br>
-Capital Tower<br>
-CapitaGreen*<br>
-CapitaSky<br>
-CapitaSpring*<br>
-Six Battery Road*<br>
-21 Collyer Quay<br>
-4 Changi South Lane<br>
-80 Bendemeer Road<br>
-53 Serangoon North<br>
-622 Toa Payoh Lorong 1<br>
-Galaxis<br>
-Nexus @one-north<br>
-Plaza 8 @ CBP<br>
-Siemens Centre<br>
-Techplace 1<br>
-Techplace 2<br>
-Teletech Park 1<br>
-Teletech Park 2<br>
-UBIX<br>
-Xilin Districentre D</td></tr>
-
-<tr><td style="width:50%">MUJI (Singapore) Pte Ltd</td><td style="width:50%">
-Muji - 100AM<br>
-Muji - 313@Somerset<br>
-Muji - ION Orchard<br>
-Muji - Bugis Junction<br>
-Muji - Jem<br>
-Muji - Jewel Changi Airport<br>
-Muji - Paragon<br>
-Muji - Plaza Singapura<br>
-Muji - Raffles City<br>
-Muji - Tampines 1<br>
-Muji - VivoCity</td></tr>
-
-<tr><td style="width:50%">
-Marina Bay Alliance<br> (Pilot Business Improvement District)</td><td style="width:50%">
-Marina Bay Financial Centre Tower 1, 2, 3<br>
-One Raffles Quay<br>
-One Fullerton<br>
-OUE Bayfront<br>
-The Fullerton Bay Hotel Singapore<br>
-The Fullerton Hotel Singapore</td></tr>
-
-<tr><td style="width:50%">Marina Central<br>
-(Pilot Business Improvement District)</td><td style="width:50%">
-Centennial Tower<br>
-Conrad Centennial Singapore<br>
-Millenia Tower<br>
-Millenia Walk<br>
-South Beach Consortium Pte Ltd<br>
-Suntec City<br>
-Suntec City Tower 1 to 5<br>
-The Ritz-Carlton, Millenia Singapore</td></tr>
-
-<tr><td style="width:50%">Raffles Place Alliance<br>(Pilot Business Improvement District)</td><td style="width:50%">
-CapitaGreen*<br>
-CapitaSpring*<br>
-Ocean Financial Centre<br>
-One Raffles Place<br>
-Republic Plaza<br>
-Singapore Land Tower<br>
-Six Battery Road*</td></tr>
-	
-<tr><td style="width:50%">Marina Bay Sands Pte Ltd</td><td style="width:50%">
-ArtScience Museum<br>
-Marina Bay Sands Casino<br>
-Marina Bay Sands Hotel<br>
-Sands Expo &amp; Convention Centre<br>
-The Shoppes</td></tr>
-
-<tr><td style="width:50%">Arts House Limited</td><td style="width:50%">
-Aliwal Arts Centre<br> 
-Goodman Arts Centre<br> 
-Stamford Arts Centre<br> 
-The Arts House<br> 
-Victoria Theatre &amp; Concert Hall</td></tr>
-
-<tr><td style="width:50%">UOL Group Limited</td><td style="width:50%">
-KINEX<br>
-Novena Square<br>
-Odeon Towers<br>
-United Square</td></tr>
-
-<tr><td style="width:50%">National Parks Board</td><td style="width:50%">
-Animal Quarantine Centre<br>
-Changi Animal &amp; Plant Quarantine Changi Airfreight Centre<br>
-The Animal Lodge</td></tr>
-
-<tr><td style="width:50%">Ministry of National Development</td><td style="width:50%">
-MND Complex<br>
-JEM Office Tower</td></tr>
-
-<tr><td style="width:50%">Nanyang Girls' High School</td><td style="width:50%">
-Nanyang Girls' High School Campus<br> 
-	NYGH Boarding School</td></tr>
-
-<tr><td style="width:50%">Papa Palheta Pte Ltd</td><td style="width:50%">
-Chye Seng Huat Hardware Coffee Bar<br>
-PPP Coffee</td></tr>
-
-<tr><td style="width:50%">RC Hotels Ptd Ltd</td><td style="width:50%">
-Fairmont Singapore<br>
-Swissotel The Stamford</td></tr>
-	
-<tr><td style="width:50%">Alibaba, Alibaba Cloud Singapore, Lazada Group</td><td style="width:50%">
-	Lazada One</td></tr>
-	
-<tr><td style="width:50%">
-Council for Estate Agencies</td><td style="width:50%"> Council for Estate Agencies (HDB Hub)</td></tr>
-
-<tr><td style="width:50%">
-Edgefield Secondary School</td><td style="width:50%"> Edgefield Secondary School</td></tr>
-
-<tr><td style="width:50%">
-Gardens by the Bay</td><td style="width:50%"> Bay South Garden</td></tr>
-	
-<tr><td style="width:50%">Housing Development Board (HDB)</td><td style="width:50%"> HDB Hub</td></tr>	
-	
-<tr><td style="width:50%">MCST 1500</td><td style="width:50%"> 20 Collyer Quay</td></tr>
-	
-<tr><td style="width:50%">National Gallery Singapore</td><td style="width:50%"> National Gallery Singapore</td></tr>
-
-<tr><td style="width:50%">Pico Art</td><td style="width:50%"> Pico Creative Building</td></tr>
-	
-<tr><td style="width:50%">Recovery Advisers Pte Ltd</td><td style="width:50%"> OUE Downtown 2, Unit 18-08</td></tr>
-	
-<tr><td style="width:50%">Red Dot Singapore Pte Ltd</td><td style="width:50%"> Red Dot Design Museum</td></tr>
-
-<tr><td style="width:50%">Singapore Recreation Club</td><td style="width:50%"> Singapore Recreation Club</td></tr>
-	
-<tr><td style="width:50%">Singapore River One Limited</td><td style="width:50%"> Singapore River One Limited</td></tr>
-	
-<tr><td style="width:50%">Sunray Woodcraft Construction Pte Ltd</td><td style="width:50%"> Sunray Building</td></tr>
-
-<tr><td style="width:50%">Tanjong Pagar Town Council</td><td style="width:50%"> 166 Bukit Merah Centre</td></tr>
-
-<tr><td style="width:50%">Urban Redevelopment Authority</td><td style="width:50%"> The URA Centre</td></tr>
-	
-<tr><td style="width:50%">Water B</td><td style="width:50%">
- Water B kiosks along Singapore River</td></tr>
-</tbody></table>
-<i>* Concurrently acknowledged under parent group of participating properties/organisations</i></p>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Organisation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Buildings / Properties</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="61" colspan="1">
+<p><strong>CapitaLand</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Workspace Properties</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Acer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aperia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asia Square Tower 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Capital Tower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CapitaGreen*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CapitaSky*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CapitaSpring</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cintech I, III and IV</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporation Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Galaxis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KA Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nexus</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nordic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pacific Tech Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Plaza 8 @ CBP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Siemens</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Siemens Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Six Battery Road*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sparkle</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Techplace 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Techplace 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teletech Park</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Alpha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Aries</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Capricorn</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Galen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Gemini</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Kendall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ubix</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xilin Districentre D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rochester Commons</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Techlink</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Techview</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Jalan Kilang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Changi South Lane</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 SPD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 Toh Guan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 Collyer Quay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31IBP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Ubi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>53 Serangoon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>80 Bendemeer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>138 Depot Road</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>622 Toa Payoh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Malls</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bedok Mall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bugis+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bugis Junction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bukit Panjang Plaza</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CQ @ Clarke Quay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Funan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IMM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Junction 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lot One</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Plaza Singapura</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Raffles City</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sengkang Grand Mall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tampines Mall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Westgate</p>
+</td>
+</tr>
+<tr>
+<td rowspan="42" colspan="1">
+<p><strong>JTC Corporation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Autobay @ Kakit Buki</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bedok Industrial Park E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Biopolis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Block 69 Ayer Rajah Crescent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Block 73 Ayer Rajah Crescent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Block 73B Ayer Rajah Crescent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Block 75 Ayer Rajah Crescent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Block 77 Ayer Rajah Crescent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Defu Industrial City</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Defu Lane 10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EASTech</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eastlink</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Foodhub@Senoko</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fusionopolis One</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fusionopolis Two</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fusionopolis 2A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gourmet East Kitchen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JTC Aviation Two</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JTC Logistics Hub @ Gul</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JTC Summit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JTC Space @ Tampines North</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jurong Town Hall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kaki Bukit AutoHub</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kampong Ubi Industrial Estate</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KB-1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kranji Green</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pixel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shimei East Kitchen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tampines Industrial Park A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Trendspace</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>UbiPlex 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Woodlands North Coast</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YS-One</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 Changi Business Park Central 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 Changi Business Park Central 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Changi Business Park Central 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Woodlands Loop</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Woodlands Link</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Woodlands Link</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>79 Ayer Rajah Crescent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>81 Ayer Rajah Crescent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>690 West Camp Road</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p><strong>Discover Tanjong Pagar</strong> 
+<br><strong>(Pilot Business Improvement District)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Carlton City Hotel Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guoco Tower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Icon Village</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Oasia Hotel Downtown</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OUE Downtown - Downtown Gallery</p>
+</td>
+</tr>
+<tr>
+<td rowspan="10" colspan="1">
+<p><strong>Marina Central</strong> 
+<br><strong>(Pilot Business Improvement District)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Centennial Tower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Conrad Centennial Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Esplanade - Theatres on the Bay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Millenia Tower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Millenia Walk</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pan Pacific Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>South Beach</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Suntec City Tower 1 to 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Suntec City</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Ritz-Carlton, Millenia Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p><strong>Raffles Place Alliance </strong>
+<br><strong>(Pilot Business Improvement District)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CapitaGreen*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CapitaSpring*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ocean Financial Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>One Raffles Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Republic Plaza</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Land Tower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Six Battery Road*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="8" colspan="1">
+<p><strong>Singapore River One </strong>
+<br><strong>(Pilot Business Improvement District)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clarke Quay Central</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Grand Copthorne Waterfront</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>M social</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Paradox Singapore Merchant Court</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Riverside Point</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Robertson Walk</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore River One Limited</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Quayside</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ministry of Communications and Information</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Old Hill Street Police Station</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Ministry of National Development</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JEM Office Tower (Level 9)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MND Complex</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Building and Construction Authority</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BCA Braddell Campus</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BCA Headquarters (JEM Office Tower)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Council for Estate Agencies</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Council for Estate Agencies</p>
+</td>
+</tr>
+<tr>
+<td rowspan="11" colspan="1">
+<p><strong>National Parks Board</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Animal Management Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Animal &amp; Plant Health Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Animal Quarantine Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Changi Animal &amp; Plant Quarantine Station</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Headquarters</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HortPark</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>House 3 and 6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JEM Office Tower (Level 9)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jurong Lake Gardens</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pasir Panjang Nursery</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Raffles Building</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p><strong>People's Association</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North West Community Development Council (CDC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>South East Community Development Council (CDC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>South West Community Development Council (CDC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>One Punggol</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Tampines Hub</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wisma Geylang Serai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>PUB</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marina Barrage</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Urban Redevelopment Authority</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The URA Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p><strong>Tanjong Pagar Town Council</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Block 36 Holland Drive (Buona Vista Community Club)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Block 88A Dawson Road</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Block 671A/B &amp; 672A/B Buffalo Road</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Block 38 Margaret Drive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Block 120A Kim Tian Road</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Block 166 Bukit Merah Central</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore University of Social Sciences</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore University of Social Sciences</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore University of Technology and Design</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore University of Technology and Design</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>Institute of Technical Education</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ITE Headquarters &amp; ITE College Central</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ITE College East</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ITE College West</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Orchard Turn Developments Pte Ltd</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ION Orchard</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Aedas Pte Ltd</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Metropolis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Alibaba Cloud Singapore</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lazada One</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gardens by the Bay</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gardens by the Bay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p><strong>Marina Bay Sands Pte Ltd</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ArtScience Museum</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Marina Bay Sands Casino</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Marina Bay Sands Hotel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sands Expo &amp; Convention Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Shoppes</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MCST 1500</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 Collyer Quay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="11" colspan="1">
+<p><strong>MUJI</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muji - 100 AM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muji - 313@Somerset</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muji - ION Orchard</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muji - Bugis Junction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muji - Jem</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muji - Jewel Changi Airport</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muji - Paragon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muji - Plaza Singapura</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muji - Raffles City</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muji - Tampines 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muji - VivoCity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>National Gallery Singapore</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Gallery Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>OUE Allianz Bayfront LLP</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OUE Bayfront</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Pico Art International Pte Ltd</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pico Art International Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Raffles Quay Asset Management Pte Ltd</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Marina Bay Financial Centre Tower 1, 2, 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>One Raffles Quay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Red Dot Design Singapore Pte Ltd</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Red Dot Design Museum</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sunray Woodcraft Construction Pte Ltd</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sunray Building, 9 Sungei Kadut St 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Recreation Club</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Recreation Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>The Fullerton Heritage</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>One Fullerton</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Fullerton Hotel Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Fullerton Bay Hotel Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="6" colspan="1">
+<p><strong>UOL Group Limited</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KINEX</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Novena Square</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Odeon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>United Square Office</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>United Square Shopping Mall</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Velocity@Novena Square</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Water B</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Water B kiosks along Singapore River</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>*concurrently acknowledged under parent group of participating properties/organisations</p>
+<p></p>

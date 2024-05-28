@@ -3,32 +3,14 @@ links:
   - title: About
     collection: about
   - title: Installations
-    url: /installations/
-    sublinks:
-      - title: BottleBlooms
-        url: /installations/bottleblooms/
-      - title: Hidden Garden
-        url: /installations/hidden-garden/
-      - title: Kickit Team Tennis
-        url: /installations/kickit-team-tennis/
-      - title: Kinetic Perspective
-        url: /installations/kinetic-perspective/
-      - title: Liminal; Minimal
-        url: /installations/liminal-minimal
-      - title: Lumi
-        url: /installations/lumi/
-      - title: Modern Guru & the Path
-        url: /installations/modern-guru-and-the-path-to-artificial-happiness/
-      - title: Spin Me a Yarn
-        url: /installations/spin-me-a-yarn/
-      - title: The Lantern
-        url: /installations/the-lantern/
+    collection: installations
   - title: Programmes
-    url: /programmes/
-    sublinks:
-      - title: GastroBeats
-        url: /programmes/gastrobeats
-      - title: The Conscious Festival x iLSG
-        url: /programmes/theconsciousfestivalxilsg/
+    collection: programmes
+  - title: Sustainability
+    collection: sustainability
+  - title: Festival Map
+    url: /festival-map/
+  - title: Friends of i Light
+    url: /friends-of-i-light/
   - title: FAQ
     url: /faq

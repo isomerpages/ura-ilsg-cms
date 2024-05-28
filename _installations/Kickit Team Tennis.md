@@ -35,14 +35,16 @@ The collective organises its own light festival, curates thematic light
 art events worldwide and also mentors young talents under its Limelight
 Academy programme.</p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Presented by</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>

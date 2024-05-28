@@ -27,17 +27,19 @@ an extended duration in partnership with i Light Singapore 2024.</p>
 a theme — it is a way of life. Immerse yourself in seven days of activities
 devoted to sustainability and rediscover our intrinsic connections with
 one another and with the Earth that sustains us.</p>
-<p>To find out more information on programme details, please visit:
+<p>Find out more information at:
 <br><a href="https://www.theconsciousfestival.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.theconsciousfestival.com/</a>
 </p>
-<p></p>
 <p><strong>Location</strong> 
-<br>Various locations at Marina Bay (details on full activities and locations
-to be announced in May 2024)</p>
-<p><strong>Date</strong> 
+<br>Various locations at Marina Bay
+<br><strong>Dates</strong> 
 <br>31 May - 2 June 2024
 <br>7 - 9 June 2024
-<br>21 June 2024</p>
-<p><strong>Ticketing</strong> 
-<br>General admission to <em>The Conscious Festival</em> x <em>i Light Singapore </em>is
-free, while charges apply for certain programmes.</p>
+<br>21 June 2024
+<br><strong>Ticketing</strong> 
+<br>General admission is free, while charges apply for selected programmes.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Conscious Festival Schedule x i Light Singapore" src="/images/2024 Programmes/TCF_Agenda__May_20_.jpg">
+</div>
+<p></p>

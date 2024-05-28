@@ -1,0 +1,7 @@
+collections:
+  2023-sustainability:
+    output: true
+    order:
+      - Sustainability.md
+      - i Light i Pledge.md
+      - Switch Off, Turn Up.md

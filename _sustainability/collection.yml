@@ -2,6 +2,5 @@ collections:
   sustainability:
     output: true
     order:
-      - Sustainability.md
-      - i Light i Pledge.md
+      - i Quest.md
       - Switch Off, Turn Up.md

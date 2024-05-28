@@ -2,5 +2,10 @@ collections:
   programmes:
     output: true
     order:
+      - Overview.md
       - GastroBeats.md
       - The Conscious Festival x i Light Singapore.md
+      - Community Green Market by Discover Tanjong Pagar x Sunday Social.md
+      - i Light Forum.md
+      - Guided Tour.md
+      - i Light River Cruise Shuttle Service.md

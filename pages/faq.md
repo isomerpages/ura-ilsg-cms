@@ -14,7 +14,7 @@ General admission to the Festival is free, while charges apply for certain <a hr
 The opening hours for the Festival are 7.30pm to 11.00pm daily, with extended hours to 12.00am on Fridays and Saturdays. Opening hours for various programmes may vary.<br>
 </p>
 
-<p style="font-size:17px; line-height:40px"><b>Q4.How do I get to&nbsp;i&nbsp;Light Singapore 2024 via public transport?</b><br>
+<p style="font-size:17px; line-height:40px"><b>Q4. How do I get to&nbsp;i&nbsp;Light Singapore 2024 via public transport?</b><br>
 Most MRT lines (East-West Line, North-South Line, Downtown Line, Circle Line and Thomson-East Coast Line) have stops near the festival area. The nearest stations are:<br>
 </p>
 

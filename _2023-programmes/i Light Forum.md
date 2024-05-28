@@ -1,7 +1,7 @@
 ---
 title: i Light Forum
 permalink: /programmes/i-light-forum/
-description: ""
+description: i Light Forum
 variant: tiptap
 ---
 <img src="/images/Programmes/revised%20with%20background%20light%20forum.png">

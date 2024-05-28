@@ -15,7 +15,7 @@ colors:
       color: "#4e964b"
     - title: media-color-five
       color: "#4e964b"
-description: Asia’s Leading Sustainable Light Festival held in Marina Bay
+description: Asia’s Leading Sustainable Light Festival
 permalink: none
 baseurl: ""
 exclude:
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d33k8lpct4fpp1.amplifyapp.com
 prod: https://master.d33k8lpct4fpp1.amplifyapp.com
-shareicon: /images/iLSGShareBanner.jpg
+shareicon: /images/23april_website.jpg
 is_government: false
 facebook-pixel: "766362044901589"
 google_analytics: UA-1472842-26
