@@ -13,11 +13,6 @@ variant: tiptap
 <p><strong>The Conscious Festival x i Light Singapore</strong>
 </p><a class="isomer-image-wrapper" href="/programmes/theconsciousfestivalxilsg/"><img style="width: 100%" height="auto" width="100%" alt="The Conscious Festival x i Light Singapore" src="/images/2024 Programmes/TCFxiLSG.jpg"></a>
 <p></p>
-<p></p>
-<p><strong>i Quest</strong>
-</p><a class="isomer-image-wrapper" href="/programmes/i-quest/"><img style="width: 100%" height="auto" width="100%" alt="i Quest" src="/images/2024 Programmes/i_Quest__KV_.jpg"></a>
-<p></p>
-<p></p>
 <p><strong>Community Green Market by Discover Tanjong Pagar x Sunday Social</strong>
 </p><a class="isomer-image-wrapper" href="/programmes/community-green-market-by-discover-tanjong-pagar-x-sunday-social/"><img style="width: 100%" height="auto" width="100%" alt="Community Green Market by Discover Tanjong Pagar x Sunday Social" src="/images/2024 Programmes/Community_Green_Market.jpg"></a>
 <p></p>
