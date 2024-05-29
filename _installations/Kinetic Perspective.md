@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="kinetic-perspective" src="/images/2024 Installations/RL/Kinetic_Perspective.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="kinetic-perspective" src="/images/2024 Installations/Irl/Kinetic_Perspective.jpg">
 </div>
 <p><strong>Kinetic Perspective</strong> 
 <br>Juan Fuentes Studio (Spain)
