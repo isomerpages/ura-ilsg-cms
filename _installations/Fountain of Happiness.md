@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="fountain-of-happiness" src="/images/2024 Installations/RL/Fountain_of_Happiness.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="fountain-of-happiness" src="/images/2024 Installations/Irl/Fountain_of_Happiness.jpg">
 </div>
 <p><strong>Fountain of Happiness</strong> 
 <br>27June Studio (Thailand)
