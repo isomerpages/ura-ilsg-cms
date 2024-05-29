@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BOB-the-nice-world" src="/images/2024 Installations/RL/BOB_the_nice_world.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="bob-the-nice-world" src="/images/2024 Installations/Irl/BOB_the_nice_world.jpg">
 </div>
 <p><strong>BOB the nice world</strong> 
 <br>BOB the nice guy (Thailand)
