@@ -5,8 +5,7 @@ description: GastroBeats -The Festival Village of i Light Singapore 2024 that
   will feature a wide range of gastronomic delights and musical experiences.
 variant: tiptap
 ---
-<p></p><a class="isomer-image-wrapper" href="https://gastrobeats.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="GastroBeats" src="/images/2024 Programmes/GastroBeats.jpg"></a>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://gastrobeats.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="GastroBeats" src="/images/2024 Programmes/Irl /GastroBeats.jpg"></a>
 <p><strong>GastroBeats - Festival Village of i Light Singapore: A feast of flavours and a symphony of sounds.</strong>
 </p>
 <p></p>
