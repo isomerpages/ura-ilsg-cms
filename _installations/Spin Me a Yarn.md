@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="spin-me-a-yarn" src="/images/2024 Installations/RL/Spin_Me_a_Yarn.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="spin-me-a-yarn" src="/images/2024 Installations/Irl/Spin_Me_a_Yarn.jpg">
 </div>
 <p><strong>Spin Me a Yarn</strong> 
 <br>Studio Vertigo (United Kingdom)
