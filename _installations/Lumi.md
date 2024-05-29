@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Installation-Lumi" src="/images/2024 Installations/website_0009_Lumi_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Lumi" src="/images/2024 Installations/RL/Lumi.jpg">
 </div>
 <p><strong>Lumi</strong> 
 <br>Ye Sul E. Cho, Sara Ibrahim, Suz Ibrahim, Heather Noble
