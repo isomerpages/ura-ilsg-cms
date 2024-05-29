@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Installations/website_0015_Iwagumi_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="iwagumi-air-space" src="/images/2024 Installations/RL/Iwagumi_Air_Scape.jpg">
 </div>
 <p><strong>Iwagumi Air Scape</strong> 
 <br>ENESS (Australia)
