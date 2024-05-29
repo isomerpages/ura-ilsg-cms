@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BottleBlooms" src="/images/2024 Installations/RL/BottleBlooms.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="bottleblooms" src="/images/2024 Installations/Irl/BottleBlooms.jpg">
 </div>
 <p><strong>BottleBlooms</strong> 
 <br>Yun (Singapore)
