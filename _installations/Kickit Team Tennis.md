@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="kickit-team-tennis" src="/images/2024 Installations/RL/Kickit_Team_Tennis.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="kickit-team-tennis" src="/images/2024 Installations/Irl/Kickit_Team_Tennis.jpg">
 </div>
 <p><strong>Kickit Team Tennis</strong> 
 <br>Limelight (Hungary)
