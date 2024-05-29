@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Installation- Pure Ring" src="/images/2024 Installations/website_0027_Pure_Ring_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Pure-Ring" src="/images/2024 Installations/RL/Pure_Ring.jpg">
 </div>
 <p><strong>Pure Ring</strong> 
 <br>Xu Dongliang (China)
