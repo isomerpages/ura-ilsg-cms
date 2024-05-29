@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pure-Ring" src="/images/2024 Installations/RL/Pure_Ring.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Pure-Ring" src="/images/2024 Installations/Irl/Pure_Ring.jpg">
 </div>
 <p><strong>Pure Ring</strong> 
 <br>Xu Dongliang (China)
