@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="fish-are-jumping" src="/images/2024 Installations/RL/Fish_are_Jumping.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="fish-are-jumping" src="/images/2024 Installations/Irl/Fish_are_Jumping.jpg">
 </div>
 <p><strong>Fish are Jumping</strong> 
 <br>Studio Toer (The Netherlands)
