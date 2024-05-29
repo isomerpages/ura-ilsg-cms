@@ -7,10 +7,7 @@ variant: tiptap
 <h4>Follow us <a href="https://www.instagram.com/ilightsingapore/" rel="noopener noreferrer nofollow" target="_blank">@ilightsingapore</a> for inside scoop of our programmes.</h4>
 <p></p>
 <p><strong>GastroBeats</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GastroBeats" src="/images/2024 Programmes/Irl /GastroBeats.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/programmes/gastrobeats/"><img style="width: 100%" height="auto" width="100%" alt="GastroBeats" src="/images/2024 Programmes/Irl /GastroBeats.jpg"></a>
 <p></p>
 <p><strong>The Conscious Festival x i Light Singapore</strong>
 </p><a class="isomer-image-wrapper" href="/programmes/theconsciousfestivalxilsg/"><img style="width: 100%" height="auto" width="100%" alt="The Conscious Festival x i Light Singapore" src="/images/2024 Programmes/TCFxiLSG.jpg"></a>
