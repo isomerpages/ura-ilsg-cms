@@ -5,8 +5,9 @@ variant: tiptap
 description: Discover Dandelion by Amigo and Amigo (Singapore) - i Light Singapore 2024
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Installation- Dandelion" src="/images/2024 Installations/website_0031_Dandelion_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="dandelion" src="/images/2024 Installations/RL/Dandelion.jpg">
 </div>
 <p><strong>Dandelion</strong> 
 <br>Amigo &amp; Amigo (Australia)
