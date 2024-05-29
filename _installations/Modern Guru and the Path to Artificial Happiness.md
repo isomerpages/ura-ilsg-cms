@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="modern-guru-and-the-path-to-artificial-happiness" src="/images/2024 Installations/RL/ModernGuruandthePathtoArtificialHappiness.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="modern-guru-and-the-path-to-artificial-happiness" src="/images/2024 Installations/Irl/ModernGuruandthePathtoArtificialHappiness.jpg">
 </div>
 <p><strong>Modern Guru and the Path to Artificial Happiness</strong> 
 <br>ENESS (Australia)
