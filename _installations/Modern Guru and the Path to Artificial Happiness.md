@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Installation-Modern Guru and the Path to Artificial Happiness" src="/images/2024 Installations/website_0006_Modern_Guru_and_the_Path_to_Artificial_Happiness_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="modern-guru-and-the-path-to-artificial-happiness" src="/images/2024 Installations/Irl/ModernGuruandthePathtoArtificialHappiness.jpg">
 </div>
 <p><strong>Modern Guru and the Path to Artificial Happiness</strong> 
 <br>ENESS (Australia)

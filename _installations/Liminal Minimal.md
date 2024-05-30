@@ -7,7 +7,7 @@ description: Discover Liminal; Minimal by Benjamin Lim and Yeo Soon Yii
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Installation-Liminal; Minimal" src="/images/2024 Installations/website_0019_Liminal_Minimal_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="liminal-minimal" src="/images/2024 Installations/Irl/Liminal_Minimal.jpg">
 </div>
 <p><strong>Liminal; Minimal</strong> 
 <br>Benjamin Lim, Yeo Soon Yii (Singapore)

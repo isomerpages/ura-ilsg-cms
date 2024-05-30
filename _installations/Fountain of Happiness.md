@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fountain_of_Happiness" src="/images/2024 Installations/Fountain_of_Happiness.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="fountain-of-happiness" src="/images/2024 Installations/Irl/Fountain_of_Happiness.jpg">
 </div>
 <p><strong>Fountain of Happiness</strong> 
 <br>27June Studio (Thailand)
@@ -77,14 +77,9 @@ projects, each a blank canvas waiting to be brought to life by its viewers.&nbsp
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><em>Alibaba Cloud</em>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/space.png">
-</div>
 </td>
 </tr>
 </tbody>
