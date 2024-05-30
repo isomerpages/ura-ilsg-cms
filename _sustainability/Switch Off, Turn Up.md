@@ -347,10 +347,15 @@ SOTU! A huge thank you to the following organisations:</p>
 </td>
 </tr>
 <tr>
-<td rowspan="42" colspan="1">
+<td rowspan="56" colspan="1">
 <p><strong>JTC Corporation</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>AMK AutoPoint</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Autobay @ Kakit Buki</p>
 </td>
@@ -388,6 +393,26 @@ SOTU! A huge thank you to the following organisations:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Block 77 Ayer Rajah Crescent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cleantech One</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cleantech Two A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cleantech Two B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cleantech Three</p>
 </td>
 </tr>
 <tr>
@@ -442,6 +467,11 @@ SOTU! A huge thank you to the following organisations:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>JTC Chemicals Hub</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>JTC Logistics Hub @ Gul</p>
 </td>
 </tr>
@@ -482,12 +512,52 @@ SOTU! A huge thank you to the following organisations:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Launchpad@JID</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Medtech Hub</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Pixel</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Shimei East Kitchen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SM AutoCare</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SM AutoCity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Space@Gul</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Space@Tuas</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Space@Tuas Biomedical Park</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Surface Engineering Hub</p>
 </td>
 </tr>
 <tr>
@@ -777,6 +847,15 @@ SOTU! A huge thank you to the following organisations:</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Housing Development Board</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HDB Hub (HDB HQ)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="11" colspan="1">
 <p><strong>National Parks Board</strong>
 </p>
@@ -836,10 +915,15 @@ SOTU! A huge thank you to the following organisations:</p>
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="7" colspan="1">
 <p><strong>People's Association</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Heartbeat@Bedok</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>North West Community Development Council (CDC)</p>
 </td>
@@ -1130,6 +1214,20 @@ SOTU! A huge thank you to the following organisations:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>One Raffles Quay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>RC Hotels Pte Ltd</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fairmont Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Swissôtel The Stamford</p>
 </td>
 </tr>
 <tr>
