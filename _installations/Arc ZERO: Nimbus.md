@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="arc-zero-nimbus" src="/images/2024 Installations/Irl/Arc_ZERO_Nimbus.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Arc ZERO Nimbus" src="/images/2024 Installations/Irl/Arc_ZERO_Nimbus__w_.jpg">
 </div>
 <p><strong>Arc ZERO: Nimbus</strong> 
 <br>Studio James Tapscott (Australia)
