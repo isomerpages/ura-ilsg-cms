@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="alchemy-of-atmospheres" src="/images/2024 Installations/Irl/Alchemy_of_Atmosphere.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Alchemy of Atmospheres" src="/images/2024 Installations/Irl/Alchemy_of_Atmospheres_w_.jpg">
 </div>
 <p><strong>Alchemy of Atmospheres</strong> 
 <br>Janez Grošelj (Slovenia)
