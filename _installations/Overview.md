@@ -7,7 +7,6 @@ image: /images/i light singapore (festival map) .jpg
 ---
 <h4>Follow us <a href="https://www.instagram.com/ilightsingapore/" rel="noopener noreferrer nofollow" target="_blank">@ilightsingapore</a> for sneak peeks of our light art&nbsp;installations</h4>
 <h3><strong>Marina Bay</strong></h3>
-<p></p>
 <p></p><a class="isomer-image-wrapper" href="/installations/dandelion/"><img style="width: 100%" height="auto" width="100%" alt="dandelion" src="/images/2024 Installations/Irl/Dandelion.jpg"></a>
 <p><strong>Dandelion</strong> 
 <br>Amigo &amp; Amigo (Australia)
@@ -36,7 +35,6 @@ image: /images/i light singapore (festival map) .jpg
 <br>Studio Vertigo (United Kingdom)
 <br><strong>Location: </strong>Mist Walk</p>
 <p></p>
-<p></p>
 <p></p><a class="isomer-image-wrapper" href="/installations/fish-are-jumping/"><img style="width: 100%" height="auto" width="100%" alt="fish-are-jumping" src="/images/2024 Installations/Irl/Fish_are_Jumping.jpg"></a>
 <p><strong>Fish are Jumping</strong> 
 <br>Studio Toer (The Netherlands)
@@ -46,7 +44,6 @@ image: /images/i light singapore (festival map) .jpg
 <p><strong>Arc ZERO: Nimbus</strong> 
 <br>Studio James Tapscott (Australia)
 <br><strong>Location: </strong>Pontoon near Red Dot Design Museum</p>
-<p></p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/installations/liminal-minimal/"><img style="width: 100%" height="auto" width="100%" alt="liminal-minimal" src="/images/2024 Installations/Irl/Liminal_Minimal.jpg"></a>
 <p><strong>Liminal; Minimal</strong> 
@@ -105,7 +102,6 @@ Grand Ballroom, Level 1
 <br><em>Presented by Millenia Walk</em>
 </p>
 <h3><strong>Tanjong Pagar</strong></h3>
-<p></p>
 <p></p><a class="isomer-image-wrapper" href="/installations/kickit-team-tennis/"><img style="width: 100%" height="auto" width="100%" alt="Kickit Team Tennis" src="/images/2024 Installations/Irl/Kickit_Team_Tennis_w_.jpg"></a>
 <p><strong>Kickit Team Tennis</strong> 
 <br>Limelight (Hungary)
