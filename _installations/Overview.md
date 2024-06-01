@@ -42,7 +42,7 @@ image: /images/i light singapore (festival map) .jpg
 <br>Studio Toer (The Netherlands)
 <br><strong>Location: </strong>Waterbody near Marina Bay lower boardwalk steps</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/installations/arc-zero-nimbus/"><img style="width: 100%" height="auto" width="100%" alt="zero-nimbus" src="/images/2024 Installations/Irl/Arc_ZERO_Nimbus.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/installations/arc-zero-nimbus/"><img style="width: 100%" height="auto" width="100%" alt="Arc ZERO Nimbus" src="/images/2024 Installations/Irl/Arc_ZERO_Nimbus__w_.jpg"></a>
 <p><strong>Arc ZERO: Nimbus</strong> 
 <br>Studio James Tapscott (Australia)
 <br><strong>Location: </strong>Pontoon near Red Dot Design Museum</p>
@@ -67,7 +67,7 @@ Museum</p>
 <br>ENESS (Australia)
 <br><strong>Location: </strong>The Promontory at Marina Bay</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/installations/alchemy-of-atmospheres/"><img style="width: 100%" height="auto" width="100%" alt="alchemy-of-atmospheres" src="/images/2024 Installations/Irl/Alchemy_of_Atmosphere.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/installations/alchemy-of-atmospheres/"><img style="width: 100%" height="auto" width="100%" alt="Alchemy of Atmospheres" src="/images/2024 Installations/Irl/Alchemy_of_Atmospheres_w_.jpg"></a>
 <p><strong>Alchemy of Atmospheres</strong> 
 <br>Janez Grošelj (Slovenia)
 <br><strong>Location: </strong>Lawn beside NTUC Building&nbsp;</p>
@@ -105,7 +105,8 @@ Grand Ballroom, Level 1
 <br><em>Presented by Millenia Walk</em>
 </p>
 <h3><strong>Tanjong Pagar</strong></h3>
-<p></p><a class="isomer-image-wrapper" href="/installations/kickit-team-tennis/"><img style="width: 100%" height="auto" width="100%" alt="kickit-team-tennis" src="/images/2024 Installations/Irl/Kickit_Team_Tennis.jpg"></a>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="/installations/kickit-team-tennis/"><img style="width: 100%" height="auto" width="100%" alt="Kickit Team Tennis" src="/images/2024 Installations/Irl/Kickit_Team_Tennis_w_.jpg"></a>
 <p><strong>Kickit Team Tennis</strong> 
 <br>Limelight (Hungary)
 <br><strong>Location: </strong>Discover Tanjong Pagar Community Green
@@ -121,7 +122,7 @@ Park near Orchid Hotel Singapore
 <br><em>Supported by Cantonment Primary School and City Sprouts</em>
 </p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/installations/hidden-garden/"><img style="width: 100%" height="auto" width="100%" alt="Hidden-Garden" src="/images/2024 Installations/Irl/Hidden_Garden.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/installations/hidden-garden/"><img style="width: 100%" height="auto" width="100%" alt="Hidden Garden" src="/images/2024 Installations/Irl/Hidden_Garden__w_.jpg"></a>
 <p><strong>Hidden Garden</strong> 
 <br>Koros Design (Hungary)
 <br><strong>Location: </strong>Tras Link Park
