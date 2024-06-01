@@ -22,6 +22,10 @@ by Singapore River Cruise and WaterB will be your hassle-free link between
 two key locations along the festival route, ensuring you make the most
 of this captivating celebration of art, innovation and sustainability along
 the picturesque Marina Bay.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="I LIGHT RIVER CRUISE SHUTTLE SERVICE" src="/images/2024 Programmes/Irl /I_LIGHT_RIVER_CRUISE.jpg">
+</div>
 <p><strong>Location</strong> 
 <br>Bayfront South Jetty and Clifford Pier Jetty
 <br><strong>Date</strong> 
