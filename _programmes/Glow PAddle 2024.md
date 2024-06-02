@@ -17,11 +17,10 @@ Marina Bay aboard stunning LED-lit dragon boats to view selected artworks
 of i Light Singapore 2024 on water, while getting up close with the nation’s
 iconic landmarks, delivered by tour guides.</p>
 <p>This unique experience promises an unforgettable blend of excitement,
-culture and community spirit, making it a fitting celebration of our 50th
-Anniversary.</p>
-<p></p>
-<p>For more updates on Glow PAddle, please visit<s> </s>registration link:
-<a href="http://go.gov.sg/glowpaddle" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/glowpaddle</a>
+culture and community spirit, making it a fitting celebration of PAssion
+Wave's 50th Anniversary.
+<br>
+<br>For more updates on Glow PAddle, please visit: <a href="http://go.gov.sg/glowpaddle" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/glowpaddle</a>
 <br>
 <br><strong>Location:</strong> PAssion Wave @ Marina Bay, 11 Rhu Cross Singapore
 437440
