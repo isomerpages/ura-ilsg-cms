@@ -27,6 +27,6 @@ Anniversary.</p>
 <br><strong>Location:</strong> PAssion Wave @ Marina Bay, 11 Rhu Cross Singapore
 437440
 <br><strong>Dates: </strong>8, 16 and 23 June 2024
-<br><strong>Timing: </strong>6pm to 10pm</p>
+<br><strong>Timing: </strong>5pm to 10pm</p>
 <p><strong>Ticketing: </strong>$30 per PAssion card member and $45 per non-PAssion
 card member</p>
