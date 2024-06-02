@@ -24,7 +24,7 @@ of this captivating celebration of art, innovation and sustainability along
 the picturesque Marina Bay.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="i Light River Cruise Shuttle Service" src="/images/2024 Programmes/Irl /i_LIGHT_RIVER_CRUISE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="I LIGHT RIVER CRUISE SHUTTLE SERVICE" src="/images/2024 Programmes/Irl /I_LIGHT_RIVER_CRUISE.jpg">
 </div>
 <p><strong>Location</strong> 
 <br>Bayfront South Jetty and Clifford Pier Jetty
