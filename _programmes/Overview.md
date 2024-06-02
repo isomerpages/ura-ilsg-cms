@@ -28,3 +28,6 @@ variant: tiptap
 </p><a class="isomer-image-wrapper" href="/programmes/i-light-river-cruise-shuttle-service/"><img style="width: 100%" height="auto" width="100%" alt="i Light Singapore Shuttle Service" src="/images/i_Light_Shuttle_Service.jpg"></a>
 <p></p>
 <p></p>
+<p><strong>Glow PAddle 2024</strong>
+</p><a class="isomer-image-wrapper" href="/glow-paddle-2024/"><img style="width: 100%" height="auto" width="100%" alt="Glow PAddle" src="/images/2024 Programmes/Irl /Glow_PAddle.jpg"></a>
+<p></p>
