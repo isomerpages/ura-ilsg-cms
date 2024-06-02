@@ -14,9 +14,8 @@ Association PAssion Wave as part of the 50th Anniversary celebration activities
 to bring the community together. Under the guidance of certified dragon
 boat trainers, participants will embark on an exhilarating journey into
 Marina Bay aboard stunning LED-lit dragon boats to view selected artworks
-of i Light Singapore 2024 on water, all while being immersed in the historical
-narrative of PAssion Wave's legacy and Singapore's iconic landmarks, delivered
-by tour guides.</p>
+of i Light Singapore 2024 on water, while getting up close with the nation’s
+iconic landmarks, delivered by tour guides.</p>
 <p>This unique experience promises an unforgettable blend of excitement,
 culture and community spirit, making it a fitting celebration of our 50th
 Anniversary.</p>
