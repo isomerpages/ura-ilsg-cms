@@ -84,8 +84,7 @@ Museum</p>
 <br><em>Presented by South Beach</em> 
 <br><em>Supported by SEAM Design and Illuspace (Thailand) Co. Ltd.</em>
 </p>
-<p></p>
-<p></p><a class="isomer-image-wrapper" href="/installations/the-lantern/"><img style="width: 100%" height="auto" width="100%" alt="the-lantern" src="/images/2024 Installations/Irl/The_Lantern.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/installations/the-lantern/"><img style="width: 100%" height="auto" width="100%" alt="The Lantern" src="/images/Installations/RL Images/The_Lantern__w_.jpg"></a>
 <p><strong>The Lantern</strong> 
 <br>Josephine Pun Tsz Kiu (Hong Kong)
 <br>National University of Singapore (NUS)
