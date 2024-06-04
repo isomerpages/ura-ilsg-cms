@@ -1,16 +1,17 @@
 ---
 title: Terms and Conditions
 permalink: /terms-and-conditions/ilightsingapore-instagram-contest/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h3><strong><u>i Light Singapore 2024 - Giveaway T&amp;Cs</u></strong></h3>
 <p>Applicable to all social media giveaways conducted from 6 - 23 June 2024
 on i Light Singapore social media platforms, including Instagram and Facebook:</p>
-<p>Eligibility: The giveaway is open to individuals at least 18 years old
-and residing in the country where the giveaway is being held (Singapore).
-Employees of the organiser, its affiliates, subsidiaries, and advertising
-and promotion agencies are not eligible to participate in the giveaway.</p>
+<p>Eligibility: The giveaway is open to individuals that are at least 18
+years old and residing in the country where the giveaway is being held
+(Singapore). Employees of the organiser, its affiliates, subsidiaries,
+and advertising and promotion agencies are not eligible to participate
+in the giveaway.</p>
 <h4></h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -21,7 +22,7 @@ instructions on the giveaway post.</p>
 <li>
 <p>Winner Selection: The winner will be chosen at random from all eligible
 entries. The organiser will notify the winner via direct message on social
-media. If the winner do not respond within 48 hours, the organiser reserves
+media. If the winner does not respond within 48 hours, the organiser reserves
 the right to choose another winner.</p>
 <p></p>
 </li>
@@ -33,7 +34,7 @@ non-transferable and cannot be exchanged for cash or any other prize.&nbsp;</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>The stay is only valid until 21st November 2024 at lyf funan Singapore.
+<p>The stay is only valid until 21st November 2024 at lyf Funan Singapore.
 The stay is valid for 2 pax only. The stay is non-transferable &amp; non-refundable.
 Stay dates cannot be changed once finalised. Guests will be liable for
 any expenses incurred during their stay, and any cancellation penalties
@@ -90,4 +91,4 @@ agree to be bound by these terms and conditions.</p>
 <p>
 <br>
 </p>
-<p style="text-align:center">- END OF TERMS AND CONDITIONS -</p>
+<p>- END OF TERMS AND CONDITIONS -</p>
