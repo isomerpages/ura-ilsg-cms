@@ -91,4 +91,4 @@ agree to be bound by these terms and conditions.</p>
 <p>
 <br>
 </p>
-<p>- END OF TERMS AND CONDITIONS -</p>
+<p style="text-align:center">- END OF TERMS AND CONDITIONS -</p>
