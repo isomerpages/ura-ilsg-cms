@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="the-lantern" src="/images/2024 Installations/Irl/The_Lantern.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="The Lantern" src="/images/Installations/RL Images/The_Lantern__w_.jpg">
 </div>
 <p><strong>The Lantern</strong> 
 <br>Josephine Pun Tsz Kiu (Hong Kong)
