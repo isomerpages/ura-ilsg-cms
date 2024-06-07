@@ -8,7 +8,11 @@ description: ""
 <h4><strong>Carlton City Hotel</strong><br>Tuxedo</h4><a class="isomer-image-wrapper" href="https://www.carltoncity.sg/dining/tuxedo"><img style="width: 100%" height="auto" width="100%" alt="Tuxedo Coffee" src="/images/Friends of i Light/Tuxedo_Coffee.png"></a>
 <p><strong>Extended business hours from 31 May to 23 June 2024 and complimentary glass of house pour Wine/Beer/ or Ice Lemon Tea with any order of main</strong>
 </p>
-<h4><strong>Sofitel Singapore City Centre</strong><br>1864</h4><a class="isomer-image-wrapper" href="https://www.sofitel-singapore-citycentre.com/gastronomy/gastronomy-1864"><img style="width: 100%" height="auto" width="100%" alt="1864 Promotion" src="/images/AP2407859_CoffeeCup_Card_KW1804__1_.jpg"></a>
+<h4><strong>Sofitel Singapore City Centre</strong><br>1864</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="1864 Promotion" src="/images/WhatsApp_Image_2024_06_07_at_12_18_04_PM.jpg">
+</div>
 <p><strong>Free cup of coffee to-go, on 7 to 9 June and 14 -16 June. 6 days capped at 50 cups per day.</strong>
 </p>
 <h4><strong>Downtown Gallery</strong><br>Quote ‘i Light Tanjong Pagar’ to enjoy below offers from participating Downtown Gallery stores from 31 May to 23 June 2024</h4>
