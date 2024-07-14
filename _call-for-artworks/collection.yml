@@ -2,4 +2,5 @@ collections:
   call-for-artworks:
     output: true
     order:
+      - 2025 Open Call.md
       - Call for Artworks 2025.md
