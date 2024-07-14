@@ -1,5 +1,5 @@
 collections:
-  programmes:
+  2024-programmes:
     output: true
     order:
       - Overview.md
