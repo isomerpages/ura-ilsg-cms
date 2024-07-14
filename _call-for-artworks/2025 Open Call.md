@@ -8,7 +8,7 @@ description: 2025 Open Call
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2025 Open Call" src="/images/2025 Call for Artworks/Call_for_Artwork_Open_Call__W_.jpg">
 </div>
-<h2>i light Singapore 2025 Open Call </h2>
+<h2>i light Singapore 2025 Open Call</h2>
 <p></p>
 <p>Asia’s leading sustainable light festival will return for its 11th edition
 to showcase new and exciting light art installations at Marina Bay and
