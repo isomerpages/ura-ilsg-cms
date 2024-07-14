@@ -21,10 +21,11 @@ and the community.
 <br>
 <br>The curatorial theme of i Light Singapore 2025, <strong><em>To Gather</em></strong>,
 calls for innovative light art installations that draw inspiration from
-the colour red - elements that are essential for sustaining life, red symbolises
-the primary energy source that radiates light and warmth for life on Earth.
-As the lifeblood of our collective existence, red is the common thread
-that binds us all together – a call to embrace unity in diversity.
+the colour red - associated with elements that are essential for sustaining
+life, red symbolises the primary energy source that radiates light and
+warmth for life on Earth. As the lifeblood of our collective existence,
+red is the common thread that binds us all together – a call to embrace
+unity in diversity.
 <br>
 <br><strong><em>To Gather</em></strong> strives to spark conversations, foster
 vibrant communities and inspire collective action so as to effect positive
