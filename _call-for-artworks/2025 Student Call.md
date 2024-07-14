@@ -28,7 +28,7 @@ change for a more sustainable future.
 <br>
 </p>
 <p>Be one of the light art installations to transform Marina Bay into magical
-landscape of light and colour at i Light Singapore 2024!</p>
+landscape of light and colour at i Light Singapore 2025!</p>
 <p>
 <br>For further information, download the Student Call document here .
 <br>
