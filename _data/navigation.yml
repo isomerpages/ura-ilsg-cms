@@ -4,13 +4,5 @@ links:
     collection: about
   - title: Installations
     collection: installations
-  - title: 2024 Programmes
-    collection: 2024-programmes
-  - title: 2024 Sustainability
-    collection: 2024-sustainability
-  - title: Festival Map
-    url: /festival-map/
-  - title: Friends of i Light
-    url: /friends-of-i-light/
-  - title: FAQ
-    url: /faq
+  - title: Call for Artworks
+    collection: call-for-artworks
