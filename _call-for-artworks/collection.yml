@@ -1,0 +1,4 @@
+collections:
+  call-for-artworks:
+    output: true
+    order: []
