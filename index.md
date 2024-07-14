@@ -8,9 +8,9 @@ sections:
   - hero:
       title: i Light Singapore
       subtitle: Asia’s Leading Sustainable Light Festival
-      background: /images/2024banner1920x720_1_.jpg
-      url: /festival-map/
-      button: Festival Map
+      background: /images/About/ilsgherobanner(f).jpg
+      url: https://www.instagram.com/ilightsingapore/
+      button: Follow Us
   - infopic:
       title: 2025 Open Call
       id: infopic
