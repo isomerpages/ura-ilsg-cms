@@ -31,8 +31,8 @@ vibrant communities and inspire collective action so as to effect positive
 change for a more sustainable future.
 <br>
 <br>Be one of the light art installations to transform Marina Bay into magical
-landscape of light and colour at i Light Singapore 2025!</p>
-<p>
+landscape of light and colour at i Light Singapore 2025!
+<br>
 <br>For further information, download the Student Call document here .
 <br>
 <br>Fill in the Student Call application form here and submit by <strong>27 September 2024, 2359hr GMT+8</strong>.</p>
