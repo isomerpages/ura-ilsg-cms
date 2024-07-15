@@ -26,7 +26,7 @@ calls for innovative light art installations that draw inspiration from
 the colour red in moving the human collective. As the lifeblood of our
 collective existence, red is the common thread that binds us all together
 – a call to embrace unity in diversity.</p>
-<p><strong><em>To Gather  </em></strong>strives to spark conversations, foster
+<p><strong><em>To Gather </em></strong>strives to spark conversations, foster
 vibrant communities and inspire collective action so as to effect positive
 change for a more sustainable future.
 <br>
