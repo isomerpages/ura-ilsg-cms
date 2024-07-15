@@ -4,9 +4,9 @@ permalink: /2025-student-call/
 variant: tiptap
 description: 2025 Student Call
 ---
-<p></p>
+<h2></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 Student Call" src="/images/2025 Call for Artworks/Call_for_Artwork_Student_Call__W_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Student call" src="/images/2025 Call for Artworks/Call_for_Artworks_Student_Call__W_.jpg">
 </div>
 <h2>i Light Singapore 2025 Student Call</h2>
 <p></p>
