@@ -2,6 +2,7 @@ collections:
   ilsg2024archive:
     output: true
     order:
+      - Media Release.md
       - Sponsors and Partners.md
       - Call for Artworks 2024.md
       - i Light Singapore 2024 Open Call.md
