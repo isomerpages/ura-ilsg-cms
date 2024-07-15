@@ -14,20 +14,23 @@ description: 2025 Student Call
 Singapore Student Call enables creative youths to realise their potential
 through light art installations.
 <br>
-<br>For this edition, the curatorial theme of i Light Singapore 2025, <strong><em>To Gather</em></strong>,
+<br>Asia’s leading sustainable light festival will return for its 11th edition
+to showcase new and exciting light art installations at Marina Bay and
+its neighbouring precincts.</p>
+<p>For this edition, we invite artists to explore various forms of Sustainability
+and Sustainable Living - of environment, economy and culture - and examine
+how light art can create conversations about our lifestyles, decision making
+and the community.</p>
+<p>The curatorial theme of i Light Singapore 2025, <strong><em>To Gather</em></strong>,
 calls for innovative light art installations that draw inspiration from
-the colour red - associated with elements that are essential for sustaining
-life, red symbolises the primary energy source that radiates light and
-warmth for life on Earth. As the lifeblood of our collective existence,
-red is the common thread that binds us all together – a call to embrace
-unity in diversity.</p>
-<p>
-<br><strong><em>To Gather</em></strong> strives to spark conversations, foster
+the colour red in moving the human collective. As the lifeblood of our
+collective existence, red is the common thread that binds us all together
+– a call to embrace unity in diversity.</p>
+<p><strong><em>To Gather  </em></strong>strives to spark conversations, foster
 vibrant communities and inspire collective action so as to effect positive
 change for a more sustainable future.
 <br>
-</p>
-<p>Be one of the light art installations to transform Marina Bay into magical
+<br>Be one of the light art installations to transform Marina Bay into magical
 landscape of light and colour at i Light Singapore 2025!</p>
 <p>
 <br>For further information, download the Student Call document here .
