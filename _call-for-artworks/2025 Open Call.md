@@ -27,10 +27,9 @@ vibrant communities and inspire collective action so as to effect positive
 change for a more sustainable future.
 <br>
 </p>
-<p>For more information, download the<strong> </strong><u>Open Call document </u>
+<p>For more information, download the<strong> </strong><u>Open Call document</u>
 </p>
-<p>Fill in the<u> Open Call application form</u> and submit by <strong>27 September 2024, 2359hr GMT+8.</strong>
+<p>Fill in the <u>Open Call application form</u> and submit by <strong>27 September 2024, 2359hr GMT+8.</strong>
 <br>
 <br>
 </p>
-<p></p>
