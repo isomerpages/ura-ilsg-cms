@@ -6,15 +6,15 @@ description: 2025 Open Call
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Open Call" src="/images/2025 Call for Artworks/Call_for_Artworks_Open_Call__W_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Open Call" src="/images/2025 Call for Artworks/Call_for_Artworks_Open_Call__W_.jpg">
 </div>
 <h2>i Light Singapore 2025 Open Call</h2>
 <p></p>
 <p>Asia’s leading sustainable light festival will return for its 11th edition
-to showcase new and exciting light art installations at Marina Bay and
+next year to showcase exciting light art installations at Marina Bay and
 its neighbouring precincts.</p>
-<p>For this edition, we invite artists to explore various forms of Sustainability
-and Sustainable Living - of environment, economy and culture - and examine
+<p>Every edition, we invite artists to explore various forms of sustainability
+and sustainable living - of environment, economy and culture - and examine
 how light art can create conversations about our lifestyles, decision making
 and the community.</p>
 <p>The curatorial theme of i Light Singapore 2025, <strong><em>To Gather,</em></strong> calls
@@ -27,9 +27,9 @@ vibrant communities and inspire collective action so as to effect positive
 change for a more sustainable future.
 <br>
 </p>
-<p>For further information, download the<strong> </strong>Open Call document
-here.</p>
-<p>Fill in the Open Call application form here and submit by <strong>27 September 2024, 2359hr GMT+8.</strong>
+<p>For more information, download the<strong> </strong><u>Open Call document </u>
+</p>
+<p>Fill in the<u> Open Call application form</u> and submit by <strong>27 September 2024, 2359hr GMT+8.</strong>
 <br>
 <br>
 </p>
