@@ -20,7 +20,6 @@ sections:
       alt: Open Call
   - infopic:
       title: 2025 Student Call
-      subtitle: Add an image and text
       id: infopic
       button: Find out more
       url: /2025-student-call/
