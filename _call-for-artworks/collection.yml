@@ -1,0 +1,6 @@
+collections:
+  call-for-artworks:
+    output: true
+    order:
+      - 2025 Open Call.md
+      - 2025 Student Call.md

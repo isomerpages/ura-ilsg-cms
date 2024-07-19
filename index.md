@@ -8,38 +8,22 @@ sections:
   - hero:
       title: i Light Singapore
       subtitle: Asia’s Leading Sustainable Light Festival
-      background: /images/2024banner1920x720_1_.jpg
-      url: /festival-map/
-      button: Festival Map
+      background: /images/About/ilsgherobanner(f).jpg
+      url: https://www.instagram.com/ilightsingapore/
+      button: Follow Us
   - infopic:
-      title: i Quest
+      title: 2025 Open Call
       id: infopic
       button: find out more
-      url: /sustainability/i-quest/
-      image: /images/2024 Programmes/i_Quest__KV_.jpg
-      alt: Image alt text
-      description: Contribute to a good cause and stand to win prizes!
+      url: /2025-open-call/
+      image: /images/2025 Call for Artworks/Call_for_Artworks_Open_Call__W_.jpg
+      alt: Open Call
   - infopic:
-      title: GastroBeats
+      title: 2025 Student Call
       id: infopic
       button: Find out more
-      url: /programmes/gastrobeats/
-      image: /images/2024 Programmes/GastroBeats.jpg
-      alt: Image alt text
-      description: "Festival Village of i Light Singapore: A feast of flavours and a
-        symphony of sounds"
-  - infopic:
-      title: The Conscious Festival x i Light Singapore
-      id: infopic
-      button: Find out more
-      url: /programmes/theconsciousfestivalxilsg/
-      image: /images/2024 Programmes/TCFxiLSG.jpg
-      alt: Image alt text
-      description: Immerse yourself in seven days of activities devoted to sustainability
-  - infopic:
-      title: Sponsors & Partners
-      id: infopic
-      image: /images/16_9_lockup__website_.jpg
-      alt: Sponsors Acknowledgement
+      url: /2025-student-call/
+      image: /images/2025 Call for Artworks/Call_for_Artworks_Student_Call__W_.jpg
+      alt: 2025 Student Call
 image: /images/23april_website.jpg
 ---

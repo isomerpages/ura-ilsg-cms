@@ -2,15 +2,7 @@ logo: /images/ilightsg_lockup(f).png
 links:
   - title: About
     collection: about
-  - title: Installations
+  - title: 2025 Call for Artworks
+    collection: call-for-artworks
+  - title: 2024 Artworks
     collection: installations
-  - title: Programmes
-    collection: programmes
-  - title: Sustainability
-    collection: sustainability
-  - title: Festival Map
-    url: /festival-map/
-  - title: Friends of i Light
-    url: /friends-of-i-light/
-  - title: FAQ
-    url: /faq

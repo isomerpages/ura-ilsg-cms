@@ -3,7 +3,4 @@ collections:
     output: true
     order:
       - The Festival.md
-      - The Theme.md
       - The Organiser.md
-      - Media Release.md
-      - Sponsors and Partners.md

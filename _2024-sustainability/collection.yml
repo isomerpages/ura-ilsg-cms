@@ -1,5 +1,5 @@
 collections:
-  sustainability:
+  2024-sustainability:
     output: true
     order:
       - i Quest.md
