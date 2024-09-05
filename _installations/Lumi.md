@@ -9,8 +9,8 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="Lumi" src="/images/2024 Installations/Irl/Lumi.jpg">
 </div>
 <p><strong>Lumi</strong> 
-<br>Ye Sul E. Cho, Sara Ibrahim, Suz Ibrahim, Heather Noble
-<br>65 SQM @ SUSA SPACE (United Kingdom)
+<br>Ye Sul E. Cho, Sara Ibrahim, Heather Noble
+<br>65 SQM (United Kingdom)
 <br><strong>Location: </strong>Fountain Plaza, South Beach Avenue Level 1</p>
 <p></p>
 <p>Paying homage to Singapore’s maritime heritage, <em>Lumi</em> embodies the
@@ -22,17 +22,16 @@ the artwork in a shared act of co-creation. The repurposing of ordinary
 objects, such as yoga balls, demonstrates the transformative potential
 inherent in the mundane. Join in — to play, or to rest.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Artist-Ye Sul E. Cho, Sara Ibrahim, Suz Ibrahim, Heather Noble" src="/images/2024 Installations/website_0010_65SQMxSUSA_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="65SQM" src="/images/2024 Installations/65SQM_profile_landscape_ilsg24.jpg">
 </div>
 <p><strong>About the Artists</strong>
 </p>
-<p>65 SQM @ SUSA SPACE, is a women-led collective focused on architecture,
-design and research. The studio places sustainability at its core, emphasising
-the reuse of materials. Driven by the principle of 'design by making’,
-the practice seeks to free material from its form and form from its tradition.
-Through innovative design methodologies and early fabrication process,
-the studio’s goal is to reconstitute parts of traditional construction
+<p>65 SQM is a women-led collective focused on architecture, design and research.
+The studio places sustainability at its core, emphasising the reuse of
+materials. Through innovative design methodologies and early fabrication
+process, their goal is to reconstitute parts of traditional construction
 and cultural research to shape new and innovative spaces.</p>
 <p></p>
 <table style="minWidth: 75px">
