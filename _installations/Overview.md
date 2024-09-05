@@ -77,8 +77,8 @@ Museum</p>
 <h3><strong>South Beach</strong></h3>
 <p></p><a class="isomer-image-wrapper" href="/installations/lumi/"><img style="width: 100%" height="auto" width="100%" alt="Lumi" src="/images/2024 Installations/Irl/Lumi.jpg"></a>
 <p><strong>Lumi</strong> 
-<br>Ye Sul E. Cho, Sara Ibrahim, Suz Ibrahim, Heather Noble
-<br>65 SQM @ SUSA SPACE (United Kingdom)
+<br>Ye Sul E. Cho, Sara Ibrahim, Heather Noble
+<br>65 SQM (United Kingdom)
 <br><strong>Location: </strong>Fountain Plaza, South Beach Avenue Level 1
 <br><em>Presented by South Beach</em> 
 <br><em>Supported by SEAM Design and Illuspace (Thailand) Co. Ltd.</em>
