@@ -16,14 +16,14 @@ sections:
       id: infopic
       button: find out more
       url: /2025-open-call/
-      image: /images/2025 Call for Artworks/Call_for_Artworks_Open_Call__W_.jpg
+      image: /images/Call_for_Artworks___Extended_Dateline_Open_Call__W_.jpg
       alt: Open Call
   - infopic:
       title: 2025 Student Call
       id: infopic
       button: Find out more
       url: /2025-student-call/
-      image: /images/2025 Call for Artworks/Call_for_Artworks_Student_Call__W_.jpg
+      image: /images/Call_for_Artworks___Extended_Dateline_Student_Call__W_.jpg
       alt: 2025 Student Call
 image: /images/23april_website.jpg
 ---
