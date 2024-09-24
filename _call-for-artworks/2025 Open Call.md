@@ -27,7 +27,7 @@ vibrant communities and inspire collective action so as to effect positive
 change for a more sustainable future.
 <br>
 </p>
-<p>For more information, download the <a href="https://drive.google.com/file/d/1-0lvYSp3u0kpyYRP1fGC1N9yDSp0Nlir/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Open Call document</a>.</p>
+<p>For more information, download the <a href="https://drive.google.com/file/d/16ZRzf0LLN987xWrSCVCNMdze0z4GAMK7/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Open Call document</a>.</p>
 <p>Fill in the <a href="https://forms.gle/Q8J6NKnTFD4RKmtD6" rel="noopener noreferrer nofollow" target="_blank">Open Call application form</a> and
 submit by <strong>4 October 2024, 2359hr GMT+8.</strong>
 <br>
