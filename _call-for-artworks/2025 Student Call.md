@@ -6,7 +6,7 @@ description: 2025 Student Call
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 Student Call" src="/images/2025 Call for Artworks/Call_for_Artworks_Student_Call__W_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Student Call" src="/images/Call_for_Artworks___Extended_Dateline_Student_Call__W_.jpg">
 </div>
 <h2>i Light Singapore 2025 Student Call</h2>
 <p></p>
@@ -31,9 +31,9 @@ vibrant communities and inspire collective action so as to effect positive
 change for a more sustainable future.
 <br>
 <br>Be one of the light art installations to transform Marina Bay into magical
-landscape of light and colour at i Light Singapore 2025!
-<br>
-<br>For more information, download the <a href="https://drive.google.com/file/d/10w6owceORLO39eCNXKDedTmdQUvtIucw/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Student Call document</a>.
+landscape of light and colour at i Light Singapore 2025!</p>
+<p>
+<br>For more information, download the <a href="https://drive.google.com/file/d/1VkPtUdi_OxteMKlIcEydgnc1CoxQk8JO/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Student Call document</a>.
 <br>
 <br>Fill in the <a href="https://forms.gle/vcgU1JgtndUTEaGu8" rel="noopener noreferrer nofollow" target="_blank">Student Call application form</a> and
-submit by <strong>27 September 2024, 2359hr GMT+8</strong>.</p>
+submit by <strong>4 October 2024, 2359hr GMT+8</strong>.</p>
