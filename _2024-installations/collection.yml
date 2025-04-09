@@ -1,5 +1,5 @@
 collections:
-  installations:
+  2024-installations:
     output: true
     order:
       - Overview.md
