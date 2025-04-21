@@ -2,5 +2,5 @@ collections:
   2025-installations:
     output: true
     order:
-      - Piano Walk.md
       - Overview.md
+      - Piano Walk.md
