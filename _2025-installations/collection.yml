@@ -2,7 +2,6 @@ collections:
   2025-installations:
     output: true
     order:
-      - This Is Not A Screen.md
       - Overview.md
       - Piano Walk.md
       - Take A Walk Through The Meadow With Me.md
@@ -12,3 +11,4 @@ collections:
       - Bridge Of 1000 Dreams.md
       - The Guardians.md
       - Saulux.md
+      - This Is Not A Screen.md
