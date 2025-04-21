@@ -1,4 +1,5 @@
 collections:
   2025-installations:
     output: true
-    order: []
+    order:
+      - Overview.md
