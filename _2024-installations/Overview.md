@@ -51,22 +51,38 @@ image: /images/i light singapore (festival map) .jpg
 <br><em>Presented by Alibaba Cloud</em>
 </p>
 <p></p>
-<h3><strong>Singapore River</strong></h3><a class="isomer-image-wrapper" href="/installations/fish-are-jumping/"><img style="width: 100%" height="auto" width="100%" alt="fish-are-jumping" src="/images/2024 Installations/Irl/Fish_are_Jumping.jpg"></a>
-<p><strong>Fish are Jumping</strong> 
+<h3><strong>Singapore River</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Reverse Waterfall" src="/images/2025 Installations Pic/Reverse_Waterfall_Converted.jpg">
+</div>
+<p><strong>Reverse Waterfall</strong> 
+<br>Studio UxU (Taiwan)
+<br><strong>Location: </strong>UOB Plaza Façade
+<br><em>Presented by United Overseas Bank</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bridge of 1000 Dreams" src="/images/2025 Installations Pic/Bridge_of_1000_Dreams.jpg">
+</div>
+<p><strong>Bridge of 1000 Dreams</strong> 
 <br>Studio Toer (The Netherlands)
-<br><strong>Location: </strong>Waterbody near Marina Bay lower boardwalk steps</p>
+<br><strong>Location: </strong>Cavenagh Bridge
+<br><em>Presented by DesignSingapore Council and United Overseas Bank</em>
+</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/installations/arc-zero-nimbus/"><img style="width: 100%" height="auto" width="100%" alt="Arc ZERO Nimbus" src="/images/2024 Installations/Irl/Arc_ZERO_Nimbus__w_.jpg"></a>
-<p><strong>Arc ZERO: Nimbus</strong> 
-<br>Studio James Tapscott (Australia)
-<br><strong>Location: </strong>Pontoon near Red Dot Design Museum</p>
+<h3><strong>Raffles Place</strong></h3>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/installations/liminal-minimal/"><img style="width: 100%" height="auto" width="100%" alt="liminal-minimal" src="/images/2024 Installations/Irl/Liminal_Minimal.jpg"></a>
-<p><strong>Liminal; Minimal</strong> 
-<br>Benjamin Lim, Yeo Soon Yii (Singapore)
-<br>Singapore University of Technology and Design (SUTD)
-<br><strong>Location:</strong> Waterfront promenade in front of Red Dot Design
-Museum</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Guardians" src="/images/2025 Installations Pic/The_Guardians___to_be_updated_28_Apr_compressed.jpg">
+</div>
+<p><strong>The Guardians</strong> 
+<br>The Beautiful and Useful Studio (Australia)
+<br><strong>Location:</strong> Raffles Place Park
+<br><em>Presented by Raffles Place Alliance</em>
+</p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/installations/bob-the-nice-world/"><img style="width: 100%" height="auto" width="100%" alt="BOB-the-nice-world" src="/images/2024 Installations/Irl/BOB_the_nice_world.jpg"></a>
 <p><strong>BOB the nice world</strong> 
