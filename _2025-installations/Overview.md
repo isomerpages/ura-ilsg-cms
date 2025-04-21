@@ -26,7 +26,8 @@ image: /images/i light singapore (festival map) .jpg
 <br>Megan Tan and Tan Shao Xuan (Singapore)
 <br><strong>Location: </strong>Lawn beside NTUC Building
 <br><em>Presented by DesignSingapore Council</em>
-</p>
+<br>Supported by: National University of Singapore - E-Waste Donation for
+i Light Singapore 2025 Art Installation</p>
 <p></p>
 <p></p>
 <p></p>
