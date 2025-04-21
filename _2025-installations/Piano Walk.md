@@ -27,7 +27,7 @@ continue the melody.</p>
 by geography, to connect over time and space through the shared experience
 of touching the same keys. In this way, Piano Walk creates space to gather
 for shared communal experiences around the world.</p>
-<p>&nbsp;</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Artist Pic/Amigo___Amigo_piano_walk.png">
