@@ -6,10 +6,13 @@ variant: tiptap
 image: /images/i light singapore (festival map) .jpg
 ---
 <h3><strong>Marina Bay</strong></h3>
-<p></p><a class="isomer-image-wrapper" href="/installations/dandelion/"><img style="width: 100%" height="auto" width="100%" alt="dandelion" src="/images/2024 Installations/Irl/Dandelion.jpg"></a>
-<p><strong>Dandelion</strong> 
-<br>Amigo &amp; Amigo (Australia)
-<br>Commissioned musical score by Otis Studio&nbsp;
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Piano Walk" src="/images/2025 Installations Pic/Piano_Walk_compressed.png">
+</div>
+<p><strong>Piano Walk</strong> 
+<br>Amigo &amp; Amigo (Australia) &nbsp;
 <br><strong>Location:</strong> Marina Bay Sands Event Plaza
 <br><em>Presented by Marina Bay Sands</em>
 </p>
