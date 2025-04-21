@@ -17,27 +17,41 @@ image: /images/i light singapore (festival map) .jpg
 <br><em>Presented by Marina Bay Sands</em>
 </p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/installations/kinetic-perspective/"><img style="width: 100%" height="auto" width="100%" alt="kinetic-perspective" src="/images/2024 Installations/Irl/Kinetic_Perspective.jpg"></a>
-<p><strong>Kinetic Perspective</strong> 
-<br>Juan Fuentes Studio (Spain)
-<br><strong>Location: </strong>Marina Bay Sands Event Plaza
-<br><em>Presented by Marina Bay Sands</em>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Take a walk through the meadow with me" src="/images/2025 Installations Pic/Take_a_walk_through_the_meadown_with_me_compressed.jpg">
+</div>
+<p><strong>Take A Walk Through The Meadow With Me</strong> 
+<br>Megan Tan and Tan Shao Xuan (Singapore)
+<br><strong>Location: </strong>Lawn beside NTUC Building
+<br><em>Presented by DesignSingapore Council</em>
 </p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/installations/pure-ring/"><img style="width: 100%" height="auto" width="100%" alt="pure-ring" src="/images/2024 Installations/Irl/Pure_Ring.jpg"></a>
-<p><strong>Pure Ring</strong> 
-<br>Xu Dongliang (China)
-<br>Toryo International Lighting Design Center&nbsp;
-<br><strong>Location: </strong>Event Square&nbsp;
-<br><em>In collaboration with Glow Shenzhen from Shenzhen, China</em>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Elementary" src="/images/2025 Installations Pic/Elementary_converted.jpg">
+</div>
+<p><strong>Elementary</strong> 
+<br>Tonoptik (Montenegro)
+<br><strong>Location: </strong>Clifford Square&nbsp;
+<br><em>Presented by The Fullerton Heritage</em>
 </p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/installations/spin-me-a-yarn/"><img style="width: 100%" height="auto" width="100%" alt="spin-me-a-yarn" src="/images/2024 Installations/Irl/Spin_Me_a_Yarn.jpg"></a>
-<p><strong>Spin Me a Yarn</strong> 
-<br>Studio Vertigo (United Kingdom)
-<br><strong>Location: </strong>Mist Walk</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/installations/fish-are-jumping/"><img style="width: 100%" height="auto" width="100%" alt="fish-are-jumping" src="/images/2024 Installations/Irl/Fish_are_Jumping.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Urban Oracle" src="/images/2025 Installations Pic/Urban_Oracle.jpg">
+</div>
+<p><strong>Urban Oracle</strong> 
+<br>Ultravioletto (Italy)
+<br><strong>Location: </strong>Pontoon near Red Dot Design Museum
+<br><em>Presented by Alibaba Cloud</em>
+</p>
+<p></p>
+<h3><strong>Singapore River</strong></h3><a class="isomer-image-wrapper" href="/installations/fish-are-jumping/"><img style="width: 100%" height="auto" width="100%" alt="fish-are-jumping" src="/images/2024 Installations/Irl/Fish_are_Jumping.jpg"></a>
 <p><strong>Fish are Jumping</strong> 
 <br>Studio Toer (The Netherlands)
 <br><strong>Location: </strong>Waterbody near Marina Bay lower boardwalk steps</p>
