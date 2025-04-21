@@ -16,27 +16,35 @@ description: ""
 <br>Supported by: National University of Singapore - E-Waste Donation for
 i Light Singapore 2025 Art Installation
 <br>
-<br>Inspired by the breezy dance of dandelion petals — an embodiment of free-spiritedness
-and playfulness — <em>Dandelion</em> whisks visitors into a realm of hope
-and optimism.&nbsp;</p>
-<p>Make a wish as it bursts into a symphony of light and music every five
-minutes. The score is an original musical piece by Otis Studio, and is
-an ode to the wind as well as the intrinsic characteristics of the dandelion,
-revered for healing properties in certain cultures.&nbsp;&nbsp;</p>
-<p><em>Dandelion</em> is a sanctuary for all, offering visitors a moment to
-pause from the frenetic pace of life and reconnect with the marvels of
-nature.&nbsp;</p>
+<br>Take a walk through the meadow with me is an immersive, interactive installation
+that responds to movement and human presence. As you get close to the artwork,
+flowers begin to glow and music follows. As more people gather, more lights
+appear, and melodic notes play in tandem — the sensory experience intensifies
+as the crowd grows.</p>
+<p>Once-discarded acrylic waste has now been shaped into flowers, and industrial
+fragments have found renewed purpose in this garden, creating a backdrop
+where collective memories take shape.</p>
+<p>This installation invites visitors to reflect on the hidden beauty in
+discarded items and explore how human presence can co-create a landscape
+of renewal, connection and transformation.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Artist - Amigo &amp; Amigo and Otis" src="/images/2024 Installations/website_0032_Amigo_and_Amigo_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Artist Pic/Megan_Tan_and_Tan_Shao_Xuan_take_a_walk.png">
 </div>
 <p><strong>About the Artists</strong>
 </p>
-<p>Founded in 2012, Amigo &amp; Amigo is a Sydney-based artist studio with
-projects featured across Asia, the Americas, Europe and the Middle East.&nbsp;</p>
-<p>Aspiring to be playful, engaging and inclusive in their work, Amigo &amp;
-Amigo’s extensive background in sculpture and industrial design allows
-them to showcase their ability to use light and materials to transform
-spaces into memorable experiences with audience participation and interaction.&nbsp;</p>
+<p>Shao Xuan is a multidisciplinary designer from Singapore, currently based
+in London, United Kingdom. She specialises in graphic design, illustration,
+creative technology and immersive design for interactive installations.
+Her work engages people through digital and analogue realms, where she
+creates light-hearted, play-centric projects that are also emotional and
+reflective.</p>
+<p>Megan is a Singaporean illustrator, animator and designer who explores
+interactive and video media. She loves creating characters and environments
+that bridge the gap between the familiar and fantastical. She is currently
+pursuing an undergraduate degree in Interaction Design Arts at the London
+College of Communication.</p>
+<p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
