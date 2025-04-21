@@ -2,5 +2,6 @@ collections:
   2025-installations:
     output: true
     order:
+      - Take A Walk Through The Meadow With Me.md
       - Overview.md
       - Piano Walk.md
