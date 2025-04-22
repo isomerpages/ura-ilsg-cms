@@ -28,6 +28,7 @@ where collective memories take shape.</p>
 discarded items and explore how human presence can co-create a landscape
 of renewal, connection and transformation.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Artist Pic/Megan_Tan_and_Tan_Shao_Xuan_take_a_walk.png">
 </div>
