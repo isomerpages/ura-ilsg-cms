@@ -26,6 +26,7 @@ identity, family and kinship are explored through abstracted forms.</p>
 <p>These silent guardians create a space for gathering, where for a shared
 moment, no one remains a stranger to beauty.&nbsp;</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Artist Pic/The_Beautiful_and_Useful_Studio_the_guardians_compressed.png">
 </div>
