@@ -40,7 +40,9 @@ and researchers pursues experimental paths, driven by innovation. The studio
 strives to create interactive and immersive experiences that transport
 audiences beyond reality's limits, generating environments where physical
 and digital realms intertwine to produce new, hybrid realities.&nbsp;</p>
-<p></p>
+<p>
+<br>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
