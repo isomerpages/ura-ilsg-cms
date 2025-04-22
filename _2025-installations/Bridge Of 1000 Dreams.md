@@ -46,7 +46,6 @@ experiences and innovative products.</p>
 <p>Toer's interactive installations have been presented at countless international
 festivals and can be enjoyed worldwide.&nbsp;</p>
 <p></p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
