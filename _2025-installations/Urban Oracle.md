@@ -26,6 +26,7 @@ Oracle in a similar fashion, as it merges cultural heritage with environmental
 imperatives in its answers, drawing on ancient knowledge while gently guiding
 us toward a more sustainable future.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Artist Pic/Ultravioletto_urban_oracle_compressed.jpg">
 </div>
@@ -40,9 +41,7 @@ and researchers pursues experimental paths, driven by innovation. The studio
 strives to create interactive and immersive experiences that transport
 audiences beyond reality's limits, generating environments where physical
 and digital realms intertwine to produce new, hybrid realities.&nbsp;</p>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
