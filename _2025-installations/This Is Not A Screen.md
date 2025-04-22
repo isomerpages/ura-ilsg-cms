@@ -46,6 +46,7 @@ and inspire change and seek to create works that are artistically and personally
 transformative. Their artistic mission: to reveal what is typically unseen
 through design, and to challenge perceptions and prompt alternative perspectives
 through reflection, conversation and reinterpretation.&nbsp;</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
