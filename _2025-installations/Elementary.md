@@ -27,6 +27,10 @@ it.</p>
 and mysterious patterns. We can learn and engage with them — but their
 essence remains their own.</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Artist Pic/Amigo___Amigo_piano_walk.png">
+</div>
 <p><strong>About the Artists</strong>
 </p>
 <p>Tonoptik, a new media art project, operates within the fields of audiovisual,
