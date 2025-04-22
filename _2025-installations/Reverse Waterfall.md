@@ -28,6 +28,7 @@ evolve when we take the chance to look at them more closely. The artwork
 explores the space between what we think we know and what we eventually
 come to understand, urging a deeper look at our preconceived perceptions.&nbsp;</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Artist Pic/Studio_UxU_reverse_waterfall_converted.jpg">
 </div>
