@@ -37,7 +37,7 @@ of how modern technologies intersect with the human experience.</p>
 worldwide. Their accomplishments include the Spanish MADATAC Award, a 2020
 special prize from the Cyland MediaArt Lab for audiovisual work and an
 Honorary Mention from the Share Prize XV jury.</p>
-<p>&nbsp;</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
