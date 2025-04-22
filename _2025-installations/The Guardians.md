@@ -38,6 +38,7 @@ inflatable works.</p>
 <p>Collaborations include: the United Nations, the World Trade Centre and
 World Pride in NYC, the Art Gallery of NSW and the Powerhouse Museum in
 Sydney, and the National Library and the National Science Centre in Canberra.&nbsp;</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
