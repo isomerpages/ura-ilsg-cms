@@ -26,6 +26,10 @@ world itself, no two moments produce identical configurations.</p>
 for all to pause and connect with nature in a profoundly new and beautiful
 way.&nbsp;</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Artist Pic/Amigo___Amigo_piano_walk.png">
+</div>
 <p><strong>About the Artists</strong>
 </p>
 <p>SPLACES.STUDIO connects artists, scientists and engineers globally. Founded
@@ -58,7 +62,6 @@ experiences.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/South_Beach_saulux.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
