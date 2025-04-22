@@ -32,6 +32,7 @@ building a stronger tomorrow for all.
 <br>
 <br>Whose dreams will shape tomorrow? Here, the answer is everyone's.&nbsp;</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Artist Pic/Studio_Toer_bridge_of_1000_dreams_compressed.jpg">
 </div>
