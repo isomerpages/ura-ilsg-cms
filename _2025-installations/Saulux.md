@@ -37,6 +37,7 @@ harmoniously.</p>
 <p>SPLACES.STUDIO believes art can bridge the gap between people and nature,
 offering new perspectives on environmental challenges through immersive
 experiences.&nbsp;</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
