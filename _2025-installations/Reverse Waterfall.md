@@ -44,6 +44,7 @@ since illuminated festivals across Europe (the United Kingdom, the Netherlands,
 Sweden), Asia (Japan, South Korea), and the Middle East (Saudi Arabia,
 United Arab Emirates), reflecting their ambition to showcase Taiwan's creative
 energy globally.</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
