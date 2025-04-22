@@ -62,7 +62,6 @@ Honorary Mention from the Share Prize XV jury.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/The_Fullerton_Heritage_elementary.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
