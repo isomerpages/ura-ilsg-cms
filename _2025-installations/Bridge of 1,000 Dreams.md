@@ -9,7 +9,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Bridge_of_1000_Dreams.jpg">
 </div>
-<p><strong>Bridge Of 1,000 Dreams</strong>
+<p><strong>Bridge of 1,000 Dreams</strong>
 <br>Studio Toer (The Netherlands)
 <br><strong>Location:</strong> Cavenagh Bridge
 <br><em>Presented by DesignSingapore Council and United Overseas Bank</em>&nbsp;
