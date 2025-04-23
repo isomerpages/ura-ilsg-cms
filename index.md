@@ -12,18 +12,12 @@ sections:
       url: https://www.instagram.com/ilightsingapore/
       button: Follow Us
   - infopic:
-      title: 2025 Open Call
-      id: infopic
-      button: find out more
-      url: /2025-open-call/
-      image: /images/Call_for_Artworks___Extended_Dateline_Open_Call__W_.jpg
-      alt: Open Call
-  - infopic:
-      title: 2025 Student Call
+      title: Sponsors
       id: infopic
       button: Find out more
-      url: /2025-student-call/
-      image: /images/Call_for_Artworks___Extended_Dateline_Student_Call__W_.jpg
-      alt: 2025 Student Call
+      url: /about/festival-acknowledgements/
+      image: /images/2025 ilsg sponsor
+        logos/202501_iLight_Singapore__LOGOS_HOMEPAGE___960px_X_540px__V4.jpg
+      alt: Festival Acknowledgements
 image: /images/23april_website.jpg
 ---
