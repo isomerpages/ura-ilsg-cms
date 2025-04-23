@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Overview.md
-      - Design A Meadow With Us.md
+      - Design a Meadow with Us.md
       - GastroBeats.md
