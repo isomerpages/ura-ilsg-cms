@@ -2,6 +2,6 @@ collections:
   2025-programmes:
     output: true
     order:
-      - GastroBeats.md
       - Overview.md
       - Design A Meadow With Us.md
+      - GastroBeats.md
