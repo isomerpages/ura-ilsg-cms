@@ -12,7 +12,7 @@ sections:
       url: https://www.instagram.com/ilightsingapore/
       button: Follow Us
   - infopic:
-      title: Sponsors
+      title: Sponsors And Partners
       id: infopic
       button: Find out more
       url: /about/festival-acknowledgements/
