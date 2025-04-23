@@ -9,7 +9,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Take_a_walk_through_the_meadown_with_me_compressed.jpg">
 </div>
-<p><strong>Take A Walk Through The Meadow With Me</strong>
+<p><strong>Take a walk through the meadow with me</strong>
 <br>Megan Tan and Tan Shao Xuan (Singapore) &nbsp;
 <br><strong>Location:</strong> Lawn beside NTUC Building
 <br><em>Presented by DesignSingapore Council</em>
