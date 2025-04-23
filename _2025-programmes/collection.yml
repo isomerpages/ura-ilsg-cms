@@ -2,5 +2,5 @@ collections:
   2025-programmes:
     output: true
     order:
-      - Design A Meadow With Us.md
       - Overview.md
+      - Design A Meadow With Us.md
