@@ -10,7 +10,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Programmes/shaoxuan_megan__day_impression_landscape_ilsg25_01__1__compressed.jpg">
 </div>
-<p><strong>Design a Meadow with Us: Take home a piece of the festival with you</strong>
+<p><strong>Design a Meadow with Us: Take home a piece of the festival with you </strong>
 </p>
 <p></p>
 <p>Join us for a hands-on workshop where creativity meets sustainability.
@@ -37,6 +37,6 @@ community participation, and bring a piece of the festival with you.</p>
 <br><strong>Time</strong>&nbsp;
 <br>TBC
 <br>
-</p>
-<p><strong>Pricing</strong>&nbsp;
-<br>TBC activities</p>
+<br><strong>Pricing</strong>
+<br>TBC</p>
+<p></p>
