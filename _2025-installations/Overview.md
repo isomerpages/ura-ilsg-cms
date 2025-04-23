@@ -5,8 +5,7 @@ variant: tiptap
 description: Explore i Light Singapore Installations
 image: /images/i light singapore (festival map) .jpg
 ---
-<p>Follow us <a href="https://www.instagram.com/ilightsingapore/?hl=en" rel="noopener nofollow" target="_blank">@ilightsingapore</a> for
-the latest details on our programmes &amp; installations!</p>
+<h4>Follow us <a href="https://www.instagram.com/ilightsingapore/?hl=en" rel="noopener nofollow" target="_blank">@ilightsingapore</a> for the latest details on our programmes &amp; installations!</h4>
 <p></p>
 <h3><strong>Marina Bay</strong></h3>
 <p></p>
