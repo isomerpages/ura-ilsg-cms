@@ -9,7 +9,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Bridge_of_1000_Dreams.jpg">
 </div>
-<p><strong>Bridge Of 1000 Dreams</strong>
+<p><strong>Bridge Of 1,000 Dreams</strong>
 <br>Studio Toer (The Netherlands)
 <br><strong>Location:</strong> Cavenagh Bridge
 <br><em>Presented by DesignSingapore Council and United Overseas Bank</em>&nbsp;
@@ -20,8 +20,8 @@ who will live them.
 <br>
 <br>This bridge reflects a country designed through collective imagination.
 A liveable city shaped not by chance but by intention. As Singapore celebrates
-SG60, <em>Bridge of 1000 Dreams</em> reveals how design has always been at
-the heart of the transformation.</p>
+SG60, <em>Bridge of 1,000 Dreams</em> reveals how design has always been
+at the heart of the transformation.</p>
 <p>From a distance, personal expressions blur into unified light. One sees
 not the individual stick but the bridge itself&nbsp; — a metaphor for how
 society functions when private aspirations become public possibilities.</p>
