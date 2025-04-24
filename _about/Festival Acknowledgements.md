@@ -102,28 +102,10 @@ description: ""
 <p></p>
 <h3><strong>Official Logistics Partner</strong></h3>
 <hr>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/DSV.png">
+</div>
 <h3><strong>Supporter</strong></h3>
 <hr>
 <p></p>
