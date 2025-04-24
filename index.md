@@ -6,11 +6,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: i Light Singapore
-      subtitle: Asia’s Leading Sustainable Light Festival
-      background: /images/About/ilsgherobanner(f).jpg
+      background: /images/2025 KV/202501___HERO_BANNER_1920px_X_720px__V2_02_compressed.jpg
       url: https://www.instagram.com/ilightsingapore/
       button: Follow Us
+      variant: center
   - infopic:
       title: Sponsors & Partners
       id: infopic
