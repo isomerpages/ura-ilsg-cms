@@ -17,7 +17,7 @@ description: ""
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Alibaba_Cloud_urban_oracle.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Alibaba_Cloud_urban_oracle.png">
 </div>
 <p></p>
 <p></p>
@@ -49,7 +49,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Design_Singapore_Council.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Design_Singapore_Council.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,7 +63,7 @@ description: ""
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Raffles_Place_Alliance_the_guardians.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Raffles_Place_Alliance_the_guardians.png">
 </div>
 <p></p>
 <p></p>
@@ -104,12 +104,12 @@ description: ""
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/DSV.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/DSV.png">
 </div>
 <h3><strong>Supporter</strong></h3>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Starlux_Airlines.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Starlux_Airlines.png">
 </div>
 <p></p>
