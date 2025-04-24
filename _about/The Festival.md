@@ -7,8 +7,9 @@ variant: tiptap
 image: /images/kvherobanner1920x720j.jpg
 ---
 <h3></h3>
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="i Light Singapore" src="/images/About/ilsgherobanner(f).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 KV/202501___about festival_1920px_x_720px__v2_02_compressed.jpg">
 </div>
 <h3>i Light Singapore</h3>
 <p>i Light Singapore is Asia’s leading sustainable light festival held in
