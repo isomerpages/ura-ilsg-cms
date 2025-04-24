@@ -24,7 +24,7 @@ image: /images/i light singapore (festival map) .jpg
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Take a walk through the meadow with me" src="/images/2025 Installations Pic/Take_a_walk_through_the_meadown_with_me_compressed.jpg">
 </div>
-<p><strong>Take A Walk Through The Meadow With Me</strong> 
+<p><strong>Take a walk through the meadow with me</strong> 
 <br>Megan Tan and Tan Shao Xuan (Singapore)
 <br><strong>Location: </strong>Lawn beside NTUC Building
 <br><em>Presented by DesignSingapore Council</em>
@@ -69,7 +69,7 @@ i Light Singapore 2025 Art Installation</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Bridge of 1000 Dreams" src="/images/2025 Installations Pic/Bridge_of_1000_Dreams.jpg">
 </div>
-<p><strong>Bridge Of 1,000 Dreams</strong> 
+<p><strong>Bridge of 1,000 Dreams</strong> 
 <br>Studio Toer (The Netherlands)
 <br><strong>Location: </strong>Cavenagh Bridge
 <br><em>Presented by DesignSingapore Council and United Overseas Bank</em>
@@ -102,7 +102,7 @@ i Light Singapore 2025 Art Installation</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="This is not a screen" src="/images/2025 Installations Pic/This_Is_Not_A_Screen_compressed.jpg">
 </div>
-<p><strong>This Is Not A Screen</strong> 
+<p><strong>This is Not a Screen</strong> 
 <br>National University of Singapore (Singapore)
 <br><strong>Location: </strong>Courtyard between South Beach Tower and The
 Grand Ballroom, Level 1
