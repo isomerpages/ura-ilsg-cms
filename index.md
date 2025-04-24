@@ -17,7 +17,7 @@ sections:
       button: Find out more
       url: /about/festival-acknowledgements/
       image: /images/2025 ilsg sponsor
-        logos/202501_iLight_Singapore__LOGOS_HOMEPAGE___960px_X_540px__V4.jpg
+        logos/202501_iLight_Singapore__LOGOS_HOMEPAGE___960px_X_540px__V5__1_.jpg
       alt: Festival Acknowledgements
 image: /images/23april_website.jpg
 ---
