@@ -12,7 +12,7 @@ description: ""
 <p><strong>Bridge of 1,000 Dreams</strong>
 <br>Studio Toer (The Netherlands)
 <br><strong>Location:</strong> Cavenagh Bridge
-<br><em>Presented by DesignSingapore Council and United Overseas Bank</em>&nbsp;
+<br><em>Presented by United Overseas Bank and DesignSingapore Council </em>
 <br>
 <br>Bamboo sticks form a pathway of light. Each one carries the mark of a
 different hand, a different mind. One thousand futures, proposed by those
