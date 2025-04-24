@@ -72,7 +72,7 @@ i Light Singapore 2025 Art Installation</p>
 <p><strong>Bridge of 1,000 Dreams</strong> 
 <br>Studio Toer (The Netherlands)
 <br><strong>Location: </strong>Cavenagh Bridge
-<br><em>Presented by DesignSingapore Council and United Overseas Bank</em>
+<br><em>Presented by United Overseas Bank and DesignSingapore Council </em>
 </p>
 <p></p>
 <h3><strong>Raffles Place</strong></h3>
