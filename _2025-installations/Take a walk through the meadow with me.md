@@ -13,8 +13,7 @@ description: ""
 <br>Megan Tan and Tan Shao Xuan (Singapore) &nbsp;
 <br><strong>Location:</strong> Lawn beside NTUC Building
 <br><em>Presented by DesignSingapore Council</em>
-<br>Supported by: National University of Singapore - E-Waste Donation for
-i Light Singapore 2025 Art Installation
+<br>
 <br>
 <br>Take a walk through the meadow with me is an immersive, interactive installation
 that responds to movement and human presence. As you get close to the artwork,
