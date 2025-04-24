@@ -28,8 +28,8 @@ image: /images/i light singapore (festival map) .jpg
 <br>Megan Tan and Tan Shao Xuan (Singapore)
 <br><strong>Location: </strong>Lawn beside NTUC Building
 <br><em>Presented by DesignSingapore Council</em>
-<br>Supported by: National University of Singapore - E-Waste Donation for
-i Light Singapore 2025 Art Installation</p>
+<br>
+</p>
 <p></p>
 <p></p>
 <p></p>
@@ -72,7 +72,7 @@ i Light Singapore 2025 Art Installation</p>
 <p><strong>Bridge of 1,000 Dreams</strong> 
 <br>Studio Toer (The Netherlands)
 <br><strong>Location: </strong>Cavenagh Bridge
-<br><em>Presented by United Overseas Bank and DesignSingapore Council </em>
+<br><em>Presented by United Overseas Bank and DesignSingapore Council</em>
 </p>
 <p></p>
 <h3><strong>Raffles Place</strong></h3>
