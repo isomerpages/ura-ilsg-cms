@@ -104,12 +104,12 @@ description: ""
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/DSV.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/DSV.png">
 </div>
 <h3><strong>Supporter</strong></h3>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Starlux_Airlines.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Starlux_Airlines.png">
 </div>
 <p></p>
