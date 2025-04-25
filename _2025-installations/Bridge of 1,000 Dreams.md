@@ -68,10 +68,7 @@ festivals and can be enjoyed worldwide.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/UOB.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/Design_Singapore_Council.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://designsingapore.org/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/Design_Singapore_Council.png"></a>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
