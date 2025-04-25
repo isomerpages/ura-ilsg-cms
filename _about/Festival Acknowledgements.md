@@ -69,7 +69,7 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="www.thefullertonheritage.com"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/The_Fullerton_Heritage_elementary.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.fullertonhotels.com/the-fullerton-heritage-singapore"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/The_Fullerton_Heritage_elementary.png"></a>
 </th>
 </tr>
 </tbody>
