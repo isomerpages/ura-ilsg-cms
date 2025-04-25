@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://www.uobgroup.com/uobgroup/index.page"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Reverse_Waterfall_Converted.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Reverse_Waterfall_Converted.jpg">
+</div>
 <p><strong>Reverse Waterfall</strong>
 <br>Studio UxU (Taiwan)
 <br><strong>Location:</strong> UOB Plaza Façade
@@ -59,10 +62,7 @@ energy globally.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/UOB.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.uobgroup.com/uobgroup/index.page"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/UOB.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
