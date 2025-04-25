@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Urban_Oracle.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="sg.alibabacloud.com"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Urban_Oracle.jpg"></a>
 <p><strong>Urban Oracle</strong>
 <br>Ultravioletto (Italy)
 <br><strong>Location:</strong> Pontoon near Red Dot Design Museum
