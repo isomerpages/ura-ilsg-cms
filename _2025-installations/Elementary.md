@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="www.thefullertonheritage.com"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Elementary_converted.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Elementary_converted.jpg">
+</div>
 <p><strong>Elementary</strong>
 <br>Tonoptik (Montenegro)
 <br><strong>Location:</strong> Clifford Square
@@ -52,10 +55,7 @@ Honorary Mention from the Share Prize XV jury.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/The_Fullerton_Heritage_elementary.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="www.thefullertonheritage.com"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/The_Fullerton_Heritage_elementary.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
