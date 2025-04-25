@@ -5,10 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Elementary_converted.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="www.thefullertonheritage.com"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Elementary_converted.jpg"></a>
 <p><strong>Elementary</strong>
 <br>Tonoptik (Montenegro)
 <br><strong>Location:</strong> Clifford Square
