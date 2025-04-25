@@ -60,10 +60,7 @@ technology-driven projects.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Marine_Sands_Logo_2.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marinabaysands.com"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Marine_Sands_Logo_2.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
