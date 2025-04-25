@@ -78,7 +78,7 @@ description: ""
 <p></p>
 <h3><strong>Official Logistics Partner</strong></h3>
 <hr>
-<p></p><a class="isomer-image-wrapper" href="www.dsv.com"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/DSV.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.dsv.com/"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/DSV.png"></a>
 <h3><strong>Supporter</strong></h3>
 <hr>
 <p></p><a class="isomer-image-wrapper" href="https://starlux.link/LuxuryBeyondHorizon"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Starlux_Airlines.png"></a>
