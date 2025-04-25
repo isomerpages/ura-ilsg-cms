@@ -8,10 +8,7 @@ image: /images/i light singapore (festival map) .jpg
 <h4>Follow us <a href="https://www.instagram.com/ilightsingapore/?hl=en" rel="noopener nofollow" target="_blank">@ilightsingapore</a> for the latest details on our programmes &amp; installations!</h4>
 <p></p>
 <h3><strong>Marina Bay</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Piano Walk" src="/images/2025 Installations Pic/Piano_Walk_compressed.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/installations/piano-walk/"><img style="width: 100%" height="auto" width="100%" alt="Piano Walk" src="/images/2025 Installations Pic/Piano_Walk_compressed.png"></a>
 <p><strong>Piano Walk</strong> 
 <br>Amigo &amp; Amigo (Australia) &nbsp;
 <br><strong>Location:</strong> Marina Bay Sands Event Plaza
