@@ -12,7 +12,7 @@ description: ""
 <p></p>
 <h3><strong>Prime Sponsor</strong></h3>
 <hr>
-<p></p><a class="isomer-image-wrapper" href="sg.alibabacloud.com"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Alibaba_Cloud_urban_oracle.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.alibabacloud.com/en?_p_lc=4"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Alibaba_Cloud_urban_oracle.png"></a>
 <p></p>
 <p></p>
 <h3><strong>Major Sponsor</strong></h3>
