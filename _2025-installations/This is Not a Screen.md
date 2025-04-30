@@ -35,7 +35,7 @@ screens transform not only what we see but also <em>how </em>we see.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Artist Pic/National_University_of_Singapore_this_is_not_a_screen_compressed.jpg">
 </div>
-<p><strong>About the artists</strong>
+<p><strong>About the artist</strong>
 </p>
 <p>Saw Hnin Thundray, Kaung Htet, Hnin Ei Lwin, Thinzar Hlaing and Moe Htet
 Nyunt Aung are a group of Master of Architecture students from the National
