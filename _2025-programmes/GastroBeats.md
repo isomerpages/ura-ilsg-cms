@@ -22,15 +22,27 @@ along to the pet-friendly zones. There is fun in store for everyone!</p>
 <p>Feel the pulse of GastroBeats with daily live music performances that
 keep the energy pumped up all night long!</p>
 <p>Don't miss this year's exciting talent showcases:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>GIG-ers</strong>: Discover emerging music stars as they take stage,
 mentored by the beloved local band 53A, who serves as the Chief Music Officers
-(CMOs) of GastroBeats.</p>
+(CMOs) of GastroBeats.
+<br>
+</p>
+</li>
+<li>
 <p><strong>GB-LETs</strong>: Watch aspiring food content creators as they
 showcase their culinary skills under the guidance of Aiken Chia and Nina
-Tan, the Chief Content Officers (CCOs) of GastroBeats.</p>
+Tan, the Chief Content Officers (CCOs) of GastroBeats.
+<br>
+</p>
+</li>
+<li>
 <p><strong>GastroBuds</strong>: Watch passionate home cooks turn their culinary
 dreams into thriving food ventures, guided and mentored by The Meatmen
 Group, the Chief Foodie Officers (CFOs) of GastroBeats.</p>
+</li>
+</ul>
 <p>This year, GastroBeats brings you "Let's Trouble The Water!" – an exhibition
 that transforms the Festival Village into a vibrant stage for change. Jelilo
 characters — Captain Skull, One Eye, and Scarface — take centre stage and
