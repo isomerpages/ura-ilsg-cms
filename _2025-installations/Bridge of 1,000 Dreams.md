@@ -66,18 +66,6 @@ festivals, enjoyed by audiences worldwide.&nbsp;</p>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.uobgroup.com/uobgroup/index.page"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/UOB.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://designsingapore.org/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/Design_Singapore_Council.png"></a>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
