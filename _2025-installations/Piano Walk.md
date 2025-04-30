@@ -26,8 +26,8 @@ then returns to silence, awaiting new visitors to step, walk or hop into
 the space to continue the melody.</p>
 <p>Crafted from durable materials, its robust design enables visitors, separated
 by geography, to connect over time and space through the shared experience
-of touching the same keys. In this way, Piano Walk creates space to gather
-for shared communal experiences around the world.</p>
+of touching the same keys. In this way, <em>Piano Walk</em> creates space
+to gather for shared communal experiences around the world.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
