@@ -14,30 +14,33 @@ description: ""
 <br><strong>Location:</strong> Fountain Plaza, South Beach Avenue Level 1
 <br><em>Presented by South Beach Consortium&nbsp; </em>
 <br>
-<br>Saulux reveals the invisible currents that surround us daily. Wind moves
-through a dense field of willow twigs. The stems respond with light — a
-warm glow at 2200K, the exact colour temperature of afternoon sun. The
-name itself tells this story: saule (willow) meets lux (light).</p>
+<br><em>Saulux </em>reveals the invisible currents that surround us daily.
+As wind moves through this dense field of willow twigs, the stems respond
+with light — a warm glow at 2200K, the corresponding colour temperature
+of warm, natural sunlight. The name itself tells this story: <em>saule </em>(willow)
+meets <em>lux </em>(light).</p>
 <p>At the centre of this artificial grove sits a weatherproof case housing
-a microcomputer. Sensors detect the movement of each twig. A neural network
-processes these signals into patterns of light and sound. Like the natural
-world itself, no two moments produce identical configurations.</p>
-<p>Saulux does not represent nature but responds to it. It is an invitation
-for all to pause and connect with nature in a profoundly new and beautiful
-way.&nbsp;</p>
+a microcomputer. Sensors detect the movement of each twig in the breeze,
+and a neural network processes these signals into patterns of light and
+sound. Like the natural world itself, no two moments produce identical
+configurations.</p>
+<p><em>Saulux </em>both represents nature and responds to it, highlighting
+the magic found in the everyday. It is an invitation for all to pause and
+connect with nature in a profoundly new and beautiful way.&nbsp;</p>
 <p></p>
 <p></p>
-<p><strong>About the Artists</strong>
+<p><strong>About the artist</strong>
 </p>
 <p>SPLACES.STUDIO connects artists, scientists and engineers globally. Founded
-in 2024 in Malta, they create interactive sculptures that engages with
-both nature and humans.</p>
+in 2024 in Malta, they create interactive sculptures that engage with both
+nature and humans.</p>
 <p>Their award-winning work transforms natural phenomena into art. Using
 AI technology, they build systems where nature and technology work together
 harmoniously.</p>
 <p>SPLACES.STUDIO believes art can bridge the gap between people and nature,
 offering new perspectives on environmental challenges through immersive
-experiences.&nbsp;</p>
+experiences, and fostering positive transformations through the integration
+of light, sound, kinetics and living elements.&nbsp;</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
