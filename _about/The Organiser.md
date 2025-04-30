@@ -7,7 +7,7 @@ variant: tiptap
 <h3>Urban Redevelopment Authority</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/URA_LOGO.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/URA_LOGO.png">
 </div>
 <p>The Urban Redevelopment Authority (URA) is Singapore’s land use planning
 and conservation agency. Our mission is “to make Singapore a great city
