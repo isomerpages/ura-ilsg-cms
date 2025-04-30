@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: i Light Singapore
-description: Asia’s Leading Sustainable Light Festival
+description: Asia’s Leading Light Festival
 permalink: /
 notification: ""
 sections:
