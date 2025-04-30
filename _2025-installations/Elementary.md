@@ -7,8 +7,9 @@ description: ""
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Elementary___Tonoptik_Profile_Image_v2_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Elementary_replace___tbc.jpg">
 </div>
 <p><strong>Elementary</strong>
 <br>Tonoptik (Montenegro)
@@ -30,6 +31,9 @@ and mysterious patterns. We can learn and engage with them — but their
 essence remains their own.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Artist Pic/Elementary___Tonoptik_Profile_Image_v2_compressed.jpg">
+</div>
 <p><strong>About the artist</strong>
 </p>
 <p>Tonoptik, a new media art project, operates within the fields of audiovisual,
