@@ -20,10 +20,10 @@ was once confined to a soloist is now spread among many hands and feet,
 gliding across an expanded landscape of sound.</p>
 <p>Magnifying the carefully crafted elements that are typically hidden within
 a conventional piano — felt hammers, brass strings, wooden soundboards
-— Piano Walk plays an original composition by John McHugh (Otis Studio)
-every five minutes, following visitors’ interaction with it. It then returns
-to silence, awaiting new visitors to step, walk or hop into the space to
-continue the melody.</p>
+— <em>Piano Walk</em> plays an original composition by John McHugh (Otis
+Studio) every five minutes, following visitors’ interaction with it. It
+then returns to silence, awaiting new visitors to step, walk or hop into
+the space to continue the melody.</p>
 <p>Crafted from durable materials, its robust design enables visitors, separated
 by geography, to connect over time and space through the shared experience
 of touching the same keys. In this way, Piano Walk creates space to gather
@@ -33,7 +33,7 @@ for shared communal experiences around the world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Artist Pic/Amigo___Amigo_piano_walk.png">
 </div>
-<p><strong>About the Artist</strong>
+<p><strong>About the artist</strong>
 </p>
 <p>Founded in 2012, Amigo &amp; Amigo specialises in the creation of permanent
 and temporary interactive artworks. With an extensive history, the company
