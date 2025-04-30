@@ -4,7 +4,7 @@ permalink: /about/the-organiser/
 description: i Light Singapore 2025 - The Organiser
 variant: tiptap
 ---
-<h3>Urban Redevelopment Authority</h3>
+<h3></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/URA_LOGO.png">
