@@ -12,7 +12,7 @@ sections:
       button: Follow Us
       variant: center
       title: i Light Singapore
-      subtitle: Asia’s Leading Sustainable Light Festival
+      subtitle: Asia’s Leading Light Festival
   - infopic:
       title: Sponsors & Partners
       id: infopic
