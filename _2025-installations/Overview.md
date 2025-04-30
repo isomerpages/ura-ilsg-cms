@@ -69,16 +69,15 @@ image: /images/i light singapore (festival map) .jpg
 <p></p><a class="isomer-image-wrapper" href="/installations/saulux/"><img style="width: 100%" height="auto" width="100%" alt="Saulux" src="/images/2025 Installations Pic/Saulux_compressed.jpg"></a>
 <p><strong>Saulux</strong> 
 <br>SPLACES.STUDIO (Malta)
-<br><strong>Location:</strong> South Beach Towers – Fountain Plaza
-<br><em>Presented by South Beach</em>
+<br><strong>Location:</strong> Fountain Plaza, South Beach Avenue Level 1
+<br><em>Presented by South Beach Consortium</em>
 </p>
 <p></p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/installations/this-is-not-a-screen/"><img style="width: 100%" height="auto" width="100%" alt="This is not a screen" src="/images/2025 Installations Pic/This_Is_Not_A_Screen_compressed.jpg"></a>
 <p><strong>This is Not a Screen</strong> 
 <br>National University of Singapore (Singapore)
-<br><strong>Location: </strong>Courtyard between South Beach Tower and The
-Grand Ballroom, Level 1
+<br><strong>Location: </strong>South Beach Avenue, Level B1
 <br><em>Presented by Aedas</em>
 </p>
 <p></p>
