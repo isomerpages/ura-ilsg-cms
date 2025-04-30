@@ -20,7 +20,7 @@ description: ""
 <p></p><a class="isomer-image-wrapper" href="https://marinabaysands.com"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Marine_Sands_Logo_2.png"></a>
 <p></p>
 <p></p>
-<h3><strong>Festival Partner</strong></h3>
+<h3><strong>Festival Partners</strong></h3>
 <hr>
 <p></p>
 <table style="minWidth: 75px">
