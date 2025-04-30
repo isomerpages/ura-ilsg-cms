@@ -19,18 +19,18 @@ their light reflected in the water below.</p>
 <p>Red buttons stand at three points along the boardwalk. When pressed, light
 pulses through the letters steadily like a heartbeat, triggering thought-provoking
 AI-generated messages inspired by Singapore’s past, present and future.</p>
-<p>Urban Oracle is Ultravioletto's reimagining of divination. Where ancient
-pilgrims once sought wisdom from temple oracles, modern society now turns
-to digital systems and algorithms for guidance. Visitors can consult Urban
-Oracle in a similar fashion, as it merges cultural heritage with environmental
-imperatives in its answers, drawing on ancient knowledge while gently guiding
-us toward a more sustainable future.</p>
+<p><em>Urban Oracle</em> is Ultravioletto's reimagining of divination. Where
+ancient pilgrims once sought wisdom from temple oracles, modern society
+now turns to digital systems and algorithms for guidance. Visitors can
+consult <em>Urban Oracle</em> in a similar fashion, as it merges cultural
+heritage with environmental imperatives in its answers, drawing on ancient
+knowledge while gently guiding us towards a more sustainable future.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Artist Pic/Ultravioletto_urban_oracle_compressed.jpg">
 </div>
-<p><strong>About the Artists</strong>
+<p><strong>About the artist</strong>
 </p>
 <p>Ultravioletto is a multimedia art and interaction design studio that explores
 the boundaries between the physical and digital worlds. Their practice
