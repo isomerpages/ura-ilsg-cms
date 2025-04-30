@@ -10,7 +10,8 @@ image: /images/i light singapore (festival map) .jpg
 <h3><strong>Marina Bay</strong></h3>
 <p></p><a class="isomer-image-wrapper" href="/installations/piano-walk/"><img style="width: 100%" height="auto" width="100%" alt="Piano Walk" src="/images/2025 Installations Pic/Piano_Walk_compressed.png"></a>
 <p><strong>Piano Walk</strong> 
-<br>Amigo &amp; Amigo (Australia) &nbsp;
+<br>Amigo &amp; Amigo (Australia)
+<br>Commissioned musical score by Otis Studio &nbsp;
 <br><strong>Location:</strong> Marina Bay Sands Event Plaza
 <br><em>Presented by Marina Bay Sands</em>
 </p>
@@ -26,7 +27,10 @@ image: /images/i light singapore (festival map) .jpg
 </p>
 <p></p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/installations/elementary/"><img style="width: 100%" height="auto" width="100%" alt="Elementary" src="/images/2025 Installations Pic/Elementary_converted.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Elementary___Tonoptik_Profile_Image_v2_compressed.jpg">
+</div>
 <p><strong>Elementary</strong> 
 <br>Tonoptik (Montenegro)
 <br><strong>Location: </strong>Clifford Square&nbsp;
@@ -44,9 +48,9 @@ image: /images/i light singapore (festival map) .jpg
 <h3><strong>Singapore River</strong></h3>
 <p></p><a class="isomer-image-wrapper" href="/installations/reverse-waterfall/"><img style="width: 100%" height="auto" width="100%" alt="Reverse Waterfall" src="/images/2025 Installations Pic/Reverse_Waterfall_Converted.jpg"></a>
 <p><strong>Reverse Waterfall</strong> 
-<br>Studio UxU (Taiwan)
+<br>UxU Studio (Taiwan)
 <br><strong>Location: </strong>UOB Plaza Façade
-<br><em>Presented by United Overseas Bank</em>
+<br><em>Presented by UOB</em>
 </p>
 <p></p>
 <p></p>
@@ -54,11 +58,15 @@ image: /images/i light singapore (festival map) .jpg
 <p><strong>Bridge of 1,000 Dreams</strong> 
 <br>Studio Toer (The Netherlands)
 <br><strong>Location: </strong>Cavenagh Bridge
-<br><em>Presented by United Overseas Bank and DesignSingapore Council</em>
+<br><em>Presented by UOB and DesignSingapore Council</em>
 </p>
 <p></p>
 <h3><strong>Raffles Place</strong></h3>
-<p></p><a class="isomer-image-wrapper" href="/installations/the-guardians/"><img style="width: 100%" height="auto" width="100%" alt="The Guardians" src="/images/2025 Installations Pic/The_Guardians___to_be_updated_28_Apr_compressed.jpg"></a>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/The_Guardians_replace___tbc.png">
+</div>
 <p><strong>The Guardians</strong> 
 <br>The Beautiful and Useful Studio (Australia)
 <br><strong>Location:</strong> Raffles Place Park
