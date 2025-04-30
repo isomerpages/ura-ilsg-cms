@@ -11,8 +11,7 @@ description: ""
 </div>
 <p><strong>This is Not a Screen</strong>
 <br>National University of Singapore (Singapore)
-<br><strong>Location:</strong> Courtyard between South Beach Tower and The
-Grand Ballroom, Level 1
+<br><strong>Location:</strong> South Beach Avenue, Level B1
 <br><em>Presented by Aedas</em>&nbsp;
 <br>
 <br>Screens permeate modern existence, from small screens in pockets and medium
