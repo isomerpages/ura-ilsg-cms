@@ -4,7 +4,11 @@ permalink: /about/the-organiser/
 description: i Light Singapore 2025 - The Organiser
 variant: tiptap
 ---
-<h3>Urban Redevelopment Authority </h3><a class="isomer-image-wrapper" href="https://www.alibabacloud.com/en?_p_lc=4"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Alibaba_Cloud_urban_oracle.png"></a>
+<h3>Urban Redevelopment Authority</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/URA_LOGO.png">
+</div>
 <p>The Urban Redevelopment Authority (URA) is Singapore’s land use planning
 and conservation agency. Our mission is “to make Singapore a great city
 to live, work and play”. We strive to create an endearing home and a vibrant
