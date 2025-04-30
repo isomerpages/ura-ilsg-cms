@@ -21,29 +21,20 @@ creators and small businesses. Don’t forget to bring your furry companions
 along to the pet-friendly zones. There is fun in store for everyone!</p>
 <p>Feel the pulse of GastroBeats with daily live music performances that
 keep the energy pumped up all night long!</p>
-<p>Don't miss this year's exciting talent showcases:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>GIG-ers</strong>: Discover emerging music stars as they take stage,
-mentored by the beloved local band 53A, who serves as the Chief Music Officers
-(CMOs) of GastroBeats.
+<p>Don't miss this year's exciting talent showcases:
 <br>
 </p>
-</li>
-<li>
-<p><strong>GB-LETs</strong>: Watch aspiring food content creators as they
+<p>· <strong>GIG-ers</strong>: Discover emerging music stars as they take
+stage, mentored by the beloved local band 53A, who serves as the Chief
+Music Officers (CMOs) of GastroBeats.</p>
+<p>· <strong>GB-LETs</strong>: Watch aspiring food content creators as they
 showcase their culinary skills under the guidance of Aiken Chia and Nina
-Tan, the Chief Content Officers (CCOs) of GastroBeats.
-<br>
-</p>
-</li>
-<li>
-<p><strong>GastroBuds</strong>: Watch passionate home cooks turn their culinary
+Tan, the Chief Content Officers (CCOs) of GastroBeats.</p>
+<p>· <strong>GastroBuds</strong>: Watch passionate home cooks turn their culinary
 dreams into thriving food ventures, guided and mentored by The Meatmen
 Group, the Chief Foodie Officers (CFOs) of GastroBeats.</p>
-</li>
-</ul>
-<p>This year, GastroBeats brings you "Let's Trouble The Water!" – an exhibition
+<p></p>
+<p>This year, GastroBeats brings you "Let's Trouble The Water!" – an activation
 that transforms the Festival Village into a vibrant stage for change. Jelilo
 characters — Captain Skull, One Eye, and Scarface — take centre stage and
 rally festivalgoers to take collective action against marine pollution
@@ -55,8 +46,8 @@ facilities, and absolutely no plastic straws! Bring your reusable cups
 and containers to join our crew of eco-warriors!</p>
 <p>It’s the ultimate fusion of food, music, and fun at GastroBeats! From
 bites to beats, don’t miss this celebration that will tantalise your taste
-buds and keep you dancing all night long!</p>
-<p>Find out more information at: <a href="https://gastrobeats.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://gastrobeats.com.sg/</a>&nbsp;</p>
+buds and keep you dancing all night long! Find out more information at:
+<a href="https://gastrobeats.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://gastrobeats.com.sg/</a>&nbsp;</p>
 <p></p>
 <p><strong>Location</strong>&nbsp;
 <br>Bayfront Event Space&nbsp;
