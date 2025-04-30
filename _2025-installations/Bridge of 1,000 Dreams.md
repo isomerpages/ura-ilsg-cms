@@ -12,7 +12,7 @@ description: ""
 <p><strong>Bridge of 1,000 Dreams</strong>
 <br>Studio Toer (The Netherlands)
 <br><strong>Location:</strong> Cavenagh Bridge
-<br><em>Presented by United Overseas Bank and DesignSingapore Council </em>
+<br><em>Presented by UOB and DesignSingapore Council</em>
 <br>
 <br>Bamboo sticks form a pathway of light. Each one carries the mark of a
 different hand, a different mind. One thousand futures, proposed by those
@@ -36,7 +36,7 @@ building a stronger tomorrow for all.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Artist Pic/Studio_Toer_bridge_of_1000_dreams_compressed.jpg">
 </div>
-<p><strong>About the Artists</strong>
+<p><strong>About the artist</strong>
 </p>
 <p>Toer is a multidisciplinary design studio from the Netherlands, founded
 in 2011 by Castor Bours and Wouter Widdershoven.</p>
@@ -44,8 +44,8 @@ in 2011 by Castor Bours and Wouter Widdershoven.</p>
 Toer pushes both the technical and aesthetic limits of design across a
 wide range of applied arts, from light installations and objects to interactive
 experiences and innovative products.</p>
-<p>Toer's interactive installations have been presented at countless international
-festivals and can be enjoyed worldwide.&nbsp;</p>
+<p>Toer’s interactive installations have been presented at numerous international
+festivals, enjoyed by audiences worldwide.&nbsp;</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -63,12 +63,20 @@ festivals and can be enjoyed worldwide.&nbsp;</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/UOB.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.uobgroup.com/uobgroup/index.page"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/UOB.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://designsingapore.org/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/Design_Singapore_Council.png"></a>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
