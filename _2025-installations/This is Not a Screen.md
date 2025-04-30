@@ -17,35 +17,34 @@ description: ""
 <br>Screens permeate modern existence, from small screens in pockets and medium
 screens on desks to large screens on walls. Each presents a curated version
 of the world, filtered through invisible algorithms.</p>
-<p></p>
-<p><em>This Is Not A Screen</em> examines this phenomenon using polarised
-screens that alter light. Depending on the viewing angle, no two visitors
-see the same image. Visitors can create new visual perspectives by rotating
-the screens, which distort light to create unique perceptions of the monolith
-in the middle, much like how digital interfaces customise reality for their
-users.</p>
+<p><em>This is Not a Screen</em> examines this phenomenon using polarised
+screens recycled from our devices, altering light in fascinating ways.
+Depending on the viewing angle, no two visitors see the same image. You
+can create new visual perspectives by rotating the screens, which distort
+light to create unique perceptions of the monolith in the centre, much
+like how digital interfaces customise reality for their users.</p>
 <p>This installation prompts reflection about collective experiences. When
 individuals receive personalised versions of information, the nature of
 common experience and discourse shifts. Our screens simultaneously create
 both a shared platform and individual realities.</p>
-<p>Offering no easy judgement about digital life, <em>This Is Not A Screen</em> simply
+<p>Offering no easy judgement about digital life, <em>This is Not a Screen</em> simply
 makes visible the usually invisible process of filtering. It reveals how
-screens transform not only <em>what</em> we see but also <em>how</em> we see.&nbsp;</p>
+screens transform not only what we see but also <em>how </em>we see.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Artist Pic/National_University_of_Singapore_this_is_not_a_screen_compressed.jpg">
 </div>
-<p><strong>About the Artists</strong>
+<p><strong>About the artists</strong>
 </p>
 <p>Saw Hnin Thundray, Kaung Htet, Hnin Ei Lwin, Thinzar Hlaing and Moe Htet
 Nyunt Aung are a group of Master of Architecture students from the National
 University of Singapore.</p>
-<p>Formed in 2024, they approach design as a way to question the status quo
-and inspire change and seek to create works that are artistically and personally
-transformative. Their artistic mission: to reveal what is typically unseen
-through design, and to challenge perceptions and prompt alternative perspectives
-through reflection, conversation and reinterpretation.&nbsp;</p>
+<p>A collective formed in 2024, they approach design as a way to question
+the status quo and inspire change and seek to create works that are artistically
+and personally transformative. Their artistic mission: to reveal what is
+typically unseen through design, and to challenge perceptions and prompt
+alternative perspectives through reflection, conversation and reinterpretation.</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
