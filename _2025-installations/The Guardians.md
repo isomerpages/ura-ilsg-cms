@@ -7,8 +7,9 @@ description: ""
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/The_Guardians_replace___tbc.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/The_Beautiful_and_Useful_Studio___Raffles_Place_TWO__1_.png">
 </div>
 <p><strong>The Guardians</strong>
 <br>The Beautiful and Useful Studio (Australia)
