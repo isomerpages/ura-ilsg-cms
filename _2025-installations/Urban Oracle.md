@@ -13,7 +13,6 @@ description: ""
 <br>Ultravioletto (Italy)
 <br><strong>Location:</strong> Pontoon near Red Dot Design Museum
 <br>
-<br>
 <br>Twenty-four illuminated letters are suspended along the pontoon’s edge,
 their light reflected in the water below.</p>
 <p>Red buttons stand at three points along the boardwalk. When pressed, light
