@@ -13,6 +13,7 @@ description: ""
 <br>Studio Toer (The Netherlands)
 <br><strong>Location:</strong> Cavenagh Bridge
 <br><em>Presented by UOB and DesignSingapore Council</em>
+<br><em>Supported by Live Productions</em>
 <br>
 <br>Bamboo sticks form a pathway of light. Each one carries the mark of a
 different hand, a different mind. One thousand futures, proposed by those
@@ -66,6 +67,35 @@ festivals, enjoyed by audiences worldwide.&nbsp;</p>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.uobgroup.com/uobgroup/index.page"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/UOB.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://designsingapore.org/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/Design_Singapore_Council.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Supported by</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Live Productions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
