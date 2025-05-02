@@ -13,7 +13,6 @@ description: ""
 <br>Megan Tan and Tan Shao Xuan (Singapore) &nbsp;
 <br><strong>Location:</strong> Lawn beside NTUC Building
 <br>
-<br>
 <br><em>Take a walk through the meadow</em> with me is an immersive, interactive
 installation that responds to movement and human presence. As you get close
 to the artwork, flowers begin to glow and music follows. As more people
