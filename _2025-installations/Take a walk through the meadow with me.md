@@ -15,7 +15,7 @@ description: ""
 <br><em>Presented by DesignSingapore Council</em>
 <br>
 <br>
-<br><em>Take a walk through the meadow with me</em> is an immersive, interactive
+<br><em>Take a walk through the meadow</em> with me is an immersive, interactive
 installation that responds to movement and human presence. As you get close
 to the artwork, flowers begin to glow and music follows. As more people
 gather, more lights appear, and melodic notes play in tandem — the sensory
@@ -24,8 +24,13 @@ experience intensifies as the crowd grows.</p>
 fragments have found renewed purpose in this garden, creating a backdrop
 where collective memories take shape.</p>
 <p>This installation invites visitors to reflect on the hidden beauty in
-discarded items and explore how human presence can co-create a landscape
+discarded items, and explore how human presence can co-create a landscape
 of renewal, connection and transformation.</p>
+<p>It also resonates with Singapore’s ongoing journey as a “Nation by Design”,
+where thoughtful design can help us shape meaningful experiences and solutions
+for a more sustainable future. “Nation by Design” is part of DesignSingapore
+Council’s initiatives for SG60 and celebrates Singapore’s transformation
+into a liveable and loveable city by design..</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
