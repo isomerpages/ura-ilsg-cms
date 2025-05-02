@@ -11,8 +11,7 @@ description: ""
 </div>
 <p></p>
 <p><strong>To Gather</strong> - the curatorial theme of i Light Singapore
-2025 - draws inspiration from the colour red from the Visible Light narrative.</p>
-<p>
+2025 - draws inspiration from the colour red from the Visible Light narrative.
 <br>Red has the power to move the human collective. It evokes in us the emotions
 of love and passion. It brings communities together for celebrations in
 some cultures. Red can also symbolise power. It seizes our attention to
@@ -22,8 +21,7 @@ in profound ways and ignites movement for change.
 red symbolises the primary energy source that radiates light and warmth
 for life on Earth. As the lifeblood of our collective existence, red is
 the common thread that binds us all together - a call to embrace unity
-in diversity.</p>
-<p>
+in diversity.
 <br>To Gather strives to spark conversations, foster vibrant communities and
 inspire collective action so as to effect positive change for a more sustainable
 future.</p>
