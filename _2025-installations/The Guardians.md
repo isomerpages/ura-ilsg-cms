@@ -13,7 +13,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/The_Guardians_replace___tbc.png">
 </div>
 <p><strong>The Guardians</strong>
-<br>The Beautiful and Useful Studio (Australia)
+<br>Matthew Aberline &amp; The Beautiful and Useful Studio (Australia)
 <br><strong>Location:</strong> Raffles Place Park
 <br><em>Presented by Raffles Place Alliance</em>&nbsp;
 <br>
