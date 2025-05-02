@@ -43,7 +43,6 @@ harmoniously.</p>
 offering new perspectives on environmental challenges through immersive
 experiences, and fostering positive transformations through the integration
 of light, sound, kinetics and living elements.&nbsp;</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -60,10 +59,7 @@ of light, sound, kinetics and living elements.&nbsp;</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/South_Beach_saulux.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://southbeach.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/South_Beach_saulux.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -78,4 +74,5 @@ of light, sound, kinetics and living elements.&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
