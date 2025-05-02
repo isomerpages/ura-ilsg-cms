@@ -61,7 +61,7 @@ Honorary Mention from the Share Prize XV jury.&nbsp;</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.fullertonhotels.com/the-fullerton-heritage-singapore"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/The_Fullerton_Heritage_elementary.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.fullertonhotels.com/the-fullerton-heritage-singapore"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/The_Fullerton_Heritage_elementary.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
