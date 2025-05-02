@@ -11,8 +11,7 @@ description: ""
 </div>
 <p><strong>This is Not a Screen</strong>
 <br>National University of Singapore (Singapore)
-<br><strong>Location:</strong> South Beach Avenue, Level B1
-<br><em>Presented by Aedas</em>&nbsp;
+<br><strong>Location:</strong> South Beach Avenue, Level B1 &nbsp;
 <br>
 <br>Screens permeate modern existence, from small screens in pockets and medium
 screens on desks to large screens on walls. Each presents a curated version
