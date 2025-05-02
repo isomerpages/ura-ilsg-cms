@@ -9,7 +9,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 KV/202501__the theme_1920px_x_1080x__v2_compressed.jpg">
 </div>
-<p></p>
 <p><strong>To Gather</strong> - the curatorial theme of i Light Singapore
 2025 - draws inspiration from the colour red from the Visible Light narrative.
 <br>Red has the power to move the human collective. It evokes in us the emotions
