@@ -62,10 +62,7 @@ Honorary Mention from the Share Prize XV jury.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.fullertonhotels.com/the-fullerton-heritage-singapore"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/The_Fullerton_Heritage_elementary.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2"><a class="isomer-image-wrapper" href="https://www.fullertonhotels.com/the-fullerton-heritage-singapore"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/The_Fullerton_Heritage_elementary.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -89,13 +86,8 @@ Honorary Mention from the Share Prize XV jury.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Live Productions</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/space.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
