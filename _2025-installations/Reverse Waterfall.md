@@ -11,24 +11,24 @@ description: ""
 </div>
 <p><strong>Reverse Waterfall</strong>
 <br>UxU Studio (Taiwan)
-<br><strong>Location:</strong> UOB Plaza Façade
-<br><em>Presented by UOB</em>&nbsp;
+<br><strong>Location:</strong> UOB Plaza Façade &nbsp;
 <br>
-<br>Waterfalls have captivated humanity for centuries, and we continue to
-recognise them as attractions today. In <em>Reverse Waterfall</em>, hundreds
-of LED meteor tubes are hand-arranged in vertical patterns to create the
-semblance of falling water. As you approach this digital cascade, the unexpected
-unfolds — lights flow upward, defying gravity, and time itself becomes
-an enigma, deliberately confounding expectations. The artwork evokes familiarity,
+<br>Waterfalls have captivated mankind for centuries, and we continue to recognise
+them as attractions today. In Reverse Waterfall, thousands of LED meteor
+tubes are hand-arranged in vertical patterns to create the semblance of
+falling water. As you approach this digital cascade, the unexpected unfolds
+— light flows upward, defying gravity, and time itself becomes an enigma,
+deliberately confounding expectations. The artwork evokes familiarity,
 only to disrupt it through change and fragmentation.</p>
-<p><em>Reverse Waterfall</em> challenges us to question what appears as self-evident
-— and what we take for granted as “natural”. It invites reflection on how
-our beliefs shape our understanding of the world and how those beliefs
-evolve when we take the chance to look at them more closely. The artwork
-explores the space between what we think we know and what we eventually
-come to understand, urging a deeper look at our preconceived perceptions.</p>
+<p><em>Reverse Waterfall</em> challenges us to question what we take for granted
+as “natural”. It invites reflection on how our beliefs shape our understanding
+of the world and how those beliefs evolve when we take the chance to look
+at them more closely. The artwork explores the space between what we think
+we know and what we eventually come to understand, urging a deeper look
+at our preconceived notions.</p>
 <p></p>
 <p>Extended viewing till 20 July 2025.&nbsp;</p>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
