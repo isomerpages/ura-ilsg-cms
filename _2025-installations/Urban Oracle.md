@@ -40,7 +40,6 @@ and researchers pursues experimental paths, driven by innovation. The studio
 strives to create interactive and immersive experiences that transport
 audiences beyond reality's limits, generating environments where physical
 and digital realms intertwine to produce new, hybrid realities.&nbsp;</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -57,7 +56,7 @@ and digital realms intertwine to produce new, hybrid realities.&nbsp;</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.alibabacloud.com/en?_p_lc=4"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/Alibaba_Cloud_urban_oracle.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.alibabacloud.com/en?_p_lc=4"><img style="width: 55%;" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/Alibaba_Cloud_urban_oracle.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
