@@ -14,8 +14,7 @@ description: ""
 </div>
 <p><strong>The Guardians</strong>
 <br>Matthew Aberline &amp; The Beautiful and Useful Studio (Australia)
-<br><strong>Location:</strong> Raffles Place Park
-<br><em>Presented by Raffles Place Alliance</em>&nbsp;
+<br><strong>Location:</strong> Raffles Place Park &nbsp;
 <br>
 <br><em>The Guardians</em> is an immersive landscape of vibrant inflatable
 sculptures. Recycled materials are transformed into abstract representations
