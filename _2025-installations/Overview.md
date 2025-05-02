@@ -28,10 +28,7 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Elementary_replace___tbc.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/installations/elementary/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Elementary_replace___tbc.jpg"></a>
 <p><strong>Elementary</strong> 
 <br>Tonoptik (Montenegro)
 <br><strong>Location: </strong>Clifford Square&nbsp;
@@ -66,10 +63,7 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <h3><strong>Raffles Place</strong></h3>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/The_Guardians_replace___tbc.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/installations/the-guardians/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/The_Guardians_replace___tbc.png"></a>
 <p><strong>The Guardians</strong> 
 <br>Matthew Aberline &amp; The Beautiful and Useful Studio (Australia)
 <br><strong>Location:</strong> Raffles Place Park
