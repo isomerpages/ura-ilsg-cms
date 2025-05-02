@@ -21,7 +21,7 @@ gliding across an expanded landscape of sound.</p>
 <p>Magnifying the carefully crafted elements that are typically hidden within
 a conventional piano — felt hammers, brass strings, wooden soundboards
 — <em>Piano Walk</em> plays an original composition by John McHugh (Otis
-Studio) every five minutes, following visitors’ interaction with it. It
+Studio) every ten minutes, following visitors’ interaction with it. It
 then returns to silence, awaiting new visitors to step, walk or hop into
 the space to continue the melody.</p>
 <p>Crafted from durable materials, its robust design enables visitors, separated
