@@ -12,7 +12,7 @@ description: ""
 <p><strong>Urban Oracle</strong>
 <br>Ultravioletto (Italy)
 <br><strong>Location:</strong> Pontoon near Red Dot Design Museum
-<br><em>Presented by Alibaba Cloud</em> 
+<br>
 <br>
 <br>Twenty-four illuminated letters are suspended along the pontoon’s edge,
 their light reflected in the water below.</p>
