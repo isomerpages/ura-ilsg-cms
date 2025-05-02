@@ -5,21 +5,21 @@ variant: markdown
 ---
 <p style="font-size:17px; line-height:40px">
 <b>Q1. What is i Light Singapore all about?</b><br>
-As the place manager of Marina Bay, the Urban Redevelopment Authority (URA) of Singapore organises and facilitates exciting activities in the precinct in collaboration with other government agencies and private stakeholders. i Light Singapore, previously known as i Light Marina Bay, is one such event. Conceived in 2010 as one of several initiatives to inject vibrancy to Marina Bay, the sustainable light festival also promotes an important message of sustainability and advocates an environmentally-conscious way of life. The Festival has grown over the years to showcase not just sustainable light art installations, but also an array of complementary programmes. Returning for its 10th edition this year, the Festival will run from 31 May – 23 June 2024.
+As the place manager of Marina Bay, the Urban Redevelopment Authority (URA) of Singapore organises and facilitates exciting activities in the precinct in collaboration with other government agencies and private stakeholders. i Light Singapore, previously known as i Light Marina Bay, is one such event. Conceived in 2010 as one of several initiatives to inject vibrancy to Marina Bay, the light festival also promotes an important message of sustainability and advocates an environmentally-conscious way of life. The Festival has grown over the years to showcase not just light art installations, but also an array of complementary programmes. Returning this year, the Festival will run from 29 May – 21 June 2025.
 <br><br>
-<b>Q2. Do I have to pay admission fees to visit i Light Singapore 2024?</b><br>
+<b>Q2. Do I have to pay admission fees to visit i Light Singapore 2025?</b><br>
 General admission to the Festival is free, while charges apply for certain <a href="/programmes">programmes</a>.
 <br><br>
-<b>Q3. What are the opening hours for i Light Singapore 2024?</b><br>
+<b>Q3. What are the opening hours for i Light Singapore 2025?</b><br>
 The opening hours for the Festival are 7.30pm to 11.00pm daily, with extended hours to 12.00am on Fridays and Saturdays. Opening hours for various programmes may vary.<br>
 </p>
 
-<p style="font-size:17px; line-height:40px"><b>Q4. How do I get to&nbsp;i&nbsp;Light Singapore 2024 via public transport?</b><br>
+<p style="font-size:17px; line-height:40px"><b>Q4. How do I get to&nbsp;i&nbsp;Light Singapore 2025 via public transport?</b><br>
 Most MRT lines (East-West Line, North-South Line, Downtown Line, Circle Line and Thomson-East Coast Line) have stops near the festival area. The nearest stations are:<br>
 </p>
 
 <p style="font-size:17px; line-height:40px">
-For the main festival area at Marina Bay and satellite sites at Millenia Walk and South Beach: <br></p>
+For the main festival area at Marina Bay and satellite sites at Raffles Place, South Beach and along Singapore River: <br></p>
 <ul>
 <li><p style="font-size:17px; line-height:40px">Bayfront (DT16/CE1)</p></li>
 <li><p style="font-size:17px; line-height:40px">City Hall (NS25/EW13)</p></li>
@@ -39,7 +39,7 @@ For satellite site at Tanjong Pagar: <br>
 </ul> <p></p>
 
 <p style="font-size:17px; line-height:40px">
-<b>Q5. What can I see and do at&nbsp;i&nbsp;Light Singapore 2024?</b><br>
+<b>Q5. What can I see and do at&nbsp;i&nbsp;Light Singapore 2025?</b><br>
 There will be a total of 17 captivating light art installations that aim to spark fresh perspectives on the environment and world around us. Check out the line-up of installations <a href="/installations">here</a>.
 <br><br>
 The Festival will also offer exciting programmes that promise a fun-filled experience for festival-goers and encourage conversations on sustainability. Explore the list of programmes <a href="/programmes">here</a>.
