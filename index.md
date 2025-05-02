@@ -14,6 +14,13 @@ sections:
       title: i Light Singapore
       subtitle: Asia’s Leading Light Festival
   - infopic:
+      title: 2025 Installations
+      id: infopic
+      button: Explore the artworks
+      url: /installations/
+      image: /images/2025 Installations Pic/Piano_Walk_compressed.png
+      alt: Image alt text
+  - infopic:
       title: Sponsors & Partners
       id: infopic
       button: Find out more
