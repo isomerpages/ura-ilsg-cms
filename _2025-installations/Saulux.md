@@ -11,8 +11,7 @@ description: ""
 </div>
 <p><strong>Saulux</strong>
 <br>SPLACES.STUDIO (Malta) &nbsp;
-<br><strong>Location:</strong> Fountain Plaza, South Beach Avenue Level 1
-<br><em>Presented by South Beach Consortium&nbsp; </em>
+<br><strong>Location:</strong> Fountain Plaza, South Beach Avenue Level 1 <em>&nbsp; </em>
 <br>
 <br><em>Saulux </em>reveals the invisible currents that surround us daily.
 As wind moves through this dense field of willow twigs, the stems respond
