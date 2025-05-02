@@ -63,10 +63,7 @@ description: ""
 <p></p><a class="isomer-image-wrapper" href="https://www.aedas.com/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Aedas_version.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/South_Beach_saulux.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://southbeach.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/South_Beach_saulux.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="https://www.fullertonhotels.com/the-fullerton-heritage-singapore"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/The_Fullerton_Heritage_elementary.png"></a>
