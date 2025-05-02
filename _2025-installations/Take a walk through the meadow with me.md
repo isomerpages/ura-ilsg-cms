@@ -12,7 +12,6 @@ description: ""
 <p><strong>Take a walk through the meadow with me</strong>
 <br>Megan Tan and Tan Shao Xuan (Singapore) &nbsp;
 <br><strong>Location:</strong> Lawn beside NTUC Building
-<br><em>Presented by DesignSingapore Council</em>
 <br>
 <br>
 <br><em>Take a walk through the meadow</em> with me is an immersive, interactive
