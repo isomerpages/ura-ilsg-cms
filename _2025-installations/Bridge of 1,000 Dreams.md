@@ -12,26 +12,27 @@ description: ""
 <p><strong>Bridge of 1,000 Dreams</strong>
 <br>Studio Toer (The Netherlands)
 <br><strong>Location:</strong> Cavenagh Bridge
-<br><em>Presented by UOB and DesignSingapore Council</em>
-<br><em>Supported by Live Productions</em>
 <br>
-<br>Bamboo sticks form a pathway of light. Each one carries the mark of a
-different hand, a different mind. One thousand futures, proposed by those
-who will live them.
-<br>
-<br>This bridge reflects a country designed through collective imagination.
-A liveable city shaped not by chance but by intention. As Singapore celebrates
-SG60, <em>Bridge of 1,000 Dreams</em> reveals how design has always been
-at the heart of the transformation.</p>
+<br>A thousand bamboo sticks shape a corridor of dreams shining bright, featuring
+Singapore motifs created by local design studio Binary Style. Each one
+carries the mark of a different hand, a different mind. A thousand futures,
+translated into designs by those who will live them.</p>
+<p>As UOB commemorates 90 years of service to the community, this glowing
+structure bears the aspirations of children in our society. The drawings
+speak of UOB’s enduring focus – to support the dreams of its community
+by building a stronger tomorrow for all.</p>
+<p>This bridge also reflects a country designed through collective imagination,
+ambition and determination. As a “Nation by Design”, a theme celebrated
+by DesignSingapore Council for SG60, Singapore has transformed into a liveable
+and loveable city – not by chance, but through deliberate and intentional
+design. <em>Bridge of 1,000 Dreams</em> reminds us that design has always
+been at the heart of our nation’s development.</p>
 <p>From a distance, personal expressions blur into unified light. One sees
-not the individual stick but the bridge itself&nbsp; — a metaphor for how
-society functions when private aspirations become public possibilities.</p>
-<p>As UOB commemorates 90 years of service to communities, this glowing structure
-bears the dreams of its beneficiaries, children, and employees. The drawings
-speak of its enduring focus — to support the dreams of its community by
-building a stronger tomorrow for all.
-<br>
-<br>Whose dreams will shape tomorrow? Here, the answer is everyone's.&nbsp;</p>
+not the individual sticks but the entire bridge — a metaphor for how society
+functions when personal aspirations become public possibilities.</p>
+<p>Whose dreams will shape tomorrow? Here, the answer is everyone’s.</p>
+<p></p>
+<p>Extended viewing till 20 July 2025.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
