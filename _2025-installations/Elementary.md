@@ -44,6 +44,7 @@ of how modern technologies intersect with the human experience.</p>
 worldwide. Their accomplishments include the Spanish MADATAC Award, a 2020
 special prize from the Cyland MediaArt Lab for audiovisual work, and an
 Honorary Mention from the Share Prize XV jury.</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -52,18 +53,18 @@ Honorary Mention from the Share Prize XV jury.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Presented by</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.fullertonhotels.com/the-fullerton-heritage-singapore"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/The_Fullerton_Heritage_elementary.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/The_Fullerton_Heritage_elementary.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
