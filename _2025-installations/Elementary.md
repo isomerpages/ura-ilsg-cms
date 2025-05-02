@@ -13,9 +13,7 @@ description: ""
 </div>
 <p><strong>Elementary</strong>
 <br>Tonoptik (Montenegro)
-<br><strong>Location:</strong> Clifford Square
-<br><em>Presented by The Fullerton Heritage</em>
-<br><em>Supported by Live Productions&nbsp;</em>
+<br><strong>Location:</strong> Clifford Square <em>&nbsp;</em>
 <br>
 <br><em>Elementary </em>transforms a flat screen into an illusion composed
 of light, depth, physics and control. It brings deep waters and abstract
