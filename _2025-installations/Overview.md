@@ -36,7 +36,7 @@ image: /images/i light singapore (festival map) .jpg
 <br>Tonoptik (Montenegro)
 <br><strong>Location: </strong>Clifford Square&nbsp;
 <br><em>Presented by The Fullerton Heritage</em>
-<br><em>Supported by: Live Productions</em>
+<br><em>Supported by Live Productions</em>
 </p>
 <p></p>
 <p></p>
@@ -61,7 +61,7 @@ image: /images/i light singapore (festival map) .jpg
 <br>Studio Toer (The Netherlands)
 <br><strong>Location: </strong>Cavenagh Bridge
 <br><em>Presented by UOB and DesignSingapore Council</em>
-<br><em>Supported by: Live Productions</em>
+<br><em>Supported by Live Productions</em>
 </p>
 <p></p>
 <h3><strong>Raffles Place</strong></h3>
