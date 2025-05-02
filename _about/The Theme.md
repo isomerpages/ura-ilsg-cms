@@ -10,10 +10,22 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 KV/202501__the theme_1920px_x_1080x__v2_compressed.jpg">
 </div>
 <p></p>
-<p></p>
-<p>Anchored on the theme <em>To Gather</em> and the colour red – a wavelength
-on the visible light spectrum symbolising our collective existence – the
-Festival will feature installations and programmes designed to spark community
-dialogue about creating a more sustainable future. 17 light art installations
-from 20 local and international artists will contribute to a line-up that
-celebrates diversity, unity, connection and belonging.</p>
+<p><strong>To Gather</strong> - the curatorial theme of i Light Singapore
+2025 - draws inspiration from the colour red from the Visible Light narrative.</p>
+<p>
+<br>Red has the power to move the human collective. It evokes in us the emotions
+of love and passion. It brings communities together for celebrations in
+some cultures. Red can also symbolise power. It seizes our attention to
+what is important or urgent. Red has the ability to influence our behaviour
+in profound ways and ignites movement for change.
+<br>Often associated with elements that are essential for sustaining life,
+red symbolises the primary energy source that radiates light and warmth
+for life on Earth. As the lifeblood of our collective existence, red is
+the common thread that binds us all together - a call to embrace unity
+in diversity.</p>
+<p>
+<br>To Gather strives to spark conversations, foster vibrant communities and
+inspire collective action so as to effect positive change for a more sustainable
+future.</p>
+<p>
+<br>Let's come together and paint the town red!</p>
