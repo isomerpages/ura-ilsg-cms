@@ -47,7 +47,6 @@ since illuminated festivals across Europe (the United Kingdom, the Netherlands,
 Sweden), Asia (Japan, South Korea), and the Middle East (Saudi Arabia,
 United Arab Emirates), reflecting their ambition to showcase Taiwan's creative
 energy globally.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -64,7 +63,7 @@ energy globally.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.uobgroup.com/uobgroup/index.page"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/UOB.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.uobgroup.com/uobgroup/index.page"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/UOB.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -79,4 +78,5 @@ energy globally.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
