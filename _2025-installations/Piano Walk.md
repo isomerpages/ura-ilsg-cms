@@ -43,7 +43,6 @@ narratives and physical interactivity, with the intention of igniting a
 transcending moment of lightness, joy and play. Renowned for their expertise
 in custom design and fabrication, they consistently deliver world-class,
 technology-driven projects.</p>
-<p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -60,7 +59,7 @@ technology-driven projects.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marinabaysands.com"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Marine_Sands_Logo_2.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://marinabaysands.com"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/Marine_Sands_Logo_2.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -75,4 +74,5 @@ technology-driven projects.</p>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <p></p>
