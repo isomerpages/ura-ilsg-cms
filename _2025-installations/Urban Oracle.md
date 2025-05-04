@@ -56,7 +56,7 @@ and digital realms intertwine to produce new, hybrid realities.&nbsp;</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.alibabacloud.com/en?_p_lc=4"><img style="width: 55%;" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/Alibaba_Cloud_urban_oracle.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.alibabacloud.com/en?_p_lc=4"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/Alibaba_Cloud_urban_oracle.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
