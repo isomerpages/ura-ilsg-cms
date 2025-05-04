@@ -18,6 +18,10 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p><a class="isomer-image-wrapper" href="/installations/take-a-walk-through-the-meadow-with-me/"><img style="width: 100%" height="auto" width="100%" alt="Take a walk through the meadow with me" src="/images/2025 Installations Pic/Take_a_walk_through_the_meadown_with_me_compressed.jpg"></a>
 <p><strong>Take a walk through the meadow with me</strong> 
 <br>Megan Tan and Tan Shao Xuan (Singapore)
@@ -25,6 +29,10 @@ image: /images/i light singapore (festival map) .jpg
 <br><em>Presented by DesignSingapore Council</em>
 <br>
 </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -37,12 +45,24 @@ image: /images/i light singapore (festival map) .jpg
 </p>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p><a class="isomer-image-wrapper" href="/installations/urban-oracle/"><img style="width: 100%" height="auto" width="100%" alt="Urban Oracle" src="/images/2025 Installations Pic/Urban_Oracle.jpg"></a>
 <p><strong>Urban Oracle</strong> 
 <br>Ultravioletto (Italy)
 <br><strong>Location: </strong>Pontoon near Red Dot Design Museum
 <br><em>Presented by Alibaba Cloud</em>
 </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <h3><strong>Singapore River</strong></h3>
 <p></p><a class="isomer-image-wrapper" href="/installations/reverse-waterfall/"><img style="width: 100%" height="auto" width="100%" alt="Reverse Waterfall" src="/images/2025 Installations Pic/Reverse_Waterfall_Converted.jpg"></a>
@@ -53,6 +73,11 @@ image: /images/i light singapore (festival map) .jpg
 </p>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p><a class="isomer-image-wrapper" href="/installations/bridge-of-1000-dreams/"><img style="width: 100%" height="auto" width="100%" alt="Bridge of 1000 Dreams" src="/images/2025 Installations Pic/Bridge_of_1000_Dreams.jpg"></a>
 <p><strong>Bridge of 1,000 Dreams</strong> 
 <br>Studio Toer (The Netherlands)
@@ -61,14 +86,27 @@ image: /images/i light singapore (festival map) .jpg
 <br><em>Supported by Live Productions</em>
 </p>
 <p></p>
-<h3><strong>Raffles Place</strong></h3>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h3><strong>Raffles Place</strong></h3>
 <p></p><a class="isomer-image-wrapper" href="/installations/the-guardians/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/The_Guardians_replace___tbc.png"></a>
 <p><strong>The Guardians</strong> 
 <br>Matthew Aberline &amp; The Beautiful and Useful Studio (Australia)
 <br><strong>Location:</strong> Raffles Place Park
 <br><em>Presented by Raffles Place Alliance</em>
 </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <h3><strong>South Beach</strong></h3>
 <p></p><a class="isomer-image-wrapper" href="/installations/saulux/"><img style="width: 100%" height="auto" width="100%" alt="Saulux" src="/images/2025 Installations Pic/Saulux_compressed.jpg"></a>
@@ -77,6 +115,11 @@ image: /images/i light singapore (festival map) .jpg
 <br><strong>Location:</strong> Fountain Plaza, South Beach Avenue Level 1
 <br><em>Presented by South Beach Consortium</em>
 </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/installations/this-is-not-a-screen/"><img style="width: 100%" height="auto" width="100%" alt="This is not a screen" src="/images/2025 Installations Pic/This_Is_Not_A_Screen_compressed.jpg"></a>
