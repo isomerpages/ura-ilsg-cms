@@ -28,7 +28,7 @@ of renewal, connection and transformation.</p>
 where thoughtful design can help us shape meaningful experiences and solutions
 for a more sustainable future. “Nation by Design” is part of DesignSingapore
 Council’s initiatives for SG60 and celebrates Singapore’s transformation
-into a liveable and loveable city by design..</p>
+into a liveable and loveable city by design.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
