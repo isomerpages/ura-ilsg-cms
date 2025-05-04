@@ -47,7 +47,6 @@ interactive and video media. She loves creating characters and environments
 that bridge the gap between the familiar and fantastical. She is currently
 pursuing an undergraduate degree in Interaction Design Arts at the London
 College of Communication.</p>
-<p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -64,7 +63,7 @@ College of Communication.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://designsingapore.org/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/Design_Singapore_Council.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://designsingapore.org/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/Design_Singapore_Council.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -79,4 +78,5 @@ College of Communication.</p>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <p></p>
