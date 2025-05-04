@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Overview.md
-      - Design your own meadow memory.md
       - GastroBeats.md
+      - Design your own meadow memory.md
