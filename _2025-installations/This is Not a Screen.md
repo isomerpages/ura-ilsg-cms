@@ -44,7 +44,6 @@ the status quo and inspire change and seek to create works that are artistically
 and personally transformative. Their artistic mission: to reveal what is
 typically unseen through design, and to challenge perceptions and prompt
 alternative perspectives through reflection, conversation and reinterpretation.</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -61,7 +60,7 @@ alternative perspectives through reflection, conversation and reinterpretation.<
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aedas.com/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/Aedas_this_is_not_a_screen.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.aedas.com/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/Aedas_this_is_not_a_screen.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -76,4 +75,5 @@ alternative perspectives through reflection, conversation and reinterpretation.<
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
