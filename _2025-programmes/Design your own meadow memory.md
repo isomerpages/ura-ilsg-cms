@@ -15,9 +15,8 @@ description: ""
 </p>
 <p></p>
 <p>Join us for a hands-on workshop where creativity meets sustainability.
-Using offcuts from the meadow flowers from our installation, Take a walk
-through the meadow with me, craft personalised charms for yourself and
-your loved ones!</p>
+Using offcuts from the meadow flowers from our installation, <em>Take a walk through the meadow with me</em>,
+craft personalised charms for yourself and your loved ones!</p>
 <p>This workshop will explore how discarded materials have potential to be
 transformed into beautiful, functional pieces through thoughtful design.</p>
 <p>Each participant will create a unique accessory whilst reflecting on the
