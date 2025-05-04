@@ -29,6 +29,6 @@ in diversity.
 </p>
 <p>To Gather strives to spark conversations, foster vibrant communities and
 inspire collective action so as to effect positive change for a more sustainable
-future.</p>
-<p>
+future.
+<br>
 <br>Let's come together and paint the town red!</p>
