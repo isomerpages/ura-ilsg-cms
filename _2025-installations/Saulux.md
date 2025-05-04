@@ -59,7 +59,7 @@ of light, sound, kinetics and living elements.&nbsp;</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://southbeach.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/South_Beach_saulux.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://southbeach.sg/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/South_Beach_saulux.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
