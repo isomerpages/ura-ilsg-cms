@@ -41,7 +41,6 @@ inflatable works.</p>
 the World Trade Centre and World Pride in New York, the Art Gallery of
 New South Wales, the Powerhouse Museum in Sydney, the National Library
 and the National Science Centre in Canberra.&nbsp;</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -58,7 +57,7 @@ and the National Science Centre in Canberra.&nbsp;</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://rafflesplace.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/Raffles_Place_Alliance_the_guardians.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://rafflesplace.sg/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 InstallationSponsor Logo/Raffles_Place_Alliance_the_guardians.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -73,4 +72,5 @@ and the National Science Centre in Canberra.&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
