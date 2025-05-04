@@ -6,8 +6,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2025
-        KV/New_hero_compressed__202501_iLight_Singapore__HERO_BANNER_1920px_X_720px__V3_03.jpg
+      background: /images/2025 KV/new_hero_no text.jpg
       url: https://www.instagram.com/ilightsingapore/
       button: Follow Us
       variant: center
