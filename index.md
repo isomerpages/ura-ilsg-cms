@@ -1,29 +1,30 @@
 ---
 layout: homepage
 title: i Light Singapore
-description: Asia’s Leading Sustainable Light Festival
+description: Asia’s Leading Light Festival
 permalink: /
 notification: ""
 sections:
   - hero:
-      title: i Light Singapore
-      subtitle: Asia’s Leading Sustainable Light Festival
-      background: /images/About/ilsgherobanner(f).jpg
+      background: /images/2025 KV/new_hero_no text.jpg
       url: https://www.instagram.com/ilightsingapore/
       button: Follow Us
+      variant: center
+      title: i Light Singapore
+      subtitle: Asia’s Leading Light Festival
   - infopic:
-      title: 2025 Open Call
+      title: 2025 Installations
       id: infopic
-      button: find out more
-      url: /2025-open-call/
-      image: /images/Call_for_Artworks___Extended_Dateline_Open_Call__W_.jpg
-      alt: Open Call
+      button: Explore the artworks
+      url: /installations/
+      image: /images/2025 Installations Pic/Piano_Walk_compressed.png
+      alt: Image alt text
   - infopic:
-      title: 2025 Student Call
+      title: Sponsors & Partners
       id: infopic
       button: Find out more
-      url: /2025-student-call/
-      image: /images/Call_for_Artworks___Extended_Dateline_Student_Call__W_.jpg
-      alt: 2025 Student Call
-image: /images/23april_website.jpg
+      url: /about/festival-acknowledgements/
+      image: /images/2025 ilsg sponsor logos/sponsor logos.jpg
+      alt: Festival Acknowledgements
+image: /images/2025 KV/202501__the theme_1920px_x_1080x__v2_compressed.jpg
 ---

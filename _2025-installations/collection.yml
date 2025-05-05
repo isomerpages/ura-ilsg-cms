@@ -1,0 +1,14 @@
+collections:
+  2025-installations:
+    output: true
+    order:
+      - Overview.md
+      - Piano Walk.md
+      - Take a walk through the meadow with me.md
+      - Elementary.md
+      - Urban Oracle.md
+      - Reverse Waterfall.md
+      - Bridge of 1,000 Dreams.md
+      - The Guardians.md
+      - Saulux.md
+      - This is Not a Screen.md

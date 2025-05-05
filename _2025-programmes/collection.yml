@@ -1,0 +1,7 @@
+collections:
+  2025-programmes:
+    output: true
+    order:
+      - Overview.md
+      - GastroBeats.md
+      - Design your own meadow memory.md

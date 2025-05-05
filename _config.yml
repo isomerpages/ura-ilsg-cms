@@ -1,6 +1,6 @@
 title: i Light Singapore
 url: https://www.ilightsingapore.gov.sg
-favicon: /images/iLSGfavicon.ico
+favicon: /images/iLSG25_Logo_Icon__300_x_300_px_.png
 colors:
   primary-color: "#031621"
   secondary-color: "#000000"
@@ -15,7 +15,7 @@ colors:
       color: "#4e964b"
     - title: media-color-five
       color: "#4e964b"
-description: Asia’s Leading Sustainable Light Festival
+description: Asia’s Leading Light Festival
 permalink: none
 baseurl: ""
 exclude:
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d33k8lpct4fpp1.amplifyapp.com
 prod: https://master.d33k8lpct4fpp1.amplifyapp.com
-shareicon: /images/23april_website.jpg
+shareicon: /images/2025 KV/202501__the theme_1920px_x_1080x__v2_compressed.jpg
 is_government: false
 facebook-pixel: "766362044901589"
 google_analytics: UA-1472842-26
