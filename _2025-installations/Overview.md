@@ -36,7 +36,7 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/installations/elementary/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Elementary_replace___tbc.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/installations/elementary/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/elementary_new.jpg"></a>
 <p><strong>Elementary</strong> 
 <br>Tonoptik (Montenegro)
 <br><strong>Location: </strong>Clifford Square&nbsp;
