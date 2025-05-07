@@ -12,7 +12,9 @@ image: /images/kvherobanner1920x720j.jpg
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 KV/202501___about festival_1920px_x_720px__v2_02_compressed.jpg">
 </div>
 <h3>i Light Singapore</h3>
-<p>i Light Singapore is Asia’s leading light festival held in Marina Bay.</p>
+<p></p>
+<p>i Light Singapore is Asia’s leading light festival to be held in Marina
+Bay and neighbouring precincts from 29 May to 21 June 2025.</p>
 <p>First held in 2010, i Light Singapore showcases light art installations
 created by Singaporean and international artists. These artworks are designed
 with energy-saving lightings and/or environmentally-friendly materials
