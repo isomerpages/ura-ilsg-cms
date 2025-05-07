@@ -6,11 +6,16 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2025
-        KV/202501_iLight_Singapore__HERO_BANNER_1920px_X_720px__V4_01__2_.jpg
+      background: /images/2025 KV/new_hero_no text.jpg
       url: https://www.instagram.com/ilightsingapore/
       button: Follow Us
       variant: center
+      title: i Light Singapore
+      subtitle: Asia’s Leading Light Festival
+      key_highlights:
+        - title: 29 May - 21 June 2025
+          description: ""
+          url: ""
   - infopic:
       title: 2025 Installations
       id: infopic
