@@ -10,8 +10,6 @@ sections:
       url: https://www.instagram.com/ilightsingapore/
       button: Follow Us
       variant: center
-      title: i Light Singapore
-      subtitle: Asia’s Leading Light Festival
   - infopic:
       title: 2025 Installations
       id: infopic
