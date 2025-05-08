@@ -12,6 +12,10 @@ sections:
       variant: center
       title: i Light Singapore
       subtitle: Asia’s Leading Light Festival
+      key_highlights:
+        - title: 29 May - 21 June 2025
+          description: ""
+          url: ""
   - infopic:
       title: 2025 Installations
       id: infopic
