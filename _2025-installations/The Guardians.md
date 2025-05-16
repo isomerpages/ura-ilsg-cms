@@ -19,7 +19,8 @@ description: ""
 <br><em>The Guardians</em> is an immersive landscape of vibrant inflatable
 sculptures. Recycled materials are transformed into abstract representations
 of tropical flowers and foliage in a studio that operates solely on solar
-power.</p>
+power. Out of the sixteen inflatables, six pieces are localised, drawing
+inspiration from Singapore’s flora and fauna.</p>
 <p>With a family history of florists spanning three generations, the artist’s
 grandmother, mother and sister all arranged real-life blooms. In this work,
 the artist explores enduring connections between landscape, identity and
