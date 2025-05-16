@@ -78,5 +78,9 @@ energy globally.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>
+<br><strong>Supported by</strong>
+</p>
+<hr>
+<p>STARLUX Airlines</p>
 <p></p>
