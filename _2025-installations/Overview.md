@@ -70,6 +70,7 @@ image: /images/i light singapore (festival map) .jpg
 <br>UxU Studio (Taiwan)
 <br><strong>Location: </strong>UOB Plaza Façade
 <br><em>Presented by UOB</em>
+<br><em>Supported by STARLUX Airlines</em>
 </p>
 <p></p>
 <p></p>
