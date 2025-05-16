@@ -22,6 +22,10 @@ to encourage festival goers and the general public to adopt sustainable
 habits in their everyday lives. The Festival also features a diverse range
 of fringe activities for visitors to enjoy, bringing vibrancy to public
 spaces in our city centre.</p>
+<p></p>
+<p><strong>Festival Light-Up Timings</strong>
+<br>Sun to Thu: 7:30 PM – 11:00 PM
+<br>Fri &amp; Sat: 7:30 PM – 12:00 AM</p>
 <p>
 <br>
 <br>
