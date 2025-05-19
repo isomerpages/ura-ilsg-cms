@@ -15,14 +15,10 @@ sections:
       key_highlights:
         - title: 29 May - 21 June 2025
           description: ""
-          url: '<iframe scrolling="no" frameborder="0" height="600" width="800"
-            style="border: 0"
-            src="https://calendar.google.com/calendar/embed?src=4288b34dd86d81ed2250164a979958a7b99d33e20dad60b27440da9cd15fb600%40group.calendar.google.com&ctz=Asia%2FSingapore"></iframe>'
+          url: https://calendar.google.com/calendar/embed?src=4288b34dd86d81ed2250164a979958a7b99d33e20dad60b27440da9cd15fb600%40group.calendar.google.com&ctz=Asia%2FSingapore
         - title: "Sun to Thu: 7:30 PM – 11:00 PM"
           description: "Fri & Sat: 7:30 PM – 12.00AM"
-          url: '<iframe scrolling="no" frameborder="0" height="600" width="800"
-            style="border: 0"
-            src="https://calendar.google.com/calendar/embed?src=4288b34dd86d81ed2250164a979958a7b99d33e20dad60b27440da9cd15fb600%40group.calendar.google.com&ctz=Asia%2FSingapore"></iframe>'
+          url: https://calendar.google.com/calendar/embed?src=4288b34dd86d81ed2250164a979958a7b99d33e20dad60b27440da9cd15fb600%40group.calendar.google.com&ctz=Asia%2FSingapore
   - infopic:
       title: 2025 Installations
       id: infopic
