@@ -193,12 +193,12 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p>
 <h3><strong>Singapore River</strong></h3>
-<p></p><a class="isomer-image-wrapper" href="/installations/reverse-waterfall/"><img style="width: 100%" height="auto" width="100%" alt="Reverse Waterfall" src="/images/2025 Installations Pic/Reverse_Waterfall_Converted.jpg"></a>
-<p><strong>Reverse Waterfall</strong> 
-<br>UxU Studio (Taiwan)
-<br><strong>Location: </strong>UOB Plaza Façade
-<br><em>Presented by UOB</em>
-<br><em>Supported by STARLUX Airlines</em>
+<p></p><a class="isomer-image-wrapper" href="/installations/bridge-of-1000-dreams/"><img style="width: 100%" height="auto" width="100%" alt="Bridge of 1000 Dreams" src="/images/2025 Installations Pic/Bridge_of_1000_Dreams.jpg"></a>
+<p><strong>Bridge of 1,000 Dreams</strong> 
+<br>Studio Toer (The Netherlands)
+<br><strong>Location: </strong>Cavenagh Bridge
+<br><em>Presented by UOB and DesignSingapore Council</em>
+<br><em>Supported by Live Productions</em>
 </p>
 <p></p>
 <p></p>
@@ -207,12 +207,12 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/installations/bridge-of-1000-dreams/"><img style="width: 100%" height="auto" width="100%" alt="Bridge of 1000 Dreams" src="/images/2025 Installations Pic/Bridge_of_1000_Dreams.jpg"></a>
-<p><strong>Bridge of 1,000 Dreams</strong> 
-<br>Studio Toer (The Netherlands)
-<br><strong>Location: </strong>Cavenagh Bridge
-<br><em>Presented by UOB and DesignSingapore Council</em>
-<br><em>Supported by Live Productions</em>
+<p></p><a class="isomer-image-wrapper" href="/installations/reverse-waterfall/"><img style="width: 100%" height="auto" width="100%" alt="Reverse Waterfall" src="/images/2025 Installations Pic/Reverse_Waterfall_Converted.jpg"></a>
+<p><strong>Reverse Waterfall</strong> 
+<br>UxU Studio (Taiwan)
+<br><strong>Location: </strong>UOB Plaza Façade
+<br><em>Presented by UOB</em>
+<br><em>Supported by STARLUX Airlines</em>
 </p>
 <p></p>
 <p></p>
