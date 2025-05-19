@@ -2,7 +2,6 @@ collections:
   2025-installations:
     output: true
     order:
-      - "Fantastic Planet: Comfort.md"
       - Overview.md
       - Mozart.md
       - Piano Walk.md
@@ -10,6 +9,7 @@ collections:
       - Urban Oracle.md
       - "Fantastic Planet: What's That.md"
       - "Fantastic Planet: Over.md"
+      - "Fantastic Planet: Comfort.md"
       - Take a walk through the meadow with me.md
       - Elementary.md
       - Reverse Waterfall.md
