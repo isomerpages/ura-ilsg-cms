@@ -37,6 +37,124 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/Embrace.jpg">
+</div>
+<p><strong>Embrace</strong> 
+<br>Beamhacker (Australia)
+<br><strong>Location: </strong>Event Square
+<br><em>Presented by Defence Collective Singapore</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="/installations/urban-oracle/"><img style="width: 100%" height="auto" width="100%" alt="Urban Oracle" src="/images/2025 Installations Pic/Urban_Oracle.jpg"></a>
+<p><strong>Urban Oracle</strong> 
+<br>Ultravioletto (Italy)
+<br><strong>Location: </strong>Pontoon near Red Dot Design Museum
+<br><em>Presented by Alibaba Cloud</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/compressed_Fantastic_Planet___What_s_That.jpg">
+</div>
+<p><strong>Fantastic Planet: What's That</strong> 
+<br>Amanda Parer (Australia)
+<br><strong>Location: </strong>Mist Walk</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/Fantastic_Planet___Over.png">
+</div>
+<p><strong>Fantastic Planet: Over</strong> 
+<br>Amanda Parer (Australia)
+<br><strong>Location: </strong>Red Dot Design Museum</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/compressed_Fantastic_Planet___Comfort.png">
+</div>
+<p><strong>Fantastic Planet: Comfort</strong>
+<br>Amanda Parer (Australia)
+<br><strong>Location: </strong>Waterfront Promenade</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/VJYourself_.jpg">
+</div>
+<p><strong>VJYourself!</strong>
+<br>Playmodes Studio (Spain)
+<br><strong>Location: </strong>Entrance of Marina Bay Link Mall
+<br><em>Supported by Live Productions</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/In_Tandem.jpg">
+</div>
+<p><strong>In Tandem</strong>
+<br>Lee Si Heidi, Rae Koh, and Leela Rao (Singapore)
+<br>Odd Collective
+<br><strong>Location: </strong>Breeze Shelters
+<br><em>Supported by Live Productions</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/Sign.jpg">
+</div>
+<p><strong>Sign</strong>
+<br>Vendel &amp; de Wolf (The Netherlands)
+<br><strong>Location: </strong>The Promontory</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p><a class="isomer-image-wrapper" href="/installations/take-a-walk-through-the-meadow-with-me/"><img style="width: 100%" height="auto" width="100%" alt="Take a walk through the meadow with me" src="/images/2025 Installations Pic/Take_a_walk_through_the_meadown_with_me_compressed.jpg"></a>
 <p><strong>Take a walk through the meadow with me</strong> 
 <br>Megan Tan and Tan Shao Xuan (Singapore)
@@ -65,12 +183,7 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/installations/urban-oracle/"><img style="width: 100%" height="auto" width="100%" alt="Urban Oracle" src="/images/2025 Installations Pic/Urban_Oracle.jpg"></a>
-<p><strong>Urban Oracle</strong> 
-<br>Ultravioletto (Italy)
-<br><strong>Location: </strong>Pontoon near Red Dot Design Museum
-<br><em>Presented by Alibaba Cloud</em>
-</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
