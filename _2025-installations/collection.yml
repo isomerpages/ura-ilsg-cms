@@ -2,10 +2,10 @@ collections:
   2025-installations:
     output: true
     order:
-      - Embrace.md
       - Overview.md
       - Mozart.md
       - Piano Walk.md
+      - Embrace.md
       - Take a walk through the meadow with me.md
       - Elementary.md
       - Urban Oracle.md
