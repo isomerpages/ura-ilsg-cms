@@ -2,6 +2,7 @@ collections:
   2025-installations:
     output: true
     order:
+      - Sign.md
       - Overview.md
       - Mozart.md
       - Piano Walk.md
