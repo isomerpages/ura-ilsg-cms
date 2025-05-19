@@ -2,8 +2,8 @@ collections:
   2025-installations:
     output: true
     order:
-      - Mozart.md
       - Overview.md
+      - Mozart.md
       - Piano Walk.md
       - Take a walk through the meadow with me.md
       - Elementary.md
