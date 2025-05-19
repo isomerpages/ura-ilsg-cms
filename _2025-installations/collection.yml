@@ -2,7 +2,6 @@ collections:
   2025-installations:
     output: true
     order:
-      - In Tandem.md
       - Overview.md
       - Mozart.md
       - Piano Walk.md
@@ -12,6 +11,7 @@ collections:
       - "Fantastic Planet: Over.md"
       - "Fantastic Planet: Comfort.md"
       - VJYourself!.md
+      - In Tandem.md
       - Take a walk through the meadow with me.md
       - Elementary.md
       - Reverse Waterfall.md
