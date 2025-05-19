@@ -2,12 +2,12 @@ collections:
   2025-installations:
     output: true
     order:
-      - Fantastic Planet.md
       - Overview.md
       - Mozart.md
       - Piano Walk.md
       - Embrace.md
       - Urban Oracle.md
+      - Fantastic Planet.md
       - Take a walk through the meadow with me.md
       - Elementary.md
       - Reverse Waterfall.md
