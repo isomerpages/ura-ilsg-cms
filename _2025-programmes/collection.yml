@@ -2,9 +2,9 @@ collections:
   2025-programmes:
     output: true
     order:
-      - Alibaba Activation.md
       - Overview.md
       - GastroBeats.md
       - Campfyre @ Nomads.md
       - Silent Disco Parade.md
+      - Alibaba Activation.md
       - Design your own meadow memory.md
