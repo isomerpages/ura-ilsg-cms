@@ -2,6 +2,7 @@ collections:
   2025-programmes:
     output: true
     order:
+      - Alibaba Activation.md
       - Overview.md
       - GastroBeats.md
       - Campfyre @ Nomads.md
