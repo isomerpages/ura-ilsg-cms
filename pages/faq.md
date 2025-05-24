@@ -53,4 +53,32 @@ For more information on collaboration opportunities, please reach out to us at�
 <br><br> 
 <b>Q8. Do you have a general hotline?</b><br>
 For general enquiries, please email  <a href="mailto:info@ilight.sg">info@ilight.sg</a>.
+<br><br>
+<b>Social Contest Challenge</b><br>
+🌟 WIN a pair of round-trip flight tickets from Singapore to the USA with <a href="https://www.instagram.com/starluxairlinesus">@starluxairlinesus</a> (worth S$10,950)! ✈️ We’re giving one lucky winner the ultimate post-festival getaway! 🎉
+
+Here’s how to enter:
+
+1\. Post a video/reel on Instagram of your favourite moments at i Light Singapore 2025 — make sure it features all four festival locations:&nbsp;
+- Marina Bay&nbsp;
+- South Beach&nbsp;
+- Raffles Place&nbsp;
+- Singapore River (UOB Plaza or Cavenagh Bridge)
+	
+2\. In your caption, tell us why you enjoyed the festival.&nbsp;
+
+3\. Follow and tag <a href="https://www.instagram.com/ilightsingapore">@ilightsingapore </a>
+and <a href="https://www.instagram.com/starluxairlinesus">@starluxairlinesus</a> in your post, and tag 3 friends you’ll want to recommend the festival to!
+	
+4\. Include the hashtags #iLightSingapore2025 &amp; #iLightSingapore2025contest in your caption.
+	
+🗓 Giveaway contest ends 21 June 2025, (2359 SGT)&nbsp;
+
+🏆 Winner will be announced in a pinned comment and contacted via DM after the festival!&nbsp;
+
+✨ Don’t miss your chance to turn festival vibes into the trip of a lifetime — get posting, get tagging, and good luck! 🤞&nbsp;
+	
+🔗 T&amp;Cs apply. For more info, visit (weblink)
+
 <br><br></p>
+
