@@ -2,8 +2,8 @@ collections:
   2025-programmes:
     output: true
     order:
-      - i Light River Cruise Shuttle Service.md
       - Overview.md
       - GastroBeats.md
       - Campfyre @ Nomads.md
+      - i Light River Cruise Shuttle Service.md
       - Design your own meadow memory.md
