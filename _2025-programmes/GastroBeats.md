@@ -41,7 +41,12 @@ rally festivalgoers to take collective action against marine pollution
 and encourage environmental sustainability. Using energy-efficient lights,
 the installations embody i Light Singapore's curatorial theme "To Gather"
 whilst serving as both a visual spectacle and an educational platform.</p>
+<hr>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Programmes/GB___RRR.png">
+</div>
 <p></p>
 <p>Step into a musical time machine with "Rewind, Replay, Remix: SG Edition"
 — an immersive journey through Singapore's rich musical heritage!&nbsp;&nbsp;</p>
@@ -76,8 +81,14 @@ buds and keep you dancing through the night!&nbsp;</p>
 </li>
 <li>
 <p>For "Rewind, Replay, Remix: SG Edition"&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Ticket Price: From $19.90, includes a complimentary first drink&nbsp;</p>
+</li>
+<li>
 <p>Tickets Available via: <a href="https://sg.trip.com/travel-guide/attraction/singapore/rewind-replay-remix-singapore-edition-151241947/?curr=SGD&amp;amp;locale=en-SG&amp;amp;allianceid=6426582&amp;amp;sid=206501954&amp;amp;isscan=T&amp;amp;islogin=T" rel="noopener noreferrer nofollow" target="_blank"><u>Trip.Com</u></a>&nbsp;</p>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>
