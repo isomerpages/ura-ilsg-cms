@@ -2,7 +2,7 @@ collections:
   2025-programmes:
     output: true
     order:
-      - CAMPFYRE @ NOMADS.md
       - Overview.md
       - GastroBeats.md
+      - CAMPFYRE @ NOMADS.md
       - Design your own meadow memory.md
