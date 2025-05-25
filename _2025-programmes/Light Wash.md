@@ -22,7 +22,6 @@ the town red!&nbsp;</p>
 <p></p>
 <p></p>
 <p>A huge thank you to the following stakeholders who have joined URA for
-Light Wash this year:&nbsp;</p>
-<p></p>
-<p></p>
-<p></p>
+Light Wash this year:&nbsp;
+<br>&lt;table style="width:75%; font-size:17px;line-height:40px;border:1px
+solid black; border-collapse:separate; padding:10px"&gt;</p>
