@@ -2,7 +2,6 @@ collections:
   2025-programmes:
     output: true
     order:
-      - Light Wash.md
       - Overview.md
       - GastroBeats.md
       - Campfyre @ Nomads.md
@@ -10,4 +9,5 @@ collections:
       - Alibaba Activation.md
       - i Light River Cruise Shuttle Service.md
       - Glow PAddle 2025.md
+      - Light Wash.md
       - Design your own meadow memory.md
