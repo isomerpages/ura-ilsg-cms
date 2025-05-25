@@ -2,7 +2,6 @@ collections:
   2025-programmes:
     output: true
     order:
-      - Sunset Silent Yoga.md
       - Overview.md
       - GastroBeats.md
       - Campfyre @ Nomads.md
@@ -11,4 +10,5 @@ collections:
       - i Light River Cruise Shuttle Service.md
       - Glow PAddle 2025.md
       - Light Wash.md
+      - Sunset Silent Yoga.md
       - Design your own meadow memory.md
