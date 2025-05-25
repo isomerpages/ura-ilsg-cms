@@ -20,6 +20,8 @@ to more optimal temperatures throughout the festival duration.</p>
 <p>Participating organisations are also encouraged to continue with these
 energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 <p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
