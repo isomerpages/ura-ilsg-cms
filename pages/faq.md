@@ -59,18 +59,18 @@ For general enquiries, please email  <a href="mailto:info@ilight.sg">info@ilig
 
 Here’s how to enter:<br><br>
 
-1\. Post a video/reel on Instagram of your favourite moments at i Light Singapore 2025 — make sure it features all four festival locations:&nbsp;
+1. Post a video/reel on Instagram of your favourite moments at i Light Singapore 2025 — make sure it features all four festival locations:&nbsp;
 - Marina Bay&nbsp;
 - South Beach&nbsp;
 - Raffles Place&nbsp;
 - Singapore River (UOB Plaza or Cavenagh Bridge)<br><br>
 	
-2\. In your caption, tell us why you enjoyed the festival.&nbsp;<br><br>
+2. In your caption, tell us why you enjoyed the festival.&nbsp;<br><br>
 
-3\. Follow and tag <a href="https://www.instagram.com/ilightsingapore">@ilightsingapore </a>
+3. Follow and tag <a href="https://www.instagram.com/ilightsingapore">@ilightsingapore </a>
 and <a href="https://www.instagram.com/starluxairlinesus">@starluxairlinesus</a> in your post, and tag 3 friends you’ll want to recommend the festival to!<br><br>
 	
-4\. Include the hashtags #iLightSingapore2025 &amp; #iLightSingapore2025contest in your caption.<br><br>
+4. Include the hashtags #iLightSingapore2025 &amp; #iLightSingapore2025contest in your caption.<br><br>
 	
 🗓 Giveaway contest ends 21 June 2025, (2359 SGT)&nbsp;<br><br>
 
