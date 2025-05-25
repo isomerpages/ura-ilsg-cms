@@ -2,11 +2,11 @@ collections:
   2025-programmes:
     output: true
     order:
-      - Glow PAddle 2025.md
       - Overview.md
       - GastroBeats.md
       - Campfyre @ Nomads.md
       - Silent Disco Parade.md
       - Alibaba Activation.md
       - i Light River Cruise Shuttle Service.md
+      - Glow PAddle 2025.md
       - Design your own meadow memory.md
