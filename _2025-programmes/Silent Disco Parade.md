@@ -50,7 +50,6 @@ never before.&nbsp;</p>
 <br>20 June 2025&nbsp;
 <br>
 <br><strong>Time</strong>&nbsp;
-<br>7.30pm to 9.30pm (registration starts from 6.45pm)
-<br>&nbsp;</p>
+<br>7.30pm to 9.30pm (registration starts from 6.45pm)</p>
 <p><strong>Pricing</strong>&nbsp;
 <br>$35</p>
