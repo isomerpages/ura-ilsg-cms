@@ -34,7 +34,7 @@ and mindfulness, set in one of Singapore’s most stunning open-air locations.&n
 <br>21 June 2025&nbsp;
 <br>
 <br><strong>Time</strong>&nbsp;
-<br>7pm to 8.30pm (registration starts from 6.15pm)&nbsp;
+<br>7:00pm to 8:30pm (registration starts from 6:15pm)&nbsp;
 <br>
 <br><strong>Pricing</strong>&nbsp;
 <br>$42 per pax or 2 x Yoga Movement Credits</p>
