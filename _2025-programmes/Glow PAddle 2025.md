@@ -31,7 +31,7 @@ stories as you get up close and personal with Singapore's iconic landmarks. &n
 <br>8 and 15 June 2025&nbsp;
 <br>
 <br><strong>Time</strong>&nbsp;
-<br>5pm to 10pm
+<br>5:00pm to 10:00pm
 <br>
 </p>
 <p><strong>Pricing</strong>&nbsp;
