@@ -71,7 +71,7 @@ taste buds and keep you dancing through the night!&nbsp;</p>
 <br>29 May - 22 June 2025&nbsp;
 <br>
 <br><strong>Time</strong>&nbsp;
-<br>4.00pm - 11.00pm daily&nbsp;
+<br>4:00pm - 11:00pm daily&nbsp;
 <br>
 </p>
 <p><strong>Pricing</strong>&nbsp;</p>
