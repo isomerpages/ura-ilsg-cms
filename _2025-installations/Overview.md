@@ -8,10 +8,7 @@ image: /images/i light singapore (festival map) .jpg
 <h4>Follow us <a href="https://www.instagram.com/ilightsingapore/?hl=en" rel="noopener nofollow" target="_blank">@ilightsingapore</a> for the latest details on our programmes &amp; installations!</h4>
 <p></p>
 <h3><strong>Marina Bay</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/compressed_Mozart.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/installations/mozart/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/compressed_Mozart.jpg"></a>
 <p><strong>Mozart</strong> 
 <br>StudioGEAR (China) &nbsp;
 <br><strong>Location:</strong> Steps at the Helix Bridge
@@ -37,10 +34,7 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/Embrace.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/installations/embrace/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/Embrace.jpg"></a>
 <p><strong>Embrace</strong> 
 <br>Beamhacker (Australia)
 <br><strong>Location: </strong>Event Square
@@ -66,10 +60,7 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/compressed_Fantastic_Planet___What_s_That.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/installations/fantastic-planet-whats-that/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/compressed_Fantastic_Planet___What_s_That.jpg"></a>
 <p><strong>Fantastic Planet: What's That</strong> 
 <br>Amanda Parer (Australia)
 <br><strong>Location: </strong>Mist Walk</p>
@@ -80,10 +71,7 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/Fantastic_Planet___Over.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/installations/fantastic-planet-over/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/Fantastic_Planet___Over.png"></a>
 <p><strong>Fantastic Planet: Over</strong> 
 <br>Amanda Parer (Australia)
 <br><strong>Location: </strong>Red Dot Design Museum</p>
@@ -94,10 +82,7 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/compressed_Fantastic_Planet___Comfort.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/installations/fantastic-planet-comfort/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/compressed_Fantastic_Planet___Comfort.png"></a>
 <p><strong>Fantastic Planet: Comfort</strong>
 <br>Amanda Parer (Australia)
 <br><strong>Location: </strong>Waterfront Promenade</p>
@@ -108,10 +93,7 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/VJYourself_.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/installations/vjyourself/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/VJYourself_.jpg"></a>
 <p><strong>VJYourself!</strong>
 <br>Playmodes Studio (Spain)
 <br><strong>Location: </strong>Entrance of Marina Bay Link Mall
@@ -124,27 +106,17 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/In_Tandem.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/installations/in-tandem/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/In_Tandem.jpg"></a>
 <p><strong>In Tandem</strong>
-<br>Lee Si Heidi, Rae Koh, and Leela Rao (Singapore)
-<br>Odd Collective
-<br><strong>Location: </strong>Breeze Shelters
-<br><em>Supported by Live Productions</em>
-</p>
+<br>Lee Si Heidi, Rae Koh and Leela Rao (Singapore)
+<br><strong>Location: </strong>Breeze Shelters</p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/Sign.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/installations/sign/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/Sign.jpg"></a>
 <p><strong>Sign</strong>
 <br>Vendel &amp; de Wolf (The Netherlands)
 <br><strong>Location: </strong>The Promontory</p>
