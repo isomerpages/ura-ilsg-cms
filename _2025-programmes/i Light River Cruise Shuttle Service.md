@@ -38,7 +38,7 @@ heart of the bay!&nbsp;</p>
 <br>29 May to 1 June, 6 to 8 June, 13 Jun, 15 Jun and 20 June 2025&nbsp;&nbsp;
 <br>
 <br><strong>Time</strong>&nbsp;
-<br>7.30pm to 10.30pm&nbsp;
+<br>7:30pm to 10:30pm&nbsp;
 <br>
 </p>
 <p><strong>Pricing</strong>&nbsp;
