@@ -20,14 +20,20 @@ to more optimal temperatures throughout the festival duration.</p>
 <p>Participating organisations are also encouraged to continue with these
 energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 <p></p>
-<p></p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <h4><strong>Organisation</strong></h4>
@@ -282,7 +288,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Malls</u></strong>
+<p><strong>Malls</strong>
 </p>
 </td>
 </tr>
@@ -357,7 +363,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="40" colspan="1">
+<td rowspan="53" colspan="1">
 <p><strong>JTC Corporation</strong>
 </p>
 </td>
@@ -382,7 +388,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Block 69 Ayer Rajah Crescent</p>
+<p>Block 69 Common Area</p>
 </td>
 </tr>
 <tr>
@@ -402,7 +408,37 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Block 79 Ayer Rajah Crescent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Block 81 Ayer Rajah Crescent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chemicals Hub</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CleanTech One</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CleanTech Two A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CleanTech Two B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CleanTech Three</p>
 </td>
 </tr>
 <tr>
@@ -413,6 +449,11 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Eastlink</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Foodhub @ Senoko</p>
 </td>
 </tr>
 <tr>
@@ -452,6 +493,11 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Jurong Logistics Hub</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Kaki Bukit AutoHub</p>
 </td>
 </tr>
@@ -467,17 +513,27 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Launchpad @ JID</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MedTech Hub&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Oasis @ Sakra</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Punggol Digital District</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Pixel</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senoko Food Hub</p>
 </td>
 </tr>
 <tr>
@@ -502,6 +558,26 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Space @ Gul</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Space @ Tuas</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Space @ Tuas Biomedical Park</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Surface Engineering Hub</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Tampines Industrial Park A</p>
 </td>
 </tr>
@@ -517,12 +593,17 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Trendspace&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Woodlands North Coast</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 Changi Business Park Central 1</p>
+<p>YS-One</p>
 </td>
 </tr>
 <tr>
@@ -551,19 +632,10 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>79 Ayer Rajah Crescent&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>81 Ayer Rajah Crescent&nbsp;</p>
-</td>
-</tr>
-<tr>
 <td rowspan="4" colspan="1">
-<p><strong>Discover Tanjong Pagar (DTP)</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Pilot
-Business Improvement District)</p>
+<p><strong>Discover Tanjong Pagar (DTP)</strong>
+</p>
+<p>(Pilot Business Improvement District)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OUE Downtown - Downtown Gallery</p>
@@ -606,7 +678,7 @@ Business Improvement District)</p>
 </tr>
 <tr>
 <td rowspan="5" colspan="1">
-<p><strong>Raffles Place Alliance</strong>
+<p><strong>Raffles Place Alliance&nbsp;</strong>
 </p>
 <p>(Pilot Business Improvement District)</p>
 </td>
@@ -652,6 +724,15 @@ Business Improvement District)</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Live Productions</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Live Productions</p>
+</td>
+</tr>
+<tr>
 <td rowspan="6" colspan="1">
 <p><strong>National Parks Board</strong>
 </p>
@@ -686,12 +767,71 @@ Business Improvement District)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>People's Association</strong>
-</p>
+<td rowspan="13" colspan="1">
+<p>&nbsp;<strong>People's Association</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>South West Community Development</p>
+<p>Bedok Community Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chong Pang Community Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eunos Community Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fengshan Community Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>North West Community Development Council</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nee Soon East Constitiuency Office</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nee Soon South Community Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Siglap South Community Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>South West Community Development Council</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>One Punggol Hub</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Tampines Hub</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Toa Payoh East Community Club</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>West Coast Community Centre</p>
 </td>
 </tr>
 <tr>
@@ -765,11 +905,34 @@ Business Improvement District)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Central Singapore Community Development Council</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toa Payoh HDB Hub, #07-12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>City Developments Limited</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>City House</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>DSV</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DSV Pearl</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RedLion 2</p>
 </td>
 </tr>
 <tr>
@@ -949,6 +1112,15 @@ Business Improvement District)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>STARLUX Airlines Singapore&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bugis Junction Towers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Sunray Woodcraft Construction Pte Ltd</strong>
 </p>
 </td>
@@ -987,16 +1159,21 @@ Business Improvement District)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Velocity @ Novena Square</p>
+<p>Velocity @ Novena Square&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Water B Pte Ltd</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ticketing Booth along Marina Bay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ticketing Booth along Singpore River</p>
 </td>
 </tr>
 </tbody>
