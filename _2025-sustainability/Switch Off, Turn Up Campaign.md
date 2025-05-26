@@ -28,14 +28,6 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <h4><strong>Organisation</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,7 +35,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="63" colspan="1">
+<td rowspan="64" colspan="1">
 <p><strong>Capitaland Limited</strong>
 </p>
 </td>
@@ -284,6 +276,11 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>622 Toa Payoh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -633,9 +630,8 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p><strong>Discover Tanjong Pagar (DTP)</strong>
-</p>
-<p>(Pilot Business Improvement District)</p>
+<p><strong>Discover Tanjong Pagar (DTP)</strong>(Pilot Business Improvement
+District)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OUE Downtown - Downtown Gallery</p>
@@ -658,9 +654,8 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore River One (SRO)</strong>
-</p>
-<p>(Pilot Business Improvement District)</p>
+<p><strong>Singapore River One (SRO)</strong>(Pilot Business Improvement
+District)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore River One Limited</p>
@@ -678,7 +673,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="5" colspan="1">
-<p><strong>Raffles Place Alliance&nbsp;</strong>
+<p><strong>Raffles Place Alliance</strong>
 </p>
 <p>(Pilot Business Improvement District)</p>
 </td>
@@ -708,7 +703,8 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Council For Estate Agencies</strong>&nbsp;</p>
+<p><strong>Council For Estate Agencies&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Council for Estate Agencies</p>
@@ -768,7 +764,8 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="13" colspan="1">
-<p>&nbsp;<strong>People's Association</strong>&nbsp;</p>
+<p><strong>People's Association</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bedok Community Club</p>
@@ -781,7 +778,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Eunos Community Club</p>
+<p>Eunos Cultural Centre</p>
 </td>
 </tr>
 <tr>
@@ -1021,7 +1018,9 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Nanyang Technological University, Singapore (NTU Singapore)</strong>
+<p><strong>Nanyang Technological University, Singapore </strong>
+</p>
+<p><strong>(NTU Singapore)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1159,7 +1158,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Velocity @ Novena Square&nbsp;</p>
+<p>Velocity @ Novena Square</p>
 </td>
 </tr>
 <tr>
@@ -1173,7 +1172,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ticketing Booth along Singpore River</p>
+<p>Ticketing Booth along Singapore River</p>
 </td>
 </tr>
 </tbody>
