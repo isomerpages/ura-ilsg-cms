@@ -6,6 +6,9 @@ description: ""
 ---
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Programmes/Lightwash_Red.jpg">
+</div>
 <p><strong>Light Wash: Painting the town red</strong>&nbsp;</p>
 <p></p>
 <p>In line with the festival’s colour theme for this edition of i Light Singapore,
