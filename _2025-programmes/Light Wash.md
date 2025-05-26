@@ -43,6 +43,11 @@ Light Wash this year:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>The Fullerton Hotel Singapore&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Marina Bay Sands</p>
 </td>
 </tr>
@@ -86,9 +91,19 @@ Light Wash this year:&nbsp;</p>
 <p>Suntec City</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Clemenceau Bridge, Coleman Bridge, Elgin Bridge, Helix Bridge (Land Transport
+Authority)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
