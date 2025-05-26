@@ -15,32 +15,32 @@ description: ""
 <p>Embark on a culinary adventure, where irresistible flavours from around
 the world await — from delectable street food to gourmet delights, there
 is something to satisfy every craving!&nbsp;</p>
-<p>GastroBeats is a celebration of diversity and community spirit. Explore
-vibrant retail zones offering unique products and treasured finds from
-local creators and small businesses. Do not forget to bring your furry
+<p><em>GastroBeats</em> is a celebration of diversity and community spirit.
+Explore vibrant retail zones offering unique products and treasured finds
+from local creators and small businesses. Do not forget to bring your furry
 companions along to the pet-friendly zones. There is fun in store for everyone!&nbsp;</p>
-<p>Feel the pulse of GastroBeats with daily live music performances that
-keep the energy pumped up all night long!&nbsp;</p>
+<p>Feel the pulse of <em>GastroBeats</em> with daily live music performances
+that keep the energy pumped up all night long!&nbsp;</p>
 <p>Do not miss this year's exciting talent showcases:
 <br>
 </p>
 <p>· <strong>GIG-ers</strong>: Discover emerging music stars as they take
 the stage, mentored by the beloved local band 53A, who serves as the Chief
-Music Officers (CMOs) of GastroBeats.&nbsp;</p>
+Music Officers (CMOs) of <em>GastroBeats</em>.&nbsp;</p>
 <p>· <strong>GB-LETs</strong>: Watch aspiring food content creators as they
 showcase their culinary skills under the guidance of Aiken Chia and Nina
-Tan, the Chief Content Officers (CCOs) of GastroBeats.&nbsp;</p>
+Tan, the Chief Content Officers (CCOs) of <em>GastroBeats</em>.&nbsp;</p>
 <p>· <strong>GastroBuds</strong>: Watch passionate home cooks turn their
 culinary dreams into thriving food ventures, guided and mentored by The
-Meatmen Group, the Chief Foodie Officers (CFOs) of GastroBeats.</p>
+Meatmen Group, the Chief Foodie Officers (CFOs) of <em>GastroBeats</em>.</p>
 <p></p>
-<p>This year, GastroBeats brings you "Let's Trouble The Water!" — an activation
-that transforms the Festival Village into a vibrant space for change. Jelilo
-characters — Captain Skull, One Eye, and Scarface — take centre stage and
-rally festivalgoers to take collective action against marine pollution
-and encourage environmental sustainability. Using energy-efficient lights,
-the installations embody i Light Singapore's curatorial theme "To Gather"
-whilst serving as both a visual spectacle and an educational platform.</p>
+<p>This year, <em>GastroBeats</em> brings you "Let's Trouble The Water!" —
+an activation that transforms the Festival Village into a vibrant space
+for change. Jelilo characters — Captain Skull, One Eye, and Scarface —
+take centre stage and rally festivalgoers to take collective action against
+marine pollution and encourage environmental sustainability. Using energy-efficient
+lights, the installations embody i Light Singapore's curatorial theme "To
+Gather" whilst serving as both a visual spectacle and an educational platform.</p>
 <hr>
 <p></p>
 <p></p>
@@ -59,9 +59,9 @@ connects families through the universal language of music.&nbsp;</p>
 green with rechargeable batteries, solar-powered facilities, and absolutely
 no plastic straws! Bring your reusable cups and containers and be part
 of our crew of eco-warriors!&nbsp;</p>
-<p>It is the ultimate fusion of food, music and fun at GastroBeats! From
-bites to beats, do not miss this celebration that will tantalise your taste
-buds and keep you dancing through the night!&nbsp;</p>
+<p>It is the ultimate fusion of food, music and fun at <em>GastroBeats</em>!
+From bites to beats, do not miss this celebration that will tantalise your
+taste buds and keep you dancing through the night!&nbsp;</p>
 <p>Find out more information at: <a href="https://gastrobeats.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://gastrobeats.com.sg/</u></a>&nbsp;</p>
 <p></p>
 <p><strong>Location</strong>&nbsp;
