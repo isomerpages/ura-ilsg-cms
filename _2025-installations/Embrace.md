@@ -12,8 +12,7 @@ description: ""
 <p><strong>Embrace</strong>
 <br>Beamhacker (Australia)
 <br>Commissioned musical score by Peter McAvan
-<br><strong>Location:</strong> Event Square</p>
-<p><em>Presented by Defence Collective Singapore</em>&nbsp;
+<br><strong>Location:</strong> Event Square
 <br>
 <br>Inspired by children’s paper chains, <em>Embrace</em> features a circle
 of life-sized silhouettes that come alive through human touch. Stand among
@@ -72,7 +71,7 @@ of shared moments.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/SAF60_Logo_Full_Colour.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025 ilsg sponsor logos/SAF60_Logo_Full_Colour.png">
 </div>
 <p></p>
 </td>
