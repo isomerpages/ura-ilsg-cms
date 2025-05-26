@@ -26,7 +26,7 @@ description: ""
 <p></p>
 <p><strong>Light Wash</strong>
 </p>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="/programmes/light-wash/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Programmes/Lightwash_Red.jpg"></a>
 <p></p>
 <p><strong>Sunset Silent Yoga</strong>
 </p><a class="isomer-image-wrapper" href="/programmes/sunset-silent-yoga/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Programmes/Silent_Yoga_Artwork_v6___DATE.png"></a>
