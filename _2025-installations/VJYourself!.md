@@ -40,7 +40,32 @@ of immersive light installations, graphic works, sculptural devices, kinetic
 engines, scenography or even multimedia concerts that explore an abstract
 universe of visual music.</p>
 <p>&nbsp;</p>
-<p><strong>Supported by</strong> 
-</p>
-<hr>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Supported by</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Live Productions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
