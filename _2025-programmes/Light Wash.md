@@ -19,7 +19,7 @@ the town red!&nbsp;</p>
 <br>Key buildings and bridges across Marina Bay precinct&nbsp;
 <br>
 <br><strong>Time</strong>&nbsp;
-<br>7.30pm to 11pm daily (with extended hours to 12am on Fridays and Saturdays)&nbsp;</p>
+<br>7:30pm to 11:00pm daily (with extended hours to 12am on Fridays and Saturdays)&nbsp;</p>
 <p></p>
 <p></p>
 <p></p>
