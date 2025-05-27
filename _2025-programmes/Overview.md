@@ -15,8 +15,8 @@ description: ""
 <p><strong>Silent Disco Parade</strong>
 </p><a class="isomer-image-wrapper" href="/programmes/silent-disco-parade/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Programmes/Silent_Disco_Parade_Artwork_v7___DATE.png"></a>
 <p></p>
-<p><strong>Alibaba Activation</strong>
-</p><a class="isomer-image-wrapper" href="/programmes/alibaba-activation/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Programmes/Alibaba_Cloud_Activation__1_.jpg"></a>
+<p><strong>Alibaba Cloud City</strong>
+</p><a class="isomer-image-wrapper" href="/programmes/alibaba-cloud-city//"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Programmes/Alibaba_Cloud_Activation__1_.jpg"></a>
 <p></p>
 <p><strong>i Light River Cruise Shuttle Service</strong>
 </p><a class="isomer-image-wrapper" href="/programmes/i-light-river-cruise-shuttle-service/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Programmes/i_Light_Shuttle_River_Cruise.png"></a>

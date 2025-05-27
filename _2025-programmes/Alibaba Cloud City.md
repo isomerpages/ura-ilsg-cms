@@ -1,6 +1,6 @@
 ---
-title: Alibaba Activation
-permalink: /programmes/alibaba-activation/
+title: Alibaba Cloud City
+permalink: /programmes/alibaba-cloud-city/
 variant: tiptap
 description: ""
 ---
