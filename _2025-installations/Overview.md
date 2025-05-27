@@ -8,6 +8,18 @@ image: /images/i light singapore (festival map) .jpg
 <h4>Follow us <a href="https://www.instagram.com/ilightsingapore/?hl=en" rel="noopener nofollow" target="_blank">@ilightsingapore</a> for the latest details on our programmes &amp; installations!</h4>
 <p></p>
 <h3><strong>Marina Bay</strong></h3>
+<p></p><a class="isomer-image-wrapper" href="/installations/mozart/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/compressed_Mozart.jpg"></a>
+<p><strong>Mozart</strong> 
+<br>StudioGEAR (China) &nbsp;
+<br><strong>Location:</strong> Steps at the Helix Bridge
+<br>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p><a class="isomer-image-wrapper" href="/installations/piano-walk/"><img style="width: 100%" height="auto" width="100%" alt="Piano Walk" src="/images/2025 Installations Pic/Piano_Walk_compressed.png"></a>
 <p><strong>Piano Walk</strong> 
 <br>Amigo &amp; Amigo (Australia)
@@ -15,6 +27,99 @@ image: /images/i light singapore (festival map) .jpg
 <br><strong>Location:</strong> Marina Bay Sands Event Plaza
 <br><em>Presented by Marina Bay Sands</em>
 </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="/installations/embrace/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/Embrace.jpg"></a>
+<p><strong>Embrace</strong> 
+<br>Beamhacker (Australia)
+<br><strong>Location: </strong>Event Square
+<br><em>Presented by Defence Collective Singapore</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="/installations/urban-oracle/"><img style="width: 100%" height="auto" width="100%" alt="Urban Oracle" src="/images/2025 Installations Pic/Urban_Oracle.jpg"></a>
+<p><strong>Urban Oracle</strong> 
+<br>Ultravioletto (Italy)
+<br><strong>Location: </strong>Pontoon near Red Dot Design Museum
+<br><em>Presented by Alibaba Cloud</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="/installations/fantastic-planet-whats-that/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/compressed_Fantastic_Planet___What_s_That.jpg"></a>
+<p><strong>Fantastic Planet: What's That</strong> 
+<br>Amanda Parer (Australia)
+<br><strong>Location: </strong>Mist Walk</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="/installations/fantastic-planet-over/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/Fantastic_Planet___Over.png"></a>
+<p><strong>Fantastic Planet: Over</strong> 
+<br>Amanda Parer (Australia)
+<br><strong>Location: </strong>Red Dot Design Museum</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="/installations/fantastic-planet-comfort/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/compressed_Fantastic_Planet___Comfort.png"></a>
+<p><strong>Fantastic Planet: Comfort</strong>
+<br>Amanda Parer (Australia)
+<br><strong>Location: </strong>Waterfront Promenade</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="/installations/vjyourself/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/VJYourself_.jpg"></a>
+<p><strong>VJYourself!</strong>
+<br>Playmodes Studio (Spain)
+<br><strong>Location: </strong>Entrance of Marina Bay Link Mall
+<br><em>Supported by Live Productions</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="/installations/in-tandem/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/In_Tandem.jpg"></a>
+<p><strong>In Tandem</strong>
+<br>Lee Si Heidi, Rae Koh and Leela Rao (Singapore)
+<br><strong>Location: </strong>Breeze Shelters</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="/installations/sign/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/Sign.jpg"></a>
+<p><strong>Sign</strong>
+<br>Vendel &amp; de Wolf (The Netherlands)
+<br><strong>Location: </strong>The Promontory</p>
 <p></p>
 <p></p>
 <p></p>
@@ -50,12 +155,7 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/installations/urban-oracle/"><img style="width: 100%" height="auto" width="100%" alt="Urban Oracle" src="/images/2025 Installations Pic/Urban_Oracle.jpg"></a>
-<p><strong>Urban Oracle</strong> 
-<br>Ultravioletto (Italy)
-<br><strong>Location: </strong>Pontoon near Red Dot Design Museum
-<br><em>Presented by Alibaba Cloud</em>
-</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -65,11 +165,12 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p>
 <h3><strong>Singapore River</strong></h3>
-<p></p><a class="isomer-image-wrapper" href="/installations/reverse-waterfall/"><img style="width: 100%" height="auto" width="100%" alt="Reverse Waterfall" src="/images/2025 Installations Pic/Reverse_Waterfall_Converted.jpg"></a>
-<p><strong>Reverse Waterfall</strong> 
-<br>UxU Studio (Taiwan)
-<br><strong>Location: </strong>UOB Plaza Façade
-<br><em>Presented by UOB</em>
+<p></p><a class="isomer-image-wrapper" href="/installations/bridge-of-1000-dreams/"><img style="width: 100%" height="auto" width="100%" alt="Bridge of 1000 Dreams" src="/images/2025 Installations Pic/Bridge_of_1000_Dreams.jpg"></a>
+<p><strong>Bridge of 1,000 Dreams</strong> 
+<br>Studio Toer (The Netherlands)
+<br><strong>Location: </strong>Cavenagh Bridge
+<br><em>Presented by UOB and DesignSingapore Council</em>
+<br><em>Supported by Live Productions</em>
 </p>
 <p></p>
 <p></p>
@@ -78,12 +179,12 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/installations/bridge-of-1000-dreams/"><img style="width: 100%" height="auto" width="100%" alt="Bridge of 1000 Dreams" src="/images/2025 Installations Pic/Bridge_of_1000_Dreams.jpg"></a>
-<p><strong>Bridge of 1,000 Dreams</strong> 
-<br>Studio Toer (The Netherlands)
-<br><strong>Location: </strong>Cavenagh Bridge
-<br><em>Presented by UOB and DesignSingapore Council</em>
-<br><em>Supported by Live Productions</em>
+<p></p><a class="isomer-image-wrapper" href="/installations/reverse-waterfall/"><img style="width: 100%" height="auto" width="100%" alt="Reverse Waterfall" src="/images/2025 Installations Pic/Reverse_Waterfall_Converted.jpg"></a>
+<p><strong>Reverse Waterfall</strong> 
+<br>UxU Studio (Taiwan)
+<br><strong>Location: </strong>UOB Plaza Façade
+<br><em>Presented by UOB</em>
+<br><em>Supported by STARLUX Airlines</em>
 </p>
 <p></p>
 <p></p>

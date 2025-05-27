@@ -1,0 +1,5 @@
+collections:
+  2025-sustainability:
+    output: true
+    order:
+      - Switch Off, Turn Up Campaign.md

@@ -3,12 +3,20 @@ collections:
     output: true
     order:
       - Overview.md
+      - Mozart.md
       - Piano Walk.md
+      - Embrace.md
+      - Urban Oracle.md
+      - "Fantastic Planet: What's That.md"
+      - "Fantastic Planet: Over.md"
+      - "Fantastic Planet: Comfort.md"
+      - VJYourself!.md
+      - In Tandem.md
+      - Sign.md
       - Take a walk through the meadow with me.md
       - Elementary.md
-      - Urban Oracle.md
-      - Reverse Waterfall.md
       - Bridge of 1,000 Dreams.md
+      - Reverse Waterfall.md
       - The Guardians.md
       - Saulux.md
       - This is Not a Screen.md
