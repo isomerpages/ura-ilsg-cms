@@ -46,7 +46,8 @@ stories as you get up close and personal with Singapore's iconic landmarks. &n
 </ul>
 <ul>
 <li>
-<p>15 June 2025 <a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgo.gov.sg%2Fglowpaddle1&amp;amp;data=05%7C02%7Cmichelle.ng%40pico.com%7C274ef08898fa4439ffbe08dd92939bd0%7Cab6f0e1c73be44c3b7fa2e8dde81aae7%7C0%7C0%7C638827884899504597%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;amp;sdata=zLyaHqLMLvtvElkd2YcZCej8pF7XqgEq%2F3odfsJdXZg%3D&amp;amp;reserved=0" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/glowpaddle2</u></a>&nbsp;</p>
+<p>15 June 2025: <a href="https://go.gov.sg/glowpaddle2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/glowpaddle2</a>
+</p>
 </li>
 </ul>
 <p></p>
