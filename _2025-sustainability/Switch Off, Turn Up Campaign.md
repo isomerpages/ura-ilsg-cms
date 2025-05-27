@@ -654,8 +654,9 @@ District)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore River One (SRO)</strong>(Pilot Business Improvement
-District)</p>
+<p><strong>Singapore River One (SRO)</strong>
+</p>
+<p>(Pilot Business Improvement District)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore River One Limited</p>
@@ -1018,7 +1019,7 @@ District)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Nanyang Technological University, Singapore </strong>
+<p><strong>Nanyang Technological University, Singapore</strong>
 </p>
 <p><strong>(NTU Singapore)</strong>
 </p>
@@ -1173,6 +1174,11 @@ District)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ticketing Booth along Singapore River</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>*concurrently acknowledged under parent group of participating properties/organisations</p>
 </td>
 </tr>
 </tbody>
