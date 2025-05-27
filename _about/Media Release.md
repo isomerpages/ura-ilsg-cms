@@ -25,12 +25,13 @@ description: ""
 </tr>
 <tr>
 <th rowspan="1" colspan="3">
-<p></p>
+<p>29 May 2025</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p></p>
+<p><a href="/files/Media_Release_2__Gather__play_and_bask_in_i_Light_Singapore_come_29_May_2025.pdf" rel="noopener nofollow" target="_blank">Gather, play and bask in i Light Singapore come 29 May 2025</a>
+</p>
 </td>
 </tr>
 </tbody>
