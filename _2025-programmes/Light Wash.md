@@ -45,7 +45,7 @@ year:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Fullerton Hotel Singapore&nbsp;</p>
+<p>Gardens by the Bay</p>
 </td>
 </tr>
 <tr>
@@ -95,8 +95,13 @@ year:&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>&nbsp;The Fullerton Hotel Singapore&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Clemenceau Bridge, Coleman Bridge, Elgin Bridge, Helix Bridge (Land Transport
-Authority)</p>
+Authority)&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +111,6 @@ Authority)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
