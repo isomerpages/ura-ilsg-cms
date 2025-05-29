@@ -10,7 +10,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/This_Is_Not_A_Screen_compressed.jpg">
 </div>
 <p><strong>This is Not a Screen</strong>
-<br>National University of Singapore (Singapore)
+<br>Thundray, Thinzar, Moe Hiet, Hnin Ei and Kaung Htet (Singapore)
 <br><strong>Location:</strong> South Beach Avenue, Level B1 &nbsp;
 <br>
 <br>Screens permeate modern existence, from small screens in pockets and medium
