@@ -7,7 +7,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 2   installation pic/compressed_Fantastic_Planet___What_s_That.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 3/FP___Whats_That.jpg">
 </div>
 <p><strong>Fantastic Planet: What's That</strong>
 <br>Amanda Parer (Australia)
