@@ -7,10 +7,6 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 3/Mozart.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 3/Mozart__1__min.jpg">
 </div>
 <p><strong>Mozart</strong>
