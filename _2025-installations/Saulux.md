@@ -7,7 +7,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Saulux_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 3/Saulux.jpg">
 </div>
 <p><strong>Saulux</strong>
 <br>SPLACES.STUDIO (Malta) &nbsp;
