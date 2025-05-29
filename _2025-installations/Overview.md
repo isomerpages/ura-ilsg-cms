@@ -8,7 +8,7 @@ image: /images/i light singapore (festival map) .jpg
 <h4>Follow us <a href="https://www.instagram.com/ilightsingapore/?hl=en" rel="noopener nofollow" target="_blank">@ilightsingapore</a> for the latest details on our programmes &amp; installations!</h4>
 <p></p>
 <h3><strong>Marina Bay</strong></h3>
-<p></p><a class="isomer-image-wrapper" href="/installations/mozart/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 3/Mozart.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/installations/mozart/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 3/Mozart__1__min.jpg"></a>
 <p><strong>Mozart</strong> 
 <br>StudioGEAR (China) &nbsp;
 <br><strong>Location:</strong> Steps at the Helix Bridge
