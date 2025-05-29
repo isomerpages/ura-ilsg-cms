@@ -196,7 +196,7 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p>
 <h3><strong>Raffles Place</strong></h3>
-<p></p><a class="isomer-image-wrapper" href="/installations/the-guardians/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/The_Guardians_replace___tbc.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/installations/the-guardians/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 3/The_Guardians__1_.jpg"></a>
 <p><strong>The Guardians</strong> 
 <br>Matthew Aberline &amp; The Beautiful and Useful Studio (Australia)
 <br><strong>Location:</strong> Raffles Place Park
