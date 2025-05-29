@@ -7,7 +7,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Take_a_walk_through_the_meadown_with_me_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 3/Take_a_walk_through_the_meadow_with_me.jpg">
 </div>
 <p><strong>Take a walk through the meadow with me</strong>
 <br>Megan Tan and Tan Shao Xuan (Singapore) &nbsp;
