@@ -7,7 +7,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/This_Is_Not_A_Screen_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 3/This_is_Not_a_Screen.jpg">
 </div>
 <p><strong>This is Not a Screen</strong>
 <br>Thundray, Thinzar, Moe Hiet, Hnin Ei and Kaung Htet (Singapore)
