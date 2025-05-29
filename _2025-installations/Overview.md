@@ -37,6 +37,7 @@ image: /images/i light singapore (festival map) .jpg
 <p></p><a class="isomer-image-wrapper" href="/installations/embrace/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 3/Embrace.jpg"></a>
 <p><strong>Embrace</strong> 
 <br>Beamhacker (Australia)
+<br>Musical score by Peter McAvan (PTMC)
 <br><strong>Location: </strong>Event Square
 <br><em>Presented by Defence Collective Singapore</em>
 </p>
