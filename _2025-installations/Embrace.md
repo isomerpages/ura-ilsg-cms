@@ -11,7 +11,7 @@ description: ""
 </div>
 <p><strong>Embrace</strong>
 <br>Beamhacker (Australia)
-<br>Commissioned musical score by Peter McAvan
+<br>Musical score by Peter McAvan (PTMC)
 <br><strong>Location:</strong> Event Square
 <br>
 <br>Inspired by children’s paper chains, <em>Embrace</em> features a circle
@@ -23,16 +23,16 @@ into a symphony of light and sound.</p>
 of gliding scissors through folded paper, which then unfolds to uncover
 a series of joined hands. <em>Embrace</em> brings to mind this forgotten
 joy through a moment of shared magic.</p>
-<p>Created exclusively for i Light Singapore 2025, the silhouettes display
-camouflaged patterns, representing the four services of the Singapore Armed
-Forces. Everyone – both military and civilian – is invited to join their
+<p>The silhouettes display camouflaged patterns, representing the four services
+of the Singapore Armed Forces, created exclusively for i Light Singapore
+2025. Everyone – both military and civilian – is invited to join their
 hands to complete the circle. This image of the protector and protected
 standing hand-in-hand expresses how our military’s strength is amplified
 through the unwavering support of our people. <em>Embrace</em> is set against
 the backdrop of Marina Bay, encouraging reflection and participation in
 a place of national pride.</p>
 <p></p>
-<p>This artwork features music composed by PTMC (Peter McAvan).</p>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
