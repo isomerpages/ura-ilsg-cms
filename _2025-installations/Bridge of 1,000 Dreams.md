@@ -7,7 +7,7 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Bridge_of_1000_Dreams.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 3/Bridge_of_1_000_Dreams.jpg">
 </div>
 <p><strong>Bridge of 1,000 Dreams</strong>
 <br>Studio Toer (The Netherlands)
