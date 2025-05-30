@@ -24,7 +24,7 @@ sections:
       id: infopic
       button: Explore the artworks
       url: /installations/
-      image: /images/2025 Installations Pic/Part 3/Bridge_of_1_000_Dreams.jpg
+      image: /images/2025 Installations Pic/Part 3/Sign.jpg
       alt: Image alt text
   - infopic:
       title: Sponsors & Partners
