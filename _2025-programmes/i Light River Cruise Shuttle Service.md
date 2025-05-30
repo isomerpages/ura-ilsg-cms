@@ -43,4 +43,11 @@ heart of the bay!&nbsp;</p>
 </p>
 <p><strong>Pricing</strong>&nbsp;
 <br>$6/$12/$18</p>
+<p>Tickets can be purchased at any of the three jetties. The ticketing booths
+will be manned during the Shuttle Service operating hours.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/i_Light_River_Cruise_Shuttle.jpg">
+</div>
 <p></p>
