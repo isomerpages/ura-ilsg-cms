@@ -11,8 +11,8 @@ image: /images/i light singapore (festival map) .jpg
 <p></p><a class="isomer-image-wrapper" href="/installations/mozart/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 3/Mozart__1__min.jpg"></a>
 <p><strong>Mozart</strong> 
 <br>StudioGEAR (China) &nbsp;
-<br>In collaboration with Glow Shenzhen from Shenzhen, China
 <br><strong>Location:</strong> Steps at the Helix Bridge
+<br><em>In collaboration with Glow Shenzhen from Shenzhen, China</em>
 <br>
 </p>
 <p></p>
