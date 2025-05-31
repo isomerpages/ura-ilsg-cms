@@ -26,7 +26,8 @@ we are invited to compose something new collectively.</p>
 progress. <em>Mozart </em>reminds us that, when things fall apart unexpectedly,
 we can step up, take action and work towards new beginnings.</p>
 <p>The soundscape reinterprets Mozart's compositions and is created specifically
-for this installation..</p>
+for this installation.</p>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
