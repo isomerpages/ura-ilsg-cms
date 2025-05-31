@@ -43,3 +43,26 @@ between creativity and urban culture.</p>
 <p>By working across disciplines, StudioGEAR opens new possibilities for
 artistic expression, creating innovative and immersive experiences.</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>In Collaboration with</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Glow Shenzhen from Shenzhen, China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
