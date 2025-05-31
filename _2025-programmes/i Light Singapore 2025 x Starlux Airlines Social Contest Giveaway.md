@@ -9,6 +9,8 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Programmes/iLSG25_Social_Contest_KV.jpg">
 </div>
 <p></p>
+<p><strong>i Light Singapore 2025 x STARLUX Airlines Social Contest Giveaway</strong>
+</p>
 <p></p>
 <p>🌟 WIN a pair of round-trip flight tickets from Singapore to the USA with
 @starluxairlines (worth S$10,950)! ✈️ We’re giving one lucky winner the
