@@ -26,7 +26,8 @@ we are invited to compose something new collectively.</p>
 progress. <em>Mozart </em>reminds us that, when things fall apart unexpectedly,
 we can step up, take action and work towards new beginnings.</p>
 <p>The soundscape reinterprets Mozart's compositions and is created specifically
-for this installation..</p>
+for this installation.</p>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -41,4 +42,27 @@ methods challenge standard technical approaches, establishing a dialogue
 between creativity and urban culture.</p>
 <p>By working across disciplines, StudioGEAR opens new possibilities for
 artistic expression, creating innovative and immersive experiences.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>In collaboration with</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Glow Shenzhen from Shenzhen, China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
