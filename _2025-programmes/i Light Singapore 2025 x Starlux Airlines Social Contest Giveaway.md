@@ -5,6 +5,11 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Programmes/iLSG25_Social_Contest_KV.jpg">
+</div>
+<p></p>
+<p></p>
 <p>🌟 WIN a pair of round-trip flight tickets from Singapore to the USA with
 @starluxairlines (worth S$10,950)! ✈️ We’re giving one lucky winner the
 ultimate post-festival getaway! 🎉&nbsp;
