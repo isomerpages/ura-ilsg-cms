@@ -34,7 +34,8 @@ the festival!&nbsp;</p>
 <br>✨ Don’t miss your chance to turn festival vibes into the trip of a lifetime
 — get posting, get tagging, and good luck! 🤞&nbsp;</p>
 <p>
-<br>🔗 T&amp;Cs apply</p>
+<br>🔗 T&amp;Cs apply <a href="/files/i_Light_Singapore_2025___Social_Contest_T_Cs.pdf" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
