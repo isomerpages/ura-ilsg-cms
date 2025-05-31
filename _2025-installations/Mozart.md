@@ -51,7 +51,7 @@ artistic expression, creating innovative and immersive experiences.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>In  collaboration with</strong>
+<p><strong>In collaboration with</strong>
 </p>
 </th>
 </tr>
