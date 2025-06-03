@@ -31,8 +31,8 @@ us shape meaningful experiences and solutions for a more sustainable future.&nbs
 </p>
 <p></p>
 <p><strong>Location</strong>&nbsp;
-<br>Lawn beside NTUC Building
-<br>
+<br>OUE Bayfront</p>
+<p>
 <br><strong>Dates</strong>&nbsp;
 <br>31 May 2025 and 7 June 2025
 <br>
