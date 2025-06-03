@@ -9,7 +9,7 @@ description: ""
 <p><strong>GastroBeats</strong>
 </p><a class="isomer-image-wrapper" href="/programmes/gastrobeats/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Programmes/GB2025_IG_and_IGS_V3_Website_1920x1080.png"></a>
 <p></p>
-<p><strong>Campfyre @ Nomads</strong>
+<p><strong>Campfyre @ NOMADS</strong>
 </p><a class="isomer-image-wrapper" href="/programmes/campfyre-nomads/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Programmes/Campfyre_16x9_KV.jpg"></a>
 <p></p>
 <p><strong>Silent Disco Parade</strong>
