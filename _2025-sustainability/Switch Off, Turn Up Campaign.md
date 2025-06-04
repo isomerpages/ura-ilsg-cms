@@ -35,10 +35,15 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="64" colspan="1">
+<td rowspan="66" colspan="1">
 <p><strong>Capitaland Limited</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Acer</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Aperia&nbsp;</p>
 </td>
@@ -65,12 +70,12 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CapitaSky*</p>
+<p>CapitaSky</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CapitaSpring</p>
+<p>CapitaSpring*</p>
 </td>
 </tr>
 <tr>
@@ -240,6 +245,11 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>5 Science Park Drive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>7 Science Park Drive&nbsp;</p>
 </td>
 </tr>
@@ -280,7 +290,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -360,8 +370,8 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="53" colspan="1">
-<p><strong>JTC Corporation</strong>
+<td rowspan="52" colspan="1">
+<p><strong>JTC</strong>  <strong>Corporation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -395,22 +405,12 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Block 75 Ayer Rajah Crescent</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Block 77 Ayer Rajah Crescent</p>
+<p>Block 75, 77, 81 Ayer Rajah Crescent</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Block 79 Ayer Rajah Crescent</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Block 81 Ayer Rajah Crescent</p>
 </td>
 </tr>
 <tr>
@@ -445,7 +445,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Eastlink</p>
+<p>EASTLink</p>
 </td>
 </tr>
 <tr>
@@ -460,7 +460,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gouret East Kitchen&nbsp;</p>
+<p>Gourmet East Kitchen&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -481,6 +481,11 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>JTC Space @ Tampines North</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JTC Summit</p>
 </td>
 </tr>
 <tr>
@@ -580,11 +585,6 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The JTC Summit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>TimMac @ Kranji</p>
 </td>
 </tr>
@@ -605,12 +605,17 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 Changi Business Park Central 1</p>
+<p>7 Changi Business Park&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15 Changi Business Parl Central 1&nbsp;</p>
+<p>9 Changi Business Park</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Changi Business Park</p>
 </td>
 </tr>
 <tr>
@@ -632,6 +637,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 <td rowspan="4" colspan="1">
 <p><strong>Discover Tanjong Pagar (DTP)</strong>
 </p>
+<p></p>
 <p>(Pilot Business Improvement District)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -657,6 +663,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong>Singapore River One (SRO)</strong>
 </p>
+<p></p>
 <p>(Pilot Business Improvement District)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -664,19 +671,61 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="9" colspan="1">
 <p><strong>Marina Central</strong>
 </p>
+<p></p>
 <p>(Pilot Business Improvement District)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Marina Square*</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Pan Pacific Hotel&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="1" colspan="1">
+<p>South Beach Consortium Pte Ltd*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Suntec City*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Suntec City Tower 1*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Suntec City Tower 2*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Suntec City Tower 3*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Suntec City Tower 4*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Suntec City Tower 5*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="8" colspan="1">
 <p><strong>Raffles Place Alliance</strong>
 </p>
+<p></p>
 <p>(Pilot Business Improvement District)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -685,7 +734,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CapitaSpring</p>
+<p>CapitaSpring*</p>
 </td>
 </tr>
 <tr>
@@ -695,7 +744,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ocean Financial Centre</p>
+<p>Ocean Financial Centre*</p>
 </td>
 </tr>
 <tr>
@@ -705,12 +754,17 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>One Raffles Place</p>
+<p>Singapore Land Tower*</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Six Battery Road*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>One Raffles Place</p>
 </td>
 </tr>
 <tr>
@@ -776,7 +830,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="13" colspan="1">
-<p>&nbsp;<strong>People's Association&nbsp;</strong>
+<p><strong>People's Association</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -927,7 +981,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>City House</p>
+<p>City House*</p>
 </td>
 </tr>
 <tr>
@@ -950,32 +1004,32 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Suntec City</p>
+<p>Suntec City*</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Suntec City Tower 1</p>
+<p>Suntec City Tower 1*</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Suntec City Tower 2</p>
+<p>Suntec City Tower 2*</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Suntec City Tower 3</p>
+<p>Suntec City Tower 3*</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Suntec City Tower 4</p>
+<p>Suntec City Tower 4*</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Suntec City Tower 5</p>
+<p>Suntec City Tower 5*</p>
 </td>
 </tr>
 <tr>
@@ -1016,7 +1070,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ocean Financial Centre</p>
+<p>Ocean Financial Centre*</p>
 </td>
 </tr>
 <tr>
@@ -1098,7 +1152,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Marina Square&nbsp;</p>
+<p>Marina Square*</p>
 </td>
 </tr>
 <tr>
@@ -1107,7 +1161,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Land Tower</p>
+<p>Singapore Land Tower*</p>
 </td>
 </tr>
 <tr>
@@ -1116,7 +1170,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>South Beach Consortium Pte Ltd</p>
+<p>South Beach Consortium Pte Ltd*</p>
 </td>
 </tr>
 <tr>
@@ -1168,7 +1222,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Veloctiy @ Novena Square</p>
+<p>Velocity @ Novena Square</p>
 </td>
 </tr>
 <tr>
@@ -1182,7 +1236,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ticketing Booth along Singpore River</p>
+<p>Ticketing Booth along Singapore River</p>
 </td>
 </tr>
 <tr>
