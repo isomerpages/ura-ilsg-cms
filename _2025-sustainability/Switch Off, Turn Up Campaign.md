@@ -371,7 +371,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="52" colspan="1">
-<p><strong>JTC</strong>  <strong>Corporation</strong>
+<p><strong>JTC Corporation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1226,17 +1226,12 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Water B Pte Ltd</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ticketing Booth along Marina Bay</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ticketing Booth along Singapore River</p>
 </td>
 </tr>
 <tr>
