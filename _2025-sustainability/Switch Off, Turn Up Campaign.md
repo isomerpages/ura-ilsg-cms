@@ -36,7 +36,8 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="66" colspan="1">
-<p>Capitaland Limited</p>
+<p><strong>Capitaland Limited</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Acer</p>
@@ -289,12 +290,12 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Malls</strong>
+<p><strong><u>Malls</u></strong>
 </p>
 </td>
 </tr>
@@ -370,7 +371,8 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="52" colspan="1">
-<p>JTC Corporation</p>
+<p><strong>JTC Corporation</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AMK AutoPoint</p>
@@ -603,12 +605,12 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 Changi Business Park&nbsp;</p>
+<p>7 Changi Business Park&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 Changi Business Park</p>
+<p>9 Changi Business Park</p>
 </td>
 </tr>
 <tr>
@@ -633,7 +635,9 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p><strong>Discover Tanjong Pagar</strong> (DTP)</p>
+<p><strong>Discover Tanjong Pagar (DTP)</strong>
+</p>
+<p></p>
 <p>(Pilot Business Improvement District)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -659,6 +663,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong>Singapore River One (SRO)</strong>
 </p>
+<p></p>
 <p>(Pilot Business Improvement District)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -669,6 +674,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 <td rowspan="9" colspan="1">
 <p><strong>Marina Central</strong>
 </p>
+<p></p>
 <p>(Pilot Business Improvement District)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -716,9 +722,10 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="8" colspan="1">
 <p><strong>Raffles Place Alliance</strong>
 </p>
+<p></p>
 <p>(Pilot Business Improvement District)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -732,7 +739,17 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>City House*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ocean Financial Centre*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Republic Plaza</p>
 </td>
 </tr>
 <tr>
@@ -813,7 +830,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="13" colspan="1">
-<p>&nbsp;<strong>People's Association&nbsp;</strong>
+<p><strong>People's Association</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -964,7 +981,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>City House</p>
+<p>City House*</p>
 </td>
 </tr>
 <tr>
@@ -1209,17 +1226,12 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Water B Pte Ltd</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ticketing Booth along Marina Bay</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ticketing Booth along Singpore River</p>
 </td>
 </tr>
 <tr>

@@ -1,5 +1,5 @@
 ---
-title: Campfyre @ Nomads
+title: Campfyre @ NOMADS
 permalink: /programmes/campfyre-nomads/
 variant: tiptap
 description: ""
