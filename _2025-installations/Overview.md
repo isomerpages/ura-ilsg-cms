@@ -21,8 +21,9 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/installations/piano-walk/"><img style="width: 100%" height="auto" width="100%" alt="Piano Walk" src="/images/2025 Installations Pic/Piano_Walk_compressed.png"></a>
-<p><strong>Piano Walk</strong>  <strong><em>(Coming Soon)</em></strong>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="/installations/piano-walk/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 3/Piano_Walk_final.jpg"></a>
+<p><strong>Piano Walk</strong> 
 <br>Amigo &amp; Amigo (Australia)
 <br>Commissioned musical score by Otis Studio &nbsp;
 <br><strong>Location:</strong> Marina Bay Sands Event Plaza
