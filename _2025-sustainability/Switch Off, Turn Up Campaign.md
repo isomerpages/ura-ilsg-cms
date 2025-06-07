@@ -749,7 +749,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Republic Plaza</p>
+<p>Republic Plaza*</p>
 </td>
 </tr>
 <tr>
