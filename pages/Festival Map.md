@@ -9,5 +9,5 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<h4>Click <a href="/files/Past/i_Light_Singapore_Festival_Map__1_.pdf" rel="noopener nofollow" target="_blank">here</a> to download i Light Singapore's Festival Map</h4>
+<h4>Click <a href="/files/i_Light_Singapore_2025_Festival_Map.pdf" rel="noopener nofollow" target="_blank">here</a> to download i Light Singapore's Festival Map</h4>
 <p></p>
