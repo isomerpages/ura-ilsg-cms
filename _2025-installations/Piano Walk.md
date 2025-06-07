@@ -6,10 +6,11 @@ description: Discover Piano Walk by Amigo and Amigo (Australia) - i Light Singap
 ---
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Piano walk" src="/images/2025 Installations Pic/Piano_Walk_compressed.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 3/Piano_Walk_final.jpg">
 </div>
-<p><strong>Piano Walk <em>(Coming Soon)</em></strong>
+<p><strong>Piano Walk </strong>
 <br>Amigo &amp; Amigo (Australia)
 <br>Commissioned musical score by Otis Studio
 <br><strong>Location:</strong> Marina Bay Sands Event Plaza &nbsp;
