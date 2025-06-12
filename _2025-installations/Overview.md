@@ -22,7 +22,7 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="/installations/piano-walk/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 3/05062025_iLight_Colossal_Upload_044__WEBSITE__final.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/installations/piano-walk/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 3/05062025_iLight_Colossal_Upload_044__WEBSITE__final__1_.jpg"></a>
 <p><strong>Piano Walk</strong> 
 <br>Amigo &amp; Amigo (Australia)
 <br>Commissioned musical score by Otis Studio &nbsp;
