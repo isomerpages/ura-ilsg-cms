@@ -829,7 +829,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="13" colspan="1">
+<td rowspan="14" colspan="1">
 <p><strong>People's Association</strong>
 </p>
 </td>
@@ -860,6 +860,11 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Nee Soon East Constitiuency Office</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nee Soon Central Community Club</p>
 </td>
 </tr>
 <tr>
