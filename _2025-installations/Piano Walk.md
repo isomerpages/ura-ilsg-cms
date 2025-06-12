@@ -9,7 +9,7 @@ description: Discover Piano Walk by Amigo and Amigo (Australia) - i Light Singap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 3/05062025_iLight_Colossal_Upload_044__WEBSITE__final.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 3/05062025_iLight_Colossal_Upload_044__WEBSITE__final__1_.jpg">
 </div>
 <p><strong>Piano Walk </strong>
 <br>Amigo &amp; Amigo (Australia)
