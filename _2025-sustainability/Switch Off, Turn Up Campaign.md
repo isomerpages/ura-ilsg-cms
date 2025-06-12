@@ -859,7 +859,7 @@ energy-saving practices beyond the festival duration.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nee Soon East Constitiuency Office</p>
+<p>Nee Soon East Constituency Office</p>
 </td>
 </tr>
 <tr>
