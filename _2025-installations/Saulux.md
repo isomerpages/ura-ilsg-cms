@@ -13,19 +13,22 @@ description: ""
 <br>SPLACES.STUDIO (Malta) &nbsp;
 <br><strong>Location:</strong> Fountain Plaza, South Beach Avenue Level 1 <em>&nbsp; </em>
 <br>
-<br><em>Saulux </em>reveals the invisible currents that surround us daily.
+<br><em>Saulux&nbsp;</em>reveals the invisible currents that surround us daily.
 As wind moves through this dense field of willow twigs, the stems respond
 with light — a warm glow at 2200K, the corresponding colour temperature
-of warm, natural sunlight. The name itself tells this story: <em>saule </em>(willow)
-meets <em>lux </em>(light).</p>
-<p>At the centre of this artificial grove sits a weatherproof case housing
-a microcomputer. Sensors detect the movement of each twig in the breeze,
-and a neural network processes these signals into patterns of light and
-sound. Like the natural world itself, no two moments produce identical
-configurations.</p>
-<p><em>Saulux </em>both represents nature and responds to it, highlighting
+of warm, natural sunlight. The name itself tells this story:&nbsp;<em>saule&nbsp;</em>(willow)
+meets&nbsp;<em>lux&nbsp;</em>(light).</p>
+<p>At the heart of this artificial grove lies a subtle, generative musical
+instrument. Sensors embedded in each stem detect the slightest movement
+— whether from wind or human touch — and a custom algorithm transforms
+these impulses into evolving musical compositions, with light gently tracing
+each sound.</p>
+<p>Every visitor creates a unique arrangement, shaped by chance and interaction.
+Like the natural world itself, no two moments are ever the same.</p>
+<p><em>Saulux&nbsp;</em>both represents nature and responds to it, highlighting
 the magic found in the everyday. It is an invitation for all to pause and
 connect with nature in a profoundly new and beautiful way.&nbsp;</p>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
