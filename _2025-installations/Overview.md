@@ -228,7 +228,7 @@ image: /images/i light singapore (festival map) .jpg
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="/installations/this-is-not-a-screen/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Installations Pic/Part 3/This_is_Not_a_Screen.jpg"></a>
 <p><strong>This is Not a Screen</strong> 
-<br>Thinzar, Moe Htet, Hnin Ei and Kaung Htet (Singapore)
+<br>Thundray, Thinzar, Moe Htet, Hnin Ei and Kaung Htet (Singapore)
 <br><strong>Location: </strong>South Beach Avenue, Level B1
 <br><em>Presented by Aedas</em>
 </p>
