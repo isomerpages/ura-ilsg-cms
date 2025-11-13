@@ -19,7 +19,7 @@ sections:
       id: infopic
       button: FIND OUT MORE
       url: /2026-open-call/
-      image: /images/2026 Open Call/iLSG26_Open_Call_Banner.jpg
+      image: /images/2026 Open Call/iLSG26_Open_Call.png
       alt: Image alt text
   - infopic:
       title: 2025 Installations
