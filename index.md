@@ -35,5 +35,11 @@ sections:
       url: /about/festival-acknowledgements/
       image: /images/2025 ilsg sponsor logos/sponsor logos.jpg
       alt: Festival Acknowledgements
+  - infopic:
+      title: 2026 Open Call for Asian Artists
+      id: infopic
+      button: 2026 Open Call
+      url: /2026-open-call/
+      image: /images/2026 Open Call/iLSG26_Open_Call_Banner.jpg
 image: /images/2025 KV/202501__the theme_1920px_x_1080x__v2_compressed.jpg
 ---
