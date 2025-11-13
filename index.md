@@ -22,6 +22,13 @@ sections:
           description: "Fri & Sat: 7:30 PM – 12.00AM"
           url: ""
   - infopic:
+      title: 2026 Open Call for Asian Artists
+      id: infopic
+      button: 2026 Open Call
+      url: /2026-open-call/
+      image: /images/2026 Open Call/iLSG26_Open_Call_Banner.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Installations
       id: infopic
       button: Explore the artworks
@@ -35,12 +42,5 @@ sections:
       url: /about/festival-acknowledgements/
       image: /images/2025 ilsg sponsor logos/sponsor logos.jpg
       alt: Festival Acknowledgements
-  - infopic:
-      title: 2026 Open Call for Asian Artists
-      id: infopic
-      button: 2026 Open Call
-      url: /2026-open-call/
-      image: /images/2026 Open Call/iLSG26_Open_Call_Banner.jpg
-      alt: Image alt text
 image: /images/2025 KV/202501__the theme_1920px_x_1080x__v2_compressed.jpg
 ---
