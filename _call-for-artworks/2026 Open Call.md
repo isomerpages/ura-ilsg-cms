@@ -5,6 +5,10 @@ variant: tiptap
 description: 2026 Open Call
 ---
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Open Call/iLSG26_Open_Call_Banner.jpg">
+</div>
 <h2>i Light Singapore 2026 Open Call</h2>
 <p></p>
 <p>i Light Singapore 2026 invites artists and creatives across Asia to submit
