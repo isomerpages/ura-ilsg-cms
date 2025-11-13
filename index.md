@@ -22,7 +22,7 @@ sections:
           description: "Fri & Sat: 7:30 PM – 12.00AM"
           url: ""
   - infopic:
-      title: 2026 Open Call for Asian Artists
+      title: 2026 Open Call
       id: infopic
       button: 2026 Open Call
       url: /2026-open-call/
