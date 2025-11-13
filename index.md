@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: 2026 Open Call
       id: infopic
-      button: 2026 Open Call
+      button: FIND OUT MORE
       url: /2026-open-call/
       image: /images/2026 Open Call/iLSG26_Open_Call_Banner.jpg
       alt: Image alt text
