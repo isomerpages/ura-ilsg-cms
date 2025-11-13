@@ -14,13 +14,13 @@ sections:
       variant: center
       title: i Light Singapore
       subtitle: Asia’s Leading Light Festival
-      key_highlights:
-        - title: 29 May - 21 June 2025
-          description: ""
-          url: https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MXZwaDlnOW1kdWltMW9vdTBsdm9qaHFqMmYgaWxpZ2h0bWFyaW5hYmF5QG0&tmsrc=ilightmarinabay%40gmail.com
-        - title: "Sun to Thu: 7:30 PM – 11:00 PM"
-          description: "Fri & Sat: 7:30 PM – 12.00AM"
-          url: ""
+  - infopic:
+      title: 2026 Open Call
+      id: infopic
+      button: FIND OUT MORE
+      url: /2026-open-call/
+      image: /images/2026 Open Call/iLSG26_Open_Call.png
+      alt: Image alt text
   - infopic:
       title: 2025 Installations
       id: infopic
