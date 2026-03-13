@@ -1,4 +1,5 @@
 collections:
   2025-archive:
     output: true
-    order: []
+    order:
+      - The Theme.md
