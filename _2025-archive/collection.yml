@@ -2,5 +2,6 @@ collections:
   2025-archive:
     output: true
     order:
+      - Media Release.md
       - Festival Acknowledgements.md
       - The Theme.md
