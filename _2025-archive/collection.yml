@@ -2,4 +2,5 @@ collections:
   2025-archive:
     output: true
     order:
+      - Festival Acknowledgements.md
       - The Theme.md
