@@ -13,27 +13,6 @@ sections:
       button: Follow Us
       variant: center
       title: i Light Singapore
-      subtitle: Asia’s Leading Light Festival
-  - infopic:
-      title: 2026 Open Call
-      id: infopic
-      button: FIND OUT MORE
-      url: /2026-open-call/
-      image: /images/2026 Open Call/iLSG26_Open_Call.png
-      alt: Image alt text
-  - infopic:
-      title: 2025 Installations
-      id: infopic
-      button: Explore the artworks
-      url: /installations/
-      image: /images/2025 Installations Pic/Part 3/Sign.jpg
-      alt: Image alt text
-  - infopic:
-      title: Sponsors & Partners
-      id: infopic
-      button: Find out more
-      url: /about/festival-acknowledgements/
-      image: /images/2025 ilsg sponsor logos/sponsor logos.jpg
-      alt: Festival Acknowledgements
+      subtitle: Stay tuned for the 2026 edition
 image: /images/2025 KV/202501__the theme_1920px_x_1080x__v2_compressed.jpg
 ---
